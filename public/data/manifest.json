@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "lastUpdated": "2026-09-29",
   "topics": [
     {
@@ -32,6 +32,28 @@
       "questionCount": 104,
       "description": "Complete 104-question HCF & LCM chapter from Pinnacle SSC Mathematics with full answer key, solutions, exam & shift tags.",
       "sourcePdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+      "isSample": false,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "simplification",
+      "name": "Simplification",
+      "category": "Quantitative Aptitude",
+      "file": "topics/simplification.json",
+      "questionCount": 185,
+      "description": "Complete 185-question Simplification chapter from Pinnacle SSC Mathematics with answer key, solutions, exam & shift tags.",
+      "sourcePdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+      "isSample": false,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "trigonometry",
+      "name": "Trigonometry",
+      "category": "Quantitative Aptitude",
+      "file": "topics/trigonometry.json",
+      "questionCount": 557,
+      "description": "Comprehensive 557-question Trigonometry chapter from Pinnacle SSC Mathematics with full answer key, solutions, exam & shift tags.",
+      "sourcePdf": "Pinnacle_SSC_Maths_Trigonometry.pdf",
       "isSample": false,
       "lastUpdated": "2026-09-29"
     },

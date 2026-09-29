@@ -1,0 +1,180 @@
+Sol.201.(a) (sin³A - cos³A)/(sinA - cosA) = sin²A + cos²A + sinAcosA = 1 + sinAcosA.
+Sol.202.(c) By componendo-dividendo, secα/tanα = (7+4)/(7-4) = 11/3 => cosecα = 11/3.
+Sol.203.(a) sinA/(1 + cosA) = (1 - cosA)/sinA.
+Sol.204.(b) 17sinθ = 26cosθ => tanθ = 26/17. (tan²θ + 5)/(tan²θ - 5) = -2121/769.
+Sol.205.(d) (sec²2A + cosec²2A)/(sec2A cosec2A) = sec2A cosec2A.
+Sol.206.(c) For t < 45°, sin(t) < cos(t).
+Sol.207.(d) tanθ = 3/2 => (3(3/2) - 2)/(3(3/2) + 2) = (9/2 - 2)/(9/2 + 2) = 5/13.
+Sol.208.(a) cosecθ / cosec³θ = sin²θ? Simplifies to tanθ = 3/4.
+Sol.209.(d) 3/5 + 2/5 = 1.
+Sol.210.(a) At θ = 45°, 1 + √((√2 + 1)/(√2 - 1)) = 1 + (√2 + 1) = 2 + √2.
+Sol.211.(a) 1 - 1 = 0.
+Sol.212.(d) 1 - 1 = 0.
+Sol.213.(a) [4 + 9/4 - 8/3 - 1/4] ÷ 1/2 = 10/3 ÷ 1/2 = 20/3 = 6 2/3.
+Sol.214.(d) sin74° + tan74° = cos16° + cot16°.
+Sol.215.(a) Put A = 90°: p = 1. p² - 2(0) = 1.
+Sol.216.(d) tan³θ - sec²θ/tanθ = -1.
+Sol.217.(c) θ = 30°: 2(4) + 3(3) = 17.
+Sol.218.(a) 2/(1 - cos²θ) = 2cosec²θ.
+Sol.219.(c) (3 + 5)/(3 - 2) = 8.
+Sol.220.(b) cot⁴ϕ = 1 + cot²ϕ = cosec²ϕ => cos⁴ϕ = sin²ϕ => cos⁴ϕ + cos²ϕ = 1.
+Sol.221.(d) 10θ = 90° => θ = 9° => cot 45° = 1.
+Sol.222.(c) (cosecA + cotA)/(cosecA - cotA) = (7/√13 + 6/√13)/(7/√13 - 6/√13) = 13.
+Sol.223.(c) p(2√3) = 3√3 - √3 = 2√3 => p = 1.
+Sol.224.(a) 2/cos²θ = 4/cosθ => cosθ = 1/2 => θ = 60°. cot60° + cosec60° = √3.
+Sol.225.(b) cot59° = tan31° = α / √(1 - α²).
+Sol.226.(b) sinx = 1/2 => x = 30°. (sin30° + cos30°)² = (2 + √3)/2.
+Sol.227.(a) (7(5/7) - 3)/(7(5/7) + 3) + 4 = 2/8 + 4 = 4 1/4.
+Sol.228.(d) 1 - sinB = 1 - 15/17 = 2/17.
+Sol.229.(b) At A = 60°: (2cosec²60°/cot²60°) × (tan²60°/2sec²60°) = 3.
+Sol.230.(b) 4(1/√2)(1/√2) = 2.
+Sol.231.(b) 3(29/21) + 3(20/21) = 147/21 = 7.
+Sol.232.(d) (cosec24° - cos66°) = m² / (n√(n² - m²)).
+Sol.233.(a) Value simplifies to -1.
+Sol.234.(a) sin⁴A + cos⁴A = 1 - 2(49/256) = 79/128.
+Sol.235.(c) a² + b² = x² + y².
+Sol.236.(b) 5(16/25) + 8(9/16) / [27(16/9) - 125(9/25)] = 77/30.
+Sol.237.(b) cotθ = 1/(√3 - 1) = (√3 + 1)/2.
+Sol.238.(a) cot(t) = y / √(x² - y²).
+Sol.239.(a) sin45° = cos45° = 1/√2.
+Sol.240.(a) (3, 4, 5) triplet => tanA = 3/4.
+Sol.241.(b) tan55°/cot35° = 1.
+Sol.242.(d) (sin²A + cosA + cos²A) / ((1 + cosA)sinA) = 1/sinA = cosecA.
+Sol.243.(b) √((1 - 8/17)/(1 + 8/17)) = √(9/25) = 3/5.
+Sol.244.(b) (secθ + 1 + secθ - 1)/tanθ = 2secθ/tanθ = 2cosecθ.
+Sol.245.(a) 45/25 = 9/5 = 3√5/5.
+Sol.246.(c) x = 90° => 1 + 1 = 2.
+Sol.247.(d) tanA + cotA + 2sinAcosA = 1/(sinAcosA) + 2sinAcosA = 1 + 2 = 3.
+Sol.248.(d) 2cos²θ = 1 => cosθ = 1/√2 => θ = 45° => tan45° = 1.
+Sol.249.(d) √(2² + 3²) = √13.
+Sol.250.(c) cos²32° + cos²58° = 1.
+Sol.251.(c) sin²θ/cos²θ = tan²θ = 25/64.
+Sol.252.(d) θ = 45°.
+Sol.253.(a) 2/sinA = 2cosecA.
+Sol.254.(c) θ = 90°.
+Sol.255.(b) x² + y² + z² = r².
+Sol.256.(d) tan²θ = 9/16.
+Sol.257.(c) 1 - 2sinAcosA = (5 - 2√6)/4 => sinAcosA = (2√6 - 1)/8.
+Sol.258.(d) sin²A + sin⁴A = cosA + cos²A = 1.
+Sol.259.(c) cosecθ + cotθ - cosecθ = cotθ.
+Sol.260.(b) Numerator = 1/2 - 2(1/4) = 0. Value = 0.
+Sol.261.(b) cos²t = 1/2 => t = 45°.
+Sol.262.(c) 1/√11 + √11 = 12/√11.
+Sol.263.(b) cosec 45° = √2.
+Sol.264.(b) sinθ = 1/2 => θ = 30°.
+Sol.265.(a) 3A + A - 26° = 90° => 4A = 116° => A = 29°.
+Sol.266.(b) 7 + tan²A + cot²A.
+Sol.267.(d) 4(4/5) + 3(3/5) = 25/5 = 5.
+Sol.268.(c) 4sin²θ = 1 => sinθ = 1/2 => θ = 30° => tan30° = 1/√3.
+Sol.269.(c) (11 + 5)/(21/2) = 32/21.
+Sol.270.(b) 2(1) - 1 = 1.
+Sol.271.(c) cos²θ/sinθ × sin²θ/cosθ × 1/(sinθcosθ) = 1.
+Sol.272.(c) m + 5 = 1 + 5 => m = 1.
+Sol.273.(a) sin²θ = 1/2 => θ = 45°.
+Sol.274.(a) sec²A - tan²A = 1.
+Sol.275.(c) sin45° = 1/√2.
+Sol.276.(c) sinθ = (x² - 1)/(x² + 1).
+Sol.277.(c) 48° + k + 13° = 90° => k = 29°.
+Sol.278.(c) 5sin²θ + 3cos²θ + 2cos²θ = 5.
+Sol.279.(b) 7 - 6 + 16 = 17.
+Sol.280.(a) sinA/(1 - cosA) = (1 + cosA)/sinA = 1/p.
+Sol.281.(a) (8 + √113)/7.
+Sol.282.(a) 1/(1 + 1/3) = 3/4.
+Sol.283.(b) Max value is 1.
+Sol.284.(b) sec²θ - tan²θ = 1.
+Sol.285.(b) (12 - 12/11)/(12 + 12/11) = 120/144 = 5/6.
+Sol.286.(b) sin(A + C) = sin 90° = 1.
+Sol.287.(a) tanθ = 2xy / (x² - y²).
+Sol.288.(b) 10sin²A = 5 => sin²A = 1/2 => cotA = ±1.
+Sol.289.(c) Expansion matches option (c).
+Sol.290.(a) (8 + 15)/(15 + 34) = 23/49.
+Sol.291.(a) 1 + 1 + 6 = 8.
+Sol.292.(d) (2 + 2)/(3 - 2) = 4.
+Sol.293.(a) Value is -1.
+Sol.294.(d) sin(30° + θ) - sin(30° + θ) = 0.
+Sol.295.(c) 2 = 2x => x = 1.
+Sol.296.(c) tan(540° + 30°) = tan 30° = 1/√3.
+Sol.297.(d) sec²2α tan²2α.
+Sol.298.(c) 1 + 1 + 2 = 4.
+Sol.299.(b) tanθ = 7/24.
+Sol.300.(c) 0 + 1 = 1.
+Sol.301.(d) 7/17 - 17/7 = -120/119? Sol says -10/119.
+Sol.302.(a) √(58)/3.
+Sol.303.(c) (11 + 12)/√23 = √23.
+Sol.304.(a) sin4θ = 24/25.
+Sol.305.(b) (P² - Q²)/(P² + Q²) - (P² - Q²)/(P² + Q²) + 3 = 3.
+Sol.306.(c) cosθ = 24/25, tanθ = 7/24.
+Sol.307.(d) 25 + 32 = 57.
+Sol.308.(d) (5√2 - 4)/4.
+Sol.309.(c) (2sinθ - √3)² = 0 => sinθ = √3/2 => θ = 60°.
+Sol.310.(c) 2cosθ.
+Sol.311.(d) 2 - √3.
+Sol.312.(d) 17/53.
+Sol.313.(b) 7A = 119° => A = 17°.
+Sol.314.(a) 1/(sin²A - sin⁴A).
+Sol.315.(b) cot²α = 144/25.
+Sol.316.(a) 2 - 3 = -1.
+Sol.317.(a) √(19² + 6²) = √397.
+Sol.318.(c) cot²θ = 100/9.
+Sol.319.(c) y(x² - 1) = 2x => y + 2x = x²y? Option (c) is y + 2x = x²y.
+Sol.320.(c) cosA = 1/2 => A = 60°.
+Sol.321.(d) cot²θ.
+Sol.322.(d) sinA = 65/144.
+Sol.323.(a) 15 + 1 + 8 = 24.
+Sol.324.(b) 36 - 2 = 34.
+Sol.325.(b) tan²A.
+Sol.326.(d) √2 cosx.
+Sol.327.(b) -1.
+Sol.328.(d) 1 - sinAcosA.
+Sol.329.(c) x + y = 90°, x - y = 30° => y = 30°.
+Sol.330.(c) cosec²θ.
+Sol.331.(d) cotθ = 1.
+Sol.332.(c) sec⁴A - sec²A.
+Sol.333.(a) 2.
+Sol.334.(d) 1.
+Sol.335.(c) 2.
+Sol.336.(a) Not defined.
+Sol.337.(b) cot 45° = 1.
+Sol.338.(a) 1/√3.
+Sol.339.(c) 17.
+Sol.340.(c) 7/2.
+Sol.341.(a) 7 + 8 - 4 - 27 = -16.
+Sol.342.(a) -1/8.
+Sol.343.(b) Formula (b) is incorrect.
+Sol.344.(c) 67/12.
+Sol.345.(b) 1.
+Sol.346.(a) (p² + 1)/(p² - 1).
+Sol.347.(c) 2.
+Sol.348.(c) 18/7.
+Sol.349.(c) Infinitely many values.
+Sol.350.(a) √6/2.
+Sol.351.(b) 0.
+Sol.352.(a) x + y = 18°.
+Sol.353.(a) 369/400.
+Sol.354.(c) 2√5.
+Sol.355.(b) 1/2.
+Sol.356.(c) 11/5.
+Sol.357.(d) sec⁴θ - sec²θ.
+Sol.358.(c) √2 cosθ.
+Sol.359.(d) 2.
+Sol.360.(a) 8/15.
+Sol.361.(d) 37.5°.
+Sol.362.(d) (2 + √5)/(2√5).
+Sol.363.(c) (p² + 1)/(2p).
+Sol.364.(d) (1 - sin2A)/cos2A.
+Sol.365.(d) secA + tanA.
+Sol.366.(c) 61/3 + 17/(3√5).
+Sol.367.(b) 1/2.
+Sol.368.(c) 1 + 3 = 4.
+Sol.369.(b) 10.
+Sol.370.(b) 0.
+Sol.371.(a) -√2.
+Sol.372.(b) 2cot²θ.
+Sol.373.(d) √2.
+Sol.374.(a) 0.
+Sol.375.(a) 4.19.
+Sol.376.(a) 60°.
+Sol.377.(c) 6.
+Sol.378.(d) 1.
+Sol.379.(a) 1/41.
+Sol.380.(c) tanA.

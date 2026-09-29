@@ -1,0 +1,699 @@
+===QUESTIONS===
+Q.1. What is the value of √(20 + √(20 + √(20 + ...)))
+SSC CGL 17/09/2025 (Shift 1)
+(a) 4 (b) 7 (c) 5 (d) 6
+
+Q.2. Choose the incorrect relation from the following:
+I. √7 + √3 = √6 + √3
+II. √7 + √3 < √6 + √3
+III. √7 + √3 > √6 + √3
+Graduate Level 29/08/2025 (Shift - 1)
+(a) II (b) I and II (c) I (d) II and III
+
+Q.3. The value of: (2 + √3) + 1/(2 - √3) - (4 + 2√3) is:
+Graduate Level 29/07/2025 (Shift - 3)
+(a) 0 (b) 2 (c) 6 (d) √2
+
+Q.4. Find the value of: (√576 - √144) × (√64 + √225)
+Higher Secondary 29/07/2025 (Shift - 2)
+(a) 276 (b) 270 (c) 285 (d) 250
+
+Q.5. Which fraction is equivalent to 0.365?
+Matriculation Level 29/07/2025 (Shift - 1)
+(a) 365/10 (b) 37/50 (c) 73/200 (d) 75/200
+
+Q.6. Simplify ((25)⁴ + 1250 + 1 - (25)²) / ((25)² + 25 + 1)
+(a) 602 (b) 601 (c) 603 (d) 604
+
+Q.7. Simplify (25a² - 10ab - 48b²) / (5a + 6b) × (5a + 8b)
+(a) 25a² - 64b² (b) (5a - 8b)² (c) (5a + 8b)² (d) 25a² - 36b²
+
+Q.8. The simplified form of the expression ((x² - 9) × (9x² - 1)) / ((x - 1/3) × (1 - x/3)) × 9 / ((x + 1/3)(1 + x/3)) is _______.
+(a) −729 (b) −81 (c) 729 (d) 81
+
+Q.9. If A = (58² - 25²) / (46² - 37²), B = (26² - 15²) / (56² - 15²), then the value of 1/B - 20/A is :
+(a) 2 (b) 1 (c) −1 (d) 0
+
+Q.10. On comparing the following two numeric expressions, we find that ______: [(2 7/9)^(1/2)]^(3/5) and [(1 2/3)^(3/5)]^2
+(a) both the expressions are equal
+(b) the first expression is smaller than the second
+(c) the first expression is larger than the second
+(d) the given two expressions cannot be compared
+
+Q.11. On simplifying the following expression, we get: (24√45 - 16√20 + √245 - 47√5) / (3 1/5 + 1 2/5 - 2 1/6 - 2 1/5 - 5 2/5 + 3 1/6)
+(a) 0 (b) 3 (c) 1 (d) 2
+
+Q.12. Simplify : ((3.321)³ + (2.681)³ + (1.245)³ - 3 × 3.321 × 2.681 × 1.245) / ((3.321)² + (2.681)² + (1.245)² - (3.321 × 2.681) - (2.681 × 1.245) - (1.245 × 3.321)) = ?
+(a) 6.125 (b) 8.645 (c) 7.247 (d) 10.245
+
+Q.13. Simplify the following expression: 0.01 + 0.68 × 0.68 + 0.22 × 0.22 + 0.044 + 0.136 + 0.44 × 0.68
+(a) 0.69 (b) 1 (c) 0.8 (d) 0.9
+
+Q.14. Simplify the given expression: (0.09×0.09 + 0.04×0.04 + 0.16×0.16 + 2×0.09×0.04 + 2×0.04×0.16 + 2×0.09×0.16) / (0.3×0.3 + 0.2×0.2 + 0.4×0.4)
+(a) 0.38 (b) 0.24 (c) 0.32 (d) 0.29
+
+Q.15. What is the value of the given Expression ? (4^(a+4) - 5 × 4^(a+2)) / (15 × 4^a - 2² × 4^a)
+(a) 16 (b) 64 (c) 20 (d) 24
+
+Q.16. What is the value of (2² + 1)(2⁴ + 1)(2⁸ + 1)(2¹⁶ + 1)...(2¹²⁸ + 1) ?
+(a) (2²⁵⁶ - 1)/2 (b) (2²⁵⁶ - 1)/3 (c) 2²⁵⁶ - 1 (d) (2²⁵⁶ - 1)/4
+
+Q.17. Which of the following statement is true ?
+I. 1/2 + 1/6 + 1/12 + …… + 1/110 < 5/6
+II. 1/3 + 1/15 + 1/35 + ...... + 1/143 > 7/13
+(a) Only I (b) Both I and II (c) Only II (d) Neither I nor II
+
+Q.18. Find the value of the following expression: [5/8 - {3/8 - (5/8 - 3/8)}] of 8.8 - 1.2 / (4 1/6 ÷ 2.5 × 2 ÷ 1/6 of 60 + (3/4 - 3/8))
+(a) 5 22/43 (b) 3 23/67 (c) 4 44/85 (d) 4 4/5
+
+Q.19. Solve the following: (24 ÷ 3/8 of (8 + 2 × 7 - 3) + [2/11 ÷ 4/55 - {5/8 + 6/16}]) / (32 ÷ 15 - 7 + 75 ÷ (6 + 15 ÷ 3 + 4))
+(a) 23/27 (b) 9/2 (c) 11/18 (d) 15/19
+
+Q.20. Solve ((6.9)³ + (2.7)³ + (5.8)³ - 3 × 6.9 × 2.7 × 5.8) / ((6.9)² + (2.7)² + (5.8)² - (6.9)(2.7) - (2.7)(5.8) - (5.8)(6.9))
+(a) 15.1 (b) 15.3 (c) 15.2 (d) 15.4
+
+Q.21. Simplify the following expression: 9 1/5 ÷ {(16 1/5 ÷ 12 2/3 - 9 2/3) + 17 1/2 of 3 1/21}
+(a) 139/881 (b) 137/881 (c) 140/881 (d) 138/881
+
+Q.22. The value of 1/4 + [((20.35)² - (8.35)²) / ((1.05)² + (1.05)(27.65))] × 0.0175 is:
+(a) 3/20 (b) 3/10 (c) 7/20 (d) 9/20
+
+Q.23. The simplified value of (119 - [48 ÷ 6 - 7{5 × 12 ÷ 3 - (15 - 3 - 8)}]) / (24 ÷ 3 - 9 of 3 + (52 - 8 - 4) ÷ 6) is:
+(a) −111/11 (b) −127/27 (c) 127/43 (d) 111/11
+
+Q.24. If 1/(4 - √8) - (3 + 2√2)/(3 - 2√2) + (3 - 2√2)/(3 + 2√2) = a + b√2, then what is the value of (3a + 4b) ?
+(a) 99 1/2 (b) 97 1/2 (c) 98 1/2 (d) 98
+
+Q.25. If the following interchanges are made in signs and numbers, which equation would be correct ? Interchanges: Signs: ÷ and -, Numbers: 15 and 5
+(a) 4 × 30 - 15 ÷ 5 + 12 = 21
+(b) 12 × 30 - 15 ÷ 5 + 4 = 37
+(c) 4 × 30 - 15 ÷ 5 + 12 = 27
+(d) 4 × 30 - 5 ÷ 15 + 14 = 21
+
+Q.26. If 4 / (1 + √2 + √3) = a + b√2 + c√3 - d√6, where a, b, c, d are natural numbers, then the value of a + b + c + d is:
+(a) 0 (b) 2 (c) 4 (d) 1
+
+Q.27. If [{((2/3)³)^(-3/4)}^(2x + 3)] = [{((2/3)^(2/3))^(-6/5)}^(3x + 7)], then the value of √(2 - 42x) is:
+(a) 5 (b) 6 (c) 3 (d) 4
+
+Q.28. If ‘+’ means ‘-’, ‘-’ means ‘+’, ‘×’ means ‘÷’ and ‘÷’ means ‘×’ then the value of (42 - 12 × 3 + 8 ÷ 2 + 15) / (8 × 2 - 4 + 9 ÷ 3) is:
+(a) -5/3 (b) -15/19 (c) 15/19 (d) 5/3
+
+Q.29. The value of ((4.6)⁴ + (5.4)⁴ + (24.84)²) / ((4.6)² + (5.4)² + 24.84) is :
+(a) 24.42 (b) 24.24 (c) 25.42 (d) 25.48
+
+Q.30. The value of ((0.545)(0.081)(0.51)(5.2)) / ((0.324)³ + (0.221)³ - (0.545)³) is:
+(a) -1 (b) 1 (c) 3 (d) -3
+
+Q.31. Find the value: {((0.7)² ÷ 0.14 + (0.6)² ÷ 0.18 + (0.5)² ÷ 0.05) / 4(2.5 of 4 - 13 × 0.25 × 3)}
+(a) 25/2 (b) 19/2 (c) 23/2 (d) 21/2
+
+Q.32. If x = 1/(12.13) + 1/(13.14) + 1/(14.15) + ... + 1/(23.24), y = 1/(36.37) + 1/(37.38) + 1/(38.39) + ... + 1/(71.72), then x/y is equal to:
+(a) 1/3 (b) 1/24 (c) 1/72 (d) 3
+
+Q.33. The simplified value of 0.01404 / (24² + 6² - 144) is:
+(a) 3 × 10^(-5) (b) 6 × 10^(-5) (c) 2.4 × 10^(-4) (d) 3 × 10^(-4)
+
+Q.34. The simplified value of (1.0025 + 6.25 × 10^(-6)) / (0.0025 + 0.95) is:
+(a) 1.0025 (b) 1.0525 (c) 1.0005 (d) 1.0505
+
+Q.35. Simplify: (3 1/2 + 4.5) − 1.9
+SSC CGL 12/09/2025 (Shift 1)
+(a) 5.2 (b) 4.3 (c) 6.1 (d) 3.2
+
+Q.36. Evaluate: 27 1/4 - [13/6 ÷ {1/3 - (1/2 × (3/4 - 1/4))}]
+SSC CGL 12/09/2025 (Shift 1)
+(a) −2 1/4 (b) 2 1/4 (c) 1 1/4 (d) 1 3/4
+
+Q.37. 32³ + 15³ − 35³ + 250 is equal to:
+SSC CGL 12/09/2025 (Shift 1)
+(a) -6582 (b) -6482 (c) -6682 (d) -5482
+
+Q.38. Evaluate the continued fraction: x = 4 + 1 / (5 + 1 / (6 + 1/2))
+SSC CGL 12/09/2025 (Shift 2)
+(a) 281/67 (b) 283/67 (c) 286/67 (d) 287/67
+
+Q.39. Simplify: 1/(5 + √3) + 1/(5 - √3) - 10 / (√87 - √65)
+SSC CGL 12/09/2025 (Shift 3)
+(a) 2 (b) 1 (c) 0 (d) √3
+
+Q.40. Evaluate: 12(1/2)% of 480 km + 66(2/3)% of 270 km
+SSC CGL 12/09/2025 (Shift 3)
+(a) 240 km (b) 230 km (c) 320 km (d) 450 km
+
+Q.41. Evaluate: 6 - [3/4 ÷ {1/5 + (1/2 × (1 - 1/3))}]
+SSC CGL 13/09/2025 (Shift 1)
+(a) 14/3 (b) 157/32 (c) 147/32 (d) 17/3
+
+Q.42. What is the value of 7 + 77 + 777 + 7777 + 77777 ?
+SSC CGL 13/09/2025 (Shift 2)
+(a) 86415 (b) 86385 (c) 86420 (d) 86500
+
+Q.43. Simplify: (1 4/5 + 3.2) - 1 1/4
+SSC CGL 13/09/2025 (Shift 2)
+(a) 3.75 (b) 2.1 (c) 2.35 (d) 2.5
+
+Q.44. Find the product: 1.2 × 2 2/5 × 3/6
+SSC CGL 14/09/2025 (Shift 1)
+(a) 2.4 (b) 1.5 (c) 1.44 (d) 2.1
+
+Q.45. 0.2 + 0.02 + 0.002 = ?
+SSC CGL 14/09/2025 (Shift 1)
+(a) 0.223 (b) 0.111 (c) 0.221 (d) 0.222
+
+Q.46. What is the result of 3 1/4 ÷ 0.5 ?
+SSC CGL 14/09/2025 (Shift 2)
+(a) 3.25 (b) 6.5 (c) 2.75 (d) 6.25
+
+Q.47. Evaluate the expression: (1/9 ÷ 1/3) ÷ (1/15 + 1 – 9/10)
+SSC CGL 14/09/2025 (Shift 3)
+(a) 5 (b) 6 (c) 3 (d) 2
+
+Q.48. Simplify: √98 + √32 - √50
+SSC CGL 14/09/2025 (Shift 3)
+(a) 7√2 (b) 6√2 (c) 5√2 (d) 8√2
+
+Q.49. Simplify: (8/5 ÷ 14/5) × (10/7 ÷ 4/3)
+SSC CGL 15/09/2025 (Shift 1)
+(a) 120/196 (b) 180/196 (c) 196/180 (d) 150/360
+
+Q.50. Simplify: (3.5 + 3/8) - (9/5 × 1.25)
+SSC CGL 15/09/2025 (Shift 1)
+(a) 3.4418 (b) 1.625 (c) 4.5526 (d) 7.5526
+
+Q.51. Simplify: ((1.5 + 1/6) ÷ (2.25 - 1/3)) + 0.8
+SSC CGL 15/09/2025 (Shift 1)
+(a) 1.88 (b) 2.88 (c) 4.88 (d) 1.66
+
+Q.52. What is the value of (14/16 × 4.8) ÷ 0.12 ?
+SSC CGL 15/09/2025 (Shift 2)
+(a) 35 (b) 25 (c) 32 (d) 28
+
+Q.53. Evaluate: 40% of 175 − 37(1/2)% of 160 + 10% of 250
+SSC CGL 15/09/2025 (Shift 2)
+(a) 25 (b) 50 (c) 35 (d) 30
+
+Q.54. Simplify: √196 - √64 + √100
+SSC CGL 15/09/2025 (Shift 2)
+(a) 20 (b) 16 (c) 15 (d) 18
+
+Q.55. Simplify: (3.2 - 1 1/5) + (2 1/4 ÷ 0.5)
+SSC CGL 15/09/2025 (Shift 3)
+(a) 9.2 (b) 6.5 (c) 8.7 (d) 9.5
+
+Q.56. Which of the following represents the correct simplified value of the continued fraction: x = 1 + 1 / (3 + 1 / (1 + 1/2))
+SSC CGL 15/09/2025 (Shift 3)
+(a) 14/11 (b) 11/12 (c) 11/5 (d) 9/7
+
+Q.57. 2.5% of 100 = ?
+SSC CGL 15/09/2025 (Shift 3)
+(a) 6 (b) 2 (c) 3 (d) 2.5
+
+Q.58. Simplify: [(4/3) + (4/5 ÷ 2/7)] ÷ [(3/2) − (7/12 × 3/4)]
+SSC CGL 16/09/2025 (Shift 1)
+(a) 992/255 (b) 892/255 (c) 982/255 (d) 929/255
+
+Q.59. Simplify: (2 1/2 + 2.6) ÷ 0.75 + (1.25 × 3/5)
+SSC CGL 16/09/2025 (Shift 1)
+(a) 137/20 (b) 161/20 (c) 151/20 (d) 148/20
+
+Q.60. Simplify: (5/6 + 3/4) ÷ (7/8 - 2/3)
+SSC CGL 16/09/2025 (Shift 2)
+(a) 38/5 (b) 48/5 (c) 58/5 (d) 68/5
+
+Q.61. Simplify: √45 + √20 - √80
+SSC CGL 16/09/2025 (Shift 2)
+(a) 4√5 (b) 6√5 (c) √5 (d) 7√5
+
+Q.62. Evaluate: (0.04³ + 0.01³) ÷ (0.16³ + 0.04³)
+SSC CGL 16/09/2025 (Shift 2)
+(a) 0.008 (b) 0.015 (c) 0.016 (d) 0.009
+
+Q.63. Convert 4.625 into a fraction in simplest form.
+SSC CGL 16/09/2025 (Shift 3)
+(a) 37/8 (b) 27/4 (c) 38/7 (d) 25/6
+
+Q.64. Find the difference: 7.4 - (2 7/8 + 2.75)
+SSC CGL 16/09/2025 (Shift 3)
+(a) 7.822 (b) 1.775 (c) 1.522 (d) 2.025
+
+Q.65. Add (1/16 + 1/32) and express the result as a decimal.
+SSC CGL 16/09/2025 (Shift 3)
+(a) 0.09275 (b) 0.09375 (c) 0.09175 (d) 0.09475
+
+Q.66. Simplify: √(14 + 6√5)
+SSC CGL 17/09/2025 (Shift 1)
+(a) 2 + √5 (b) 3 + √5 (c) 3 + 2√5 (d) 9 + √5
+
+Q.67. 42³ + 45³ - 63³ + 149 is equal to:
+SSC CGL 17/09/2025 (Shift 1)
+(a) -84685 (b) 0 (c) -78659 (d) 1
+
+Q.68. Simplify: (2.8 + 5.125) × 0.45 - (0.90 ÷ 0.3)
+SSC CGL 17/09/2025 (Shift 2)
+(a) 0.566 (b) 0.11875 (c) 2.8756 (d) -2.8756
+
+Q.69. What is the value of (0.03³ + 0.002³) ÷ (0.3³ + 0.02³) ?
+SSC CGL 17/09/2025 (Shift 2)
+(a) 0.002 (b) 0.0045 (c) 0.0102 (d) 0.001
+
+Q.70. Evaluate √(30 + √(30 + √(30 + ...)))
+SSC CGL 17/09/2025 (Shift 3)
+(a) 3 (b) 5 (c) 4 (d) 6
+
+Q.71. 18³ + 20³ - 29³ + 116 is equal to:
+SSC CGL 17/09/2025 (Shift 3)
+(a) -10441 (b) -16789 (c) 0 (d) 1
+
+Q.72. What will come in place of ? to satisfy the equation: (√5 + 3)² = ? + 6√5
+SSC CGL 18/09/2025 (Shift 1)
+(a) 17 (b) 16 (c) 15 (d) 14
+
+Q.73. Solve: (√7396 - √1156) × (1/2)
+SSC CGL 18/09/2025 (Shift 1)
+(a) 22 (b) 23 (c) 26 (d) 27
+
+Q.74. What is the value of (0.11³ + 0.08³) ÷ (0.22³ + 0.16³) ?
+SSC CGL 18/09/2025 (Shift 1)
+(a) 0.125 (b) 0.5 (c) 0.25 (d) 1
+
+Q.75. Simplify: {(0.6)³ + (0.06)³ + (0.006)³} ÷ {(0.2)³ + (0.02)³ + (0.002)³}
+SSC CGL 18/09/2025 (Shift 1)
+(a) 5 (b) 25 (c) 27 (d) 17
+
+Q.76. Find the value of √(711 + √(303 + √441))
+SSC CGL 18/09/2025 (Shift 2)
+(a) 44 (b) 37 (c) 27 (d) 33
+
+Q.77. Evaluate: (0.09³ + 0.03³) ÷ (0.3³ + 0.1³)
+SSC CGL 18/09/2025 (Shift 2)
+(a) 0.028 (b) 0.056 (c) 0.003 (d) 0.027
+
+Q.78. Solve: (√6400 - √2401) × (1/2)
+SSC CGL 18/09/2025 (Shift 3)
+(a) 17.75 (b) 18.5 (c) 15.5 (d) 10.75
+
+Q.79. Solve: (√5776 - √4761) × (1/3)
+SSC CGL 18/09/2025 (Shift 3)
+(a) 3.5 (b) 4.3 (c) 3.3 (d) 2.3
+
+Q.80. Simplify: (0.16³ + 0.04³) ÷ (0.4³ + 0.1³)
+SSC CGL 18/09/2025 (Shift 3)
+(a) 0.64 (b) 0.064 (c) 0.6 (d) 0.006
+
+Q.81. Find the value of (0.02³ + 0.002³) ÷ (0.04³ + 0.004³)
+SSC CGL 18/09/2025 (Shift 3)
+(a) 1/8 (b) 1/16 (c) 1/64 (d) 1/128
+
+Q.82. Simplify the expression: √(10 + 4√6)
+SSC CGL 19/09/2025 (Shift 1)
+(a) √6 + 2 (b) 3 + √5 (c) 2 + √6 (d) 3 + √4
+
+Q.83. 17³ + 20³ - 19³ + 346 is equal to:
+SSC CGL 19/09/2025 (Shift 1)
+(a) 0 (b) 6400 (c) -4860 (d) 5200
+
+Q.84. What is the result of (0.4³ + 0.3³ - 0.7³) ÷ (3 × 0.4 × 0.3 × 0.7) ?
+SSC CGL 19/09/2025 (Shift 1)
+(a) -1 (b) 7/9 (c) 8/9 (d) 6/9
+
+Q.85. Evaluate: (√13 + √5)² - (√13 - √5)²
+SSC CGL 19/09/2025 (Shift 2)
+(a) 4√65 (b) 2√65 (c) 6√65 (d) 8√65
+
+Q.86. If p = 0.7 and q = 0.05, find the value of ((3p)³ + (3q)³) / (p³ + q³)
+SSC CGL 19/09/2025 (Shift 2)
+(a) 64 (b) 27 (c) 59 (d) 65
+
+Q.87. Simplify: 1/(√5 - √2) + 1/(√5 + √2)
+SSC CGL 19/09/2025 (Shift 3)
+(a) √5 (b) (5√2)/3 (c) (2√5)/7 (d) (2√5)/3
+
+Q.88. What is the value of (0.3³ + 0.03³) ÷ (0.6³ + 0.06³) ?
+SSC CGL 19/09/2025 (Shift 3)
+(a) 0.065 (b) 0.005 (c) 0.225 (d) 0.125
+
+Q.89. Multiply 14.345 by 0.037 and round your answer to 4 decimal places.
+SSC CGL 20/09/2025 (Shift 1)
+(a) 0.5307 (b) 0.5370 (c) 0.5037 (d) 0.5703
+
+Q.90. What is the value of √9409 - √1849
+SSC CGL 20/09/2025 (Shift 2)
+(a) 54 (b) 68 (c) 78 (d) 88
+
+Q.91. Simplify: √20 + √80
+SSC CGL 20/09/2025 (Shift 2)
+(a) 6√5 (b) 7√5 (c) 8√5 (d) 9√5
+
+Q.92. Add: 8.65 + 9.28 + 0.067
+SSC CGL 20/09/2025 (Shift 3)
+(a) 11.257 (b) 8.867 (c) 7.768 (d) 17.997
+
+Q.93. The value of √(13 − 2√42) − 1 / √(13 − 2√42) is:
+SSC CGL 21/09/2025 (Shift 2)
+(a) 1 + √5 (b) 2√6 (c) −2√6 (d) 1 − √5
+
+Q.94. What is the simplified value of: 0.02505 / (23² + 6² - 64)
+SSC CGL 21/09/2025 (Shift 2)
+(a) 5 × 10^(-5) (b) 3 × 10^(-5) (c) 2.4 × 10^(-4) (d) 3 × 10^(-4)
+
+Q.95. What will come in place of ? to satisfy the equation: (√8 - 1)² = ? - 2√8
+SSC CGL 21/09/2025 (Shift 3)
+(a) 9 (b) 3 (c) 5 (d) 4
+
+Q.96. Simplify: √(7 + 4√3) / √(7 - 4√3)
+SSC CGL 21/09/2025 (Shift 3)
+(a) 7 - 4√3 (b) 7 + 4√3 (c) 3 + 2√3 (d) 3 - 2√3
+
+Q.97. Which of the following numbers has a terminating decimal representation?
+SSC CGL 22/09/2025 (Shift 1)
+(a) 6/16 (b) 2/12 (c) 4/14 (d) 8/18
+
+Q.98. What will come in place of ? to satisfy the equation: (√7 - 2)² = ? - 4√7
+SSC CGL 22/09/2025 (Shift 2)
+(a) 12 (b) 11 (c) 10 (d) 13
+
+Q.99. Simplify: (√5 + √3)²
+SSC CGL 22/09/2025 (Shift 2)
+(a) 8 + 2√15 (b) 8 - 2√15 (c) 3 + 2√15 (d) 3 - 2√15
+
+Q.100. Simplify: (√(16 + 2√55) + √(16 − 2√55)) / √4
+SSC CGL 22/09/2025 (Shift 3)
+(a) 2√3 (b) √11 (c) 3√2 (d) √5
+
+Q.101. Solve: √(4 × 225 ÷ 15 + 25 − 4)
+SSC CGL 23/09/2025 (Shift 2)
+(a) √81 (b) √21 (c) √71 (d) √41
+
+Q.102. Simplify : √(11 + 4√6)
+SSC CGL 24/09/2025 (Shift 1)
+(a) 2√3 + √3 (b) 2√2 + √3 (c) √11 + √5 (d) 2√3 + √2
+
+Q.103. What will take the place of "?" in the given equation: ? / √64 = √121 / (10 + 1)
+SSC CGL 24/09/2025 (Shift 3)
+(a) 7 (b) 8 (c) 9 (d) 4
+
+Q.104. Solve: (√6241 - √1260.25) × (1/6)
+SSC CGL 25/09/2025 (Shift 2)
+(a) 9.875 (b) 8.875 (c) 7.25 (d) 6.685
+
+Q.105. Simplify: 2√5(√45 - √20)
+SSC CGL 25/09/2025 (Shift 2)
+(a) 6 (b) 4 (c) 5 (d) 10
+
+Q.106. Rationalize: (√6 + √7) / (√6 − √7)
+SSC CGL 26/09/2025 (Shift 1)
+(a) 13 + 2√42 (b) -13 - 2√42 (c) 13 - 2√42 (d) -13 + 2√42
+
+Q.107. Solve : √(8 × 447 ÷ 24 + 75 − 28)
+SSC CGL 26/09/2025 (Shift 2)
+(a) 15 (b) 14 (c) 16 (d) 17
+
+Q.108. Solve: (12.12)² - 396
+SSC CGL 26/09/2025 (Shift 3)
+(a) -249.1056 (b) 249.10566 (c) -251.1056 (d) 251.1056
+
+Q.109. Evaluate: 9 1/5 - [5/6 ÷ {5/6 − (1/2 × (7/4 - 1/4))}]
+SSC CGL 14/10/2025 (Shift 1)
+(a) -4/5 (b) 3 1/4 (c) −2 3/4 (d) 7 3/4
+
+Q.110. Evaluate the continued fraction: x = 5 + 1 / (5 + 1 / (6 + 1/2))
+SSC CGL 14/10/2025 (Shift 1)
+(a) 348/67 (b) 358/67 (c) 348/77 (d) 348/69
+
+Q.111. Evaluate the continued fraction: x = 3 + 1 / (8 + 1 / (6 + 1/2))
+SSC CGL 14/10/2025 (Shift 3)
+(a) 331/106 (b) 131/106 (c) 321/106 (d) 231/106
+
+Q.112. Which of the following equals 20 ?
+SSC CGL 14/10/2025 (Shift 3)
+(a) (√11 + √5)² - 2√55
+(b) (√5 + √5)²
+(c) (√2 + √3)² + 2√6
+(d) (√11 - √5)² + 2√55
+
+SSC Selection Post (XIII)
+Q.113. What is the value of (9√3) / (3√3) ?
+Matriculation Level 26/07/2025 (Shift - 1)
+(a) √3 (b) 3 (c) 9 (d) 3√3
+
+Q.114. Identify the correct decimal equivalent of 253/16.
+Matriculation Level 26/07/2025 (Shift - 1)
+(a) 15.8125 (b) 16.125 (c) 14.9375 (d) 15.9375
+
+Q.115. Find the square root of 0.0049.
+Matriculation Level 31/07/2025 (Shift - 1)
+(a) 0.007 (b) 0.07 (c) 0.7 (d) 0.0007
+
+Q.116. What is the reciprocal of 5/7 ?
+Matriculation Level 31/07/2025 (Shift - 1)
+(a) 1/7 (b) 7/5 (c) 1/5 (d) 7/1
+
+Q.117. What is the decimal form of 9/20 ?
+Matriculation Level 01/08/2025 (Shift - 1)
+(a) 0.45 (b) 0.425 (c) 0.5 (d) 0.48
+
+Q.118. The square of 34 × 34 :
+Matriculation Level 01/08/2025 (Shift - 1)
+(a) 1024 (b) 1156 (c) 1089 (d) 1296
+
+Q.119. Find the square of 23.
+Matriculation Level 01/08/2025 (Shift - 2)
+(a) 529 (b) 512 (c) 484 (d) 576
+
+Q.120. Which of the following is the CORRECT comparison ?
+Matriculation Level 01/08/2025 (Shift - 2)
+(a) 2/5 > 0.45 (b) 0.6 < 3/4 (c) 7/10 < 0.65 (d) 0.3 > 1/2
+
+Q.121. Show that 0.4757575... can be expressed in the form p/q, where p and q are integers and q≠0, What is the value of p/q?
+Matriculation Level 01/08/2025 (Shift - 3)
+(a) 157/330 (b) 151/330 (c) 129/310 (d) 164/330
+
+Q.122. Which of the following fractions is equivalent to 0.4 ?
+Matriculation Level 01/08/2025 (Shift - 3)
+(a) 2/3 (b) 3/5 (c) 1/4 (d) 2/5
+
+Q.123. Simplify: √18 + √50
+Higher Secondary 25/07/2025 (Shift - 2)
+(a) √68 (b) 3√2 + 5√2 (c) 8√2 (d) 7√2
+
+Q.124. The value of √(7 + 4√3) is:
+Higher Secondary 28/07/2025 (Shift - 2)
+(a) √3 + 1 (b) √3 + 2 (c) √6 + 1 (d) 3 + √1
+
+Q.125. The square root of 9 + 4√5 is:
+Higher Secondary 29/07/2025 (Shift - 2)
+(a) 2 + √5 (b) √5 - 2 (c) 3 + √5 (d) 3 - √5
+
+Q.126. Simplification: (√5 + √7)²
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) 12 + √35 (b) 12 + 2√35 (c) 12 + 2√5 (d) 12 + 2√7
+
+Q.127. What is the value of (0.96 ÷ 8) ÷ (1.30 – 0.34) = ?
+Graduate Level 24/07/2025 (Shift - 3)
+(a) 1/6 (b) 1/8 (c) 1/4 (d) 3/8
+
+Q.128. Find the value of: √(8 + 2√15) + √(8 − 2√15)
+Graduate Level 24/07/2025 (Shift - 3)
+(a) 3√3 (b) 2√5 (c) 3√2 (d) √15
+
+Q.129. Evaluate: (1/21) + (1/42) + (1/63) + (1/28)
+Graduate Level 25/07/2025 (Shift - 3)
+(a) 0.01231 (b) 0.01002 (c) 0.12301 (d) 0.01356
+
+Q.130. Evaluate: (1/21) + (1/28) + (1/35) + (1/42)
+Graduate Level 26/07/2025 (Shift - 3)
+(a) 0.1928 (b) 0.0856 (c) 0.1357 (d) 0.0775
+
+Q.131. Simplify: (5 1/2 + 3.75) × (3/8 - 0.125) ÷ (1 2/5 + 4/10)
+Graduate Level 28/07/2025 (Shift - 3)
+(a) 185/144 (b) 175/144 (c) 165/144 (d) 145/144
+
+Q.132. Simplify: √108 + √12 - √75
+Graduate Level 29/07/2025 (Shift - 3)
+(a) 5√3 (b) 7√3 (c) 3√3 (d) 6√3
+
+Q.133. Simplify: (4√7 + 3√28) - (√63 + 5√7).
+Graduate Level 31/07/2025 (Shift - 3)
+(a) 0 (b) 2√7 (c) 5√7 (d) -3√5
+
+Q.134. Simplify (√2 + √7)².
+Graduate Level 02/08/2025 (Shift - 3)
+(a) 3 - 2√15 (b) 8 - 2√14 (c) 2 + 2√15 (d) 9 + 2√14
+
+Q.135. Find the value of: 1/(7 − √6) + 1/(7 + √6) - 14/(49 − 6)
+Graduate Level 02/08/2025 (Shift - 3)
+(a) 0 (b) 14 (c) √6 (d) 7
+
+Q.136. Find the value of 0.2 + 0.22 + 0.222
+Graduate Level 29/08/2025 (Shift - 1)
+(a) 0.642 (b) 0.664 (c) 0.662 (d) 0.644
+
+eduquity-based pattern (ebp) Questions
+Q.137. The value of 5 + 24 × 8 ÷ 8 of 8 - 8 ÷ 8 × 4 of 4 is equal to:
+(a) 8 (b) 9 (c) -8 (d) -9
+
+Q.138. Simplify (2z - 5y)² + (5z + 2y)² - 25z².
+(a) 19y² - 4z² (b) 29y² + 4z² (c) 29y² - 4z² (d) 19y² + 4z²
+
+Q.139. The lowest terms of 221/488 is:
+(a) 121/488 (b) 221/488 (c) 121/288 (d) 221/288
+
+Q.140. Simplify (x² − 9) / (x + 3)
+(a) x + 3 (b) x - 3 (c) x² − 9 (d) x - 9
+
+Q.141. Simplify ((8.3)³ + (9.2)³ + (6.1)³ − 3 × 8.3 × 9.2 × 6.1) / ((8.3)² + (9.2)² + (6.1)² − 8.3 × 9.2 − 9.2 × 6.1 − 6.1 × 8.3)
+(a) 30.2 (b) 23.6 (c) 28.7 (d) 25.5
+
+Q.142. Simplify (0.58 × 0.58 × 0.58 − 0.001) / (0.58 × 0.58 + 0.058 + 0.01)
+(a) 0.48 (b) 0.28 (c) 0.37 (d) 0.42
+
+Q.143. If 45 ÷ 3 + 4 × A - 48 ÷ 24 + 4 = 1, then the value of A is:
+(a) -2 (b) 4 (c) 2 (d) -4
+
+Q.144. Simplify ((4.2)³ − (1.2)³) / ((4.2)² + 5.04 + (1.2)²)
+(a) 2 (b) 3 (c) 1 (d) 5
+
+Q.145. The value of the expression (1.55² + 0.55² + 1.55 × 0.55) is equal to:
+(a) 1.55² - 0.55² (b) 1.55³ - 0.55³ (c) 1.55³ + 0.55³ (d) 1.55² + 0.55²
+
+Q.146. Solve the following: [(2.5 + 1.5)² of 1/2 ÷ 4] × 8 − 1
+(a) 0 (b) 81 (c) 27.1 (d) 63
+
+Q.147. Simplify the following expression: ((x − y)³ + (y − z)³ + (z − x)³) / ((x − y)(y − z)(z − x))
+(a) 3 (b) 1 (c) 0 (d) 2
+
+Q.148. Simplify the following expression: (g - h)² - (g + h)² + 4gh
+(a) 4gh (b) −4gh (c) 4 (d) 0
+
+Q.149. Simplify (1.5 × 1.5 + 2.5 × 2.5 + 3.5 × 3.5 + 2 × 1.5 × 2.5 + 2 × 2.5 × 3.5 + 2 × 1.5 × 3.5) / (1.5 + 2.5 + 3.5)
+(a) 9.5 (b) 6.5 (c) 8.5 (d) 7.5
+
+Q.150. Simplify the following: [(5 1/2 - 3 1/3) of 1 5/13 + 1 - 2 3/4 × 2/11] ÷ 3/2
+(a) 0 (b) 11/2 (c) -2 (d) 3 1/2
+
+Q.151. Simplify the given expression: (4x² + 9y² − 12xy) / (3y − 2x)
+(a) 2y - 3x (b) 3y - 2x (c) 2x - 3y (d) 3x - 2y
+
+Q.152. Simplify the following expression: 25 ÷ 5 + 3 of 2 - 4 + 6 of 3 ÷ 2 - 8 + 4
+(a) 16 (b) 4 (c) 8 (d) 12
+
+Q.153. Simplify the following expression: 0.07 × 0.28 ÷ 0.04 + 0.64 – 1.64 ÷ 0.04
+(a) 38.56 (b) -39.87 (c) -46.48 (d) 36.78
+
+Q.154. Find the value of 11 - {(3 ÷ 4) of 8 - 4 − 8}.
+(a) 2 (b) 3 (c) 1 (d) -1
+
+Q.155. Simplify the following expression: 133 ÷ 19 × 3 - 48 × 2 ÷ 24 + 841 ÷ [{45 − 16}]
+(a) 46 (b) 21 (c) 12 (d) 42
+
+Q.156. 9 ÷ [1 + { 4 × (5/6 − (1/3 + 1/2))}] is equal to:
+(a) 1 (b) 9/5 (c) 0 (d) 9
+
+Q.157. The value of N in the equation 9 × N of 4 ÷ 4 - 15 × 4 = 12 is:
+(a) 9 (b) 0 (c) 12 (d) 8
+
+Q.158. If 3(16³ − 6³) / (16² + 6² + Q) = 30, then find the value of Q .
+(a) 96 (b) 98 (c) 112 (d) 108
+
+Q.159. Simplify the following expression: (60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).
+(a) 600 (b) 1000 (c) 100 (d) 500
+
+Q.160. Simplify 626 × 2912 ÷ 8138
+(a) 285 (b) 224 (c) 364 (d) 310
+
+Q.161. Simplify (4x² − 49y²) / (2x + 7y) + 7y - 2x
+(a) 4x - 14y (b) 7y (c) 4x (d) 0
+
+Q.162. The value of (7 + 8 × 7 ÷ 8 + 7 ÷ 7 ÷ 7) / (3 + 3 × 3 ÷ 3 + 5 ÷ 5 ÷ 5) is:
+(a) 1 81/217 (b) 2 61/217 (c) 3 27/217 (d) 1 31/217
+
+Q.163. What is the value of the following expression ? 4/7 × 4 1/2 ÷ 5 1/3 of 2 1/2 - (7 7/8 ÷ 5 1/9 of 4 1/2) + 9/20 ÷ 1/2
+(a) 1759/3250 (b) 1113/856 (c) 853/1610 (d) 1093/111
+
+Q.164. Simplify the following expression: (3 - 3 × 3 + 3 ÷ 3 + 3 × 5) × 2 of 5 + (2 + 2 ÷ 2 + 2 × 2 - 2)
+(a) 102 (b) 100 (c) 105 (d) 106
+
+Q.165. Simplify: {(3³ + 2³) × 22/7} × {(6² + 3² - 4²) ÷ (14 1/2)}
+(a) 220 (b) 145 (c) 110 (d) 198
+
+Q.166. Simplify the following expression: [40 - 48 ÷ 4 of 3] ÷ {(6 + 4) - 4 of 4 + 4 + (6 - 4) + (4 × 4) ÷ 4} × 3
+(a) 30 (b) 26 (c) 25 (d) 27
+
+Q.167. Simplify the given expression: 8 - 5 ÷ 2³ × 3 + (7 ÷ 7 × 7) ÷ 7 + (3 × 6 ÷ 1/3) × (1/3)³
+(a) 73/9 (b) 73/27 (c) 73/21 (d) 73/8
+
+Q.168. The value of 10 + 3 3/5 ÷ [2 2/3 ÷ {7 1/6 - (2 1/2 + 2/3)}] is equal to :
+(a) 27/55 (b) 77/5 (c) 55/27 (d) 5/77
+
+Q.169. Simplify: 3 4/7 - [16 1/2 ÷ { 6² - (7 - 2 1/2)}]
+(a) 25/11 (b) 64/21 (c) 64/11 (d) 25/21
+
+Q.170. Simplify (1/2 ÷ 3/4 of 5/6) / (1/2 ÷ 3/4 × 5/6) + (2 + 2 × 2) / (2 ÷ 2 × 2)
+(a) 111/25 (b) 121/25 (c) 75/36 (d) 4
+
+Q.171. Simplify the following expression: 4 × 7 - 3{7 × 4 ÷ (6 × 2)}
+(a) 12 (b) 19 (c) 21 (d) 4
+
+Q.172. What is the value of the following expression ? 420 ÷ [4/9 × (1 + 4/5) × 5] + [5/7 of 21/25 ÷ 3/4 of 2/5]
+(a) 127 (b) 139 (c) 107 (d) 89
+
+Q.173. Solve ((2 × 2 + 2) / (2 ÷ 2 × 2)) ÷ ((1/2 ÷ 1/2 of 1/2) / (1/2 + 1/2 of 1/2))
+(a) 4 1/2 (b) 2 1/8 (c) 1 1/8 (d) 3 1/8
+
+Q.174. What is the value of the following expression ? (24 ÷ 3 of 1/6) × (4/5 ÷ 9/8 × 3/5) ÷ (4/7 ÷ 3/14 of 3/14)
+(a) 379/179 (b) 579/459 (c) 363/553 (d) 288/175
+
+Q.175. The value of (5 + 7 × 5 ÷ 8 of 5 + 3 ÷ 3 × 5) / (6 ÷ 6 of 4 + 9 × 9 ÷ 3 × 2 × 2) is :
+(a) 67/859 (b) 87/866 (c) 97/881 (d) 77/861
+
+Q.176. Simplify the following expression: 11 1/4 ÷ 3 3/5 × 6 2/3 + 1/6 = _______.
+(a) 19 (b) 21 (c) 23 (d) 25
+
+Q.177. The value of [3³ {(40 × 5) + (7 × 6)} ÷ 11] + (2³ × 15 ÷ 24) is:
+(a) 559 (b) 595 (c) 599 (d) 959
+
+Q.178. If ‘÷’ means ‘×’, ‘×’ means ‘÷’, ‘+’ means ‘−’, ‘−’ means ‘+’, then 47 ÷ (10 × 5) + (4 − 5) − 6 is:
+(a) 100 (b) 59 (c) 79 (d) 91
+
+Q.179. What is the value of ([1/4 ÷ 1/4 × 1/4] × 1/4) / ([1/8 + 1/8 × 1/8]) + (1 - 4/9) ?
+(a) 1 (b) 0 (c) 3 (d) 2
+
+Q.180. Simplify the following expression: 3 1/5 of 2 3/4 ÷ 11/3 + (2 1/5 ÷ 1 2/5 of 1 3/7 - 2 1/3)
+(a) 4 1/6 (b) 2 1/6 (c) 3 1/6 (d) 1 1/6
+
+Q.181. Find the value of [18 - 3 × {3 - 3 × (3 ÷ 1/3 - 3) + 3 ÷ 1/3 + 3} - 4 × 2].
+(a) 18 (b) 19 (c) 12 (d) 15
+
+Q.182. Find the value of 12 + 24 ÷ 2 - 7 × 30 ÷ 6 + (5 + 4) × 8 + 8 ÷ 8 - 8.
+(a) 45 (b) 85 (c) 54 (d) 58
+
+Q.183. The possible value of x satisfying (143 ÷ 13 × x − 3 × 3) / (6² − 7 × 5 + x²) = 1 is :
+(a) 1 (b) 3 (c) 2 (d) 4
+
+Q.184. Find the value of (12 + 3 2/3 ÷ [1 3/4 ÷ {5 1/4 × (3 3/5 ÷ 4 1/2)}]) / (1 1/3 × 5 1/5)
+(a) 5 (b) 3 (c) 1 (d) 2
+
+Q.185. Simplify the following expression: 25 × 25 + 9 × 9 + 6 × 6 + 2 × 25 × 9 + 2 × 9 × 6 + 2 × 25 × 6
+(a) 900 (b) 1200 (c) 1600 (d) 2500
+
+===ANSWERS===
+1.(c) 2.(b) 3.(a) 4.(a) 5.(c) 6.(b) 7.(a) 8.(a) 9.(b) 10.(a)
+11.(a) 12.(c) 13.(b) 14.(d) 15.(a) 16.(b) 17.(d) 18.(c) 19.(c) 20.(d)
+21.(d) 22.(d) 23.(a) 24.(c) 25.(a) 26.(c) 27.(a) 28.(b) 29.(d) 30.(a)
+31.(d) 32.(d) 33.(a) 34.(b) 35.(c) 36.(c) 37.(b) 38.(a) 39.(c) 40.(a)
+41.(c) 42.(a) 43.(a) 44.(c) 45.(d) 46.(b) 47.(d) 48.(b) 49.(a) 50.(b)
+51.(d) 52.(a) 53.(c) 54.(b) 55.(b) 56.(a) 57.(d) 58.(a) 59.(c) 60.(a)
+61.(c) 62.(b) 63.(a) 64.(b) 65.(b) 66.(b) 67.(a) 68.(a) 69.(d) 70.(d)
+71.(a) 72.(d) 73.(c) 74.(a) 75.(c) 76.(c) 77.(d) 78.(c) 79.(d) 80.(b)
+81.(a) 82.(a) 83.(b) 84.(a) 85.(a) 86.(b) 87.(d) 88.(d) 89.(a) 90.(a)
+91.(a) 92.(d) 93.(c) 94.(a) 95.(a) 96.(b) 97.(a) 98.(b) 99.(a) 100.(b)
+101.(a) 102.(b) 103.(b) 104.(c) 105.(d) 106.(b) 107.(b) 108.(a) 109.(a) 110.(a)
+111.(a) 112.(b) 113.(b) 114.(a) 115.(b) 116.(b) 117.(a) 118.(b) 119.(a) 120.(b)
+121.(a) 122.(d) 123.(c) 124.(b) 125.(a) 126.(b) 127.(b) 128.(b) 129.(c) 130.(c)
+131.(a) 132.(c) 133.(b) 134.(d) 135.(a) 136.(a) 137.(c) 138.(b) 139.(b) 140.(b)
+141.(b) 142.(a) 143.(d) 144.(b) 145.(b) 146.(d) 147.(a) 148.(d) 149.(d) 150.(a)
+151.(b) 152.(d) 153.(b) 154.(c) 155.(a) 156.(d) 157.(d) 158.(a) 159.(b) 160.(b)
+161.(d) 162.(b) 163.(c) 164.(c) 165.(a) 166.(d) 167.(d) 168.(b) 169.(b) 170.(a)
+171.(c) 172.(c) 173.(c) 174.(d) 175.(b) 176.(b) 177.(c) 178.(d) 179.(a) 180.(d)
+181.(b) 182.(c) 183.(a) 184.(b) 185.(c)

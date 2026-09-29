@@ -1,0 +1,530 @@
+Q.381. cos⁴A − sin⁴A is equal to :
+(a) 2 cos² A + 1 (b) 1 - 2 sin² A (c) 2 sin² A - 1 (d) -(2 sin² A + 1)
+
+Q.382. If cosecθ = 1 7/22, find the value of cot²θ.
+(a) 49/484 (b) 357/484 (c) 225/484 (d) 7/22
+
+Q.383. What is the value of the expression sinA(1 + sinA/cosA) + cosA(1 + cosA/sinA) ?
+(a) secA + cosecA (b) sinA + cosA (c) sinA – cosA (d) secA – cosecA
+
+Q.384. Simplify the expression: (3 − Sin²A + Cos²A) / (2 + 2cos²A)
+(a) 1 (b) 0 (c) -1 (d) 2
+
+Q.385. If sec θ + tan θ = √3, then the positive value of sin θ + cos θ is:
+(a) (1 + √3)/2 (b) 2/√3 (c) √3/2 (d) 2/(1 + √3)
+
+Q.386. If 2Tan²A + 4Cos⁴ A = 3, then the possible value of A is:
+(a) 45° (b) 60° (c) 0° (d) 30°
+
+Q.387. If a = cotA + cosA and b = cotA - cosA, then find the value of a² - b² - 4√(ab).
+(a) 0 (b) -1 (c) 1 (d) -4
+
+Q.388. The given expression is equal to: 1 − tan²ϕ / sec²ϕ
+(a) sin²ϕ cos²ϕ (b) sin²ϕ cot²ϕ (c) cot²ϕ cos²ϕ (d) tan²ϕ cos²ϕ
+
+Q.389. Find the value of cot² B − cosec² B for 0 < B < 90°.
+(a) 1 (b) 2 (c) -1 (d) -2
+
+Q.390. In Δ OPQ, right-angled at P, OP = 7 cm and OQ - PQ = 1 cm. Determine the values of sin Q + cos Q .
+(a) 13/25 (b) 21/25 (c) 31/25 (d) 33/25
+
+Q.391. The given expression is equal to: 2 secA / (sec²A − 1)
+(a) 2 cosec A cot A (b) 2 cos A cot A (c) 2 cosec A tan A (d) 2 cos A sin A
+
+Q.392. The given expression is equal to: cos² A / (1 + sinA)
+(a) 1 - sin A (b) 1 + cos A (c) Sin A (d) Cos A
+
+Q.393. The value of sin²30° + sin²40° + sin²45° + sin²55° + sin²35° + sin²45° + sin²50° + sin²60° is:
+(a) 2 (b) 4 (c) 3 (d) 1
+
+Q.394. Simplify the given expression: (sin²32° + sin²58°) / (cos²32° + cos²58°) + sin²53° + cos 53°sin 37°
+(a) 2 (b) -1 (c) -2 (d) 1
+
+Q.395. The value of 1/sinθ - cot²θ / (1 + cosecθ) is:
+(a) 2 (b) 1 (c) -1 (d) 0
+
+Q.396. The value of sin 58°/cos32° + (sin 55° sec35°) / (tan5° tan45° tan85°) is equal to:
+(a) 2 (b) 1 (c) 0 (d) 3
+
+Q.397. If secθ = 2 4/23 find the value of tan²θ.
+(a) 2 16/529 (b) 1 200/529 (c) 3 384/529 (d) 3 177/529
+
+Q.398. Find the value of (cos² 25° − sin² 65°) / (cos² 25° + sin² 65°) :
+(a) 1/2 (b) 1 (c) -1 (d) 0
+
+Q.399. Simplify the given equation: (Cot³ A − 1) / (cotA − 1) = ?
+(a) cosec²A − cotA (b) cosec²A + cotA (c) cot²A + cosecA (d) cot²A − cosecA
+
+Q.400. If Tanθ + Secθ = a, then what is Secθ equal to:
+(a) (a + 1)/(2a²) (b) (a − 1)/(2a²) (c) (a² − 1)/(2a) (d) (a² + 1)/(2a)
+
+Q.401. Find the value of cos A / (1 + sinA) + (1 + sinA) / cosA + 2.
+(a) 1 + 2secA (b) 2 - secA (c) 2 + secA (d) 2(1 + secA)
+
+Q.402. If sec θ + tan θ = 1/√3, then the positive value of cot θ + cos θ is :
+(a) (3√3)/2 (b) √3/2 (c) 2/(3√3) (d) 2/√3
+
+Q.403. If (sinθ − Cosθ) / (sinθ + Cosθ) = 4/5, then the value of cosec²θ / (2 − cosec²θ) is:
+(a) 16/25 (b) 40/41 (c) 41/40 (d) 31/30
+
+Q.404. ∆PQR is right angled at Q. If PQ = 12 cm, PR = 13 cm, find tan P + cot R.
+(a) 9/10 (b) 0 (c) 10/12 (d) 12/10
+
+Q.405. If tan A = 1/2 and tan B = 1/3, then the value of A + B is:
+(a) 60° (b) 15° (c) 30° (d) 45°
+
+Q.406. If cot A = 5/12, find the value of 5(1 − cos²A) / (6(1 − sin²A))
+(a) 144/5 (b) 24/25 (c) 144/25 (d) 24/5
+
+Q.407. If tanθ.tan2θ = 1 then the value of cot 5θ is:
+(a) -1 (b) 1 (c) -√3 (d) √3
+
+Q.408. If 4 sin²A - 3 = 0 and 0 ≤ A ≤ 90°, then 3 sin A - 4 sin³ A is:
+(a) 1/2 (b) √3/2 (c) 0 (d) 1
+
+Q.409. ΔRMS is right-angled at M. The length of the base, RM = 4 cm and the length of perpendicular MS = 3 cm. Find the value of sec R.
+(a) 3/4 (b) 5/4 (c) 4/5 (d) 2/5
+
+Q.410. Find the value of 2(tan²A cos²A + cos²A).
+(a) 4 (b) 1 (c) 3 (d) 2
+
+Q.411. If A, B, C are acute angles such that tan (A + B – C) = 1/√3, cos (B + C – A) = 1/2 and sin (C + A - B) = 1/√2. The value of A + B + C will be equal to:
+(a) 90° (b) 110° (c) 170° (d) 135°
+
+Q.412. Find the value of ((1 + secØ)/secØ) (1 - cosØ).
+(a) cos²Ø (b) sec²Ø (c) cot²Ø (d) sin²Ø
+
+Q.413. Let ABC be a right-angled triangle where ∠A = 90° and ∠C = 45°. Find the value of sec C + sin C sec C.
+(a) 1 (b) 1 - √2 (c) 1 + √2 (d) √2 - 1
+
+Q.414. If (4 sinθ + 5 cosθ) = 3, then the value of (4 cosθ - 5 sinθ) is:
+(a) 3√2 (b) 4√2 (c) 2√3 (d) 2√5
+
+Q.415. Let ABC be a triangle right angled at B. If tan A = 12/5, then find the values of cosec A and sec A, respectively.
+(a) 13/10, 5/13 (b) 13/12, 13/5 (c) 10/13, 5/13 (d) 12/13, 5/13
+
+Q.416. If cosθ − sinθ = 0, then sin⁸θ + cos⁸θ is :
+(a) 1/8 (b) 1/4 (c) 1/6 (d) 1/2
+
+Q.417. Simplify the given expression: 3(sin⁴Z − cos⁴Z + 1) / sin²Z
+(a) 9 (b) 2 (c) 4 (d) 6
+
+Q.418. Find the value of Sin 47° Cos 33° − Cos 43° Sin 57°.
+(a) −1 (b) 1 (c) 0 (d) 1/2
+
+Q.419. The value of (1 + sinA)/cosA + cosA/(1 + sinA) is:
+(a) 2 sec A (b) 2 cosec A (c) sec A (d) cosec A
+
+Q.420. Simplify the given equation: (1 + tan² A) (1 + cot² A) = ?
+(a) 1 / (cos²A(1 + sin²A)) (b) 1 / (sin²A(1 − sin²A)) (c) 1 / (sin²A + 1 + cosec²A) (d) 1 / (sin²A(1 + cos²A))
+
+Q.421. The given expression is equal to: (cot B - tan B). sin B. cos B
+(a) 1 - 2sec² B (b) 1 - 2cos²B (c) 2 cos²B - 1 (d) 2sec²B - 1
+
+Q.422. cot²θ − cosec²θ equals to :
+(a) 0 (b) tanθ (c) 1 (d) -1
+
+Q.423. If sinθ cosθ = 1/3 then the value of (sin⁴θ + cos⁴θ) is:
+(a) 1 (b) 5/3 (c) 2/3 (d) 1/3
+
+Q.424. Simplify the given expression: √((1 + cos P) / (1 − cos P))
+(a) cosec P - cot P (b) sec P - tan P (c) sec P + tan P (d) cosec P + cot P
+
+Q.425. Find the value of tan(50° + θ) - Cot(40° - θ).
+(a) 1/2 (b) -1 (c) 0 (d) 1
+
+Q.426. What is the value of (1 - sin²A) cosec²A ? Given A is an acute angle.
+(a) cot²A (b) cos²A (c) tan²A (d) sin²A
+
+Q.427. If Tan 15° = 2 - √3, then the value of Tan 15° Cot 75° + Tan 75° Cot 15° is:
+(a) 6 (b) 10 (c) 8 (d) 14
+
+Q.428. If (3sinθ − cosθ) / (cosθ + sinθ) = 1, then the value of cotθ is:
+(a) 3 (b) 0 (c) 1 (d) 2
+
+Q.429. Evaluate the following: cos(36° + A).cos(36°- A) + cos(54°+ A).cos(54° - A)
+(a) sin 2A (b) cos A (c) sin A (d) cos 2A
+
+Q.430. If sin 23° = a/b, then the value of sec23° - sin67° is ________
+(a) a² / √(b² − a²) (b) (b² − a²)/(ab) (c) a² / (b√(b² + a²)) (d) a² / (b√(b² − a²))
+
+Q.431. If cosβ/secα = 15 and sinβ/secα = 16, then the value of sin²β is _________.
+(a) 256/481 (b) -256/481 (c) 481/256 (d) -481/256
+
+Q.432. Simplify the following: (sin³ ⍺ + cos³ ⍺) / (sin ⍺ + cos ⍺)
+(a) 1 + sin ⍺ cos ⍺ (b) tan ⍺ (c) 1 - sin ⍺ cos ⍺ (d) sec ⍺
+
+Q.433. If tan(π/6) + sec(π/6) = x, then find x.
+(a) √3 (b) 1/√3 (c) -1/√3 (d) 2/√3
+
+Q.434. If cosx = -1/2, x lies in third quadrant, then tanx = ?
+(a) √3 (b) √3/2 (c) 2/√3 (d) 1/√3
+
+Q.435. Using cos(A + B) = cosA cosB - sinA sinB, find the value of cos75°.
+(a) (√5 − 1)/4 (b) (√5 + 1)/4 (c) (√6 − √2)/4 (d) (√6 + √2)/4
+
+Q.436. (sin⁴θ + cos⁴θ) / (1 − 2sin²θ.cos²θ) = ________.
+(a) 1 (b) 2 (c) -1 (d) 0
+
+Q.437. Using trigonometric formulas, find the value of (sin(x − y) / sin(x + y)) ((tanx + tan y) / (tanx − tan y))
+(a) -2 (b) 2 (c) 0 (d) 1
+
+Q.438. If tan(A/2) = x, then find x.
+(a) √((1 + cosA)/(1 − cosA)) (b) √((1 − sinA)/(1 + cosA)) (c) √((1 − cosA)/(1 + cosA)) (d) √((cosA − 1)/(1 + cosA))
+
+Q.439. The value of (1/sinθ + 1/tanθ)(1/sinθ - 1/tanθ) is :
+(a) 0 (b) 2 (c) 3 (d) 1
+
+Q.440. Simplify the following: sin 2x + 2 sin 4x + sin 6x
+(a) 4 cos²x sin 4x (b) 4 cos²x sin x (c) 2 cos²x sin 4x (d) 4 sin²x sin 4x
+
+Q.441. If sin A = -3/5, A lies in III quadrant, the value of sec A is:
+(a) -4/5 (b) -5/4 (c) -3/4 (d) 3/4
+
+Q.442. Find the value of the following expression: 12 (sin⁴θ + cos⁴θ) + 18 (sin⁶θ + cos⁶θ) + 78sin²θ cos²θ
+(a) 30 (b) 40 (c) 10 (d) 20
+
+Q.443. Using tan (A - B) = (tanA − tanB)/(1 + tanA tanB), find the value of tan15°.
+(a) √3 + 1 (b) √3 - 1 (c) 2 - √3 (d) 2 + √3
+
+Q.444. If (sinx − cosx) / (sinx + cosx) = 2/5, then the value of (1 + cot²x) / (1 − cot²x) is:
+(a) 2.25 (b) 1.45 (c) 3.75 (d) 5.25
+
+Q.445. Find the value of (sinθ + cosθ)² + (sinθ - cosθ)²
+(a) 4 (b) 0 (c) 2 (d) 1
+
+Q.446. If cosA/(1 − sinA) + cos A/(1 + sin A) = 4 then what will be the value of A? (0° < A < 90°)
+(a) 90° (b) 45° (c) 60° (d) 30°
+
+Q.447. Using cot(A - B) = (cotAcot B + 1)/(cotB − cotA), find the value of cot 15°.
+(a) 2 + √3 (b) 2 - √3 (c) √3 - 1 (d) √3 + 1
+
+Q.448. If P cos α = 3 and 4 tan α = Q, then what is the relation between P and Q, which is independent of α?
+(a) 9/P² + 16/Q² = 1 (b) 9/P² - 16/Q² = 1 (c) P²/9 − Q²/16 = 1 (d) P²/9 + Q²/16 = 1
+
+Q.449. For any acute angle θ, sinθ + sin²θ = 1, then the value of cos²θ + cos⁴θ = _____ .
+(a) 0 (b) 1 (c) 2 (d) -1
+
+Q.450. If cosx + sinx = √2cosx, what is the value of (cosx − sinx)² + (cosx + sinx)² ?
+(a) 2 (b) 1 (c) 0 (d) 1/2
+
+Q.451. Solve the given expression: (sec²(90° − θ) − cot²θ) / (2(sin²35° + sin²55°))
+(a) 0.5 (b) 2 (c) 1.5 (d) 1
+
+Q.452. cosec 2910°+ sec 4260° + tan 2565° + cot 1755° = ?
+(a) 3 (b) 1 (c) 4 (d) 0
+
+Q.453. The maximum value of (sin¹²θ + cos²⁰θ) for all the real values of θ is:
+(a) 2 (b) 3 (c) 1 (d) 0
+
+Q.454. What is the value of sin(- 405°) ?
+(a) √5/2 (b) 1/√2 (c) -1/2 (d) -1/√2
+
+Q.455. Simplify the following expression: (Sinθ − 2sin³θ) / (2cos³θ − cosθ)
+(a) tanθ (b) sinθ (c) secθ (d) cosθ
+
+Q.456. Simplify (1 + sint)/(4 − 4sint) - (1 − sint)/(4 + 4sint)
+(a) 4tan t. sin t (b) tant . sec t (c) tan t - sin t (d) tan t + sin t
+
+Q.457. PQR is a triangle right angled at Q and PQ : QR = 3 : 4. What is the value of sin P + sin Q + sin R ?
+(a) 4/5 (b) 3/5 (c) 12/5 (d) 2/5
+
+Q.458. If 2 Cotθ = 3, then find the value of (√13 sinθ − 3 tanθ) / (3 tanθ + √13 cosθ)
+(a) 1/√13 (b) 2/√13 (c) 0 (d) 2/3
+
+Q.459. Using the identity tan2α = 2tanα / (1 − tan²α), find the value of tan15° correct to three decimal places. [Use √3 = 1.732]
+(a) 0.268 (b) 0.27 (c) 0.267 (d) 0.269
+
+Q.460. If Cosecθ + Cotθ = m, find the value of (m² − 1)/(m² + 1)
+(a) 1 (b) 0 (c) cosθ (d) -sinθ
+
+Q.461. If sinθ + cosecθ = √5, then the value of sin³θ + cosec³θ = __________.
+(a) 0 (b) 3√5 (c) 1/√5 (d) 2√5
+
+Q.462. If a cotθ = b, then what will be the value of (bcosθ − asinθ) / (bcosθ + asinθ) ?
+(a) (b² + a²)/(b² - a²) (b) b² + a² (c) (b² − a²)/(b² + a²) (d) 0
+
+Q.463. Simplify the given expression: (1 + sin⁴θ + cos⁴θ) / (cos²θ + sin⁴θ)
+(a) 3 (b) 1 (c) 2 (d) 4
+
+Q.464. Using cosec (α + β) = (secα × secβ × cosecα × cosecβ) / (secα × cosecβ + cosecα × secβ), find the value of cosec75°.
+(a) (√6 + √2)/4 (b) (√6 − √2)/4 (c) √6 - √2 (d) √6 + √2
+
+Q.465. The value of √((1 + cosθ)/(1 − cosθ)) is :
+(a) secθ + tanθ (b) cosecθ - cotθ (c) cosecθ + cotθ (d) secθ - tanθ
+
+Q.466. Find (1/sinθ) - sinθ.
+(a) Cosθ cotθ (b) cosθ secθ (c) cosθ cosecθ (d) cosθ tanθ
+
+Q.467. If (21 cos A + 3 sin A)/(3 cos A + 4 sin A) = 2, then find the value of cot A
+(a) 9/11 (b) 11/9 (c) 1/3 (d) 11/10
+
+Q.468. tan 4384° + cot 6814° = ?
+(a) -1 (b) 2 (c) 0 (d) 1
+
+Q.469. If A = 22.5° what is the value of (10√2 sin 2A - 7√2 cos 2A + 9tan2A) ?
+(a) 12 (b) 15 (c) 10 (d) 6
+
+Q.470. sin 600° cos 750° + sin 150° cos 240° = ?
+(a) 2/3 (b) 1 (c) 1/2 (d) -1
+
+Q.471. What is the value of tan(θ/2) ?
+(a) cosθ / (1 − sinθ) (b) sinθ / (1 − cosθ) (c) cosθ / (1 − cosθ) (d) sinθ / (1 + cosθ)
+
+Q.472. If 3x = secA and 3/x = tanA, then 9(x² - 1/x²) is ____.
+(a) 3 (b) 9 (c) 1 (d) 1/9
+
+Q.473. If tan⁴θ + tan²θ = 1, what is the value of 11 (cos⁴θ + cos²θ) ?
+(a) -11 (b) 8 (c) 0 (d) 11
+
+Q.474. The value of 32/sec²θ - 20/(1 + tan²θ) + 12sin²θ is :
+(a) 20 (b) 32 (c) 24 (d) 12
+
+Q.475. If sinθ + cosθ = √11/3, then what is tanθ + cotθ equal to ?
+(a) 5 (b) 9 (c) 7 (d) 11
+
+Q.476. If 1 + sin² θ = a cos²θ, then find sec⁴θ - tan⁴θ.
+(a) a⁻² (b) a⁻¹ (c) a (d) a²
+
+Q.477. In a triangle PQR, if QR = 3 cm, PR = 5 cm and sin P = 3/5, then ∠Q equals:
+(a) π/3 (b) π/2 (c) π/4 (d) π/6
+
+Q.478. The value of cosec 41° − sec 49° is :
+(a) 1 (b) 0 (c) 1/4 (d) 1/2
+
+Q.479. If Sin x + Sin²x = 1, then what is the value of Cos⁸x + 2 Cos⁶x + Cos⁴x ?
+(a) 2 (b) 0 (c) 4 (d) 1
+
+Q.480. What is the value of ((1 + sec²A)/(1 + cos²A)) ((1 + sin²A)/(1 + cosec²A)) ?
+(a) cos² A (b) cosec² A (c) sec² A (d) tan² A
+
+Q.481. What is √((1 − sinA)/(1 + sinA)) ?
+(a) sec²A (b) secA + tanA (c) tan²A (d) secA - tanA
+
+Q.482. What is the value of (1 + tanθ - secθ)(1 + cotθ + cosecθ) ?
+(a) -1 (b) 0 (c) 1 (d) 2
+
+Q.483. What is the value of (cos(50° + A) − sin(40° − A)) / (cos40° sec40°) ?
+(a) 1 (b) 2 (c) 0.5 (d) 0
+
+Q.484. If tan A + sec A = K, then what is the value of sin A ?
+(a) 2K/(K² + 1) (b) (K² − 1)/(2K) (c) (K² + 1)/(K² − 1) (d) (K² − 1)/(K² + 1)
+
+Q.485. What is cosec 90° / (1 − cos² 60°) ?
+(a) 0 (b) 4/3 (c) 1/4 (d) 3/4
+
+Q.486. What is the value of √((cosec A + 1)/(cosec A − 1)) + √((cosec A − 1)/(cosec A + 1)) ?
+(a) 2 cos A (b) sec A (c) cos A (d) 2 sec A
+
+Q.487. If m = sec θ - tan θ and n = cosec θ + cot θ, then what is the value of m + n(m - 1) ?
+(a) 0 (b) 2 (c) 1 (d) -1
+
+Q.488. ∆ABC is a right angled triangle. ∠A = 90 degree, AB = 4 cm, BC = 5 cm. What is the value of cos B + cot C ?
+(a) 17/20 (b) 29/20 (c) 23/20 (d) 31/20
+
+Q.489. If ΔPQR is right angled at Q, then what is the value of cos (P + R) ?
+(a) 0.5 (b) 1 (c) 0.2 (d) 0
+
+Q.490. If √3 tan²θ - 4 tanθ + √3 = 0, then what is the value of tan²θ + cot²θ ?
+(a) 4/3 (b) 10/3 (c) 3 (d) 6/5
+
+Q.491. If 6Cotθ = 5, then find the value of (6cosθ + sinθ) / (6cosθ − 4sinθ) ?
+(a) 5 (b) 1 (c) 6 (d) 0
+
+Q.492. If -sinθ + cosecθ = 6, then what is the value of sinθ + cosecθ ?
+(a) 6 (b) √40 (c) √34 (d) √38
+
+Q.493. If √2sec²θ — 4 secθ + 2√2 = 0, then what is the value sin²θ + tan²θ ?
+(a) 1/2 (b) 2/3 (c) 5/2 (d) 3/2
+
+Q.494. What is the value of (sin θ + cosθ)/(sin θ − cos θ) + (sin θ − cosθ)/(sin θ + cos θ) ?
+(a) 1 / (sin²θ − cos²θ) (b) 2(sin²θ − cos²θ) (c) 2 / (sin²θ − cos²θ) (d) sin²θ − cos²θ
+
+Q.495. Simplify the following expression: (1 − sin A)/cos A + cos A/(1 − sin A) ?
+(a) 2 sinA (b) 2 cosA (c) 2 secA (d) 2 tanA
+
+Q.496. If sec x + tan x = 5 and cosec y − cot y = 1/3 then find the value of (sec x + cosec y) - (tan x - cot y).
+(a) 2.2 (b) 3.2 (c) 4.2 (d) 3.1
+
+Q.497. If A = a cosecθ + b cotθ and B = a cotθ + b cosecθ, then what is the value of A² - B² ?
+(a) ab (b) (a + b) (c) (a² - b²) (d) (a - b)
+
+Q.498. If cosec θ + cot θ = s, then what is the value of cos θ ?
+(a) (s² − 1)/(s² + 1) (b) (s² + 1)/(s² − 1) (c) (s² − 1)/(2s) (d) 2s/(s² + 1)
+
+Q.499. Find the value of tan x, if sec x + tan x = √3 and x lies between 0° and 90°.
+(a) √3 (b) 1 (c) 1/√3 (d) 0
+
+Q.500. Tan of complementary of an angle is same as which of the angles ?
+(a) sin of that angle (b) cot of that angle (c) cos of that angle (d) cosec of that angle
+
+Q.501. If sec θ + tan θ = 2, then what is the value of cot θ ?
+(a) 5/3 (b) 3/5 (c) 4/3 (d) 3/4
+
+Q.502. What is the value of (tan 10°tan 80° + tan 20°tan 70° + tan 30° tan 60° + tan 40°tan 50°) ?
+(a) 4 (b) 3 (c) 5 (d) 2
+
+Q.503. What is the value of (cotθ + cosecθ − 1) / (cotθ − cosecθ + 1) ?
+(a) 2 secθ (b) 2 cosecθ (c) 2 cotθ (d) cotθ + cosecθ
+
+Q.504. If 6secθ = 10, then find the value of (5 cosec θ − 3 cot θ) / (4 cos θ + 3 sin θ) ?
+(a) 2/3 (b) 3/2 (c) 5/6 (d) 6/5
+
+Q.505. What is the value of cosec A(1 - cosA)(cosecA + cot A) ?
+(a) 2 (b) 1 (c) 0 (d) 3
+
+Q.506. If (2cos³A − cosA) / (sinA − 2sin³A) = 1 , then what is the value of A ?
+(a) 90° (b) 30° (c) 45° (d) 60°
+
+Q.507. (sinθ + cosecθ)² + (cosθ + secθ)² = ?
+(a) 5 + tan²θ + cot²θ (b) 7 + tan²θ – cot²θ (c) 7 + tan²θ + cot²θ (d) 5 + tan²θ – cot²θ
+
+Q.508. The value of tan²θ + cot²θ - sec²θ cosec²θ is:
+(a) 2 (b) -2 (c) 0 (d) 1/2
+
+Q.509. What is sinα - sinβ ?
+(a) 2cos((α + β)/2) sin((α − β)/2) (b) 2sin((α + β)/2) sin((α − β)/2) (c) 2cos((α − β)/2) sin((α + β)/2) (d) 2cos((α + β)/2) cos((α − β)/2)
+
+Q.510. What is the value of tan 240° ?
+(a) √2 (b) (-√3) (c) √3 (d) 3
+
+Q.511. If tan²θ = 1 - a², then the value of secθ + tan³θ cosecθ is:
+(a) (2 − a)^(3/2) (b) (a² − 1)^(3/2) (c) (2 - a²)^(3/2) (d) a^(3/2)
+
+Q.512. If sin (A + B) = cos (A + B), what is the value of tan A ?
+(a) (1 – tanB)/(1 + tanB) (b) (1 + tanB)/(1 − tanB) (c) (1 + sec B)/(1 − sec B) (d) (1 − cosec B)/(1 + cosecB)
+
+Q.513. In ∆ ABC, right-angled at B, AB = 7 cm and AC - BC = 1 cm. Find the value of sin C.
+(a) 3/7 (b) 12/13 (c) 3/25 (d) 7/25
+
+Q.514. If (1 − cosθ)/sinθ = 1/5, then what will be the value of (1 + cosθ)/sinθ ?
+(a) 5 (b) 2/5 (c) 4/5 (d) 1/5
+
+Q.515. Simplify: cosA/(1 + tanA) - sinA/(1 + cotA)
+(a) tanA (b) cosA - sinA (c) cosA.sinA (d) cosA + sinA
+
+Q.516. 1/(1 + Cos(90° − θ)) + 1/(1 − Cos(90° − θ)) = ________
+(a) 2sec²θ (b) 1 (c) 0 (d) 2tan²θ
+
+Q.517. sin⁴θ + cos⁴θ in terms of sinθ can be written as:
+(a) 2sin⁴θ + 2sin²θ - 1 (b) 2sin⁴θ − 2sin²θ (c) 2sin⁴θ − 2sin²θ - 1 (d) 2sin⁴θ − 2sin²θ + 1
+
+Q.518. Simplify the following: (cos x − √3sin x) / 2
+(a) cos(π/3 - x) (b) sin(π/3 + x) (c) cos(π/3 + x) (d) sin(π/3 - x)
+
+Q.519. The value of √((1 + cosA)/(1 − cosA)) is:
+(a) sec A - tan A (b) cosec A + cot A (c) sec A + tan A (d) cosec A - cot A
+
+Q.520. If sinθ + cosθ = (√3 − 1)/(2√2), then what is the value of tanθ + cotθ ?
+(a) 8(√3 - 2) (b) 12(√3 - 2) (c) 12(√3 + 2) (d) 8(√3 + 2)
+
+Q.521. If sec 2θ = cosec (θ – 36°), where 2θ is an acute angle, find the value of θ.
+(a) 32° (b) 46° (c) 20° (d) 42°
+
+Q.522. What will be the value of cos x cosec x – sin x sec x ?
+(a) cot(2x/2) (b) tan 2x (c) cot 2x (d) 2cot 2x
+
+Q.523. cot²A - cos²A is equal to :
+(a) cos²A.sin²A (b) cos²A.cot²A (c) 1 (d) 0
+
+Q.524. If bsinθ = a, then secθ + tanθ = ?
+(a) √((b + a)/(b − a)) (b) 1/√(b + a) (c) 1/√(b − a) (d) √((b − a)/(b + a))
+
+Q.525. What will be the value of sin10° - 4/3 sin³10° ?
+(a) 1/(3√3) (b) 1/6 (c) 1/(2√3) (d) √3/6
+
+Q.526. What is the value of Cos(−17π/3) ?
+(a) 1 (b) √3/2 (c) 1/2 (d) 0
+
+Q.527. Solve the following to find its value in terms of trigonometric ratios: (sin A + cos A)(1 − sin A cosA)
+(a) sin³ A + cos³A (b) sin² A - cos²A (c) [cosA - sin A] [sin² A + cos²A] (d) sin³ A - cos³A
+
+Q.528. If secθ - 2cosθ = 7/2, where θ is a positive acute angle, then the value of secθ is:
+(a) 6 (b) 8 (c) 5 (d) 4
+
+Q.529. Find the value of tan 3θ if sec3θ = cosec(4θ - 15°).
+(a) 1/√3 (b) √3 (c) -1 (d) 1
+
+Q.530. If tan A – tan B – tan C = tan A tan B tan C, what is the value of A in terms of B and C ?
+(a) A = B + C (b) A = 2B - 2C (c) A = B - C (d) A = (B − C)/2
+
+Q.531. If tan² 𝛼 = 3 + Q², then sec 𝛼 + tan³ 𝛼 cosec 𝛼 = ?
+(a) (3 + Q²)^(3/2) (b) (7 + Q²)^(3/2) (c) (5 - Q²)^(3/2) (d) (4 + Q²)^(3/2)
+
+Q.532. If 1 + sinθ = mcosθ , then what is the value of sinθ ?
+(a) (2m² − 1)/(m² + 1) (b) (m² − 1)/(m² + 1) (c) (m² + 1)/(2m² − 1) (d) (m² + 1)/(m² − 1)
+
+Q.533. Find the value of the following expression: 5 (sin⁴θ + cos⁴θ) + 3 (sin⁶θ + cos⁶θ) + 19sin²θ cos²θ
+(a) 8 (b) 5 (c) 6 (d) 7
+
+Q.534. If sin Y = x, then what will be the value of cos 2Y (where 0 ≤ Y ≤ 90°) ?
+(a) (√2 - 1)x (b) √2x (c) 1 – 2x (d) 1 – 2x²
+
+Q.535. If A + B = C, then tan A tan B tan C = ?
+(a) tan C + tan A - tan B (b) tan C + tan A + tan B (c) tan A - tan B - tan C (d) tan C - tan A - tan B
+
+Q.536. If x = 8(sin θ + cos θ) and y = 9(sin θ - cos θ), then the value of x²/8² + y²/9² is:
+(a) 4 (b) 6 (c) 8 (d) 2
+
+Q.537. θ = 135°; y = 15°. What is the value of 2cos(θ) sin(y) ?
+(a) (√3 − 1)/2 (b) (1 − √3)/2 (c) 2 - √3 (d) √3 - 2
+
+Q.538. If sec x - cos x = 4, then what will be the value of (1 + cos²x) / cos x ?
+(a) 9/4 (b) 1/4 (c) 2√5 (d) √5
+
+Q.539. If tan A tan B + cos x / (cosAcosB) = 1, then x = ?
+(a) B (b) A (c) A + B (d) A – B
+
+Q.540. cos³ 60° - cos³ 240° - cos³ 360° =
+(a) -3/4 (b) -7/5 (c) -3/5 (d) -9/7
+
+Q.541. If 5 sin²A + 3 cos²A = 4 , 0 < A < 90°, then what is the value of tan A ?
+(a) 0 (b) 3 (c) 1 (d) 2
+
+Q.542. If (sin θ + cos θ) / (sin θ − cos θ) = 3/2, then the value of sin⁴θ - cos⁴θ is
+(a) 5/12 (b) 12/13 (c) 11/12 (d) 5/13
+
+Q.543. If sin²θ cos²θ = 2/9, then what will be the value of cosec²θ + sec²θ ?
+(a) 7/2 (b) 5/2 (c) 9/2 (d) 9√2
+
+Q.544. If 2 (cos²x − sec²x) / tan²x = a + b cos2x, then a, b = ?
+(a) -3/2, -1/2 (b) 3/2, 1/2 (c) −3, -1 (d) 3, 1
+
+Q.545. In the given figure, ABC is an isosceles triangle with BC = 8 cm and AB = AC = 5 cm. The value of tan C - cot B is _______.
+(a) -5/12 (b) -7/12 (c) 7/12 (d) 5/12
+
+Q.546. If b cosθ = a, then cosecθ + cotθ = ________
+(a) 1/√(b + a) (b) √((b − a)/(b + a)) (c) √((b + a)/(b − a)) (d) 1/√(b − a)
+
+Q.547. If cosecθ + cotθ = p, then the value of (p² − 1)/(p² + 1) is:
+(a) cosθ (b) sinθ (c) cotθ (d) cosecθ
+
+Q.548. If sin²θ − 3 sin θ + 2 = 0, then find the value of θ (0° ≤ θ ≤ 90°).
+(a) 45° (b) 0° (c) 60° (d) 90°
+
+Q.549. If tan3θ.tan7θ = 1, where 7θ is an acute angle, then find the value of cot15θ.
+(a) 1 (b) -1 (c) -√3 (d) √3
+
+Q.550. If 2sinθ + 2sin²θ = 2, then the value of 2 cos⁴θ + 2 cos²θ is:
+(a) 4 (b) 2 (c) 1 (d) 0
+
+Q.551. If cos θ + cos²θ = 1, find the value of √(sin⁴θ + cos²θ)
+(a) √2 cosθ (b) 2 Cosθ (c) √2 Sinθ (d) 2sinθ
+
+Q.552. If sec²A + tan²A = 3, then what is the value of cot A ?
+(a) 1/√3 (b) 0 (c) 1 (d) √3
+
+Q.553. What is the value of cosec 15° sec 15° ?
+(a) 0.5 (b) 4 (c) 2 (d) 1
+
+Q.554. cos A / (1 − tan A) + Sin A / (1 − cot A) = ?
+(a) tan A - cot A (b) tan A + cot A (c) sin A - cos A (d) sin A + cos A
+
+Q.555. If tan40° = a, then find (tan320° − tan310°) / (1 + tan320°.tan310°) =
+(a) (1 − a²)/a (b) (1 + a²)/(2a) (c) (1 − a²)/(2a) (d) (1 + a²)/a
+
+Q.556. If tan(α + β) = a, tan(α - β) = b then the value of tan 2α is:
+(a) (a + b)/(1 − ab) (b) (a + b)/(1 + ab) (c) (a − b)/(1 + ab) (d) (a − b)/(1 − ab)
+
+Q.557. If x = 2sinθ / (1 + cosθ + sinθ) then the value of (1 − cosθ + sinθ) / (1 + sinθ) is:
+(a) x / (1 + x) (b) x (c) 1/x (d) (1 + x)/x

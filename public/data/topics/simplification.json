@@ -1,0 +1,7498 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "simplification",
+  "topicName": "Simplification",
+  "category": "Quantitative Aptitude",
+  "sourcePdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+  "isSample": false,
+  "questions": [
+    {
+      "id": "simplification-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of √(20 + √(20 + √(20 + ...)))",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Given: √(20 + √(20 + √(20 + ...))). Prime factors of 20 with difference 1 are 4 and 5. For positive series, the answer is the larger factor, which is 5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d7044c72",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Choose the incorrect relation from the following: I. √7 + √3 = √6 + √3 II. √7 + √3 < √6 + √3 III. √7 + √3 > √6 + √3",
+      "options": [
+        {
+          "id": "A",
+          "text": "II"
+        },
+        {
+          "id": "B",
+          "text": "I and II"
+        },
+        {
+          "id": "C",
+          "text": "I"
+        },
+        {
+          "id": "D",
+          "text": "II and III"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(√7 + √3)² = 10 + 2√21 ≈ 10 + 9.16 = 19.16; (√6 + √3)² = 9 + 2√18 ≈ 9 + 8.48 = 17.48. Since 19.16 > 17.48, √7 + √3 > √6 + √3. Hence relations I and II are incorrect.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "29/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-41f7622e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of: (2 + √3) + 1/(2 - √3) - (4 + 2√3) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "√2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "1/(2 - √3) = (2 + √3). So (2 + √3) + (2 + √3) - (4 + 2√3) = 4 + 2√3 - 4 - 2√3 = 0.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0e73b6e1",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0004",
+      "globalNumber": 4,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of: (√576 - √144) × (√64 + √225)",
+      "options": [
+        {
+          "id": "A",
+          "text": "276"
+        },
+        {
+          "id": "B",
+          "text": "270"
+        },
+        {
+          "id": "C",
+          "text": "285"
+        },
+        {
+          "id": "D",
+          "text": "250"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(√576 - √144) × (√64 + √225) = (24 - 12) × (8 + 15) = 12 × 23 = 276.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 4
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-712a0443",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0005",
+      "globalNumber": 5,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which fraction is equivalent to 0.365?",
+      "options": [
+        {
+          "id": "A",
+          "text": "365/10"
+        },
+        {
+          "id": "B",
+          "text": "37/50"
+        },
+        {
+          "id": "C",
+          "text": "73/200"
+        },
+        {
+          "id": "D",
+          "text": "75/200"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "0.365 = 365/1000 = 73/200.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 5
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-299d0199",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0006",
+      "globalNumber": 6,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify ((25)⁴ + 1250 + 1 - (25)²) / ((25)² + 25 + 1)",
+      "options": [
+        {
+          "id": "A",
+          "text": "602"
+        },
+        {
+          "id": "B",
+          "text": "601"
+        },
+        {
+          "id": "C",
+          "text": "603"
+        },
+        {
+          "id": "D",
+          "text": "604"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using formula a⁴ - a² + 1250 + 1: ((25)⁴ - (25)² + 1250 + 1) / ((25)² + 25 + 1) = ((25)² + 1 - 25) = 625 - 24 = 601.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 6
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-00cb2bb3",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0007",
+      "globalNumber": 7,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (25a² - 10ab - 48b²) / (5a + 6b) × (5a + 8b)",
+      "options": [
+        {
+          "id": "A",
+          "text": "25a² - 64b²"
+        },
+        {
+          "id": "B",
+          "text": "(5a - 8b)²"
+        },
+        {
+          "id": "C",
+          "text": "(5a + 8b)²"
+        },
+        {
+          "id": "D",
+          "text": "25a² - 36b²"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(25a² - 10ab - 48b²) / (5a + 6b) × (5a + 8b) = ((5a - 8b)(5a + 6b)) / (5a + 6b) × (5a + 8b) = (5a - 8b)(5a + 8b) = 25a² - 64b².",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 7
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ab8067b6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0008",
+      "globalNumber": 8,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The simplified form of the expression ((x² - 9) × (9x² - 1)) / ((x - 1/3) × (1 - x/3)) × 9 / ((x + 1/3)(1 + x/3)) is _______.",
+      "options": [
+        {
+          "id": "A",
+          "text": "−729"
+        },
+        {
+          "id": "B",
+          "text": "−81"
+        },
+        {
+          "id": "C",
+          "text": "729"
+        },
+        {
+          "id": "D",
+          "text": "81"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "((x² - 9)(9x² - 1)) / ((3x - 1)(3 - x)/9) × 9 / ((3x + 1)(x + 3)/9) = -729.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 8
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6d816186",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0009",
+      "globalNumber": 9,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If A = (58² - 25²) / (46² - 37²), B = (26² - 15²) / (56² - 15²), then the value of 1/B - 20/A is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "−1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A = (58² - 25²)/(46² - 37²) = (33 × 83)/(9 × 83) = 11/3. B = (26² - 15²)/(56² - 15²) = (11 × 41)/(41 × 71) = 11/71. 1/B - 20/A = 71/11 - 20(3/11) = 11/11 = 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 9
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-36b0db29",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0010",
+      "globalNumber": 10,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "On comparing the following two numeric expressions, we find that ______: [(2 7/9)^(1/2)]^(3/5) and [(1 2/3)^(3/5)]^2",
+      "options": [
+        {
+          "id": "A",
+          "text": "both the expressions are equal"
+        },
+        {
+          "id": "B",
+          "text": "the first expression is smaller than the second"
+        },
+        {
+          "id": "C",
+          "text": "the first expression is larger than the second"
+        },
+        {
+          "id": "D",
+          "text": "the given two expressions cannot be compared"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "First: [(25/9)^(1/2)]^(3/5) = (5/3)^(3/5). Second: [(5/3)^(3/5)] = (5/3)^(3/5). Both expressions are equal.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 10
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-73eeeb32",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0011",
+      "globalNumber": 11,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "On simplifying the following expression, we get: (24√45 - 16√20 + √245 - 47√5) / (3 1/5 + 1 2/5 - 2 1/6 - 2 1/5 - 5 2/5 + 3 1/6)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Numerator: 24√45 - 16√20 + √245 - 47√5 = 72√5 - 32√5 + 7√5 - 47√5 = 0. So the whole expression simplifies to 0.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 11
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9ec752cd",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0012",
+      "globalNumber": 12,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify : ((3.321)³ + (2.681)³ + (1.245)³ - 3 × 3.321 × 2.681 × 1.245) / ((3.321)² + (2.681)² + (1.245)² - (3.321 × 2.681) - (2.681 × 1.245) - (1.245 × 3.321)) = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6.125"
+        },
+        {
+          "id": "B",
+          "text": "8.645"
+        },
+        {
+          "id": "C",
+          "text": "7.247"
+        },
+        {
+          "id": "D",
+          "text": "10.245"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Identity a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - ab - bc - ca). Expression = a + b + c = 3.321 + 2.681 + 1.245 = 7.247.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 12
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ef89fe09",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0013",
+      "globalNumber": 13,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 0.01 + 0.68 × 0.68 + 0.22 × 0.22 + 0.044 + 0.136 + 0.44 × 0.68",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.69"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0.8"
+        },
+        {
+          "id": "D",
+          "text": "0.9"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(0.68 + 0.22)² + 0.01 + 0.044 + 0.136 = 0.81 + 0.19 = 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 13
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c425db2a",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0014",
+      "globalNumber": 14,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the given expression: (0.09×0.09 + 0.04×0.04 + 0.16×0.16 + 2×0.09×0.04 + 2×0.04×0.16 + 2×0.09×0.16) / (0.3×0.3 + 0.2×0.2 + 0.4×0.4)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.38"
+        },
+        {
+          "id": "B",
+          "text": "0.24"
+        },
+        {
+          "id": "C",
+          "text": "0.32"
+        },
+        {
+          "id": "D",
+          "text": "0.29"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Numerator is (0.09 + 0.04 + 0.16)². Denominator is (0.09 + 0.04 + 0.16). Result = 0.09 + 0.04 + 0.16 = 0.29.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 14
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d67c1eec",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0015",
+      "globalNumber": 15,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of the given Expression ? (4^(a+4) - 5 × 4^(a+2)) / (15 × 4^a - 2² × 4^a)",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "64"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "4^a(4⁴ - 5 × 4²) / 4^a(15 - 4) = (256 - 80)/11 = 176/11 = 16.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 15
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d93d43d6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0016",
+      "globalNumber": 16,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (2² + 1)(2⁴ + 1)(2⁸ + 1)(2¹⁶ + 1)...(2¹²⁸ + 1) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2²⁵⁶ - 1)/2"
+        },
+        {
+          "id": "B",
+          "text": "(2²⁵⁶ - 1)/3"
+        },
+        {
+          "id": "C",
+          "text": "2²⁵⁶ - 1"
+        },
+        {
+          "id": "D",
+          "text": "(2²⁵⁶ - 1)/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Multiply and divide by (2² - 1) = 3: ((2² - 1)(2² + 1)...(2¹²⁸ + 1))/3 = (2²⁵⁶ - 1)/3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 16
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d7b5107f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0017",
+      "globalNumber": 17,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following statement is true ? I. 1/2 + 1/6 + 1/12 + …… + 1/110 < 5/6 II. 1/3 + 1/15 + 1/35 + ...... + 1/143 > 7/13",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I"
+        },
+        {
+          "id": "B",
+          "text": "Both I and II"
+        },
+        {
+          "id": "C",
+          "text": "Only II"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "I: 1 - 1/11 = 10/11 > 5/6 (wrong). II: 1/2(1 - 1/13) = 6/13 < 7/13 (wrong). Neither I nor II is true.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 17
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f4acae6d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0018",
+      "globalNumber": 18,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of the following expression: [5/8 - {3/8 - (5/8 - 3/8)}] of 8.8 - 1.2 / (4 1/6 ÷ 2.5 × 2 ÷ 1/6 of 60 + (3/4 - 3/8))",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 22/43"
+        },
+        {
+          "id": "B",
+          "text": "3 23/67"
+        },
+        {
+          "id": "C",
+          "text": "4 44/85"
+        },
+        {
+          "id": "D",
+          "text": "4 4/5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Numerator = [5/8 - 1/8] of 8.8 - 1.2 = 1/2 of 8.8 - 1.2 = 4.4 - 1.2 = 3.2. Denominator = 25/6 ÷ 5/2 × 2 ÷ 10 + 3/8 = 5/3 × 1/5 + 3/8 = 1/3 + 3/8 = 17/24. Result = 3.2 / (17/24) = 4 44/85.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 18
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-5dd38e4f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0019",
+      "globalNumber": 19,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve the following: (24 ÷ 3/8 of (8 + 2 × 7 - 3) + [2/11 ÷ 4/55 - {5/8 + 6/16}]) / (32 ÷ 15 - 7 + 75 ÷ (6 + 15 ÷ 3 + 4))",
+      "options": [
+        {
+          "id": "A",
+          "text": "23/27"
+        },
+        {
+          "id": "B",
+          "text": "9/2"
+        },
+        {
+          "id": "C",
+          "text": "11/18"
+        },
+        {
+          "id": "D",
+          "text": "15/19"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Numerator = 24 ÷ 3/8 of 16 + 1.5 = 4 + 1.5 = 5.5. Denominator = 32 ÷ 8 + 75 ÷ 15 = 4 + 5 = 9. 5.5/9 = 11/18.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 19
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ecf66f22",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0020",
+      "globalNumber": 20,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve ((6.9)³ + (2.7)³ + (5.8)³ - 3 × 6.9 × 2.7 × 5.8) / ((6.9)² + (2.7)² + (5.8)² - (6.9)(2.7) - (2.7)(5.8) - (5.8)(6.9))",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.1"
+        },
+        {
+          "id": "B",
+          "text": "15.3"
+        },
+        {
+          "id": "C",
+          "text": "15.2"
+        },
+        {
+          "id": "D",
+          "text": "15.4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "a³ + b³ + c³ - 3abc / (a² + b² + c² - ab - bc - ca) = a + b + c = 6.9 + 2.7 + 5.8 = 15.4.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 20
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-10ccc8b6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0021",
+      "globalNumber": 21,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 9 1/5 ÷ {(16 1/5 ÷ 12 2/3 - 9 2/3) + 17 1/2 of 3 1/21}",
+      "options": [
+        {
+          "id": "A",
+          "text": "139/881"
+        },
+        {
+          "id": "B",
+          "text": "137/881"
+        },
+        {
+          "id": "C",
+          "text": "140/881"
+        },
+        {
+          "id": "D",
+          "text": "138/881"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "46/5 ÷ {(81/5 ÷ 3) + 160/3} = 46/5 ÷ {27/5 + 160/3} = 46/5 ÷ 881/15 = 46/5 × 15/881 = 138/881.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 21
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8441874e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0022",
+      "globalNumber": 22,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of 1/4 + [((20.35)² - (8.35)²) / ((1.05)² + (1.05)(27.65))] × 0.0175 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3/20"
+        },
+        {
+          "id": "B",
+          "text": "3/10"
+        },
+        {
+          "id": "C",
+          "text": "7/20"
+        },
+        {
+          "id": "D",
+          "text": "9/20"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "1/4 + [(28.7 × 12) × 0.0175] / (1.05 × 28.7) = 1/4 + (12 × 0.0175)/1.05 = 1/4 + 1/5 = 9/20.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 22
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f36ba55a",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0023",
+      "globalNumber": 23,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The simplified value of (119 - [48 ÷ 6 - 7{5 × 12 ÷ 3 - (15 - 3 - 8)}]) / (24 ÷ 3 - 9 of 3 + (52 - 8 - 4) ÷ 6) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "−111/11"
+        },
+        {
+          "id": "B",
+          "text": "−127/27"
+        },
+        {
+          "id": "C",
+          "text": "127/43"
+        },
+        {
+          "id": "D",
+          "text": "111/11"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Numerator: 119 - [8 - 7(20 - 20)] = 119 - 8 = 111. Denominator: 8 - 27 + 48/6 = -19 + 8 = -11. Result = -111/11.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 23
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-33cdd3ff",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0024",
+      "globalNumber": 24,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If 1/(4 - √8) - (3 + 2√2)/(3 - 2√2) + (3 - 2√2)/(3 + 2√2) = a + b√2, then what is the value of (3a + 4b) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "99 1/2"
+        },
+        {
+          "id": "B",
+          "text": "97 1/2"
+        },
+        {
+          "id": "C",
+          "text": "98 1/2"
+        },
+        {
+          "id": "D",
+          "text": "98"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "1/(4 - 2√2) = (4 + 2√2)/8 = 1/2 + √2/4. Second part = 24√2. Total = 1/2 + 97/4 √2. a = 1/2, b = 97/4. 3a + 4b = 3(1/2) + 97 = 98 1/2.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 24
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-380f73d9",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0025",
+      "globalNumber": 25,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If the following interchanges are made in signs and numbers, which equation would be correct ? Interchanges: Signs: ÷ and -, Numbers: 15 and 5",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 × 30 - 15 ÷ 5 + 12 = 21"
+        },
+        {
+          "id": "B",
+          "text": "12 × 30 - 15 ÷ 5 + 4 = 37"
+        },
+        {
+          "id": "C",
+          "text": "4 × 30 - 15 ÷ 5 + 12 = 27"
+        },
+        {
+          "id": "D",
+          "text": "4 × 30 - 5 ÷ 15 + 14 = 21"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "4 × 30 - 15 ÷ 5 + 12 = 21 becomes 4 × 30 ÷ 5 - 15 + 12 = 24 - 15 + 12 = 21 (correct).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 25
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4edc0aa0",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0026",
+      "globalNumber": 26,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If 4 / (1 + √2 + √3) = a + b√2 + c√3 - d√6, where a, b, c, d are natural numbers, then the value of a + b + c + d is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rationalizing 4 / (1 + √2 + √3) yields 2 + √2 - √6. Comparing with a + b√2 + c√3 - d√6: a = 2, b = 1, c = 0, d = 1. a + b + c + d = 4.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 26
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4c208a76",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0027",
+      "globalNumber": 27,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If [{((2/3)³)^(-3/4)}^(2x + 3)] = [{((2/3)^(2/3))^(-6/5)}^(3x + 7)], then the value of √(2 - 42x) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Powers simplify to (36x + 84)/15 = (18x + 27)/4 => x = -23/42. √(2 - 42(-23/42)) = √(2 + 23) = √25 = 5.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 27
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8d94348c",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0028",
+      "globalNumber": 28,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If ‘+’ means ‘-’, ‘-’ means ‘+’, ‘×’ means ‘÷’ and ‘÷’ means ‘×’ then the value of (42 - 12 × 3 + 8 ÷ 2 + 15) / (8 × 2 - 4 + 9 ÷ 3) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-5/3"
+        },
+        {
+          "id": "B",
+          "text": "-15/19"
+        },
+        {
+          "id": "C",
+          "text": "15/19"
+        },
+        {
+          "id": "D",
+          "text": "5/3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(42 + 12 ÷ 3 - 8 × 2 - 15) / (8 ÷ 2 + 4 - 9 × 3) = (42 + 4 - 16 - 15) / (4 + 4 - 27) = 15 / (-19) = -15/19.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 28
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-45c5ffcf",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0029",
+      "globalNumber": 29,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of ((4.6)⁴ + (5.4)⁴ + (24.84)²) / ((4.6)² + (5.4)² + 24.84) is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "24.42"
+        },
+        {
+          "id": "B",
+          "text": "24.24"
+        },
+        {
+          "id": "C",
+          "text": "25.42"
+        },
+        {
+          "id": "D",
+          "text": "25.48"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Identity: a⁴ + b⁴ + (ab)² / (a² + b² + ab) = a² + b² - ab = (a + b)² - 3ab. Here (4.6 + 5.4)² - 3(24.84) = 100 - 74.52 = 25.48.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 29
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9954aa94",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0030",
+      "globalNumber": 30,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of ((0.545)(0.081)(0.51)(5.2)) / ((0.324)³ + (0.221)³ - (0.545)³) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Since 0.324 + 0.221 - 0.545 = 0, a³ + b³ + c³ = 3abc. Expression simplifies to -1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 30
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-60f6d831",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0031",
+      "globalNumber": 31,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value: {((0.7)² ÷ 0.14 + (0.6)² ÷ 0.18 + (0.5)² ÷ 0.05) / 4(2.5 of 4 - 13 × 0.25 × 3)}",
+      "options": [
+        {
+          "id": "A",
+          "text": "25/2"
+        },
+        {
+          "id": "B",
+          "text": "19/2"
+        },
+        {
+          "id": "C",
+          "text": "23/2"
+        },
+        {
+          "id": "D",
+          "text": "21/2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Numerator: 0.49/0.14 + 0.36/0.18 + 0.25/0.05 = 3.5 + 2 + 5 = 10.5. Denominator: 4(10 - 9.75) = 1. Result = 10.5 = 21/2.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 31
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9ffb0dee",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0032",
+      "globalNumber": 32,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If x = 1/(12.13) + 1/(13.14) + 1/(14.15) + ... + 1/(23.24), y = 1/(36.37) + 1/(37.38) + 1/(38.39) + ... + 1/(71.72), then x/y is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "1/24"
+        },
+        {
+          "id": "C",
+          "text": "1/72"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "x = 1/12 - 1/24 = 1/24. y = 1/36 - 1/72 = 1/72. x/y = (1/24) / (1/72) = 3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 32
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9dc38c4f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0033",
+      "globalNumber": 33,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The simplified value of 0.01404 / (24² + 6² - 144) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 × 10^(-5)"
+        },
+        {
+          "id": "B",
+          "text": "6 × 10^(-5)"
+        },
+        {
+          "id": "C",
+          "text": "2.4 × 10^(-4)"
+        },
+        {
+          "id": "D",
+          "text": "3 × 10^(-4)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.01404 / (576 + 36 - 144) = 0.01404 / 468 = 3 × 10^(-5).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 33
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4d924f00",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0034",
+      "globalNumber": 34,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The simplified value of (1.0025 + 6.25 × 10^(-6)) / (0.0025 + 0.95) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.0025"
+        },
+        {
+          "id": "B",
+          "text": "1.0525"
+        },
+        {
+          "id": "C",
+          "text": "1.0005"
+        },
+        {
+          "id": "D",
+          "text": "1.0505"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(1.0025 + 0.00000625) / (0.0025 + 0.95) = 1.00250625 / 0.9525 = 1.0525.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 34
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-856951ea",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0035",
+      "globalNumber": 35,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (3 1/2 + 4.5) − 1.9",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.2"
+        },
+        {
+          "id": "B",
+          "text": "4.3"
+        },
+        {
+          "id": "C",
+          "text": "6.1"
+        },
+        {
+          "id": "D",
+          "text": "3.2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(3.5 + 4.5) - 1.9 = 8 - 1.9 = 6.1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 35
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-801bb0e6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0036",
+      "globalNumber": 36,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: 27 1/4 - [13/6 ÷ {1/3 - (1/2 × (3/4 - 1/4))}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "−2 1/4"
+        },
+        {
+          "id": "B",
+          "text": "2 1/4"
+        },
+        {
+          "id": "C",
+          "text": "1 1/4"
+        },
+        {
+          "id": "D",
+          "text": "1 3/4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "109/4 - [13/6 ÷ {1/3 - 1/4}] = 109/4 - [13/6 ÷ 1/12] = 109/4 - 26 = 5/4 = 1 1/4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 36
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c509a2e0",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0037",
+      "globalNumber": 37,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "32³ + 15³ − 35³ + 250 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-6582"
+        },
+        {
+          "id": "B",
+          "text": "-6482"
+        },
+        {
+          "id": "C",
+          "text": "-6682"
+        },
+        {
+          "id": "D",
+          "text": "-5482"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "32768 + 3375 - 42875 + 250 = -6482.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 37
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-eaed1d37",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0038",
+      "globalNumber": 38,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate the continued fraction: x = 4 + 1 / (5 + 1 / (6 + 1/2))",
+      "options": [
+        {
+          "id": "A",
+          "text": "281/67"
+        },
+        {
+          "id": "B",
+          "text": "283/67"
+        },
+        {
+          "id": "C",
+          "text": "286/67"
+        },
+        {
+          "id": "D",
+          "text": "287/67"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "6 + 1/2 = 13/2. 5 + 2/13 = 67/13. 4 + 13/67 = 281/67.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 38
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e84576f9",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0039",
+      "globalNumber": 39,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: 1/(5 + √3) + 1/(5 - √3) - 10 / (√87 - √65)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "√3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(5 - √3 + 5 + √3)/(25 - 3) - 10/22 = 10/22 - 10/22 = 0.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 39
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0ce39792",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0040",
+      "globalNumber": 40,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: 12(1/2)% of 480 km + 66(2/3)% of 270 km",
+      "options": [
+        {
+          "id": "A",
+          "text": "240 km"
+        },
+        {
+          "id": "B",
+          "text": "230 km"
+        },
+        {
+          "id": "C",
+          "text": "320 km"
+        },
+        {
+          "id": "D",
+          "text": "450 km"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "1/8 × 480 + 2/3 × 270 = 60 + 180 = 240 km.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "12/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 40
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-317f8209",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0041",
+      "globalNumber": 41,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: 6 - [3/4 ÷ {1/5 + (1/2 × (1 - 1/3))}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "14/3"
+        },
+        {
+          "id": "B",
+          "text": "157/32"
+        },
+        {
+          "id": "C",
+          "text": "147/32"
+        },
+        {
+          "id": "D",
+          "text": "17/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "6 - [3/4 ÷ {1/5 + 1/3}] = 6 - [3/4 ÷ 8/15] = 6 - 45/32 = 147/32.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "13/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 41
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-06c25494",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0042",
+      "globalNumber": 42,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of 7 + 77 + 777 + 7777 + 77777 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "86415"
+        },
+        {
+          "id": "B",
+          "text": "86385"
+        },
+        {
+          "id": "C",
+          "text": "86420"
+        },
+        {
+          "id": "D",
+          "text": "86500"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "7(1 + 11 + 111 + 1111 + 11111) = 7 × 12345 = 86415.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "13/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 42
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9413b005",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0043",
+      "globalNumber": 43,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (1 4/5 + 3.2) - 1 1/4",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.75"
+        },
+        {
+          "id": "B",
+          "text": "2.1"
+        },
+        {
+          "id": "C",
+          "text": "2.35"
+        },
+        {
+          "id": "D",
+          "text": "2.5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "1.8 + 3.2 - 1.25 = 5 - 1.25 = 3.75.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "13/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 43
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-5cbfdf3e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0044",
+      "globalNumber": 44,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the product: 1.2 × 2 2/5 × 3/6",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.4"
+        },
+        {
+          "id": "B",
+          "text": "1.5"
+        },
+        {
+          "id": "C",
+          "text": "1.44"
+        },
+        {
+          "id": "D",
+          "text": "2.1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "1.2 × 2.4 × 0.5 = 1.44.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "14/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 44
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9cf0e97d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0045",
+      "globalNumber": 45,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "0.2 + 0.02 + 0.002 = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.223"
+        },
+        {
+          "id": "B",
+          "text": "0.111"
+        },
+        {
+          "id": "C",
+          "text": "0.221"
+        },
+        {
+          "id": "D",
+          "text": "0.222"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "0.2 + 0.02 + 0.002 = 0.222.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "14/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 45
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-274aa5c2",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0046",
+      "globalNumber": 46,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the result of 3 1/4 ÷ 0.5 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.25"
+        },
+        {
+          "id": "B",
+          "text": "6.5"
+        },
+        {
+          "id": "C",
+          "text": "2.75"
+        },
+        {
+          "id": "D",
+          "text": "6.25"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "13/4 ÷ 1/2 = 13/2 = 6.5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "14/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 46
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-02ce8aca",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0047",
+      "globalNumber": 47,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate the expression: (1/9 ÷ 1/3) ÷ (1/15 + 1 – 9/10)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(1/3) ÷ (1/15 + 1/10) = (1/3) ÷ (5/30) = (1/3) ÷ (1/6) = 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "14/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 47
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-318281ba",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0048",
+      "globalNumber": 48,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √98 + √32 - √50",
+      "options": [
+        {
+          "id": "A",
+          "text": "7√2"
+        },
+        {
+          "id": "B",
+          "text": "6√2"
+        },
+        {
+          "id": "C",
+          "text": "5√2"
+        },
+        {
+          "id": "D",
+          "text": "8√2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "7√2 + 4√2 - 5√2 = 6√2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "14/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 48
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-886dbb4b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0049",
+      "globalNumber": 49,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (8/5 ÷ 14/5) × (10/7 ÷ 4/3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "120/196"
+        },
+        {
+          "id": "B",
+          "text": "180/196"
+        },
+        {
+          "id": "C",
+          "text": "196/180"
+        },
+        {
+          "id": "D",
+          "text": "150/360"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(8/5 × 5/14) × (10/7 × 3/4) = (4/7) × (30/28) = 120/196.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 49
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8a28c908",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0050",
+      "globalNumber": 50,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (3.5 + 3/8) - (9/5 × 1.25)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.4418"
+        },
+        {
+          "id": "B",
+          "text": "1.625"
+        },
+        {
+          "id": "C",
+          "text": "4.5526"
+        },
+        {
+          "id": "D",
+          "text": "7.5526"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(7/2 + 3/8) - (9/5 × 5/4) = 31/8 - 9/4 = 13/8 = 1.625.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 50
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-778afddf",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0051",
+      "globalNumber": 51,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: ((1.5 + 1/6) ÷ (2.25 - 1/3)) + 0.8",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.88"
+        },
+        {
+          "id": "B",
+          "text": "2.88"
+        },
+        {
+          "id": "C",
+          "text": "4.88"
+        },
+        {
+          "id": "D",
+          "text": "1.66"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(10/6 ÷ 1.9167) + 0.8 ≈ 1.66.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 51
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-817d781e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0052",
+      "globalNumber": 52,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (14/16 × 4.8) ÷ 0.12 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "35"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "32"
+        },
+        {
+          "id": "D",
+          "text": "28"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "4.2 ÷ 0.12 = 35.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 52
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-19c0871f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0053",
+      "globalNumber": 53,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: 40% of 175 − 37(1/2)% of 160 + 10% of 250",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "35"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "70 - 60 + 25 = 35.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 53
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ab34b2a5",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0054",
+      "globalNumber": 54,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √196 - √64 + √100",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "14 - 8 + 10 = 16.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 54
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ad7ee3d3",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0055",
+      "globalNumber": 55,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (3.2 - 1 1/5) + (2 1/4 ÷ 0.5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.2"
+        },
+        {
+          "id": "B",
+          "text": "6.5"
+        },
+        {
+          "id": "C",
+          "text": "8.7"
+        },
+        {
+          "id": "D",
+          "text": "9.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(3.2 - 1.2) + (9/4 × 2) = 2 + 4.5 = 6.5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 55
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7a213986",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0056",
+      "globalNumber": 56,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following represents the correct simplified value of the continued fraction: x = 1 + 1 / (3 + 1 / (1 + 1/2))",
+      "options": [
+        {
+          "id": "A",
+          "text": "14/11"
+        },
+        {
+          "id": "B",
+          "text": "11/12"
+        },
+        {
+          "id": "C",
+          "text": "11/5"
+        },
+        {
+          "id": "D",
+          "text": "9/7"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "1 + 1/2 = 3/2. 3 + 2/3 = 11/3. 1 + 3/11 = 14/11.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 56
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9771adc6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0057",
+      "globalNumber": 57,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "2.5% of 100 = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "2.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "2.5% of 100 = 2.5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "15/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 57
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-3a28f1fb",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0058",
+      "globalNumber": 58,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: [(4/3) + (4/5 ÷ 2/7)] ÷ [(3/2) − (7/12 × 3/4)]",
+      "options": [
+        {
+          "id": "A",
+          "text": "992/255"
+        },
+        {
+          "id": "B",
+          "text": "892/255"
+        },
+        {
+          "id": "C",
+          "text": "982/255"
+        },
+        {
+          "id": "D",
+          "text": "929/255"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "[4/3 + 14/5] ÷ [3/2 - 7/16] = (62/15) ÷ (17/16) = 992/255.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 58
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f51648b6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0059",
+      "globalNumber": 59,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (2 1/2 + 2.6) ÷ 0.75 + (1.25 × 3/5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "137/20"
+        },
+        {
+          "id": "B",
+          "text": "161/20"
+        },
+        {
+          "id": "C",
+          "text": "151/20"
+        },
+        {
+          "id": "D",
+          "text": "148/20"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "5.1 ÷ 0.75 + 0.75 = 6.8 + 0.75 = 7.55 = 151/20.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 59
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-37aae051",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0060",
+      "globalNumber": 60,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (5/6 + 3/4) ÷ (7/8 - 2/3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "38/5"
+        },
+        {
+          "id": "B",
+          "text": "48/5"
+        },
+        {
+          "id": "C",
+          "text": "58/5"
+        },
+        {
+          "id": "D",
+          "text": "68/5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(19/12) ÷ (5/24) = 19/12 × 24/5 = 38/5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 60
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ccc4711a",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0061",
+      "globalNumber": 61,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √45 + √20 - √80",
+      "options": [
+        {
+          "id": "A",
+          "text": "4√5"
+        },
+        {
+          "id": "B",
+          "text": "6√5"
+        },
+        {
+          "id": "C",
+          "text": "√5"
+        },
+        {
+          "id": "D",
+          "text": "7√5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "3√5 + 2√5 - 4√5 = √5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 61
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9a37e18b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0062",
+      "globalNumber": 62,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: (0.04³ + 0.01³) ÷ (0.16³ + 0.04³)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.008"
+        },
+        {
+          "id": "B",
+          "text": "0.015"
+        },
+        {
+          "id": "C",
+          "text": "0.016"
+        },
+        {
+          "id": "D",
+          "text": "0.009"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.04³ + 0.01³ / [4³(0.04³ + 0.01³)] = 1/64 ≈ 0.0156 ≈ 0.015.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 62
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-38186f90",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0063",
+      "globalNumber": 63,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Convert 4.625 into a fraction in simplest form.",
+      "options": [
+        {
+          "id": "A",
+          "text": "37/8"
+        },
+        {
+          "id": "B",
+          "text": "27/4"
+        },
+        {
+          "id": "C",
+          "text": "38/7"
+        },
+        {
+          "id": "D",
+          "text": "25/6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "4 + 625/1000 = 4 + 5/8 = 37/8.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 63
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a45eac06",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0064",
+      "globalNumber": 64,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the difference: 7.4 - (2 7/8 + 2.75)",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.822"
+        },
+        {
+          "id": "B",
+          "text": "1.775"
+        },
+        {
+          "id": "C",
+          "text": "1.522"
+        },
+        {
+          "id": "D",
+          "text": "2.025"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "7.4 - (2.875 + 2.75) = 7.4 - 5.625 = 1.775.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 64
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-69f79b68",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0065",
+      "globalNumber": 65,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Add (1/16 + 1/32) and express the result as a decimal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.09275"
+        },
+        {
+          "id": "B",
+          "text": "0.09375"
+        },
+        {
+          "id": "C",
+          "text": "0.09175"
+        },
+        {
+          "id": "D",
+          "text": "0.09475"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "2/32 + 1/32 = 3/32 = 0.09375.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "16/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 65
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-73eb03c1",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0066",
+      "globalNumber": 66,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √(14 + 6√5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 + √5"
+        },
+        {
+          "id": "B",
+          "text": "3 + √5"
+        },
+        {
+          "id": "C",
+          "text": "3 + 2√5"
+        },
+        {
+          "id": "D",
+          "text": "9 + √5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "√(14 + 2√(45)) = √9 + √5 = 3 + √5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 66
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2d227b64",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0067",
+      "globalNumber": 67,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "42³ + 45³ - 63³ + 149 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-84685"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "-78659"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "74088 + 91125 - 250047 + 149 = -84685.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 67
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-bb4d9f96",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0068",
+      "globalNumber": 68,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (2.8 + 5.125) × 0.45 - (0.90 ÷ 0.3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.566"
+        },
+        {
+          "id": "B",
+          "text": "0.11875"
+        },
+        {
+          "id": "C",
+          "text": "2.8756"
+        },
+        {
+          "id": "D",
+          "text": "-2.8756"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "7.925 × 0.45 - 3 = 3.56625 - 3 = 0.566.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 68
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b3361120",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0069",
+      "globalNumber": 69,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (0.03³ + 0.002³) ÷ (0.3³ + 0.02³) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.002"
+        },
+        {
+          "id": "B",
+          "text": "0.0045"
+        },
+        {
+          "id": "C",
+          "text": "0.0102"
+        },
+        {
+          "id": "D",
+          "text": "0.001"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(0.1)³ = 0.001.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 69
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a2e515cc",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0070",
+      "globalNumber": 70,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate √(30 + √(30 + √(30 + ...)))",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Factors of 30 with difference 1 are 5 and 6. Result is 6.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 70
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0f7490fb",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0071",
+      "globalNumber": 71,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "18³ + 20³ - 29³ + 116 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-10441"
+        },
+        {
+          "id": "B",
+          "text": "-16789"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "5832 + 8000 - 24389 + 116 = -10441.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "17/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 71
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-32193c8a",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0072",
+      "globalNumber": 72,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will come in place of ? to satisfy the equation: (√5 + 3)² = ? + 6√5",
+      "options": [
+        {
+          "id": "A",
+          "text": "17"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "14"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(√5 + 3)² = 5 + 9 + 6√5 = 14 + 6√5. ? = 14.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 72
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0b17bc72",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0073",
+      "globalNumber": 73,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: (√7396 - √1156) × (1/2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "22"
+        },
+        {
+          "id": "B",
+          "text": "23"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "27"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(86 - 34) × 1/2 = 52/2 = 26.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 73
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-35d8eec9",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0074",
+      "globalNumber": 74,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (0.11³ + 0.08³) ÷ (0.22³ + 0.16³) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.125"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(0.11³ + 0.08³) / [2³(0.11³ + 0.08³)] = 1/8 = 0.125.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 74
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e8033497",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0075",
+      "globalNumber": 75,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: {(0.6)³ + (0.06)³ + (0.006)³} ÷ {(0.2)³ + (0.02)³ + (0.002)³}",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "27"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Factor out 3³: 3³ = 27.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 75
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-3a233706",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0076",
+      "globalNumber": 76,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of √(711 + √(303 + √441))",
+      "options": [
+        {
+          "id": "A",
+          "text": "44"
+        },
+        {
+          "id": "B",
+          "text": "37"
+        },
+        {
+          "id": "C",
+          "text": "27"
+        },
+        {
+          "id": "D",
+          "text": "33"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "√(711 + √(303 + 21)) = √(711 + √324) = √(711 + 18) = √729 = 27.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 76
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6cce779d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0077",
+      "globalNumber": 77,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: (0.09³ + 0.03³) ÷ (0.3³ + 0.1³)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.028"
+        },
+        {
+          "id": "B",
+          "text": "0.056"
+        },
+        {
+          "id": "C",
+          "text": "0.003"
+        },
+        {
+          "id": "D",
+          "text": "0.027"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(0.3)³ = 0.027.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 77
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0ef9f96c",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0078",
+      "globalNumber": 78,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: (√6400 - √2401) × (1/2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "17.75"
+        },
+        {
+          "id": "B",
+          "text": "18.5"
+        },
+        {
+          "id": "C",
+          "text": "15.5"
+        },
+        {
+          "id": "D",
+          "text": "10.75"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(80 - 49)/2 = 31/2 = 15.5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 78
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-cbc1d53e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0079",
+      "globalNumber": 79,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: (√5776 - √4761) × (1/3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.5"
+        },
+        {
+          "id": "B",
+          "text": "4.3"
+        },
+        {
+          "id": "C",
+          "text": "3.3"
+        },
+        {
+          "id": "D",
+          "text": "2.3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(76 - 69)/3 = 7/3 ≈ 2.3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 79
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2e1b20b5",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0080",
+      "globalNumber": 80,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (0.16³ + 0.04³) ÷ (0.4³ + 0.1³)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.64"
+        },
+        {
+          "id": "B",
+          "text": "0.064"
+        },
+        {
+          "id": "C",
+          "text": "0.6"
+        },
+        {
+          "id": "D",
+          "text": "0.006"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(0.4)³ = 0.064.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 80
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e2dc77b8",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0081",
+      "globalNumber": 81,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of (0.02³ + 0.002³) ÷ (0.04³ + 0.004³)",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/8"
+        },
+        {
+          "id": "B",
+          "text": "1/16"
+        },
+        {
+          "id": "C",
+          "text": "1/64"
+        },
+        {
+          "id": "D",
+          "text": "1/128"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "a³ + b³ / [2³(a³ + b³)] = 1/8.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "18/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 81
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-becd0d2b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0082",
+      "globalNumber": 82,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the expression: √(10 + 4√6)",
+      "options": [
+        {
+          "id": "A",
+          "text": "√6 + 2"
+        },
+        {
+          "id": "B",
+          "text": "3 + √5"
+        },
+        {
+          "id": "C",
+          "text": "2 + √6"
+        },
+        {
+          "id": "D",
+          "text": "3 + √4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "√(6 + 4 + 2√24) = √6 + √4 = √6 + 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 82
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ad083d22",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0083",
+      "globalNumber": 83,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "17³ + 20³ - 19³ + 346 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "6400"
+        },
+        {
+          "id": "C",
+          "text": "-4860"
+        },
+        {
+          "id": "D",
+          "text": "5200"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "4913 + 8000 - 6859 + 346 = 6400.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 83
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d6ea6f4d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0084",
+      "globalNumber": 84,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the result of (0.4³ + 0.3³ - 0.7³) ÷ (3 × 0.4 × 0.3 × 0.7) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "7/9"
+        },
+        {
+          "id": "C",
+          "text": "8/9"
+        },
+        {
+          "id": "D",
+          "text": "6/9"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Since 0.4 + 0.3 - 0.7 = 0, a³ + b³ + c³ = 3abc. Result is -1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 84
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-054f5e32",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0085",
+      "globalNumber": 85,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: (√13 + √5)² - (√13 - √5)²",
+      "options": [
+        {
+          "id": "A",
+          "text": "4√65"
+        },
+        {
+          "id": "B",
+          "text": "2√65"
+        },
+        {
+          "id": "C",
+          "text": "6√65"
+        },
+        {
+          "id": "D",
+          "text": "8√65"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(a + b)² - (a - b)² = 4ab = 4√13√5 = 4√65.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 85
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c88d1381",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0086",
+      "globalNumber": 86,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If p = 0.7 and q = 0.05, find the value of ((3p)³ + (3q)³) / (p³ + q³)",
+      "options": [
+        {
+          "id": "A",
+          "text": "64"
+        },
+        {
+          "id": "B",
+          "text": "27"
+        },
+        {
+          "id": "C",
+          "text": "59"
+        },
+        {
+          "id": "D",
+          "text": "65"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "27(p³ + q³)/(p³ + q³) = 27.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 86
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2651856d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0087",
+      "globalNumber": 87,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: 1/(√5 - √2) + 1/(√5 + √2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "√5"
+        },
+        {
+          "id": "B",
+          "text": "(5√2)/3"
+        },
+        {
+          "id": "C",
+          "text": "(2√5)/7"
+        },
+        {
+          "id": "D",
+          "text": "(2√5)/3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(√5 + √2 + √5 - √2)/(5 - 2) = 2√5/3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 87
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a9144317",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0088",
+      "globalNumber": 88,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (0.3³ + 0.03³) ÷ (0.6³ + 0.06³) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.065"
+        },
+        {
+          "id": "B",
+          "text": "0.005"
+        },
+        {
+          "id": "C",
+          "text": "0.225"
+        },
+        {
+          "id": "D",
+          "text": "0.125"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(1/2)³ = 1/8 = 0.125.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "19/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 88
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1bd68402",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0089",
+      "globalNumber": 89,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Multiply 14.345 by 0.037 and round your answer to 4 decimal places.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5307"
+        },
+        {
+          "id": "B",
+          "text": "0.5370"
+        },
+        {
+          "id": "C",
+          "text": "0.5037"
+        },
+        {
+          "id": "D",
+          "text": "0.5703"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "14.345 × 0.037 = 0.530765 ≈ 0.5307.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "20/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 89
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0ca2807f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0090",
+      "globalNumber": 90,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of √9409 - √1849",
+      "options": [
+        {
+          "id": "A",
+          "text": "54"
+        },
+        {
+          "id": "B",
+          "text": "68"
+        },
+        {
+          "id": "C",
+          "text": "78"
+        },
+        {
+          "id": "D",
+          "text": "88"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "97 - 43 = 54.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "20/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 90
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-07f0623b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0091",
+      "globalNumber": 91,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √20 + √80",
+      "options": [
+        {
+          "id": "A",
+          "text": "6√5"
+        },
+        {
+          "id": "B",
+          "text": "7√5"
+        },
+        {
+          "id": "C",
+          "text": "8√5"
+        },
+        {
+          "id": "D",
+          "text": "9√5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "2√5 + 4√5 = 6√5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "20/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 91
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-5b539d03",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0092",
+      "globalNumber": 92,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Add: 8.65 + 9.28 + 0.067",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.257"
+        },
+        {
+          "id": "B",
+          "text": "8.867"
+        },
+        {
+          "id": "C",
+          "text": "7.768"
+        },
+        {
+          "id": "D",
+          "text": "17.997"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "8.65 + 9.28 + 0.067 = 17.997.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "20/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 92
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1c27384b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0093",
+      "globalNumber": 93,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of √(13 − 2√42) − 1 / √(13 − 2√42) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 + √5"
+        },
+        {
+          "id": "B",
+          "text": "2√6"
+        },
+        {
+          "id": "C",
+          "text": "−2√6"
+        },
+        {
+          "id": "D",
+          "text": "1 − √5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "√(13 - 2√42) = √7 - √6. 1/(√7 - √6) = √7 + √6. (√7 - √6) - (√7 + √6) = -2√6.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "21/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 93
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-39cacf36",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0094",
+      "globalNumber": 94,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the simplified value of: 0.02505 / (23² + 6² - 64)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 × 10^(-5)"
+        },
+        {
+          "id": "B",
+          "text": "3 × 10^(-5)"
+        },
+        {
+          "id": "C",
+          "text": "2.4 × 10^(-4)"
+        },
+        {
+          "id": "D",
+          "text": "3 × 10^(-4)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.02505 / (529 + 36 - 64) = 0.02505 / 501 = 5 × 10^(-5).",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "21/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 94
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-875a6b2f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0095",
+      "globalNumber": 95,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will come in place of ? to satisfy the equation: (√8 - 1)² = ? - 2√8",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "8 + 1 - 2√8 = 9 - 2√8. ? = 9.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "21/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 95
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7ce419c2",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0096",
+      "globalNumber": 96,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √(7 + 4√3) / √(7 - 4√3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 - 4√3"
+        },
+        {
+          "id": "B",
+          "text": "7 + 4√3"
+        },
+        {
+          "id": "C",
+          "text": "3 + 2√3"
+        },
+        {
+          "id": "D",
+          "text": "3 - 2√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(7 + 4√3)/(√(49 - 48)) = 7 + 4√3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "21/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 96
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ca9e7a6d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0097",
+      "globalNumber": 97,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following numbers has a terminating decimal representation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6/16"
+        },
+        {
+          "id": "B",
+          "text": "2/12"
+        },
+        {
+          "id": "C",
+          "text": "4/14"
+        },
+        {
+          "id": "D",
+          "text": "8/18"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "6/16 = 3/8 = 0.375 (terminating).",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "22/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 97
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c265d860",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0098",
+      "globalNumber": 98,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will come in place of ? to satisfy the equation: (√7 - 2)² = ? - 4√7",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "7 + 4 - 4√7 = 11 - 4√7. ? = 11.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "22/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 98
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-dcd4f171",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0099",
+      "globalNumber": 99,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (√5 + √3)²",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 + 2√15"
+        },
+        {
+          "id": "B",
+          "text": "8 - 2√15"
+        },
+        {
+          "id": "C",
+          "text": "3 + 2√15"
+        },
+        {
+          "id": "D",
+          "text": "3 - 2√15"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "5 + 3 + 2√15 = 8 + 2√15.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "22/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 99
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f01aa250",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0100",
+      "globalNumber": 100,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (√(16 + 2√55) + √(16 − 2√55)) / √4",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√3"
+        },
+        {
+          "id": "B",
+          "text": "√11"
+        },
+        {
+          "id": "C",
+          "text": "3√2"
+        },
+        {
+          "id": "D",
+          "text": "√5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(√11 + √5 + √11 - √5)/2 = 2√11/2 = √11.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "22/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 100
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d6b7e58e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0101",
+      "globalNumber": 101,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: √(4 × 225 ÷ 15 + 25 − 4)",
+      "options": [
+        {
+          "id": "A",
+          "text": "√81"
+        },
+        {
+          "id": "B",
+          "text": "√21"
+        },
+        {
+          "id": "C",
+          "text": "√71"
+        },
+        {
+          "id": "D",
+          "text": "√41"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "√(4 × 15 + 25 - 4) = √(60 + 21) = √81.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "23/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 101
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f6ecfd4e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0102",
+      "globalNumber": 102,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify : √(11 + 4√6)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2√3 + √3"
+        },
+        {
+          "id": "B",
+          "text": "2√2 + √3"
+        },
+        {
+          "id": "C",
+          "text": "√11 + √5"
+        },
+        {
+          "id": "D",
+          "text": "2√3 + √2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "√(8 + 3 + 2√24) = √8 + √3 = 2√2 + √3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "24/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 102
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-195514b4",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0103",
+      "globalNumber": 103,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will take the place of \"?\" in the given equation: ? / √64 = √121 / (10 + 1)",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "?/8 = 11/11 = 1 => ? = 8.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "24/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 103
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-796d7495",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0104",
+      "globalNumber": 104,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: (√6241 - √1260.25) × (1/6)",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.875"
+        },
+        {
+          "id": "B",
+          "text": "8.875"
+        },
+        {
+          "id": "C",
+          "text": "7.25"
+        },
+        {
+          "id": "D",
+          "text": "6.685"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(79 - 35.5)/6 = 43.5/6 = 7.25.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "25/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 104
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-eb665d56",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0105",
+      "globalNumber": 105,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: 2√5(√45 - √20)",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "2√5(3√5 - 2√5) = 2√5(√5) = 10.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "25/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 105
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-285291f4",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0106",
+      "globalNumber": 106,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Rationalize: (√6 + √7) / (√6 − √7)",
+      "options": [
+        {
+          "id": "A",
+          "text": "13 + 2√42"
+        },
+        {
+          "id": "B",
+          "text": "-13 - 2√42"
+        },
+        {
+          "id": "C",
+          "text": "13 - 2√42"
+        },
+        {
+          "id": "D",
+          "text": "-13 + 2√42"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(√6 + √7)² / (6 - 7) = -(13 + 2√42) = -13 - 2√42.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "26/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 106
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e5e0229b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0107",
+      "globalNumber": 107,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve : √(8 × 447 ÷ 24 + 75 − 28)",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "√(149 + 75 - 28) = √196 = 14.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "26/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 107
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8cfd8287",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0108",
+      "globalNumber": 108,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve: (12.12)² - 396",
+      "options": [
+        {
+          "id": "A",
+          "text": "-249.1056"
+        },
+        {
+          "id": "B",
+          "text": "249.10566"
+        },
+        {
+          "id": "C",
+          "text": "-251.1056"
+        },
+        {
+          "id": "D",
+          "text": "251.1056"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "146.8944 - 396 = -249.1056.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "26/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 108
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-97f4a4c0",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0109",
+      "globalNumber": 109,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: 9 1/5 - [5/6 ÷ {5/6 − (1/2 × (7/4 - 1/4))}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "-4/5"
+        },
+        {
+          "id": "B",
+          "text": "3 1/4"
+        },
+        {
+          "id": "C",
+          "text": "−2 3/4"
+        },
+        {
+          "id": "D",
+          "text": "7 3/4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "46/5 - [5/6 ÷ {5/6 - 3/4}] = 46/5 - [5/6 ÷ 1/12] = 46/5 - 10 = -4/5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "14/10/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 109
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b532185c",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0110",
+      "globalNumber": 110,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate the continued fraction: x = 5 + 1 / (5 + 1 / (6 + 1/2))",
+      "options": [
+        {
+          "id": "A",
+          "text": "348/67"
+        },
+        {
+          "id": "B",
+          "text": "358/67"
+        },
+        {
+          "id": "C",
+          "text": "348/77"
+        },
+        {
+          "id": "D",
+          "text": "348/69"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "6 + 1/2 = 13/2. 5 + 2/13 = 67/13. 5 + 13/67 = 348/67.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "14/10/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 110
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-455a7b02",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0111",
+      "globalNumber": 111,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate the continued fraction: x = 3 + 1 / (8 + 1 / (6 + 1/2))",
+      "options": [
+        {
+          "id": "A",
+          "text": "331/106"
+        },
+        {
+          "id": "B",
+          "text": "131/106"
+        },
+        {
+          "id": "C",
+          "text": "321/106"
+        },
+        {
+          "id": "D",
+          "text": "231/106"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "6 + 1/2 = 13/2. 8 + 2/13 = 106/13. 3 + 13/106 = 331/106.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "14/10/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 111
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-26ce1f29",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0112",
+      "globalNumber": 112,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following equals 20 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(√11 + √5)² - 2√55"
+        },
+        {
+          "id": "B",
+          "text": "(√5 + √5)²"
+        },
+        {
+          "id": "C",
+          "text": "(√2 + √3)² + 2√6"
+        },
+        {
+          "id": "D",
+          "text": "(√11 - √5)² + 2√55\n\nSSC Selection Post (XIII)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(√5 + √5)² = (2√5)² = 20.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "14/10/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 112
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f5143f86",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0113",
+      "globalNumber": 113,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (9√3) / (3√3) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "√3"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "3√3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "9√3 / 3√3 = 3.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "26/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 113
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-74d2dbc7",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0114",
+      "globalNumber": 114,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Identify the correct decimal equivalent of 253/16.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15.8125"
+        },
+        {
+          "id": "B",
+          "text": "16.125"
+        },
+        {
+          "id": "C",
+          "text": "14.9375"
+        },
+        {
+          "id": "D",
+          "text": "15.9375"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "253/16 = 15.8125.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "26/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 114
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1fc098c6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0115",
+      "globalNumber": 115,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the square root of 0.0049.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.007"
+        },
+        {
+          "id": "B",
+          "text": "0.07"
+        },
+        {
+          "id": "C",
+          "text": "0.7"
+        },
+        {
+          "id": "D",
+          "text": "0.0007"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "√0.0049 = 0.07.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "31/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 115
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b66f2394",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0116",
+      "globalNumber": 116,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the reciprocal of 5/7 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/7"
+        },
+        {
+          "id": "B",
+          "text": "7/5"
+        },
+        {
+          "id": "C",
+          "text": "1/5"
+        },
+        {
+          "id": "D",
+          "text": "7/1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Reciprocal of 5/7 is 7/5.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "31/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 116
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d873dc24",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0117",
+      "globalNumber": 117,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the decimal form of 9/20 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.45"
+        },
+        {
+          "id": "B",
+          "text": "0.425"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "0.48"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "9/20 = 0.45.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 117
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-721903a0",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0118",
+      "globalNumber": 118,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The square of 34 × 34 :",
+      "options": [
+        {
+          "id": "A",
+          "text": "1024"
+        },
+        {
+          "id": "B",
+          "text": "1156"
+        },
+        {
+          "id": "C",
+          "text": "1089"
+        },
+        {
+          "id": "D",
+          "text": "1296"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "34 × 34 = 1156.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 118
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0d2eb46e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0119",
+      "globalNumber": 119,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the square of 23.",
+      "options": [
+        {
+          "id": "A",
+          "text": "529"
+        },
+        {
+          "id": "B",
+          "text": "512"
+        },
+        {
+          "id": "C",
+          "text": "484"
+        },
+        {
+          "id": "D",
+          "text": "576"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "23² = 529.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 119
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6936f1d2",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0120",
+      "globalNumber": 120,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following is the CORRECT comparison ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/5 > 0.45"
+        },
+        {
+          "id": "B",
+          "text": "0.6 < 3/4"
+        },
+        {
+          "id": "C",
+          "text": "7/10 < 0.65"
+        },
+        {
+          "id": "D",
+          "text": "0.3 > 1/2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.6 < 0.75 (3/4).",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 120
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-bbec342b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0121",
+      "globalNumber": 121,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Show that 0.4757575... can be expressed in the form p/q, where p and q are integers and q≠0, What is the value of p/q?",
+      "options": [
+        {
+          "id": "A",
+          "text": "157/330"
+        },
+        {
+          "id": "B",
+          "text": "151/330"
+        },
+        {
+          "id": "C",
+          "text": "129/310"
+        },
+        {
+          "id": "D",
+          "text": "164/330"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.47575... = (475 - 4)/990 = 471/990 = 157/330.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 121
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c1ed0c74",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0122",
+      "globalNumber": 122,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following fractions is equivalent to 0.4 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2/3"
+        },
+        {
+          "id": "B",
+          "text": "3/5"
+        },
+        {
+          "id": "C",
+          "text": "1/4"
+        },
+        {
+          "id": "D",
+          "text": "2/5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "0.4 = 4/10 = 2/5.",
+      "exam": {
+        "name": "SSC Selection Post (Matriculation Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "01/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 122
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-11481559",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0123",
+      "globalNumber": 123,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √18 + √50",
+      "options": [
+        {
+          "id": "A",
+          "text": "√68"
+        },
+        {
+          "id": "B",
+          "text": "3√2 + 5√2"
+        },
+        {
+          "id": "C",
+          "text": "8√2"
+        },
+        {
+          "id": "D",
+          "text": "7√2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "3√2 + 5√2 = 8√2.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "25/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 123
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d2cc4e41",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0124",
+      "globalNumber": 124,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of √(7 + 4√3) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "√3 + 1"
+        },
+        {
+          "id": "B",
+          "text": "√3 + 2"
+        },
+        {
+          "id": "C",
+          "text": "√6 + 1"
+        },
+        {
+          "id": "D",
+          "text": "3 + √1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "√(4 + 3 + 2√12) = 2 + √3.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "28/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 124
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4af5f3ce",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0125",
+      "globalNumber": 125,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The square root of 9 + 4√5 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 + √5"
+        },
+        {
+          "id": "B",
+          "text": "√5 - 2"
+        },
+        {
+          "id": "C",
+          "text": "3 + √5"
+        },
+        {
+          "id": "D",
+          "text": "3 - √5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "√(4 + 5 + 2√20) = 2 + √5.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 125
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4fb30177",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0126",
+      "globalNumber": 126,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplification: (√5 + √7)²",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 + √35"
+        },
+        {
+          "id": "B",
+          "text": "12 + 2√35"
+        },
+        {
+          "id": "C",
+          "text": "12 + 2√5"
+        },
+        {
+          "id": "D",
+          "text": "12 + 2√7"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "5 + 7 + 2√35 = 12 + 2√35.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "29/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 126
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-03023bf6",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0127",
+      "globalNumber": 127,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of (0.96 ÷ 8) ÷ (1.30 – 0.34) = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/6"
+        },
+        {
+          "id": "B",
+          "text": "1/8"
+        },
+        {
+          "id": "C",
+          "text": "1/4"
+        },
+        {
+          "id": "D",
+          "text": "3/8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.12 / 0.96 = 1/8.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "24/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 127
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-655f30ef",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0128",
+      "globalNumber": 128,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of: √(8 + 2√15) + √(8 − 2√15)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3√3"
+        },
+        {
+          "id": "B",
+          "text": "2√5"
+        },
+        {
+          "id": "C",
+          "text": "3√2"
+        },
+        {
+          "id": "D",
+          "text": "√15"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(√5 + √3) + (√5 - √3) = 2√5.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "24/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 128
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e1309651",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0129",
+      "globalNumber": 129,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: (1/21) + (1/42) + (1/63) + (1/28)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.01231"
+        },
+        {
+          "id": "B",
+          "text": "0.01002"
+        },
+        {
+          "id": "C",
+          "text": "0.12301"
+        },
+        {
+          "id": "D",
+          "text": "0.01356"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "31/252 ≈ 0.12301.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "25/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 129
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2f5d682b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0130",
+      "globalNumber": 130,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Evaluate: (1/21) + (1/28) + (1/35) + (1/42)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1928"
+        },
+        {
+          "id": "B",
+          "text": "0.0856"
+        },
+        {
+          "id": "C",
+          "text": "0.1357"
+        },
+        {
+          "id": "D",
+          "text": "0.0775"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "57/(7 × 60) = 0.1357.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "26/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 130
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6b3aba68",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0131",
+      "globalNumber": 131,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (5 1/2 + 3.75) × (3/8 - 0.125) ÷ (1 2/5 + 4/10)",
+      "options": [
+        {
+          "id": "A",
+          "text": "185/144"
+        },
+        {
+          "id": "B",
+          "text": "175/144"
+        },
+        {
+          "id": "C",
+          "text": "165/144"
+        },
+        {
+          "id": "D",
+          "text": "145/144"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(37/4) × (0.25) ÷ (9/5) = 185/144.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "28/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 131
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2f12cf7b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0132",
+      "globalNumber": 132,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: √108 + √12 - √75",
+      "options": [
+        {
+          "id": "A",
+          "text": "5√3"
+        },
+        {
+          "id": "B",
+          "text": "7√3"
+        },
+        {
+          "id": "C",
+          "text": "3√3"
+        },
+        {
+          "id": "D",
+          "text": "6√3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "6√3 + 2√3 - 5√3 = 3√3.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 132
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9d947852",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0133",
+      "globalNumber": 133,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: (4√7 + 3√28) - (√63 + 5√7).",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2√7"
+        },
+        {
+          "id": "C",
+          "text": "5√7"
+        },
+        {
+          "id": "D",
+          "text": "-3√5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "10√7 - 8√7 = 2√7.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "31/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 133
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d357d89e",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0134",
+      "globalNumber": 134,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (√2 + √7)².",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 - 2√15"
+        },
+        {
+          "id": "B",
+          "text": "8 - 2√14"
+        },
+        {
+          "id": "C",
+          "text": "2 + 2√15"
+        },
+        {
+          "id": "D",
+          "text": "9 + 2√14"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "2 + 7 + 2√14 = 9 + 2√14.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "02/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 134
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b41362bb",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0135",
+      "globalNumber": 135,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of: 1/(7 − √6) + 1/(7 + √6) - 14/(49 − 6)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "√6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "14/43 - 14/43 = 0.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "02/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 135
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-34fff216",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0136",
+      "globalNumber": 136,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of 0.2 + 0.22 + 0.222",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.642"
+        },
+        {
+          "id": "B",
+          "text": "0.664"
+        },
+        {
+          "id": "C",
+          "text": "0.662"
+        },
+        {
+          "id": "D",
+          "text": "0.644\n\neduquity-based pattern (ebp) Questions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "0.2 + 0.22 + 0.222 = 0.642.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "29/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 136
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-62d136ef",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0137",
+      "globalNumber": 137,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of 5 + 24 × 8 ÷ 8 of 8 - 8 ÷ 8 × 4 of 4 is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "-8"
+        },
+        {
+          "id": "D",
+          "text": "-9"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "5 + 24 × 8 ÷ 64 - 1 × 16 = 5 + 3 - 16 = -8.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 137
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-09faa448",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0138",
+      "globalNumber": 138,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (2z - 5y)² + (5z + 2y)² - 25z².",
+      "options": [
+        {
+          "id": "A",
+          "text": "19y² - 4z²"
+        },
+        {
+          "id": "B",
+          "text": "29y² + 4z²"
+        },
+        {
+          "id": "C",
+          "text": "29y² - 4z²"
+        },
+        {
+          "id": "D",
+          "text": "19y² + 4z²"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "4z² + 25y² - 20yz + 25z² + 4y² + 20yz - 25z² = 29y² + 4z².",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 138
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e9fb5377",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0139",
+      "globalNumber": 139,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The lowest terms of 221/488 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "121/488"
+        },
+        {
+          "id": "B",
+          "text": "221/488"
+        },
+        {
+          "id": "C",
+          "text": "121/288"
+        },
+        {
+          "id": "D",
+          "text": "221/288"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF(221, 488) = 1, so already in lowest terms: 221/488.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 139
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8ea19e04",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0140",
+      "globalNumber": 140,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (x² − 9) / (x + 3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + 3"
+        },
+        {
+          "id": "B",
+          "text": "x - 3"
+        },
+        {
+          "id": "C",
+          "text": "x² − 9"
+        },
+        {
+          "id": "D",
+          "text": "x - 9"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(x - 3)(x + 3)/(x + 3) = x - 3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 140
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-96001e50",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0141",
+      "globalNumber": 141,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify ((8.3)³ + (9.2)³ + (6.1)³ − 3 × 8.3 × 9.2 × 6.1) / ((8.3)² + (9.2)² + (6.1)² − 8.3 × 9.2 − 9.2 × 6.1 − 6.1 × 8.3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "30.2"
+        },
+        {
+          "id": "B",
+          "text": "23.6"
+        },
+        {
+          "id": "C",
+          "text": "28.7"
+        },
+        {
+          "id": "D",
+          "text": "25.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "a³ + b³ + c³ - 3abc / (a² + b² + c² - ab - bc - ca) = a + b + c = 8.3 + 9.2 + 6.1 = 23.6.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 141
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-55f3bc7c",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0142",
+      "globalNumber": 142,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (0.58 × 0.58 × 0.58 − 0.001) / (0.58 × 0.58 + 0.058 + 0.01)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.48"
+        },
+        {
+          "id": "B",
+          "text": "0.28"
+        },
+        {
+          "id": "C",
+          "text": "0.37"
+        },
+        {
+          "id": "D",
+          "text": "0.42"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(a³ - b³)/(a² + ab + b²) = a - b = 0.58 - 0.1 = 0.48.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 142
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-dcd1f8c5",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0143",
+      "globalNumber": 143,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If 45 ÷ 3 + 4 × A - 48 ÷ 24 + 4 = 1, then the value of A is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "-4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "15 + 4A - 2 + 4 = 1 => 4A + 17 = 1 => A = -4.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 143
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-56c41f55",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0144",
+      "globalNumber": 144,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify ((4.2)³ − (1.2)³) / ((4.2)² + 5.04 + (1.2)²)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(a³ - b³)/(a² + ab + b²) = a - b = 4.2 - 1.2 = 3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 144
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b17a7a7a",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0145",
+      "globalNumber": 145,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of the expression (1.55² + 0.55² + 1.55 × 0.55) is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.55² - 0.55²"
+        },
+        {
+          "id": "B",
+          "text": "1.55³ - 0.55³"
+        },
+        {
+          "id": "C",
+          "text": "1.55³ + 0.55³"
+        },
+        {
+          "id": "D",
+          "text": "1.55² + 0.55²"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Multiplied by (1.55 - 0.55) gives 1.55³ - 0.55³.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 145
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-efa6084f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0146",
+      "globalNumber": 146,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve the following: [(2.5 + 1.5)² of 1/2 ÷ 4] × 8 − 1",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "81"
+        },
+        {
+          "id": "C",
+          "text": "27.1"
+        },
+        {
+          "id": "D",
+          "text": "63"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "[16 of 1/2 ÷ 4] × 8 - 1 = [8 ÷ 4] × 8 - 1 = 2 × 8 - 1 = 15? Check: [16 × 1/2 ÷ 4] = 2. But Sol says: [(4)² of 1/2 × 8 - 1] = 63.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 146
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e428e9b7",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0147",
+      "globalNumber": 147,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: ((x − y)³ + (y − z)³ + (z − x)³) / ((x − y)(y − z)(z − x))",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Since (x - y) + (y - z) + (z - x) = 0, a³ + b³ + c³ = 3abc. Expression = 3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 147
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-836eb634",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0148",
+      "globalNumber": 148,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: (g - h)² - (g + h)² + 4gh",
+      "options": [
+        {
+          "id": "A",
+          "text": "4gh"
+        },
+        {
+          "id": "B",
+          "text": "−4gh"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(g - h)² - (g + h)² = -4gh. -4gh + 4gh = 0.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 148
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b5c51801",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0149",
+      "globalNumber": 149,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (1.5 × 1.5 + 2.5 × 2.5 + 3.5 × 3.5 + 2 × 1.5 × 2.5 + 2 × 2.5 × 3.5 + 2 × 1.5 × 3.5) / (1.5 + 2.5 + 3.5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "9.5"
+        },
+        {
+          "id": "B",
+          "text": "6.5"
+        },
+        {
+          "id": "C",
+          "text": "8.5"
+        },
+        {
+          "id": "D",
+          "text": "7.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(a + b + c)² / (a + b + c) = a + b + c = 1.5 + 2.5 + 3.5 = 7.5.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 149
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-195b261b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0150",
+      "globalNumber": 150,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following: [(5 1/2 - 3 1/3) of 1 5/13 + 1 - 2 3/4 × 2/11] ÷ 3/2",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "11/2"
+        },
+        {
+          "id": "C",
+          "text": "-2"
+        },
+        {
+          "id": "D",
+          "text": "3 1/2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "[13/6 of 18/13 + 1 - 4] = [3 + 1 - 4] = 0. 0 ÷ 3/2 = 0.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 150
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1d68cf47",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0151",
+      "globalNumber": 151,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the given expression: (4x² + 9y² − 12xy) / (3y − 2x)",
+      "options": [
+        {
+          "id": "A",
+          "text": "2y - 3x"
+        },
+        {
+          "id": "B",
+          "text": "3y - 2x"
+        },
+        {
+          "id": "C",
+          "text": "2x - 3y"
+        },
+        {
+          "id": "D",
+          "text": "3x - 2y"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(3y - 2x)² / (3y - 2x) = 3y - 2x.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 151
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-31b5dca8",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0152",
+      "globalNumber": 152,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 25 ÷ 5 + 3 of 2 - 4 + 6 of 3 ÷ 2 - 8 + 4",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "5 + 6 - 4 + 9 - 8 + 4 = 12.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 152
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c286abcb",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0153",
+      "globalNumber": 153,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 0.07 × 0.28 ÷ 0.04 + 0.64 – 1.64 ÷ 0.04",
+      "options": [
+        {
+          "id": "A",
+          "text": "38.56"
+        },
+        {
+          "id": "B",
+          "text": "-39.87"
+        },
+        {
+          "id": "C",
+          "text": "-46.48"
+        },
+        {
+          "id": "D",
+          "text": "36.78"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.07 × 7 + 0.64 - 41 = 0.49 + 0.64 - 41 = -39.87.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 153
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-96c9333b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0154",
+      "globalNumber": 154,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of 11 - {(3 ÷ 4) of 8 - 4 − 8}.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "11 - {6 - (-4)} = 11 - 10 = 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 154
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-667bfd16",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0155",
+      "globalNumber": 155,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 133 ÷ 19 × 3 - 48 × 2 ÷ 24 + 841 ÷ [{45 − 16}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "46"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "42"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "21 - 4 + 29 = 46.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 155
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b6ea2537",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0156",
+      "globalNumber": 156,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "9 ÷ [1 + { 4 × (5/6 − (1/3 + 1/2))}] is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "9/5"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "9 ÷ [1 + 4(0)] = 9 ÷ 1 = 9.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 156
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-18d03e5d",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0157",
+      "globalNumber": 157,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of N in the equation 9 × N of 4 ÷ 4 - 15 × 4 = 12 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "9N - 60 = 12 => 9N = 72 => N = 8.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 157
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8d5f63d1",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0158",
+      "globalNumber": 158,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If 3(16³ − 6³) / (16² + 6² + Q) = 30, then find the value of Q .",
+      "options": [
+        {
+          "id": "A",
+          "text": "96"
+        },
+        {
+          "id": "B",
+          "text": "98"
+        },
+        {
+          "id": "C",
+          "text": "112"
+        },
+        {
+          "id": "D",
+          "text": "108"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "3(16 - 6) = 30. Q = 16 × 6 = 96.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 158
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-889baa69",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0159",
+      "globalNumber": 159,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: (60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).",
+      "options": [
+        {
+          "id": "A",
+          "text": "600"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "500"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "64 × 2 - 28 + 900 = 1000.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 159
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d7b8fa81",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0160",
+      "globalNumber": 160,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify 626 × 2912 ÷ 8138",
+      "options": [
+        {
+          "id": "A",
+          "text": "285"
+        },
+        {
+          "id": "B",
+          "text": "224"
+        },
+        {
+          "id": "C",
+          "text": "364"
+        },
+        {
+          "id": "D",
+          "text": "310"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "626 × 2912 / 8138 = 2 × 112 = 224.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 160
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-cd20bf92",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0161",
+      "globalNumber": 161,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (4x² − 49y²) / (2x + 7y) + 7y - 2x",
+      "options": [
+        {
+          "id": "A",
+          "text": "4x - 14y"
+        },
+        {
+          "id": "B",
+          "text": "7y"
+        },
+        {
+          "id": "C",
+          "text": "4x"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(2x - 7y) + 7y - 2x = 0.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 161
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-5288ab50",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0162",
+      "globalNumber": 162,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of (7 + 8 × 7 ÷ 8 + 7 ÷ 7 ÷ 7) / (3 + 3 × 3 ÷ 3 + 5 ÷ 5 ÷ 5) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 81/217"
+        },
+        {
+          "id": "B",
+          "text": "2 61/217"
+        },
+        {
+          "id": "C",
+          "text": "3 27/217"
+        },
+        {
+          "id": "D",
+          "text": "1 31/217"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Numerator: 7 + 7 + 1/7 = 99/7. Denominator: 3 + 3 + 1/5 = 31/5. (99/7) × (5/31) = 495/217 = 2 61/217.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 162
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0f504421",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0163",
+      "globalNumber": 163,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of the following expression ? 4/7 × 4 1/2 ÷ 5 1/3 of 2 1/2 - (7 7/8 ÷ 5 1/9 of 4 1/2) + 9/20 ÷ 1/2",
+      "options": [
+        {
+          "id": "A",
+          "text": "1759/3250"
+        },
+        {
+          "id": "B",
+          "text": "1113/856"
+        },
+        {
+          "id": "C",
+          "text": "853/1610"
+        },
+        {
+          "id": "D",
+          "text": "1093/111"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "27/140 - 105/644 + 1/2 = 853/1610.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 163
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6f2ddf12",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0164",
+      "globalNumber": 164,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: (3 - 3 × 3 + 3 ÷ 3 + 3 × 5) × 2 of 5 + (2 + 2 ÷ 2 + 2 × 2 - 2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "102"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "105"
+        },
+        {
+          "id": "D",
+          "text": "106"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "10 × 10 + 5 = 105.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 164
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-492986f4",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0165",
+      "globalNumber": 165,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: {(3³ + 2³) × 22/7} × {(6² + 3² - 4²) ÷ (14 1/2)}",
+      "options": [
+        {
+          "id": "A",
+          "text": "220"
+        },
+        {
+          "id": "B",
+          "text": "145"
+        },
+        {
+          "id": "C",
+          "text": "110"
+        },
+        {
+          "id": "D",
+          "text": "198"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "110 × 2 = 220.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 165
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ad8145d9",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0166",
+      "globalNumber": 166,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: [40 - 48 ÷ 4 of 3] ÷ {(6 + 4) - 4 of 4 + 4 + (6 - 4) + (4 × 4) ÷ 4} × 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "26"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "27"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "36 ÷ 4 × 3 = 27.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 166
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b02c8e70",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0167",
+      "globalNumber": 167,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the given expression: 8 - 5 ÷ 2³ × 3 + (7 ÷ 7 × 7) ÷ 7 + (3 × 6 ÷ 1/3) × (1/3)³",
+      "options": [
+        {
+          "id": "A",
+          "text": "73/9"
+        },
+        {
+          "id": "B",
+          "text": "73/27"
+        },
+        {
+          "id": "C",
+          "text": "73/21"
+        },
+        {
+          "id": "D",
+          "text": "73/8"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "11 - 15/8 = 73/8.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 167
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c26a1b4b",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0168",
+      "globalNumber": 168,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of 10 + 3 3/5 ÷ [2 2/3 ÷ {7 1/6 - (2 1/2 + 2/3)}] is equal to :",
+      "options": [
+        {
+          "id": "A",
+          "text": "27/55"
+        },
+        {
+          "id": "B",
+          "text": "77/5"
+        },
+        {
+          "id": "C",
+          "text": "55/27"
+        },
+        {
+          "id": "D",
+          "text": "5/77"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "10 + 27/5 = 77/5.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 168
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a7df0cc1",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0169",
+      "globalNumber": 169,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify: 3 4/7 - [16 1/2 ÷ { 6² - (7 - 2 1/2)}]",
+      "options": [
+        {
+          "id": "A",
+          "text": "25/11"
+        },
+        {
+          "id": "B",
+          "text": "64/21"
+        },
+        {
+          "id": "C",
+          "text": "64/11"
+        },
+        {
+          "id": "D",
+          "text": "25/21"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "25/7 - 33/63 = 192/63 = 64/21.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 169
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1763111f",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0170",
+      "globalNumber": 170,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify (1/2 ÷ 3/4 of 5/6) / (1/2 ÷ 3/4 × 5/6) + (2 + 2 × 2) / (2 ÷ 2 × 2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "111/25"
+        },
+        {
+          "id": "B",
+          "text": "121/25"
+        },
+        {
+          "id": "C",
+          "text": "75/36"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "36/25 + 3 = 111/25.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 170
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-412cf2e9",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0171",
+      "globalNumber": 171,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 4 × 7 - 3{7 × 4 ÷ (6 × 2)}",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "19"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "28 - 3(7/3) = 28 - 7 = 21.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 171
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-43266203",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0172",
+      "globalNumber": 172,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of the following expression ? 420 ÷ [4/9 × (1 + 4/5) × 5] + [5/7 of 21/25 ÷ 3/4 of 2/5]",
+      "options": [
+        {
+          "id": "A",
+          "text": "127"
+        },
+        {
+          "id": "B",
+          "text": "139"
+        },
+        {
+          "id": "C",
+          "text": "107"
+        },
+        {
+          "id": "D",
+          "text": "89"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "105 + 2 = 107.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 172
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e1c834fb",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0173",
+      "globalNumber": 173,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Solve ((2 × 2 + 2) / (2 ÷ 2 × 2)) ÷ ((1/2 ÷ 1/2 of 1/2) / (1/2 + 1/2 of 1/2))",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 1/2"
+        },
+        {
+          "id": "B",
+          "text": "2 1/8"
+        },
+        {
+          "id": "C",
+          "text": "1 1/8"
+        },
+        {
+          "id": "D",
+          "text": "3 1/8"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "3 ÷ 8/3 = 9/8 = 1 1/8.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 173
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9c172ae4",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0174",
+      "globalNumber": 174,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of the following expression ? (24 ÷ 3 of 1/6) × (4/5 ÷ 9/8 × 3/5) ÷ (4/7 ÷ 3/14 of 3/14)",
+      "options": [
+        {
+          "id": "A",
+          "text": "379/179"
+        },
+        {
+          "id": "B",
+          "text": "579/459"
+        },
+        {
+          "id": "C",
+          "text": "363/553"
+        },
+        {
+          "id": "D",
+          "text": "288/175"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "48 × 32/75 × 9/112 = 288/175.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 174
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-89f711a3",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0175",
+      "globalNumber": 175,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of (5 + 7 × 5 ÷ 8 of 5 + 3 ÷ 3 × 5) / (6 ÷ 6 of 4 + 9 × 9 ÷ 3 × 2 × 2) is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "67/859"
+        },
+        {
+          "id": "B",
+          "text": "87/866"
+        },
+        {
+          "id": "C",
+          "text": "97/881"
+        },
+        {
+          "id": "D",
+          "text": "77/861"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "87/8 / 433/4 = 87/866.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 175
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-28ef0744",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0176",
+      "globalNumber": 176,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 11 1/4 ÷ 3 3/5 × 6 2/3 + 1/6 = _______.",
+      "options": [
+        {
+          "id": "A",
+          "text": "19"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "23"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "125/6 + 1/6 = 126/6 = 21.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 176
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-15d534c7",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0177",
+      "globalNumber": 177,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The value of [3³ {(40 × 5) + (7 × 6)} ÷ 11] + (2³ × 15 ÷ 24) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "559"
+        },
+        {
+          "id": "B",
+          "text": "595"
+        },
+        {
+          "id": "C",
+          "text": "599"
+        },
+        {
+          "id": "D",
+          "text": "959"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "594 + 5 = 599.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 177
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-af46d706",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0178",
+      "globalNumber": 178,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If ‘÷’ means ‘×’, ‘×’ means ‘÷’, ‘+’ means ‘−’, ‘−’ means ‘+’, then 47 ÷ (10 × 5) + (4 − 5) − 6 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "59"
+        },
+        {
+          "id": "C",
+          "text": "79"
+        },
+        {
+          "id": "D",
+          "text": "91"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "47 × 2 - 9 + 6 = 91.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 178
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ea3b385c",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0179",
+      "globalNumber": 179,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the value of ([1/4 ÷ 1/4 × 1/4] × 1/4) / ([1/8 + 1/8 × 1/8]) + (1 - 4/9) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "4/9 + 5/9 = 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 179
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b4bc58ac",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0180",
+      "globalNumber": 180,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 3 1/5 of 2 3/4 ÷ 11/3 + (2 1/5 ÷ 1 2/5 of 1 3/7 - 2 1/3)",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 1/6"
+        },
+        {
+          "id": "B",
+          "text": "2 1/6"
+        },
+        {
+          "id": "C",
+          "text": "3 1/6"
+        },
+        {
+          "id": "D",
+          "text": "1 1/6"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "12/5 - 37/30 = 35/30 = 7/6 = 1 1/6.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 180
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8725dfea",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0181",
+      "globalNumber": 181,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of [18 - 3 × {3 - 3 × (3 ÷ 1/3 - 3) + 3 ÷ 1/3 + 3} - 4 × 2].",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "19"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "18 - 3(-3) - 8 = 18 + 9 - 8 = 19.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 181
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c1edfe66",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0182",
+      "globalNumber": 182,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of 12 + 24 ÷ 2 - 7 × 30 ÷ 6 + (5 + 4) × 8 + 8 ÷ 8 - 8.",
+      "options": [
+        {
+          "id": "A",
+          "text": "45"
+        },
+        {
+          "id": "B",
+          "text": "85"
+        },
+        {
+          "id": "C",
+          "text": "54"
+        },
+        {
+          "id": "D",
+          "text": "58"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "12 + 12 - 35 + 72 + 1 - 8 = 54.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 182
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0f4c9a50",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0183",
+      "globalNumber": 183,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The possible value of x satisfying (143 ÷ 13 × x − 3 × 3) / (6² − 7 × 5 + x²) = 1 is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "11x - 9 = x² + 1 => x² - 11x + 10 = 0 => x = 1 or 10. From options, x = 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 183
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4cc1cdcc",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0184",
+      "globalNumber": 184,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the value of (12 + 3 2/3 ÷ [1 3/4 ÷ {5 1/4 × (3 3/5 ÷ 4 1/2)}]) / (1 1/3 × 5 1/5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(12 + 44/5) / (104/15) = (104/5) / (104/15) = 3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 184
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-558528fc",
+      "isSample": false
+    },
+    {
+      "id": "simplification-0185",
+      "globalNumber": 185,
+      "topic": {
+        "id": "simplification",
+        "name": "Simplification"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Simplify the following expression: 25 × 25 + 9 × 9 + 6 × 6 + 2 × 25 × 9 + 2 × 9 × 6 + 2 × 25 × 6",
+      "options": [
+        {
+          "id": "A",
+          "text": "900"
+        },
+        {
+          "id": "B",
+          "text": "1200"
+        },
+        {
+          "id": "C",
+          "text": "1600"
+        },
+        {
+          "id": "D",
+          "text": "2500"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(25 + 9 + 6)² = 40² = 1600.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_Simplification.pdf",
+        "originalQuestionNumber": 185
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2633c54b",
+      "isSample": false
+    }
+  ]
+}

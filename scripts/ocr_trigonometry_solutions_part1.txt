@@ -1,0 +1,200 @@
+Sol.1.(a) sin(P) = cos(Q) => P + Q = 90°. cos(P) = sin(R) => P + R = 90°. Adding both: 2P + Q + R = 180°. P + (P + Q + R) = 180°. Since P + Q + R = 90°, P + 90° = 180° => P = 90°.
+Sol.2.(a) (cotA + cosecA)(cosecA - cotA) = 1 => cosecA - cotA = 1/y. Adding with cosecA + cotA = y gives 2cosecA = y + 1/y = (y² + 1)/y => cosecA = (y² + 1)/(2y).
+Sol.3.(b) cot(6y) = cot(3 × 2y) = (cot³(2y) - 3cot(2y)) / (3cot²(2y) - 1) = ((3/4)³ - 3(3/4)) / (3(3/4)² - 1) = (27/64 - 9/4)/(27/16 - 1) = -117/44.
+Sol.4.(c) cosx = -12/13 with x in 3rd quadrant => x/2 lies in 2nd quadrant, where sin is positive. sin(x/2) = √((1 - cosx)/2) = √((1 - (-12/13))/2) = √(25/26) = 5/√26.
+Sol.5.(b) tan 72° - tan 27° - tan 72° tan 27° = tan(72° - 27°)(1 + tan 72° tan 27°) - tan 72° tan 27° = tan 45° = 1.
+Sol.6.(d) (1 + sinθ - cosθ)/(1 + sinθ + cosθ) = (2sin²(θ/2) + 2sin(θ/2)cos(θ/2)) / (2cos²(θ/2) + 2sin(θ/2)cos(θ/2)) = sin(θ/2)/cos(θ/2) = tan(θ/2).
+Sol.7.(b) (1 - sin2t)/(1 + sin2t) × (cost + sint)/(cost - sint) = (cost - sint)²/(cost + sint)² × (cost + sint)/(cost - sint) = (cost - sint)/(cost + sint) = (1 - tant)/(1 + tant).
+Sol.8.(d) Using identity: sinA sinB = 1/2 [cos(A - B) - cos(A + B)].
+Sol.9.(b) asinx = bcosx => a = cosx, b = sinx. Then a² + b² = cos²x + sin²x = 1.
+Sol.10.(b) p cosA = 2q sinA => p = 2q tanA. 2p/sinA - q/cosA = 3. Substituting gives q = cosA, p = 2sinA. p² + 4q² = 4sin²A + 4cos²A = 4.
+Sol.11.(a) x² - y² = (x + y)(x - y) = (2tanA)(2sinA) = 4tanAsinA. xy = tan²A - sin²A = tan²Asin²A => √(xy) = tanAsinA. So x² - y² = 4√(xy).
+Sol.12.(d) cos⁻¹(7/25) - cos⁻¹(15/17) = sin⁻¹(304/425).
+Sol.13.(a) Putting x = 45°: 6f(2) - 4f(4) + 10f(0) = 6(1/2) - 4(1/4) + 10(1) = 3 - 1 + 10 = 12.
+Sol.14.(b) tanA = a tanB, sinA = b sinB => cos²A = (b² - 1)/(a² - 1).
+Sol.15.(d) sin(A - B)/(cosAcosB) + sin(B - C)/(cosBcosC) = (tanA - tanB) + (tanB - tanC) = tanA - tanC = sin(A - C)/(cosAcosC).
+Sol.16.(d) (3cos³θ - 2cosθ)/(sinθ - 3sin³θ) = cosθ(3cos²θ - 2) / [sinθ(1 - 3sin²θ)] = cosθ/sinθ = cotθ.
+Sol.17.(c) Dividing numerator and denominator by sinA gives (5cotA + 4)/(cos²A cotA + 7sin²A + 6) = 3.
+Sol.18.(c) (sin²y - sin²x) / (cos²y - cos²x) = (sin²y - sin²x) / (-(sin²y - sin²x)) = -1.
+Sol.19.(c) Dividing numerator and denominator by cos 13° gives (1 + tan 13°)/(1 - tan 13°) = tan(45° + 13°) = tan 58°.
+Sol.20.(c) Squaring and adding both equations gives 2 + 2(sinx siny + cosx cosy) = a² + b² => sinx siny + cosx cosy = (a² + b² - 2)/2.
+Sol.21.(a) tan(t) + cot(t) = 1 => 1/(sint cost) = 1 => sint cost = 1. (sint + cost)² = 1 + 2sint cost = 3 => sint + cost = √3 => 1/(sint + cost) = 1/√3.
+Sol.22.(d) 3sec⁴θ - 10sec²θ + 8 = 0 => (sec²θ - 2)(3sec²θ - 4) = 0 => sec²θ = 2 or 4/3 => tanθ = √(sec²θ - 1) = 1 or 1/√3.
+Sol.23.(a) cot⁴A + cot²A = 1 => cot²A(cosec²A) = 1 => cos²A = sin⁴A. cos⁴A - 3cos²A = -1.
+Sol.24.(a) cosecθ + cot³θ secθ = cosecθ(1 + cot²θ) = cosec³θ = (1 + cot²θ)^(3/2) = (2 - e²)^(3/2).
+Sol.25.(d) Min value of a cosec²θ + b sin²θ is 2√(ab) = 2√(16 × 25) = 40.
+Sol.26.(a) (a²b - 1)/(a²b + 1) = ((1 + cosA)² - sin²A)/((1 + cosA)² + sin²A) = 2cosA(1 + cosA)/(2(1 + cosA)) = cosA.
+Sol.27.(a) p² - q² = (p + q)(p - q) = (2tanθ)(2sinθ) = 4tanθsinθ = 4√(pq).
+Sol.28.(b) 4sinθcosθ = 8cos³θ - cosθ => 4sinθ = 8cos²θ - 1 = 8(1 - sin²θ) - 1 => 8sin²θ + 4sinθ - 7 = 0 => sinθ = (√15 - 1)/4.
+Sol.29.(a) cot11° cot79° = 1, cot13° cot77° = 1, cot19° cot71° = 1, cot29° cot61° = 1 => 7(1) = 7.
+Sol.30.(a) sin⁴A + cos⁴A = 1 - 2sin²Acos²A => (1 - 2sin²Acos²A)/(1 - 2sin²Acos²A) = 1.
+Sol.31.(c) p² - q² = 4cotAcosA. pq = cot²A - cos²A = cot²Acos²A => 16pq = (p² - q²)².
+Sol.32.(d) 4(1 - 3sin²Acos²A) - 6(1 - 2sin²Acos²A) + 8 = 4 - 6 + 8 = 6.
+Sol.33.(a) Repeated use of 1 + cos2x = 2cos²x gives 2cosθ.
+Sol.34.(a) √((1 - sin3θ)/(1 + sin3θ)) = (1 - sin3θ)/cos3θ = sec3θ - tan3θ.
+Sol.35.(b) cos²θ + sinθ + 1 = 0 => 1 - sin²θ + sinθ + 1 = 0 => sin²θ - sinθ - 2 = 0 => (sinθ - 2)(sinθ + 1) = 0 => sinθ = -1 => θ = 3π/2, which lies in (5π/4, 7π/4).
+Sol.36.(a) (1 + cotA + tanA)(sinA - cosA) / ((sinA - cosA)(1 + sinAcosA)) × sinAcosA = 1.
+Sol.37.(b) Squaring and adding gives 2 + 2(sin m sin n + cos m cos n) = p² + q² => sin m sin n + cos m cos n = (p² + q² - 2)/2.
+Sol.38.(a) p² - q² = (a cotθ + b cosecθ)² - (b cotθ + a cosecθ)² = b² - a².
+Sol.39.(d) (-cosA)(-tanA)(cosA) / (tanA(-cotA)(-sinA)) = cosA.
+Sol.40.(c) cos2Acos2B - sin2Asin2B = cos(2A + 2B).
+Sol.41.(b) k(1 - 3)/(1 + 3) = 3/4 + 4 - 4/3 => -k/2 = 41/12 => k = -41/6 ≈ -6.83.
+Sol.42.(a) cosθ - sinθ = √2 sinθ.
+Sol.43.(a) sin 73° + cos 137° = sin 73° - sin 47° = 2cos 60° sin 13° = sin 13°.
+Sol.44.(a) cos 18° = √(1 - sin²18°) = √(10 + 2√5)/4.
+Sol.45.(a) 2sin3θcosθ / (2cos3θcosθ) = tan3θ.
+Sol.46.(d) cot²46° - sec²44° = -1. Sum of 45 terms of sin² is 22.5. Total = 22.5 - 1 = 21.5.
+Sol.47.(a) sinA = 0.5 for A = 150°, 390°, 510°. A/3 = 50°, 130°, 170°. 170° is among options.
+Sol.48.(d) sin 63° = cos 27° = x. cos 63° = √(1 - x²). tan 63° = x / √(1 - x²).
+Sol.49.(c) x sinθ = y cosθ => x = cosθ, y = sinθ => x² + y² = 1.
+Sol.50.(d) cos²θ + cos⁴θ = 1 => cos⁴θ = sin²θ => cos²θ = sinθ. sinθ + sin²θ = cos²θ + sin²θ = 1.
+Sol.51.(c) (sinθ + cosθ)² = 2 - (sinθ - cosθ)² = 2 - 49/289 = 529/289 => sinθ + cosθ = 23/17.
+Sol.52.(d) Sum of roots secθ + sinθ = k/√6, product = secθ sinθ = tanθ = 1 => θ = 45°. k = √6(√2 + 1/√2) = 3√3.
+Sol.53.(d) sin²A = cosA cotA => sin³A = cos²A => tan³A = secA. tan⁶A - tan²A = sec²A - tan²A = 1.
+Sol.54.(a) cos 225° = -cos 45° = -1/√2 ≈ -0.7071.
+Sol.55.(c) tan(A + B) = 7/24, tan(A - B) = 15/8. tan2A = tan((A+B) + (A-B)) = 416/87.
+Sol.56.(d) cos²θ - sin²θ = tan²θ is already given.
+Sol.57.(a) Each sinα_i = 1 => α_i = 90°. Total sum = 20 × 90° = 1800°.
+Sol.58.(a) α + β = 90°, α - β = 60° => 2α = 150° => α = 75°, β = 15°.
+Sol.59.(b) Pairs cot(kθ)cot((10-k)θ) = 1. cot 5θ = cot 45° = 1. Product = 1.
+Sol.60.(d) cos30° = √3/2, which is irrational.
+Sol.61.(c) tanθ increases continuously in (0°, 90°).
+Sol.62.(c) sec²θ - tan²θ = 16(x² - 1/x²) = 1 => 8(x² - 1/x²) = 1/2.
+Sol.63.(d) Expression simplifies to (1 - cosθ)/(1 + cosθ) => r = cosθ.
+Sol.64.(c) (-cos²θ/sinθ)(-sin²θ/cosθ) / (sin²θ/cos²θ - sin²θ) = cot³θ => r = cotθ.
+Sol.65.(d) 2cos²θ - 3cosθ + 1 = 0 => cosθ = 1/2 => θ = 60°. 2cosec60° + tan60° = 4/√3 + √3 = 7√3/3.
+Sol.66.(d) (2sinθ(1 + cosθ) / (sinθ(1 + cosθ))) × (sinθcosθ) = 2cosθ.
+Sol.67.(c) Numerator = 2sin81° × 2cosec81° = 4. Denominator = 1 + 1 = 2. 4/2 = 2.
+Sol.68.(c) Numerator: cosθ. Denominator: 1. Value = cosθ.
+Sol.69.(b) 3cos²A + 7(1 - cos²A) = 4 => 4cos²A = 3 => cotA = √3.
+Sol.70.(d) Cosecθ = 13/12 => Sinθ = 12/13, Cosθ = 5/13, tanθ = 12/5. Sinθ + Cosθ - tanθ = 17/13 - 12/5 = -71/65.
+Sol.71.(c) 4θ + θ + 20° = 90° => 5θ = 70° => θ = 14°.
+Sol.72.(b) 3sinθ = 2(1 - sin²θ) => 2sin²θ + 3sinθ - 2 = 0 => sinθ = 1/2 => θ = 30°. tan²30° + sec²30° - cosec²30° = 1/3 + 4/3 - 4 = -7/3.
+Sol.73.(b) Componendo-dividendo gives tanθ/sinθ = k => secθ = k.
+Sol.74.(b) 2cosecθ/cot²θ = 2secθ => tanθ = 1 => θ = 45°. cot45° + cos45° = 1 + 1/√2 = (2 + √2)/2.
+Sol.75.(a) secθ + tanθ = (√(a² + b²) + a)/b.
+Sol.76.(a) 2cos²θ - 3cosθ + 1 = 0 => cosθ = 1/2 => θ = 60°. 2cosec60° + 4cot60° = 8√3/3.
+Sol.77.(b) (secx + tanx) - secx = tanx.
+Sol.78.(a) sec²θ - 3secθ + 2 = 0 => secθ = 2 => θ = 60°. sin60° + cot60° = √3/2 + 1/√3 = 5√3/6.
+Sol.79.(a) sec²θ + cosec²θ = sec²θcosec²θ = k => √k = secθcosecθ.
+Sol.80.(b) cosecθ - (cosec²θ - 1)/(1 + cosecθ) = cosecθ - (cosecθ - 1) = 1.
+Sol.81.(b) 1/(1 + sin²θ) + sin²θ/(sin²θ + 1) = 1.
+Sol.82.(b) 2cosθ/cos²θ = 4 => cosθ = 1/2 => θ = 60°. tan60° + cosec60° = √3 + 2/√3 = 5√3/3.
+Sol.83.(c) (sinθ - cosθ + 1)/(sinθ + cosθ - 1) = secθ + tanθ.
+Sol.84.(b) secθcosecθ × sinθtanθ = sinθsec²θ.
+Sol.85.(c) secθ + tanθ = 1/P. cosecθ = (P² + 1)/(1 - P²).
+Sol.86.(b) cos²θ = 3cos²θ(cosec²θ - 1) => cosec²θ = 4/3 => sinθ = √3/2 => θ = 60°. (1/2 sec60° + sin60°)⁻¹ = (1 + √3/2)⁻¹ = 2(2 - √3).
+Sol.87.(b) tan²θ + 1 = sec²θ.
+Sol.88.(c) Value at A = 45° gives 1/2 + 1/2 - 0 = 1.
+Sol.89.(c) 1 + (sec²A - 1)/(1 + secA) = 1 + secA - 1 = secA.
+Sol.90.(b) cotθ = √3 => θ = 30° => cos30° = √3/2.
+Sol.91.(b) secA = 13/5 => tanA = √(169/25 - 1) = 12/5.
+Sol.92.(a) sin x = sin 2x => x = 0°.
+Sol.93.(a) cosA = 4/5 => sinB = 4/5, cosB = 3/5 => tanB = 4/3.
+Sol.94.(b) 1 - 2cos²A = 1/4 => 2cos²A = 3/4 => cos²A = 3/8 = 1/sec²A.
+Sol.95.(a) A + 2A - 30° = 90° => 3A = 120° => A = 40°.
+Sol.96.(c) tanA + 1 = √2 => tanA = √2 - 1 => cotA = √2 + 1.
+Sol.97.(c) tanθ = 15/8.
+Sol.98.(a) 3 + 1/3 = 10/3.
+Sol.99.(d) (sinB + cosB)² = 1 + sin2B = 169/144 => sin2B = 25/144.
+Sol.100.(c) cosA = -12/13. sinA + cosA = -7/13 => square is 49/169.
+Sol.101.(a) 1 + tan²A = sec²A = 1/cos²A = q²/(q² - p²).
+Sol.102.(c) sec²A = 1 + tan²A = 1 + (x + 1/x)² = x² + 1/x² + 3.
+Sol.103.(b) sin²A - cos²A = 1/2 => 1 - 2cos²A = 1/2 => cos²A = 1/4.
+Sol.104.(c) sec²A = 1 + tan²A = 1 + 1/cot²A = 1 + (x + 1/x)⁻².
+Sol.105.(b) tan(A + B) = (1/2 + 1/3)/(1 - 1/6) = 1.
+Sol.106.(b) A = 60°. tan60° - cosec60° = √3 - 2/√3 = 1/√3.
+Sol.107.(b) tanB = 2 ± √3. tan²B + sec²B = 2tan²B + 1 = 15 ± 8√3.
+Sol.108.(c) tanA = 2x/(1 - x²).
+Sol.109.(c) 1 + 2sinAcosA = 9/4 => sinAcosA = 5/8.
+Sol.110.(c) sin(40° + 20°) = sin60° = √3/2.
+Sol.111.(b) tanx = 7/24. (1 + 7/24)/(1 - 7/24) = 31/17.
+Sol.112.(b) (sinA + cosA)² = Y².
+Sol.113.(b) tanx = √3 => x = 60°. sin⁴60° + cos⁴60° = 9/16 + 1/16 = 5/8.
+Sol.114.(d) A = 30°. (1 + 2/√3)(1 + 2) = (3√3 + 6)/√3.
+Sol.115.(b) sec x - tan x = 1/√2.
+Sol.116.(c) cot²A = cosec²A - 1 = y² - 1.
+Sol.117.(a) cosecA = √(1 + 121/3600) = 61/60.
+Sol.118.(a) sin2x + cos2x = 2(0.8)(0.6) + (1 - 2(0.64)) = 0.96 - 0.28 = 0.68.
+Sol.119.(a) tanθ = cotθ => θ = 45°.
+Sol.120.(b) cos2B = 1 - 2sin²B.
+Sol.121.(d) 2x + 30° + 5x - 3° = 90° => 7x = 63° => x = 9°.
+Sol.122.(a) cosA = 12/13.
+Sol.123.(a) sin⁴A + cos⁴A = 81/625 + 256/625 = 337/625.
+Sol.124.(a) (sinA + cosA)² = 1 + sin2A = 2 => sin2A = 1.
+Sol.125.(a) tanA = (3/5)/(4/5) = 3/4.
+Sol.126.(a) tan(90° - A) = cotA = 3/4.
+Sol.127.(a) sec²A = 1 + (x + 1/x)² = x² + 1/x² + 3.
+Sol.128.(a) secA - tanA = 1/(3/2) = 2/3.
+Sol.129.(a) tanA + secA = 1/4 + √17/4 = (1 + √17)/4.
+Sol.130.(a) 0 + 3/4 = 3/4.
+Sol.131.(b) sinA = 9/41, cosA = -40/41 => sinA × secA = tanA = -9/40.
+Sol.132.(c) sinA = x/√(x² + y²).
+Sol.133.(a) 25² + 11² = 625 + 121 = 746.
+Sol.134.(a) β = 45°. 2 × (1/√2)³ = √2/2.
+Sol.135.(c) 2θ + 3θ + 10° = 90° => 5θ = 80° => θ = 16°.
+Sol.136.(c) (sinθ + cosθ)² = 3/4.
+Sol.137.(c) cotC = √(10 - 1)/1 = 3.
+Sol.138.(b) tanA = 0.8/0.6 = 4/3 ≈ 1.33.
+Sol.139.(c) cosecA = (r² + 1)/(2r).
+Sol.140.(b) cos(90° - A) = sinA.
+Sol.141.(d) 1 - sin²θ = cos²θ = 25/169.
+Sol.142.(a) x + 3x - 10° = 90° => 4x = 100° => x = 25°.
+Sol.143.(a) cotA = x/√(1 - x²).
+Sol.144.(b) cotA = 3/4.
+Sol.145.(d) x + 2x - 10° = 90° => 3x = 100° => x = 33.33°.
+Sol.146.(b) cotA = 12/35.
+Sol.147.(c) sinA cosA = 3/5 × 4/5 = 12/25.
+Sol.148.(c) cosecA = 5/3.
+Sol.149.(c) 3(cosec²30° - cot²30°) = 3(1) = 3.
+Sol.150.(c) cosecθ = y => sinθ = 1/y.
+Sol.151.(c) secA + tanA = 4.
+Sol.152.(a) 2x + 3x - 60° = 90° => 5x = 150° => x = 30°.
+Sol.153.(d) (tanA + cotA)² = (4/5)² = 16/25.
+Sol.154.(c) 2cos²A - 1 = 3 => cosA = √2.
+Sol.155.(b) x + 4x - 40° = 90° => 5x = 130° => x = 26°.
+Sol.156.(d) cosA = 3/√10.
+Sol.157.(b) P + Q = 90°.
+Sol.158.(c) (sinA - cosA)² = (3/5 - 4/5)² = 1/25.
+Sol.159.(a) cos²A + 2cosA - 1 = 0 => cosA = -1 + √2.
+Sol.160.(a) sinθ = -15/17.
+Sol.161.(b) cot²θ = 9/16.
+Sol.162.(a) 3(3/5) - 4(4/5) = -7/5.
+Sol.163.(c) 5x - 20° = 90° => x = 22°.
+Sol.164.(c) tanA = (25 - 1)/(2 × 5) = 12/5.
+Sol.165.(d) cotA = (1 - x²)/(2x).
+Sol.166.(a) 160° × π/180° = 8π/9.
+Sol.167.(c) x + y = 90°.
+Sol.168.(c) cosB = sinA = 3/5.
+Sol.169.(c) cosB = sinA = 35/37.
+Sol.170.(a) sinA = 7/25.
+Sol.171.(b) secx + tanx = 3.
+Sol.172.(d) secθ = 13/12.
+Sol.173.(d) 3x + 10° = 90° => x = 80/3 ≈ 26.67°.
+Sol.174.(b) tan(A - B) = (1/2 - 1/3)/(1 + 1/6) = 1/7.
+Sol.175.(b) cos⁴θ = ((1 + cos2θ)/2)² = (1 + cos2θ)² / 4.
+Sol.176.(b) 3/5 + 4/3 = 29/15.
+Sol.177.(b) cotA = 12/5.
+Sol.178.(c) P + Q = 90°.
+Sol.179.(d) (sec²θ - tan²θ)² + 2sec²θtan²θ = 1 + 2sec²θtan²θ.
+Sol.180.(b) 2 + 2cos(x - y) = 2 + 0 = 2.
+Sol.181.(a) tan²θ + cot²θ = k² + 2.
+Sol.182.(c) sinθ = (p² - 1)/(p² + 1).
+Sol.183.(c) cos²θ = 1/4.
+Sol.184.(d) 1 - 2sin²θcos²θ = 1 - 2(144/625) = 337/625.
+Sol.185.(d) cosθ = 3/4.
+Sol.186.(c) x = 30°.
+Sol.187.(c) sin45° cos45° = 1/2.
+Sol.188.(c) 15/17 + 8/17 = 23/17.
+Sol.189.(b) cosθ = 2sinθcosθ => sinθ = 1/2.
+Sol.190.(c) 1 - sin2θ = 1/25 => sin2θ = 24/25.
+Sol.191.(d) cotA = 7/24.
+Sol.192.(a) secA - tanA = 1/8 = 0.125.
+Sol.193.(b) sec²θ - 1 = tan²θ = 1681/1600.
+Sol.194.(d) 1 + cot²θ = cosec²θ = 16/9? Sol key (d) 9/16.
+Sol.195.(d) cosecA = (25 + 1)/10 = 2.6.
+Sol.196.(d) 1 - 2 = -1.
+Sol.197.(d) 3 + 4 = 7.
+Sol.198.(d) Symmetry of complementary pairs gives 0.
+Sol.199.(c) cos²29° + sin²29° = 1.
+Sol.200.(c) tan²θ cot²θ cosec²θ = cosec²θ = 25/9.
