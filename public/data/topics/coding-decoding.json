@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "coding-decoding",
+  "topicName": "Coding-Decoding",
+  "category": "Reasoning",
+  "sourcePdf": "Sample_coding-decoding.pdf",
+  "isSample": true,
+  "questions": [
+    {
+      "id": "coding-decoding-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "coding-decoding",
+        "name": "Coding-Decoding"
+      },
+      "category": "Reasoning",
+      "question": "[Sample] In a certain code language, if \"PRACTICE\" is written as \"16-18-1-3-20-9-3-5\", how will \"SUCCESS\" be written in that code?",
+      "questionHindi": "[नमूना] एक निश्चित कूट भाषा में यदि \"PRACTICE\" को \"16-18-1-3-20-9-3-5\" लिखा जाता है, तो \"SUCCESS\" को कैसे लिखा जाएगा?",
+      "options": [
+        {
+          "id": "A",
+          "text": "19-21-3-3-5-19-19"
+        },
+        {
+          "id": "B",
+          "text": "19-20-3-3-5-19-19"
+        },
+        {
+          "id": "C",
+          "text": "18-21-3-3-5-18-18"
+        },
+        {
+          "id": "D",
+          "text": "19-21-4-4-5-19-19"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Each letter is represented by its standard alphabetical position: S=19, U=21, C=3, C=3, E=5, S=19, S=19.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_coding-decoding.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-17fd1966"
+    },
+    {
+      "id": "coding-decoding-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "coding-decoding",
+        "name": "Coding-Decoding"
+      },
+      "category": "Reasoning",
+      "question": "[Sample] If in a code language, \"MIND\" is coded as \"KGLB\", then how is \"DIAGRAM\" coded in the same language?",
+      "questionHindi": "[नमूना] यदि किसी कूट भाषा में \"MIND\" को \"KGLB\" के रूप में कोडित किया जाता है, तो \"DIAGRAM\" को कैसे कोडित किया जाएगा?",
+      "options": [
+        {
+          "id": "A",
+          "text": "BGYEPYK"
+        },
+        {
+          "id": "B",
+          "text": "BGYEPYL"
+        },
+        {
+          "id": "C",
+          "text": "CGYEPYK"
+        },
+        {
+          "id": "D",
+          "text": "BGYFQYK"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Each letter is shifted backward by 2 positions (−2): D→B, I→G, A→Y, G→E, R→P, A→Y, M→K.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2023,
+        "shift": "Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_coding-decoding.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-32e00da8"
+    },
+    {
+      "id": "coding-decoding-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "coding-decoding",
+        "name": "Coding-Decoding"
+      },
+      "category": "Reasoning",
+      "question": "[Sample] In a certain code, \"253\" means \"books are old\", \"546\" means \"man is old\", and \"378\" means \"buy good books\". What digit stands for \"are\"?",
+      "questionHindi": "[नमूना] एक निश्चित कूट में \"253\" का अर्थ \"books are old\", \"546\" का अर्थ \"man is old\" और \"378\" का अर्थ \"buy good books\" है। \"are\" के लिए कौन सा अंक है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "5 = \"old\" (common in 253 and 546), 3 = \"books\" (common in 253 and 378). Remaining in 253 is 2 = \"are\".",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2023,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_coding-decoding.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-d8ff5b85"
+    }
+  ]
+}

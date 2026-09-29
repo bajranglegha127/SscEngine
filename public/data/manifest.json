@@ -1,0 +1,72 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topics": [
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "category": "Quantitative Aptitude",
+      "file": "topics/algebra.json",
+      "questionCount": 548,
+      "description": "Complete 548-question bilingual Algebra chapter extracted from the provided e1 Coaching Center PDF with official Answer Key.",
+      "sourcePdf": "Algebra_e1_Coaching_Center.pdf",
+      "isSample": false,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "percentage",
+      "name": "Percentage",
+      "category": "Quantitative Aptitude",
+      "file": "topics/percentage.json",
+      "questionCount": 8,
+      "description": "Sample dataset demonstrating Exam, Year, and Shift filters (replace with your Percentage PDF JSON).",
+      "sourcePdf": "Sample_percentage.pdf",
+      "isSample": true,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "profit-loss",
+      "name": "Profit & Loss",
+      "category": "Quantitative Aptitude",
+      "file": "topics/profit-loss.json",
+      "questionCount": 4,
+      "description": "Sample dataset for Profit, Loss & Discount calculations across SSC exams.",
+      "sourcePdf": "Sample_profit-loss.pdf",
+      "isSample": true,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "coding-decoding",
+      "name": "Coding-Decoding",
+      "category": "Reasoning",
+      "file": "topics/coding-decoding.json",
+      "questionCount": 3,
+      "description": "Sample General Intelligence & Reasoning dataset with exam/year/shift tags.",
+      "sourcePdf": "Sample_coding-decoding.pdf",
+      "isSample": true,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "error-detection",
+      "name": "Error Detection & Grammar",
+      "category": "English",
+      "file": "topics/error-detection.json",
+      "questionCount": 3,
+      "description": "Sample English Language & Comprehension dataset for subject-verb agreement and modifiers.",
+      "sourcePdf": "Sample_error-detection.pdf",
+      "isSample": true,
+      "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "indian-polity",
+      "name": "Polity & Constitution",
+      "category": "General Awareness",
+      "file": "topics/indian-polity.json",
+      "questionCount": 3,
+      "description": "Sample General Awareness dataset covering Constitutional Articles, Schedules, and Amendments.",
+      "sourcePdf": "Sample_indian-polity.pdf",
+      "isSample": true,
+      "lastUpdated": "2026-09-29"
+    }
+  ]
+}

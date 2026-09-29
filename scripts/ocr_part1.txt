@@ -1,0 +1,567 @@
+===PAGE 1===
+1. If a + b = 12, ab = 22, then (a² + b²) is equal to
+अगर a + b = 12, ab = 22, तो (a² + b²):
+a) 188 b) 144 c) 34 d) 100
+2. If p + q = 10 and pq = 5, then the numerical value of p/q + q/p will be
+अगर p + q = 10 और pq = 5, तो p/q + q/p का मान:
+a) 16 b) 20 c) 22 d) 18
+3. If x = (√3+1)/(√3−1) & y = (√3−1)/(√3+1) then value of x² + y² is :
+अगर x = (√3+1)/(√3−1) और y = (√3−1)/(√3+1) है, तो x² + y²:
+a) 14 b) 13 c) 15 d) 10
+4. If a = (√3+√2)/(√3−√2) and b = (√3−√2)/(√3+√2), then what is the value of a² + b² − ab?
+यदि a = (√3+√2)/(√3−√2) तथा b = (√3−√2)/(√3+√2), है तो a² + b² − ab का मान क्या है?
+a) 97 b) 2√3 + 2 c) 4√6 + 1 d) 98
+5. If a = (√5+1)/(√5−1) & b = (√5−1)/(√5+1), then the value of (a²+ab+b²)/(a²−ab+b²) is
+अगर a = (√5+1)/(√5−1) & b = (√5−1)/(√5+1), तो (a²+ab+b²)/(a²−ab+b²) का मान:
+a) 3/4 b) 4/3 c) 3/5 d) 5/3
+6. If x = 3 + 2√2 and xy = 1, then the value of (x²+3xy+y²)/(x²−3xy+y²) is
+अगर x = 3 + 2√2 और xy = 1, तो (x²+3xy+y²)/(x²−3xy+y²):
+a) 30/31 b) 70/31 c) 35/31 d) 37/31
+7. If a = √8 − √7 and a = 1/b, then (a²+b²−3ab)/(a²+ab+b²) is equal to:
+अगर a = √8 − √7 और a = 1/b, तो (a²+b²−3ab)/(a²+ab+b²) बराबर है:
+a) 27/31 b) 27/32 c) 29/33 d) 29/31
+8. If x = √10 + √11, y = √10 − √11, then value of 7x² − 50xy + 7y² = ______.
+यदि x = √10 + √11, y = √10 − √11, तो 7x² − 50xy + 7y² का मान ज्ञात कीजिए|
+a) 386 b) 1360 c) 344 d) 704
+9. Simplify (957 + 932)² − 4 × 957 × 932.
+(957 + 932)² − 4 × 957 × 932 को सरल करे|
+a) 625 b) 676 c) 529 d) 576
+10. If x = 1/(2+√3), y = 1/(2−√3), then the value of 8xy(x² + y²) is
+अगर x = 1/(2+√3), y = 1/(2−√3), तो 8xy(x² + y²) का मान:
+a) 112 b) 194 c) 290 d) 196
+11. If a + b = √7 and a − b = √5, then find the value of 8ab(a² + b²) − (a − b)².
+यदि a + b = √7 और a − b = √5 है, तो 8ab(a² + b²) − (a − b)² का मान ज्ञात कीजिए|
+a) 19 b) 23 c) 21 d) 27
+12. If the value of (3x√y+2y√x)/(3x√y−2y√x) − (3x√y−2y√x)/(3x√y+2y√x) is same as that of √x √y, then which of the following relations between x and y is correct?
+यदि (3x√y+2y√x)/(3x√y−2y√x) − (3x√y−2y√x)/(3x√y+2y√x) का मान √x √y के समान है, तो x और y के बीच निम्नलिखित में से कौन सा संबंध सही है?
+a) 9x − 4y = 36 b) 9x + 4y = 24 c) 9x + 4y = 36 d) 9x − 4y = 24
+===PAGE 2===
+13. If (x+√(x²−1))/(x−√(x²−1)) + (x−√(x²−1))/(x+√(x²−1)) = 34, then the value of x is (x < 0)
+यदि (x+√(x²−1))/(x−√(x²−1)) + (x−√(x²−1))/(x+√(x²−1)) = 34 है, तो x का मान ज्ञात करो (x < 0)|
+a) -1 b) -2 c) -3 d) -4
+14. If x² − y² = 80 and x − y = 8, then the average of x and y is
+अगर x² − y² = 80 और x − y = 8 तो x और y का औसत:
+a) 2 b) 3 c) 4 d) 5
+15. (x³ + y⁶)(x³ − y⁶) is equal to
+(x³ + y⁶)(x³ − y⁶) समान है:
+a) (x⁶ − y¹²) b) (x⁹ − y¹⁶) c) (x⁶ + y¹²) d) (x⁹ + y³⁶)
+16. If a and b be positive integers such that a² − b² = 19, then the value of a² − b is
+अगर a और b धनात्मक पूर्णांक इस प्रकार हैं की a² − b² = 19 तो a² − b का मान:
+a) 19 b) 91 c) 89 d) 10
+17. Given that x, y, z are positive real numbers, if (x + y)² − z² = 8, (y + z)² − x² = 10 and (x + z)² − y² = 7, then (x + y + z) is equal to:
+दिया गया है कि x, y, z धनात्मक वास्तविक संख्याएँ हैं, यदि (x + y)² − z² = 8, (y + z)² − x² = 10 और (x + z)² − y² = 7, फिर (x + y + z) बराबर है:
+a) 5 b) 7 c) 8 d) 6
+18. If (x + y)² = 21 + z², (y + z)² = 32 + x² and (z + x)² = 28 + y², find x + y + z = ?
+यदि (x + y)² = 21 + z², (y + z)² = 32 + x² और (z + x)² = 28 + y² है, तो x + y + z का मान ज्ञात करो |
+a) 7 b) 8 c) 9 d) 10
+19. The factors of a² − 1 − 2x − x² are ______.
+a² − 1 − 2x − x² के गुणनखंड _________ है|
+a) (a − x − 1)(a − x − 1) b) (a − x + 1)(a − x − 1) c) (a + 1 + x)(a − 1 − x) d) (a − x + 1)(a − x + 1)
+20. If x = b + c − 2a, y = c + a − 2b, z = a + b − 2c, then the value of x² + y² − z² + 2xy is
+अगर x = b + c − 2a, y = c + a − 2b, z = a + b − 2c, तो x² + y² − z² + 2xy का मान:
+a) 0 b) a + b + c c) a − b + c d) a + b − c
+21. How many pairs of natural numbers are there such that the difference of their squares is 35?
+प्राकृतिक संख्याओं के कितने जोड़े ऐसे हैं जिनके वर्गों का अंतर 35 है?
+a) 1 b) 2 c) 3 d) 4
+22. What is the value of 1006² − 1007 × 1005 + 1008 × 1004 − 1009 × 1003 ?
+1006² − 1007 × 1005 + 1008 × 1004 − 1009 × 1003 का मान क्या है?
+a) 6 b) 3 c) 12 d) 24
+23. The value of (1018)² − 1019 × 1017 + 1015 × 1012 − 1016 × 1011 is:
+(1018)² − 1019 × 1017 + 1015 × 1012 − 1016 × 1011 का मान ज्ञात करें|
+a) 1 b) 4 c) 3 d) 5
+24. 2³² − (2 + 1)(2² + 1)(2⁴ + 1)(2⁸ + 1)(2¹⁶ + 1) is equal to
+2³² − (2 + 1)(2² + 1)(2⁴ + 1)(2⁸ + 1)(2¹⁶ + 1) किसके समान है?
+a) 2 b) 2¹⁶ c) 0 d) 1
+===PAGE 3===
+25. (2 + 1)(2² + 1)(2⁴ + 1)(2⁸ + 1)(2¹⁶ + 1)(2³² + 1)(2⁶⁴ + 1) is:
+a) 2²⁵⁶ − 1 b) 2²⁵⁶ + 1 c) 2¹²⁸ − 1 d) 2¹²⁸ + 1
+26. What is the simplified value of (3 + 1)(3² + 1)(3⁴ + 1)(3⁸ + 1)(3¹⁶ + 1)?
+(3 + 1)(3² + 1)(3⁴ + 1)(3⁸ + 1)(3¹⁶ + 1) का सरलीकृत मान क्या है?
+a) (3³²−1)/2 b) (3¹⁶−1)/2 c) (3⁶⁴−1)/2 d) (3¹²⁸−1)/2
+27. What is the simplified value of (x¹²⁸ + 1)(x³² + 1)(x⁶⁴ + 1)(x¹⁶ + 1)(x⁸ + 1)(x⁴ + 1)(x² + 1)(x + 1)?
+(x¹²⁸ + 1)(x³² + 1)(x⁶⁴ + 1)(x¹⁶ + 1)(x⁸ + 1)(x⁴ + 1)(x² + 1)(x + 1) का सरलीकृत मान क्या है ?
+a) x²⁵⁶ − 1 b) (x¹²⁸−1)/(x−1) c) (x⁶⁴−1)/(x−1) d) (x²⁵⁶−1)/(x−1)
+28. What is 1/(a−b) − 1/(a+b) − 2b/(a²+b²) − 4b³/(a⁴+b⁴) − 8b⁷/(a⁸−b⁸) equal to?
+1/(a−b) − 1/(a+b) − 2b/(a²+b²) − 4b³/(a⁴+b⁴) − 8b⁷/(a⁸−b⁸) किसके बराबर है ?
+a) a + b b) a − b c) 1 d) 0
+29. If P = 2² + 6² + 10² + 14² + ... + 94² and Q = 1² + 5² + 9² + ... + 81², then what is the value of P − Q?
+यदि P = 2² + 6² + 10² + 14² + ... + 94² तथा Q = 1² + 5² + 9² + ... + 81², है तो P − Q का मान क्या है?
+a) 24645 b) 26075 c) 29317 d) 31515
+30. Factors of m⁵ − 16m
+m⁵ − 16m के गुणनखंड होंगे-
+a) m(m − 1)(m − 3) b) m(m − 2)(m + 2)(m² + 4) c) m(m − 1)(m − 2)(m + 2) d) None of these
+31. (a + 1)⁴ − a⁴ is divisible by
+(a + 1)⁴ − a⁴ विभाजित है :
+a) −2a² + 2a − 1 b) 2a³ − 2a − 1 c) 2a³ − 2a + 1 d) 2a² + 2a + 1
+32. A complete factorization of x⁴ + 64 is
+x⁴ + 64 का सम्पूर्ण गुणनखंडन करें:
+a) (x² + 8)² b) (x² + 8)(x² − 8) c) (x² − 4x + 8)(x² − 4x − 8) d) (x² + 4x + 8)(x² − 4x + 8)
+33. The value of (4.669×4.669 − 9×(0.777)²)/((4.669)² + (2.331)² + 14(0.667)(2.331)) is (1 − k), where k = ?
+(4.669×4.669 − 9×(0.777)²)/((4.669)² + (2.331)² + 14(0.667)(2.331)) का मान है (1 − k), जहां k = ?
+a) 0.666 b) 0.334 c) 1 d) 2.338
+34. x and y are positive integers. If x⁴ + y⁴ + x²y² = 481 and xy = 12, then what is the value of x² − xy + y² ?
+x तथा y एक धनात्मक पूर्णांक है| यदि x⁴ + y⁴ + x²y² = 481 तथा xy = 12 है, तो x² − xy + y² का मान क्या है?
+a) 16 b) 13 c) 113 d) 15
+35. The value of (4x³ − x)/((2x − 1)(6x + 3)) when x = 9999 is
+(4x³ − x)/((2x − 1)(6x + 3)) का मान अगर x = 9999
+a) 1111 b) 2222 c) 3333 d) 6666
+36. What is ((x² + y²)(x − y) − (x − y)³)/(x²y − xy²) equal to?
+((x² + y²)(x − y) − (x − y)³)/(x²y − xy²) किसके बराबर है ?
+a) 1 b) 2 c) 4 d) -2
+37. The factors of (x² − 1 − 2a − a²) are :
+(x² − 1 − 2a − a²) के गुणनखंड ज्ञात करो |
+a) (x − a + 1)(x − a − 1) b) (x + a − 1)(x − a + 1) c) (x + a + 1)(x − a − 1) d) None of these
+===PAGE 4===
+38. A = (x⁸ − 1)/(x⁴ + 1) and B = (y⁴ − 1)/(y² + 1). If x = 2 and y = 9, then what is the value of A² + 2AB + AB² ?
+यदि A = (x⁸ − 1)/(x⁴ + 1) तथा B = (y⁴ − 1)/(y² + 1) है| यदि x = 2 तथा y = 9 है, तो A² + 2AB + AB² का क्या मान है?
+a) 96475 b) 98625 c) 92425 d) 89125
+39. If ax + by = 3, bx − ay = 4 & x² + y² = 1, then find a² + b².
+यदि ax + by = 3, bx − ay = 4 और x² + y² = 1 है, तो a² + b² ज्ञात करो |
+a) 17 b) 16 c) 9 d) 25
+40. If ax + by = 6, bx − ay = 2 & x² + y² = 4 then the value of (a² + b²) is
+यदि ax + by = 6, bx − ay = 2 और x² + y² = 4 है, तो (a² + b²) का मान है :
+a) 2 b) 4 c) 5 d) 10
+41. If a² + b² = 25, x² + y² = 17 and ax + by = 8, then what is the value of (ay − bx)?
+यदि a² + b² = 25, x² + y² = 17 और ax + by = 8 है, तो (ay − bx) का मान क्या होगा?
+a) 23 b) 25 c) 21 d) 19
+42. If (a² + b²)(m² + n²) = (am + bn)² then, which of the following is correct.
+यदि (a² + b²)(m² + n²) = (am + bn)², तो निम्नलिखित में से कौन-सा कथन सत्य है ?
+a) a/m − b/n = 0 b) a/n = b/m c) ab = mn d) a + b = m + n
+43. If √x = √3 − √5, then the value of x² − 16x + 6 is
+यदि √x = √3 − √5 है, तो x² − 16x + 6 का मान है:
+a) 0 b) -2 c) 2 d) 4
+44. If p = √5 − 2, then p⁴ + 16p² + 8p³ + 4 = ?
+यदि p = √5 − 2 है, तो p⁴ + 16p² + 8p³ + 4 ज्ञात करो |
+a) 3 b) 5 c) 1 d) 0
+45. If a = 89, b = −69, c = 8 then the value of 9(a + b)² + 49c² − 42(a + b)c is:
+यदि a = 89, b = −69, c = 8 है, तो 9(a + b)² + 49c² − 42(a + b)c का मान है :
+a) 2 b) 4 c) 16 d) 0
+46. If x, y, z are positive integers such that x² + y² = 45 and y² + z² = 40, then find the value of x + y + z.
+यदि x, y, z धनात्मक पूर्णांक हैं जैसे कि x² + y² = 45 और y² + z² = 40 हो, तो x + y + z का मान ज्ञात कीजिए।
+a) 11 b) 10 c) 20 d) 15
+47. If a, b and c are positive integers such that a² + b² = 82 and b² + c² = 65, then the value of 2a + 7b − 3c is:
+यदि a, b और c धनात्मक पूर्णांक इस प्रकार है कि a² + b² = 82 और b² + c² = 65 है, तो 2a + 7b − 3c का मान ज्ञात करें|
+a) 2 b) 5 c) 49 d) 1
+48. If √(13x³ − 14x + 29) + √(13x³ − 14x − 21) = 10, then √(13x³ − 14x + 29) − √(13x³ − 14x − 21) = ?
+यदि √(13x³ − 14x + 29) + √(13x³ − 14x − 21) = 10 है, तो √(13x³ − 14x + 29) − √(13x³ − 14x − 21) का मान होगा :
+a) 3 b) 4 c) 5 d) 6
+===PAGE 5===
+49. The term to be added to 121a² + 64b² to make a perfect square is
+121a² + 64b² में क्या जोड़ा जाए ताकि ये पूर्ण वर्ग बन जाए?
+a) 176ab b) 276a²b c) 178ab d) 188b²a
+50. The term, that should be added to (4x² + 8x) so that resulting expression be a perfect square is:
+(4x² + 8x) में क्या जोड़ा जाए ताकि ये पूर्ण वर्ग बन जाए?
+a) 2x b) 2 c) 1 d) 4
+51. The expression x⁴ − x² + k is a perfect square if the value of k is
+k के किस मान के लिए x⁴ − x² + k एक पूर्ण वर्ग होगा?
+a) 1 b) 0 c) 1/4 d) −1/4
+52. If x + (1/5)√x + a² is a perfect square then a is
+a के किस मान के लिए x + (1/5)√x + a² एक पूर्ण वर्ग होगा?
+a) 1/100 b) ±1/10 c) 1/10 d) −1/10
+53. For what value(s) of k the expression p + (1/4)√p + k is perfect square?
+k के किस मान के लिए p + (1/4)√p + k एक पूर्ण वर्ग होगा?
+a) 1/64 b) ±1/4 c) ±1/8 d) ±1/64
+54. For what value(s) of k will the expression p + (1/9)√p + k² be a perfect square
+k के किस मान/किन मानो के लिए व्यंजक p + (1/9)√p + k² एक पूर्ण वर्ग होगा?
+a) k = ±1/8 b) k = ±1/9 c) k = ±1/21 d) k = ±1/18
+55. If the expression 4x²/y² + tx + y²/4 is a perfect square, then the values of t is
+अगर 4x²/y² + tx + y²/4 एक पूर्ण वर्ग है तो t का मान:
+a) 2 b) ±2 c) 0 d) −2
+56. The expression x⁴ − 16x² + k³ is a perfect square if the value of k is
+k के किस मान के लिए x⁴ − 16x² + k³ एक पूर्ण वर्ग होगा?
+a) 64 b) 8 c) 4 d) ±4
+57. If the expression x² + x + 1 is written in the form of (x + 1/2)² + q², then the possible values of q are
+अगर x² + x + 1 को (x + 1/2)² + q² के रूप में लिखा जाए तो q के संभव मान:
+a) ±1/3 b) ±√3/2 c) ±2/√3 d) ±1/2
+58. If N = (12345)² + 12345 + 12346, then what is the value of √N ?
+यदि N = (12345)² + 12345 + 12346 है, तो √N का मान क्या है?
+a) 12346 b) 12345 c) 12344 d) 12347
+59. If the expression x + 809436 × 809438 be a perfect square, then the value of x is
+अगर x + 809436 × 809438 एक पूर्ण वर्ग है, तो x का मान पता करो|
+a) 809436 b) 809438 c) 0 d) 1
+60. The least positive integer that should be subtracted from 3011 × 3012 so that the difference is a perfect square is
+3011 × 3012 में से कौनसा छोटे से छोटा धनात्मक पूर्णांक घटाया जाए ताकि उन अंकों का अंतर एक पूर्ण वर्ग हो
+a) 3009 b) 2010 c) 3011 d) 3012
+===PAGE 6===
+61. If (a + b)² − 2(a + b) = 80 and ab = 16, then what can be the value of 3a − 19b?
+यदि (a + b)² − 2(a + b) = 80 तथा ab = 16 है, तो 3a − 19b का मान क्या हो सकता है?
+a) -16 b) -14 c) -18 d) -20
+62. If [a + (1/a)]² − 2[a − (1/a)] = 12, then which of the following is a value of a?
+यदि [a + (1/a)]² − 2[a − (1/a)] = 12 हो, तो निम्नलिखित में से कौन सा a का मान है?
+a) −8 + √3 b) −8 − √3 c) −8 + √5 d) None of these
+63. Simplify the following expression: [(1 + p)(1 + p²)(1 + p⁴)(1 + p⁸)(1 + p¹⁶)(1 − p) − 1]
+निम्नलिखित व्यंजक को सरल कीजिये: [(1 + p)(1 + p²)(1 + p⁴)(1 + p⁸)(1 + p¹⁶)(1 − p) − 1]
+a) −p³² b) p³² c) (1 + p³²) d) (1 − p³²)
+64. The value of (p² − (q − r)²)/((p + r)² − q²) + (q² − (p − r)²)/((p + q)² − r²) + (r² − (p − q)²)/((q + r)² − p²) is:
+(p² − (q − r)²)/((p + r)² − q²) + (q² − (p − r)²)/((p + q)² − r²) + (r² − (p − q)²)/((q + r)² − p²) का मान ज्ञात कीजिए|
+a) 1 b) 2 c) 0 d) 3
+65. If p − 2q = 4, then the value of p³ − 8q³ − 24pq − 64 is
+अगर p − 2q = 4, तो p³ − 8q³ − 24pq − 64 का मान:
+a) 2 b) 0 c) 3 d) -1
+66. If m − 5n = 2, then the value of (m³ − 125n³ − 30mn) is
+अगर m − 5n = 2, तो (m³ − 125n³ − 30mn) का मान:
+a) 6 b) 7 c) 8 d) 9
+67. If x = ∛5 + 2, then the value of x³ − 6x² + 12x − 13 is
+अगर x = ∛5 + 2, तो x³ − 6x² + 12x − 13 का मान:
+a) -1 b) 1 c) 2 d) 0
+68. If 5x + 9y = 5 and 125x³ + 729y³ = 120, then the value of the product of x and y is
+अगर 5x + 9y = 5 और 125x³ + 729y³ = 120 तो x और y का गुणनफल क्या होगा?
+a) 45 b) 1/9 c) 1/135 d) 135
+69. If p = 999, then the value of ∛(p(p² + 3p + 3) + 1) is
+अगर p = 999, तो ∛(p(p² + 3p + 3) + 1) का मान:
+a) 1000 b) 999 c) 998 d) 1002
+70. If p = 124, then ∛(p(p² + 3p + 3) + 1) = ?
+अगर p = 124, तो ∛(p(p² + 3p + 3) + 1) = ?
+a) 5 b) 7 c) 123 d) 125
+71. If p = 99, then value of p(p² + 3p + 3) is
+अगर p = 99, तो p(p² + 3p + 3) का मान:
+a) 999 b) 9999 c) 99999 d) 999999
+72. If p³ + 3p² + 3p = 26, then the value of p² + 2p is:
+यदि p³ + 3p² + 3p = 26 है, तो p² + 2p का मान ज्ञात कीजिए|
+a) 8 b) 12 c) 10 d) 15
+===PAGE 7===
+73. If m = −9, n = 8, then the value of m³ − 3m² + 3m + 3n + 3n² + n³ is
+अगर m = −9, n = 8, तो m³ − 3m² + 3m + 3n + 3n² + n³ का मान:
+a) 271 b) -271 c) -1 d) 0
+74. If x + y + z = 2s find (s − x)³ + (s − y)³ + 3(s − x)(s − y)z = ?
+यदि x + y + z = 2s है, तो (s − x)³ + (s − y)³ + 3(s − x)(s − y)z का मान ज्ञात करो |
+a) z³ b) −z³ c) 0 d) 2z³
+75. If (8x³ + 27y³) ÷ (2x + 3y) = (Ax² + Bxy + Cy²), then the value of (5A + 4B + 3C) is
+यदि (8x³ + 27y³) ÷ (2x + 3y) = (Ax² + Bxy + Cy²) तो (5A + 4B + 3C) का मान है:
+a) 27 b) 24 c) 23 d) 71
+76. If 8x³ − 27y³ = (Ax + By)(Cx² − Dy² + 6xy), then (A + B + C − D) is equal to:
+यदि 8x³ − 27y³ = (Ax + By)(Cx² − Dy² + 6xy) है, तो (A + B + C − D) निम्नलिखित में से किसके बराबर है?
+a) -12 b) 12 c) 15 d) 9
+77. If 2√2x³ − 3√3y³ = (√2x − √3y)(Ax² + By² + Cxy), then the value of A² + B² − C² is:
+यदि 2√2x³ − 3√3y³ = (√2x − √3y)(Ax² + By² + Cxy) है, तो A² + B² − C² का क्या मान है:
+a) 11 b) 7 c) 19 d) 10
+78. If 24√3x³ + 5√5y³ = (2√3x + √5y) × (Ax² + Bxy + Cy²), then what is the value of (A² − B² + C²)?
+यदि 24√3x³ + 5√5y³ = (2√3x + √5y) × (Ax² + Bxy + Cy²) है, तो (A² − B² + C²) का मान क्या होगा ?
+a) 108 b) 128 c) 109 d) 139
+79. If 250√2x³ − 5√5y³ = (5√2x − √5y)(Ax² + Bxy + Cy²), then the value of (A + C − √10B) is:
+यदि 250√2x³ − 5√5y³ = (5√2x − √5y)(Ax² + Bxy + Cy²) है, तो (A + C − √10B) का मान है:
+a) 10 b) 5 c) 5√2 d) 2√5
+80. If (135√5x³ − 2√2y³) ÷ (3√5x − √2y) = Ax² + By² + √10Cxy, then the value of (A + B − 9C) is:
+यदि (135√5x³ − 2√2y³) ÷ (3√5x − √2y) = Ax² + By² + √10Cxy, तो (A + B − 9C) का मान है:
+a) 20 b) 18 c) 10 d) 12
+81. If x⁶ − 512y⁶ = (x² + Ay²)(x⁴ − Bx²y² + Cy⁴), then what is the value of (A + B − C)?
+अगर x⁶ − 512y⁶ = (x² + Ay²)(x⁴ − Bx²y² + Cy⁴), तो (A + B − C) का मान क्या है?
+a) −72 b) 72 c) −80 d) 48
+82. If [8(x + y)³ − 27(x − y)³] ÷ (5y − x) = Ax² + Bxy + Cy² then the value of (A + B + C) is:
+यदि [8(x + y)³ − 27(x − y)³] ÷ (5y − x) = Ax² + Bxy + Cy² तो (A + B + C) का मान है:
+a) 27 b) 24 c) 16 d) 18
+83. If 8(a + b)³ + (a − b)³ = (3a + b)(Aa² + Bab + Cb²), then what is the value of (A + B − C)?
+यदि 8(a + b)³ + (a − b)³ = (3a + b)(Aa² + Bab + Cb²) है, तो (A + B − C) का मान क्या होगा ?
+a) 2 b) 4 c) 10 d) 11
+===PAGE 8===
+84. If 8(x + y)³ − (x − y)³ = (x + 3y)(Ax² + Bxy + Cy²), then the value of (A − B − C) is:
+यदि 8(x + y)³ − (x − y)³ = (x + 3y)(Ax² + Bxy + Cy²) है, तो (A − B − C) का मान है:
+a) -2 b) -6 c) 10 d) 14
+85. Given that (2x + y)³ − (x + 2y)³ = (x − y)[A(x² + y²) + Bxy], the value of (2A − B) is:
+दिया गया है कि (2x + y)³ − (x + 2y)³ = (x − y)[A(x² + y²) + Bxy] है, तो (2A − B) का मान ज्ञात करें|
+a) 7 b) 6 c) 0 d) 1
+86. If (x³ − y³) : (x² + xy + y²) = 5 : 1 and (x² − y²) : (x − y) = 7 : 1, then the ratio 2x : 3y equals
+अगर (x³ − y³) : (x² + xy + y²) = 5 : 1 और (x² − y²) : (x − y) = 7 : 1 है तो 2x : 3y पता करो|
+a) 4 : 1 b) 2 : 3 c) 4 : 3 d) 3 : 2
+87. Simplify the following expression: ((62×62×62) − 3(62×62×22) + 3(62×22×22) − (22×22×22)) / (8×8×8)
+निम्नलिखित व्यंजक को हल कीजिए: ((62×62×62) − 3(62×62×22) + 3(62×22×22) − (22×22×22)) / (8×8×8)
+a) 225 b) 1250 c) 125 d) 25
+88. ((253)³ + (247)³) / (25.3×2.53 − 62.491 + 2.47×24.7) = 50 × 10ᵏ, k = ?
+a) 3 b) 4 c) 2 d) -3
+89. (775×775×775 + 225×225×225) / (77.5×77.5 + 22.5×22.5 − 77.5×22.5) is equal to:
+(775×775×775 + 225×225×225) / (77.5×77.5 + 22.5×22.5 − 77.5×22.5) का मान ज्ञात करें|
+a) 100 b) 10000 c) 100000 d) 10
+90. Simplify the following: (0.01×0.01×0.01 + 0.003×0.003×0.003) / (0.05×0.05 − 0.015×0.05 + 0.015×0.015)
+निम्नलिखित को सरलीकरण कीजिए: (0.01×0.01×0.01 + 0.003×0.003×0.003) / (0.05×0.05 − 0.015×0.05 + 0.015×0.015)
+a) (13/25) × 10³ b) (13/15) × 10⁻³ c) (13/15) × 10³ d) (13/25) × 10⁻³
+91. The simplified value of (1 − 2xy/(x²+y²)) ÷ ((x³−y³)/(x−y) − 3xy) is
+मान निकालें : (1 − 2xy/(x²+y²)) ÷ ((x³−y³)/(x−y) − 3xy)
+a) 1/(x²−y²) b) 1/(x²+y²) c) 1/(x−y) d) 1/(x+y)
+92. If a³ + b³ = 110 and a + b = 5, then (a + b)² − 3ab is equal to
+अगर a³ + b³ = 110 और a + b = 5, तो (a + b)² − 3ab बराबर है
+a) 52 b) 32 c) 42 d) 22
+93. If a³ + b³ = 1344 and a + b = 28, then (a + b)² − 3ab is equal to
+अगर a³ + b³ = 1344 और a + b = 28, तो (a + b)² − 3ab बराबर है
+a) 24 b) 16 c) 32 d) 48
+94. On simplification, (x³−y³)/(x[(x+y)²−3xy]) ÷ (y[(x−y)²+3xy])/(x³+y³) × ((x+y)²−(x−y)²)/(x²−y²) is equal to:
+सरलीकरण पर, (x³−y³)/(x[(x+y)²−3xy]) ÷ (y[(x−y)²+3xy])/(x³+y³) × ((x+y)²−(x−y)²)/(x²−y²) इसके बराबर है:
+a) 4 b) 1 c) 1/2 d) 1/4
+===PAGE 9===
+95. If P = (x³+y³)/((x−y)²+3xy), Q = ((x+y)²−3xy)/(x³−y³) and R = ((x+y)²+(x−y)²)/(x²−y²), then what is the value of (P ÷ Q) × R?
+अगर P = (x³+y³)/((x−y)²+3xy), Q = ((x+y)²−3xy)/(x³−y³) और R = ((x+y)²+(x−y)²)/(x²−y²), तो (P ÷ Q) × R का मान क्या है?
+a) 2(x² + y²) b) 4xy c) x² + y² d) 2xy
+96. If P = (x⁴−8x)/(x³−x²−2x), Q = (x²+2x+1)/(x²−4x−5) and R = (2x²+4x+8)/(x−5), then (P × Q) ÷ R is equal to:
+अगर P = (x⁴−8x)/(x³−x²−2x), Q = (x²+2x+1)/(x²−4x−5) और R = (2x²+4x+8)/(x−5) तो (P × Q) ÷ R बराबर है:
+a) 1/2 b) 1 c) 2 d) 4
+97. (x + 1/x)(x − 1/x)(x² + 1/x² − 1)(x² + 1/x² + 1) is
+a) x⁶ + 1/x⁶ b) x⁸ + 1/x⁸ c) x⁸ − 1/x⁸ d) x⁶ − 1/x⁶
+98. If x⁶ + 1/x⁶ = k(x² + 1/x²), then k is equal to
+यदि x⁶ + 1/x⁶ = k(x² + 1/x²) है, तो k बराबर है :
+a) (x² − 1 + 1/x²) b) (x⁴ − 1 + 1/x⁴) c) (x⁴ + 1 + 1/x⁴) d) (x⁴ − 1 − 1/x⁴)
+99. If a + b = 1 and a³ + b³ + 3ab = k, then the value of k is
+अगर a + b = 1 और a³ + b³ + 3ab = k तो k का मान:
+a) 1 b) 3 c) 5 d) 7
+100. If p³ − q³ = (p − q){(p − q)² − xpq}, then the value of x is
+अगर p³ − q³ = (p − q){(p − q)² − xpq} है तो x का मान:
+a) -1 b) 3 c) 1 d) -3
+101. The value of (x^(1/3) + x^(−1/3))(x^(2/3) − 1 + x^(−2/3)) is:
+(x^(1/3) + x^(−1/3))(x^(2/3) − 1 + x^(−2/3)) का मान है :
+a) x¹ + x^(2/3) b) x + x^(−1/3) c) x^(1/3) + x⁻¹ d) x + x⁻¹
+102. If (a² + b²)³ = (a³ + b³)², then the value of a/b + b/a is
+यदि (a² + b²)³ = (a³ + b³)² है, तो a/b + b/a का मान है :
+a) 1/3 b) 2/3 c) −1/3 d) −2/3
+103. If x is a rational number and ((x+1)³ − (x−1)³)/((x+1)² − (x−1)²) = 2, then the sum of numerator and denominator of x is:
+अगर x एक परिमेय संख्या है और ((x+1)³ − (x−1)³)/((x+1)² − (x−1)²) = 2 है तो x के अंश और हर का जोड़ ज्ञात करें:
+a) 3 b) 4 c) 5 d) 7
+104. If xy(x + y) = 1, then the value of 1/(x³y³) − x³ − y³
+अगर xy(x + y) = 1, तो 1/(x³y³) − x³ − y³:
+a) 0 b) 1 c) 3 d) -2
+105. If x(x − 3) = −1, then the value of x³(x³ − 18) is
+अगर x(x − 3) = −1, तो x³(x³ − 18) का मान:
+a) -1 b) 2 c) 1 d) 0
+106. If x = 2 + 2^(1/3) + 2^(2/3) then what is the value of x³ − 6x² + 6x?
+अगर x = 2 + 2^(1/3) + 2^(2/3) है तो x³ − 6x² + 6x का मान क्या होगा?
+a) 3 b) 2 c) 1 d) 0
+===PAGE 10===
+107. If a² + b² + ab = 0, then (a³ − b³) is equal to
+अगर a² + b² + ab = 0 है, तो (a³ − b³):
+a) 0 b) 1 c) (a + b)³ d) a²b⁴ + a⁴b²
+108. If a/b + b/a = 1, a ≠ 0, b ≠ 0 the value of a³ + b³ is
+अगर a/b + b/a = 1, a ≠ 0, b ≠ 0 तो a³ + b³ का मान:
+a) 0 b) 1 c) -1 d) 2
+109. If a = b²/(b−a), then the value of a³ + b³ is
+अगर a = b²/(b−a), तो a³ + b³ का मान:
+a) 6ab b) 0 c) 1 d) 2
+110. If 1/(x+y) = 1/x + 1/y then the value of x³ − y³ is
+अगर 1/(x+y) = 1/x + 1/y तो x³ − y³ का मान:
+a) 0 b) 1 c) -1 d) 2
+111. If a⁴ + b⁴ = a²b², then (a⁶ + b⁶) equals
+अगर a⁴ + b⁴ = a²b² है, तो (a⁶ + b⁶):
+a) 0 b) 1 c) a² + b² d) a²b⁴ + a⁴b²
+112. If a² + a + 1 = 0, then the value of a⁹ is
+अगर a² + a + 1 = 0 है, तो a⁹ का मान:
+a) 2 b) -1 c) 1 d) 0
+113. If a² + a + 1 = 0, then the value of a⁵ + a⁴ + 1 is
+अगर a² + a + 1 = 0 है, तो a⁵ + a⁴ + 1 का मान:
+a) 1 b) 0 c) a + 1 d) a²
+114. If a³ + 3a² + 9a = 1, then what is the value of a³ + (3/a)?
+यदि a³ + 3a² + 9a = 1 हो, तो a³ + (3/a) का मान क्या है?
+a) 31 b) 26 c) 28 d) 24
+115. If a + a² + a³ − 1 = 0, then what is the value of a³ + 1/a?
+यदि a + a² + a³ − 1 = 0 हो, तो a³ + 1/a का मान क्या है?
+a) 1 b) 4 c) 2 d) 3
+116. If a + 1/a + 1 = 0 (a ≠ 0) then the value of (a⁴ − a) is:
+अगर a + 1/a + 1 = 0 (a ≠ 0) है तो (a⁴ − a) का मान:
+a) 0 b) 1 c) -2a d) -1
+117. If X + Y = 10 and XY = 4, then what is the value of X⁴ + Y⁴?
+यदि X + Y = 10 तथा XY = 4 है, तो X⁴ + Y⁴ का मान क्या है?
+a) 8464 b) 8432 c) 7478 d) 6218
+118. If x = √5 + 1 & y = √5 − 1 then the value of x²/y² + y²/x² + 4[x/y + y/x] + 6 is
+यदि x = √5 + 1 तथा y = √5 − 1 है, तो x²/y² + y²/x² + 4[x/y + y/x] + 6 का मान क्या है?
+a) 31 b) 23√5 c) 27√5 d) 25
+119. If a + b = 27 and a³ + b³ = 5427, then find ab.
+यदि a + b = 27 और a³ + b³ = 5427 है, तो ab का मान ज्ञात करें|
+a) 143 b) 135 c) 176 d) 149
+120. The difference between two numbers is 3 and the difference between their cubes is 999. Find the difference between their squares.
+दो संख्याओं के बीच का अंतर 3 है और उनके घनों के बीच का अंतर 999 है| उनके वर्गों का अंतर ज्ञात कीजिए|
+a) 81 b) 63 c) 36 d) 18
+===PAGE 11===
+121. If the difference between two numbers is 5 and the difference their cubes is 1850, then the difference between their squares is:
+यदि दो संख्याओं का अंतर 5 है और उनके घनों का अंतर 1850 है, तो उनके वर्गों के मध्य कितना अंतर होगा?
+a) 5√482 b) 5√483 c) 5√484 d) 5√485
+122. If x + y = 7 and xy = 10, then the value of (1/x³ + 1/y³) is:
+यदि x + y = 7 और xy = 10, तो (1/x³ + 1/y³) का मान है:
+a) 0.543 b) 0.131 c) 0.133 d) 0.454
+123. If a³ = 117 + b³ and a = 3 + b, then the value of a + b is:
+यदि a³ = 117 + b³ और a = 3 + b हो, तो a + b का मान निकालें ?
+a) ±7 b) ±49 c) ±13 d) 0
+124. If x = (√3−√2)/(√3+√2) and y = (√3+√2)/(√3−√2) then the value of x³ + y³ is
+अगर x = (√3−√2)/(√3+√2) और y = (√3+√2)/(√3−√2), तो x³ + y³ का मान:
+a) 950 b) 730 c) 650 d) 970
+125. If x = (√5+√3)/(√5−√3) and y is the reciprocal of x, then what is the value of (x³ − y³)?
+यदि x = (√5+√3)/(√5−√3) है और y, x का व्युत्क्रम है तो (x³ − y³) का मान है:
+a) 120√15 b) 114√15 c) 126√15 d) 123√15
+126. If x³ + y³ = 416 and x + y = 8, then find x⁴ + y⁴.
+यदि x³ + y³ = 416 और x + y = 8 है तो x⁴ + y⁴ का मान ज्ञात कीजिए|
+a) 3002 b) 3204 c) 3004 d) 3104
+127. If a² + b² = 99 and ab = 11, (a > 0, b > 0) then the value of (a³ + b³) is:
+यदि a² + b² = 99 और ab = 11, (a > 0, b > 0) तो (a³ + b³) का मान है:
+a) 1250 b) 968 c) 1100 d) 1080
+128. If a² + b² = 88 and ab = 6, (a > 0, b > 0) then what is the value of (a³ + b³) is?
+यदि a² + b² = 88 और ab = 6, (a > 0, b > 0) तो (a³ + b³) का मान क्या है?
+a) 980 b) 1180 c) 820 d) 1000
+129. If x² + y² = 45 and x − y = 5 then what is the value of x³ − y³?
+यदि x² + y² = 45 और x − y = 5 है, तो x³ − y³ का मान ज्ञात करें|
+a) 150 b) 250 c) −25 d) 275
+130. If a + b = p, ab = q, then (a⁴ + b⁴) is equal to:
+यदि a + b = p, ab = q है, तो (a⁴ + b⁴) का मान ज्ञात कीजिए|
+a) p⁴ − 2p²q² + q² b) p⁴ − 4p²q² + 2q² c) p⁴ − 4p²q + q² d) p⁴ − 4p²q + 2q²
+131. If a + b = p, ab = q, then (a⁴ + b⁴) is equal to:
+यदि a + b = p, ab = q है, तो (a⁴ + b⁴) का मान ज्ञात कीजिए|
+a) p⁴ − 2p²q² + q² b) p⁴ − 4p²q² + 2q² c) p⁴ − 4p²q + q² d) p⁴ − 4p²q + 2q²
+===PAGE 12===
+132. If 8a³ + b³ = 16 and 2a + b = 4, then find the value of 16a⁴ + b⁴.
+यदि 8a³ + b³ = 16 और 2a + b = 4 है, तो 16a⁴ + b⁴ का मान क्या होगा?
+a) 32 b) 36 c) 28 d) 38
+133. If 16x² + y² = 48 and xy = 2, x, y > 0, then the value of (64x³ + y³) is:
+यदि 16x² + y² = 48 और xy = 2, x, y > 0 है, तो (64x³ + y³) का मान ज्ञात करें|
+a) 320 b) 300 c) 240 d) 340
+134. x, y are two positive numbers such that x > y. If x⁴ + y⁴ = 706 and xy = 15, then the value of 2x + 3y is:
+x, y दो ऐसी धनात्मक संख्याएँ हैं कि x > y है| यदि x⁴ + y⁴ = 706 और xy = 15 है, तो 2x + 3y का मान ज्ञात करें|
+a) 19 b) 20 c) 18 d) 15
+135. If (x² + 1/(49x²)) = 15 5/7, then what is the value of (x + 1/(7x))?
+यदि (x² + 1/(49x²)) = 15 5/7 है, तो (x + 1/(7x)) का मान क्या होगा?
+a) 7 b) ±7 c) ±4 d) 4
+136. If x⁴ + 16/x⁴ = 27217, x > 0, then the value of x + 2/x is:
+यदि x⁴ + 16/x⁴ = 27217, x > 0 है, तो x + 2/x का मान क्या होगा?
+a) 17 b) 11 c) 15 d) 13
+137. If 20x² − 30x + 1 = 0, then what is the value of 25x² + 1/(16x²)?
+यदि 20x² − 30x + 1 = 0, तो 25x² + 1/(16x²) का मान क्या है?
+a) 53 1/2 b) 58 1/2 c) 53 3/4 d) 58 3/4
+138. If 2x² − 8x − 1 = 0, then what is the value of 8x³ − 1/x³?
+यदि 2x² − 8x − 1 = 0 है, तो 8x³ − 1/x³ का मान ज्ञात करें|
+a) 524 b) 560 c) 464 d) 540
+139. If x + 1/(15x) = 3 then the value of 9x³ + 1/(375x³) will be:
+यदि x + 1/(15x) = 3 है, तो 9x³ + 1/(375x³) का मान ज्ञात करें|
+a) 237.6 b) 376.2 c) 273.6 d) 367.2
+140. If (4a − 3b) = 1, ab = 1/2, where a > 0 and b > 0, what is the value of (64a³ + 27b³)?
+यदि (4a − 3b) = 1, ab = 1/2 हैं, जहाँ a > 0 और b > 0 है, (64a³ + 27b³) का मान क्या होगा ?
+a) 15 b) 25 c) 30 d) 35
+141. If 3x + 2y = 15 and xy = 6, then what is the value of (3/2)x³ + (4/9)y³?
+यदि 3x + 2y = 15 और xy = 6 हो, तो (3/2)x³ + (4/9)y³ का मान कितना होगा?
+a) 95.8 b) 92.5 c) 98.6 d) 97.5
+142. If x + 2y = 10 and 2xy = 9, then one of the value of x − 2y is:
+यदि x + 2y = 10 और 2xy = 9 तो x − 2y के मानो मे से एक मान ______ है|
+a) 8 b) 6 c) 10 d) 12
+143. Let a and b be two positive real numbers such that a√a + b√b = 32 and a√b + b√a = 31. What is the value of 5(a+b)/7?
+माना a और b धनात्मक वास्तविक संख्याएँ हैं, ऐसे कि a√a + b√b = 32 और a√b + b√a = 31 है | 5(a+b)/7 का मान क्या होगा ?
+a) 5 b) 7 c) 9 d) Cannot be determined
+===PAGE 13===
+144. If (x − a)(x − b) = 1 and a − b + 5 = 0, then the value of (x − a)³ − 1/(x − a)³ is
+अगर (x − a)(x − b) = 1 और a − b + 5 = 0 है तो (x − a)³ − 1/(x − a)³ पता करें|
+a) −125 b) 110 c) 125 d) 140
+145. If a = (2+√3)/(2−√3) and b = (2−√3)/(2+√3), then a²/b + b²/a value of
+अगर a = (2+√3)/(2−√3) और b = (2−√3)/(2+√3), तो a²/b + b²/a का मान:
+a) 2744 b) 2702 c) 2786 d) 2704
+146. If x = √3 − 1/√3 and y = √3 + 1/√3 then the value of x²/y + y²/x is
+अगर x = √3 − 1/√3 और y = √3 + 1/√3 तो x²/y + y²/x का मान:
+a) √3 b) 3√3 c) 16√3 d) 2√3
+147. ((√5+1)/(√5−1))³ + ((√5−1)/(√5+1))³ = ?
+a) 18 b) 36 c) 27 d) 16
+148. If x − √3 − √2 = 0 and y − √3 + √2 = 0, then the value of (x³ − 20√2) − (y³ + 2√2) is
+अगर x − √3 − √2 = 0 और y − √3 + √2 = 0 है तो (x³ − 20√2) − (y³ + 2√2) का मान पता करो|
+a) 0 b) 1 c) −12√2 d) 2
+149. If 2x − y = 2 and xy = 3/2, then what is the value of x³ − y³/8?
+यदि 2x − y = 2 और xy = 3/2 है, तो x³ − y³/8 का मान क्या होगा?
+a) 9/2 b) −5/4 c) 5/2 d) 13/4
+150. If 2a + 5b = 12 and ab = 3, find the value of 4a² + 25b².
+यदि 2a + 5b = 12 और ab = 3 है, तो 4a² + 25b² का मान ज्ञात करे|
+a) 64 b) 84 c) 24 d) 44
+151. If a + 2b = 27 and a³ + 8b³ = 5427, then find the value of 2ab.
+यदि a + 2b = 27 और a³ + 8b³ = 5427 है तो 2ab का मान ज्ञात करे|
+a) 149 b) 176 c) 156 d) 172
+152. If a + b = 8 and a + a²b + b + ab² = 128, then the positive value of a³ + b³ is:
+यदि a + b = 8 और a + a²b + b + ab² = 128 है, तो a³ + b³ का धनात्मक मान है:
+a) 96 b) 224 c) 344 d) 152
+153. If a⁴ + a²b² + b⁴ = 8 and a² + ab + b² = 4, then the value of ab is
+अगर a⁴ + a²b² + b⁴ = 8 और a² + ab + b² = 4 है तो ab का मान
+a) -1 b) 0 c) 2 d) 1
+154. If x⁴ + x²y² + y⁴ = 273 and x² − xy + y² = 13 then the value of xy is:
+अगर x⁴ + x²y² + y⁴ = 273 और x² − xy + y² = 13 है तो xy का मान क्या होगा?
+a) 4 b) 10 c) 6 d) 8
+155. If x⁴ + x²y² + y⁴ = 21 and x² + xy + y² = 7 then the value of (1/x² + 1/y²) is:
+अगर x⁴ + x²y² + y⁴ = 21 और x² + xy + y² = 7 है तो (1/x² + 1/y²) का मान बताओ.
+a) 5/4 b) 7/4 c) 7/3 d) 5/2
+===PAGE 14===
+156. If x⁴ + y⁴ + x²y² = 117 and x² + y² − xy = 3(4 + √3), then the value of (x² + y²) will be:
+यदि x⁴ + y⁴ + x²y² = 117 और x² + y² − xy = 3(4 + √3) है, (x² + y²) का मान ज्ञात करें|
+a) 9 b) 6√3 c) 12 d) 13√3
+157. If x⁴ + x²y² + y⁴ = 35, x² + xy + y² = 7 and x, y > 0 then the value of x³ + y³ is:
+अगर x⁴ + x²y² + y⁴ = 35, x² + xy + y² = 7 और x, y > 0 है तो x³ + y³ का मान बताओ.
+a) 10√2 b) 22√2 c) 16√2 d) Can’t say
+158. If x⁸ + x⁴y⁴ + y⁸ = 144 and x⁴ + x²y² + y⁴ = 18, then what is the value of x² + y² = ?
+अगर x⁸ + x⁴y⁴ + y⁸ = 144 और x⁴ + x²y² + y⁴ = 18, है तो x² + y² का मान बताओ.
+a) 23 b) √23 c) 5 d) √18
+159. If x² + xy + y² = 21 and x + √(xy) + y = 7, then the value of x − y is
+अगर x² + xy + y² = 21 और x + √(xy) + y = 7 है तो x − y का मान बताओ.
+a) 9 b) 3 c) 5 d) Can’t say
+160. If x² + xy + y² = 21 and x + √(xy) + y = 7, then the value of x − y is
+अगर x² + xy + y² = 21 और x + √(xy) + y = 7 है तो x − y का मान बताओ.
+a) 9 b) 3 c) 5 d) Can’t say
+161. If x² + xy + y² = 84 & x − √(xy) + y = 6, then find x³ + y³.
+यदि x² + xy + y² = 84 और x − √(xy) + y = 6 है, तो x³ + y³ का मान ज्ञात करो |
+a) 72 b) 520 c) 512 d) 600
+162. If x⁴ + y⁴ + x²y² = 17 1/16 and x² − xy + y² = 5 1/4, then one of the values of (x − y) is:
+यदि x⁴ + y⁴ + x²y² = 17 1/16 और x² − xy + y² = 5 1/4 है, तो (x − y) का मान बताइए|
+a) 5/2 b) 3/4 c) 5/4 d) 3/2
+163. If a⁴ + a²b² + b⁴ = 84 and a² + ab + b² = 14, then find the value of 3a + 2b.
+यदि a⁴ + a²b² + b⁴ = 84 और a² + ab + b² = 14 है, तो 3a + 2b का मान ज्ञात करो |
+a) 7√2 b) 8√2 c) 9√2 d) Can’t say
+164. The value of ((4.6)⁴ + (5.4)⁴ + (24.84)²) / ((4.6)² + (5.4)² + 24.84) is:
+((4.6)⁴ + (5.4)⁴ + (24.84)²) / ((4.6)² + (5.4)² + 24.84) का मान क्या है?
+a) 24.42 b) 24.24 c) 25.42 d) 25.48
+165. If 16a⁴ + 36a²b² + 81b⁴ = 91 and 4a² + 9b² − 6ab = 13, then what is the value of 3ab?
+अगर 16a⁴ + 36a²b² + 81b⁴ = 91 और 4a² + 9b² − 6ab = 13 है तो 3ab का मान बताओ.
+a) −3 b) 5 c) 3/2 d) −3/2
+166. If 16a⁴ + 36a²b² + 81b⁴ = 91 and 4a² + 9b² − 6ab = 13, then what is the value of ((2/5)a² + (9/10)b²)?
+अगर 16a⁴ + 36a²b² + 81b⁴ = 91 और 4a² + 9b² − 6ab = 13 है तो ((2/5)a² + (9/10)b²) का मान बताओ.
+a) −3 b) 1 c) 2 d) 0
+===PAGE 15===
+167. Which one of the following is not a factor of this polynomial x⁸ + x⁴ + 1?
+निम्नलिखित में से कौन सा x⁸ + x⁴ + 1 बहुपद का गुणनखंड नहीं है?
+a) (x² + 1 + x) b) (x² + 1 − x) c) (x⁴ + 1 − x²) d) (x² − 1 + x)
+168. If 1 + 4x² + 16x⁴ = 512, 1 − 2x + 4x² = 64, then the value of 1 + 2x + 4x² is:
+यदि 1 + 4x² + 16x⁴ = 512 है और 1 − 2x + 4x² = 64 है, तो 1 + 2x + 4x² का मान कितना होगा?
+a) 6 b) 8 c) 12 d) 10
+169. If 16x⁴ + 36x²y² + 81y⁴ = (4x² + 6xy + 9y²)(Ax² + Bxy + Cy²), then what is the value of A − B + C is
+अगर 16x⁴ + 36x²y² + 81y⁴ = (4x² + 6xy + 9y²)(Ax² + Bxy + Cy²) है तो A − B + C का मान बताओ.
+a) 7 b) 19 c) 11 d) 10
+170. If a⁴ − 7a²b² + b⁴ = 32 and a² − 3ab + b² = 4. Find a/b + b/a.
+अगर a⁴ − 7a²b² + b⁴ = 32 और a² − 3ab + b² = 4 है, तो a/b + b/a =
+a) 2 b) 6 c) 18 d) 9
+171. A factor of a⁴ − 11a²b² + b⁴ is:
+a⁴ − 11a²b² + b⁴ का एक गुणनखंड है:
+a) (a² − b² − 3ab) b) (a² + b² − 3ab) c) (a² + b² + 3ab) d) (a² − b² + 4ab)
+172. If x − 1/x = 5, then value of x² + 1/x² is
+अगर x − 1/x = 5 है तो x² + 1/x² पता करें|
+a) 5 b) 25 c) 27 d) 23
+173. If x + 1/x = 4, then the value of x⁴ + 1/x⁴ = ?
+अगर x + 1/x = 4 है तो x⁴ + 1/x⁴ = ?
+a) 64 b) 194 c) 81 d) 124
+174. If x + 1/x = 7, then x³ + 1/x³ is equal to:
+अगर x + 1/x = 7, तो x³ + 1/x³ बराबर है:
+a) 300 b) 322 c) 364 d) 343
+175. If x + 1/x = 7, then x³ + 1/x³ is equal to:
+अगर x + 1/x = 7, तो x³ + 1/x³ बराबर है:
+a) 300 b) 322 c) 364 d) 343
+176. If x − 1/x = 10, then x³ − 1/x³ is equal to:
+अगर x − 1/x = 10, तो x³ − 1/x³ बराबर है:
+a) 970 b) 1000 c) 1030 d) 1100
+177. If x − 1/x = 11, What is the value of (x⁴ + 1/x⁴)?
+यदि x − 1/x = 11 है, तो (x⁴ + 1/x⁴) का मान क्या होगा?
+a) 14163 b) 14159 c) 15127 d) 15131
+178. If x + 1/x = −13, What is the value of x⁴ + 1/x⁴?
+यदि x + 1/x = −13 है, तो x⁴ + 1/x⁴ का मान क्या होगा?
+a) 29243 b) 28561 c) 27887 d) 27891
+179. If (x − 1/x) = 7/3, what is the value of (x³ − 1/x³)?
+यदि (x − 1/x) = 7/3 है, तो (x³ − 1/x³) का मान ज्ञात कीजिए?
+a) 19 20/27 b) 19 2/3 c) 19 19/27 d) 19 7/9
+180. If x + 1/x = 5, then the value of x⁶ + 1/x⁶ = ?
+अगर x + 1/x = 5 है तो x⁶ + 1/x⁶ = ?
+a) 12098 b) 12048 c) 14062 d) 12092
+181. If √x + 1/√x = √6 then the value of x⁶ + 1/x⁶ will be:
+यदि √x + 1/√x = √6 है, तो x⁶ + 1/x⁶ का मान ज्ञात करें|
+a) 2270 b) 2502 c) 2702 d) 2712
+===PAGE 16===
+182. If x + 1/x = 3, x ≠ 0, then the value of x⁷ + 1/x⁷ is:
+यदि x + 1/x = 3, x ≠ 0 है, तो x⁷ + 1/x⁷ का मान बताइए|
+a) 749 b) 843 c) 746 d) 849
+183. If x + 1/x = −3√2, what is the value of (x⁵ + 1/x⁵)?
+यदि x + 1/x = −3√2, तो (x⁵ + 1/x⁵) का मान क्या होगा?
+a) −723√2 b) −720√2 c) −715√2 d) −717√2
+184. If x + 1/x = −2√3, What is the value of x⁵ + 1/x⁵?
+यदि x + 1/x = −2√3 है, तो x⁵ + 1/x⁵ का मान ज्ञात कीजिए|
+a) −178√3 b) 182√3 c) −182√3 d) −180√3
+185. If x + 1/x = 2√2, then the value of x⁷ − 1/x⁷ = ?
+अगर x + 1/x = 2√2 है तो x⁷ − 1/x⁷ = ?
+a) 194 b) 26 c) 482 d) 478

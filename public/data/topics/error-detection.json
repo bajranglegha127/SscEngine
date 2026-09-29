@@ -1,0 +1,143 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "error-detection",
+  "topicName": "Error Detection & Grammar",
+  "category": "English",
+  "sourcePdf": "Sample_error-detection.pdf",
+  "isSample": true,
+  "questions": [
+    {
+      "id": "error-detection-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "error-detection",
+        "name": "Error Detection & Grammar"
+      },
+      "category": "English",
+      "question": "[Sample] Identify the segment in the sentence which contains a grammatical error: \"Neither the manager nor his assistants was present at the annual review meeting.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither the manager"
+        },
+        {
+          "id": "B",
+          "text": "nor his assistants"
+        },
+        {
+          "id": "C",
+          "text": "was present"
+        },
+        {
+          "id": "D",
+          "text": "at the annual review meeting"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "With \"Neither ... nor\", the verb agrees with the closer subject (\"assistants\", plural). Replace \"was present\" with \"were present\".",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2024,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_error-detection.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-064b4214"
+    },
+    {
+      "id": "error-detection-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "error-detection",
+        "name": "Error Detection & Grammar"
+      },
+      "category": "English",
+      "question": "[Sample] Identify the segment with an error: \"One of the most important factor that leads to success is consistent practice.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "One of the most"
+        },
+        {
+          "id": "B",
+          "text": "important factor"
+        },
+        {
+          "id": "C",
+          "text": "that leads to success"
+        },
+        {
+          "id": "D",
+          "text": "is consistent practice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "After \"One of the...\", the noun must be plural (\"important factors\").",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_error-detection.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-59fe163d"
+    },
+    {
+      "id": "error-detection-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "error-detection",
+        "name": "Error Detection & Grammar"
+      },
+      "category": "English",
+      "question": "[Sample] Choose the correct improvement for the bracketed part: \"Hardly had we stepped out of the building (than it began) to pour heavily.\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "when it began"
+        },
+        {
+          "id": "B",
+          "text": "then it began"
+        },
+        {
+          "id": "C",
+          "text": "as soon as it began"
+        },
+        {
+          "id": "D",
+          "text": "No improvement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"Hardly / Scarcely ... when\" is the correct correlative conjunction pair.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_error-detection.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-4ddb4880"
+    }
+  ]
+}

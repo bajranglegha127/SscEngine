@@ -1,0 +1,191 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "profit-loss",
+  "topicName": "Profit & Loss",
+  "category": "Quantitative Aptitude",
+  "sourcePdf": "Sample_profit-loss.pdf",
+  "isSample": true,
+  "questions": [
+    {
+      "id": "profit-loss-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "profit-loss",
+        "name": "Profit & Loss"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] A shopkeeper marks his goods 30% above the cost price and allows a discount of 10%. What is his net profit percentage?",
+      "questionHindi": "[नमूना] एक दुकानदार अपने माल को क्रय मूल्य से 30% अधिक अंकित करता है और 10% की छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15%"
+        },
+        {
+          "id": "B",
+          "text": "17%"
+        },
+        {
+          "id": "C",
+          "text": "20%"
+        },
+        {
+          "id": "D",
+          "text": "18%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Profit % = 30 − 10 − (30 × 10)/100 = 17%.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_profit-loss.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-7ea7e4a6"
+    },
+    {
+      "id": "profit-loss-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "profit-loss",
+        "name": "Profit & Loss"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] By selling 36 oranges, a vendor loses the selling price of 4 oranges. His loss percentage is:",
+      "questionHindi": "[नमूना] 36 संतरे बेचने पर एक विक्रेता को 4 संतरों के विक्रय मूल्य के बराबर हानि होती है। उसका हानि प्रतिशत है:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "11 1/9%"
+        },
+        {
+          "id": "C",
+          "text": "9%"
+        },
+        {
+          "id": "D",
+          "text": "12.5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Loss = 4 SP, SP = 36 => CP = 36 + 4 = 40. Loss % = (4/40) × 100 = 10%.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2023,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_profit-loss.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-1e8fc436"
+    },
+    {
+      "id": "profit-loss-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "profit-loss",
+        "name": "Profit & Loss"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] Successive discounts of 20% and 15% are equivalent to a single discount of:",
+      "questionHindi": "[नमूना] 20% और 15% की क्रमिक छूट किस एकल छूट के बराबर है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32%"
+        },
+        {
+          "id": "B",
+          "text": "33%"
+        },
+        {
+          "id": "C",
+          "text": "35%"
+        },
+        {
+          "id": "D",
+          "text": "30%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Equivalent discount = 20 + 15 − (20 × 15)/100 = 35 − 3 = 32%.",
+      "exam": {
+        "name": "SSC MTS",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_profit-loss.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-e72d5098"
+    },
+    {
+      "id": "profit-loss-0004",
+      "globalNumber": 4,
+      "topic": {
+        "id": "profit-loss",
+        "name": "Profit & Loss"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] A dishonest dealer professes to sell his goods at cost price but uses a false weight of 900 grams for 1 kg. Find his gain percentage.",
+      "questionHindi": "[नमूना] एक बेईमान व्यापारी अपने माल को क्रय मूल्य पर बेचने का दावा करता है लेकिन 1 किग्रा के लिए 900 ग्राम के गलत बाट का उपयोग करता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "11 1/9%"
+        },
+        {
+          "id": "C",
+          "text": "9 1/11%"
+        },
+        {
+          "id": "D",
+          "text": "12%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gain % = (100 / 900) × 100 = 11 1/9%.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_profit-loss.pdf",
+        "page": 1,
+        "originalQuestionNumber": 4
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-06325011"
+    }
+  ]
+}

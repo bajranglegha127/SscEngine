@@ -1,0 +1,6 @@
+{
+  "name": "SSC PYQ MCQ Quiz Platform",
+  "description": "Data-driven SSC Previous Year Question (PYQ) MCQ Quiz Engine for CGL, CHSL, MTS, CPO, and GD exam preparation with topic ranges, exam/year/shift filters, configurable negative marking, and PDF-to-JSON validation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

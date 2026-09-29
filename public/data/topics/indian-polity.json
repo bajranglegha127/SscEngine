@@ -1,0 +1,146 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "indian-polity",
+  "topicName": "Polity & Constitution",
+  "category": "General Awareness",
+  "sourcePdf": "Sample_indian-polity.pdf",
+  "isSample": true,
+  "questions": [
+    {
+      "id": "indian-polity-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "indian-polity",
+        "name": "Polity & Constitution"
+      },
+      "category": "General Awareness",
+      "question": "[Sample] Which Article of the Constitution of India deals with the \"Abolition of Untouchability\"?",
+      "questionHindi": "[नमूना] भारतीय संविधान का कौन सा अनुच्छेद \"अस्पृश्यता के उन्मूलन\" से संबंधित है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Article 15"
+        },
+        {
+          "id": "B",
+          "text": "Article 16"
+        },
+        {
+          "id": "C",
+          "text": "Article 17"
+        },
+        {
+          "id": "D",
+          "text": "Article 18"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_indian-polity.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-a6673664"
+    },
+    {
+      "id": "indian-polity-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "indian-polity",
+        "name": "Polity & Constitution"
+      },
+      "category": "General Awareness",
+      "question": "[Sample] Fundamental Duties were incorporated into Part IV-A of the Indian Constitution on the recommendation of which committee?",
+      "questionHindi": "[नमूना] किस समिति की सिफारिश पर भारतीय संविधान के भाग IV-A में मौलिक कर्तव्यों को शामिल किया गया था?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarkaria Commission"
+        },
+        {
+          "id": "B",
+          "text": "Swaran Singh Committee"
+        },
+        {
+          "id": "C",
+          "text": "Kothari Commission"
+        },
+        {
+          "id": "D",
+          "text": "Balwant Rai Mehta Committee"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "The Swaran Singh Committee recommended the inclusion of Fundamental Duties via the 42nd Constitutional Amendment Act, 1976.",
+      "exam": {
+        "name": "SSC MTS",
+        "year": 2023,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_indian-polity.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-5d50270a"
+    },
+    {
+      "id": "indian-polity-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "indian-polity",
+        "name": "Polity & Constitution"
+      },
+      "category": "General Awareness",
+      "question": "[Sample] Which Schedule of the Indian Constitution contains provisions regarding disqualification of legislators on the ground of defection (Anti-Defection Law)?",
+      "questionHindi": "[नमूना] भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर विधायकों की अयोग्यता (दल-बदल विरोधी कानून) से संबंधित प्रावधान हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eighth Schedule"
+        },
+        {
+          "id": "B",
+          "text": "Ninth Schedule"
+        },
+        {
+          "id": "C",
+          "text": "Tenth Schedule"
+        },
+        {
+          "id": "D",
+          "text": "Eleventh Schedule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "The Tenth Schedule was added by the 52nd Amendment Act of 1985 and deals with Anti-Defection provisions.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2024,
+        "shift": "Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_indian-polity.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-6f473b6f"
+    }
+  ]
+}

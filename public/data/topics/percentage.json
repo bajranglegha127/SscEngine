@@ -1,0 +1,371 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "percentage",
+  "topicName": "Percentage",
+  "category": "Quantitative Aptitude",
+  "sourcePdf": "Sample_percentage.pdf",
+  "isSample": true,
+  "questions": [
+    {
+      "id": "percentage-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] If the price of sugar increases by 25%, by what percentage must a household reduce its consumption so that expenditure remains unchanged?",
+      "questionHindi": "[नमूना] यदि चीनी की कीमत में 25% की वृद्धि होती है, तो खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि खर्च अपरिवर्तित रहे?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18%"
+        },
+        {
+          "id": "B",
+          "text": "20%"
+        },
+        {
+          "id": "C",
+          "text": "22.5%"
+        },
+        {
+          "id": "D",
+          "text": "25%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Reduction % = [R / (100 + R)] × 100 = (25 / 125) × 100 = 20%.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-2573d259"
+    },
+    {
+      "id": "percentage-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] A number is first increased by 20% and then decreased by 15%. What is the net percentage change in the number?",
+      "questionHindi": "[नमूना] एक संख्या को पहले 20% बढ़ाया जाता है और फिर 15% घटाया जाता है। संख्या में शुद्ध प्रतिशत परिवर्तन क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "+2% increase"
+        },
+        {
+          "id": "B",
+          "text": "−2% decrease"
+        },
+        {
+          "id": "C",
+          "text": "+5% increase"
+        },
+        {
+          "id": "D",
+          "text": "+3% increase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Net change = 20 − 15 − (20 × 15)/100 = 5 − 3 = +2% increase.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-fc3179d1"
+    },
+    {
+      "id": "percentage-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] In an election between two candidates, 10% of the voters did not cast their votes. The winning candidate secured 54% of the total voters in the voter list and won by 1,440 votes. Find the total number of voters.",
+      "questionHindi": "[नमूना] दो उम्मीदवारों के बीच एक चुनाव में 10% मतदाताओं ने मतदान नहीं किया। विजयी उम्मीदवार को कुल मतदाता सूची के 54% मत मिले और वह 1,440 मतों से जीता। कुल मतदाताओं की संख्या ज्ञात कीजिए।",
+      "options": [
+        {
+          "id": "A",
+          "text": "7,500"
+        },
+        {
+          "id": "B",
+          "text": "8,000"
+        },
+        {
+          "id": "C",
+          "text": "9,000"
+        },
+        {
+          "id": "D",
+          "text": "10,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Votes cast = 90%. Winner = 54%, Loser = 90% − 54% = 36%. Margin = 18% of total = 1440 => Total = 8000.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2023,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-8621dd8e"
+    },
+    {
+      "id": "percentage-0004",
+      "globalNumber": 4,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] If 35% of A is equal to 50% of B, and B is 2x% of A, then what is the value of x?",
+      "questionHindi": "[नमूना] यदि A का 35%, B के 50% के बराबर है, और B, A का 2x% है, तो x का मान क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "35"
+        },
+        {
+          "id": "B",
+          "text": "70"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "B/A = 35/50 = 70/100 = 70%. Since 2x = 70, x = 35.",
+      "exam": {
+        "name": "SSC MTS",
+        "year": 2023,
+        "shift": "Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 4
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-55fec81a"
+    },
+    {
+      "id": "percentage-0005",
+      "globalNumber": 5,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] A student has to secure 40% marks to pass an examination. He gets 178 marks and fails by 22 marks. What are the maximum marks of the examination?",
+      "questionHindi": "[नमूना] एक परीक्षा उत्तीर्ण करने के लिए छात्र को 40% अंक प्राप्त करने होते हैं। वह 178 अंक प्राप्त करता है और 22 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक क्या हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "450"
+        },
+        {
+          "id": "B",
+          "text": "500"
+        },
+        {
+          "id": "C",
+          "text": "550"
+        },
+        {
+          "id": "D",
+          "text": "600"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Passing marks = 178 + 22 = 200. Since 40% = 200, Maximum marks (100%) = 500.",
+      "exam": {
+        "name": "SSC GD",
+        "year": 2024,
+        "shift": "Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 5
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-5a9334e0"
+    },
+    {
+      "id": "percentage-0006",
+      "globalNumber": 6,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] The population of a town increases by 10% annually. If its present population is 60,500, what was its population 2 years ago?",
+      "questionHindi": "[नमूना] एक कस्बे की जनसंख्या सालाना 10% बढ़ जाती है। यदि इसकी वर्तमान जनसंख्या 60,500 है, तो 2 वर्ष पहले इसकी जनसंख्या क्या थी?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48,000"
+        },
+        {
+          "id": "B",
+          "text": "50,000"
+        },
+        {
+          "id": "C",
+          "text": "52,000"
+        },
+        {
+          "id": "D",
+          "text": "55,000"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "P × (1.1)² = 60500 => P × 1.21 = 60500 => P = 50,000.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2022,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 6
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-cac31989"
+    },
+    {
+      "id": "percentage-0007",
+      "globalNumber": 7,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] Fresh fruit contains 68% water and dry fruit contains 20% water. How much dry fruit can be obtained from 100 kg of fresh fruits?",
+      "questionHindi": "[नमूना] ताजे फल में 68% पानी होता है और सूखे फल में 20% पानी होता है। 100 किग्रा ताजे फलों से कितना सूखा फल प्राप्त किया जा सकता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32 kg"
+        },
+        {
+          "id": "B",
+          "text": "40 kg"
+        },
+        {
+          "id": "C",
+          "text": "42 kg"
+        },
+        {
+          "id": "D",
+          "text": "48 kg"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Solid pulp remains constant: 32% of 100 kg = 80% of Dry fruit => Dry fruit = 32 / 0.8 = 40 kg.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 7
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-34663796"
+    },
+    {
+      "id": "percentage-0008",
+      "globalNumber": 8,
+      "topic": {
+        "id": "percentage",
+        "name": "Percentage"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "[Sample] Renu saves 20% of her income. If her expenditure increases by 20% and income increases by 29%, then her savings increase by:",
+      "questionHindi": "[नमूना] रेनू अपनी आय का 20% बचाती है। यदि उसका व्यय 20% बढ़ जाता है और आय 29% बढ़ जाती है, तो उसकी बचत में कितनी वृद्धि होती है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60%"
+        },
+        {
+          "id": "B",
+          "text": "65%"
+        },
+        {
+          "id": "C",
+          "text": "55%"
+        },
+        {
+          "id": "D",
+          "text": "70%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Let Income = 100, Exp = 80, Saving = 20. New Income = 129, New Exp = 96, New Saving = 33. Increase = (13/20)×100 = 65%.",
+      "exam": {
+        "name": "SSC Selection Post",
+        "year": 2024,
+        "shift": "Shift 1"
+      },
+      "difficulty": "Hard",
+      "source": {
+        "pdf": "Sample_percentage.pdf",
+        "page": 1,
+        "originalQuestionNumber": 8
+      },
+      "verificationStatus": "verified",
+      "isSample": true,
+      "contentHash": "qh-4831a42f"
+    }
+  ]
+}

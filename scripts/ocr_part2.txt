@@ -1,0 +1,586 @@
+===PAGE 16===
+186. If x + 1/x = (√3+1)/2, then what is the value of x⁴ + 1/x⁴?
+यदि x + 1/x = (√3+1)/2 है, तो x⁴ + 1/x⁴ का मान क्या है?
+a) (4√3−1)/4 b) (4√3+1)/2 c) (−4√3−1)/4 d) (−4√3−1)/2
+187. If x + 1/x = (√3+1)/2, then what is the value of x⁴ + 1/x⁴?
+यदि x + 1/x = (√3+1)/2 है, तो x⁴ + 1/x⁴ का मान क्या है?
+a) (4√3−1)/4 b) (4√3+1)/2 c) (−4√3−1)/4 d) (−4√3−1)/2
+188. If (a + 1/a + 3)² = 16, where a is a non-zero real number, then find the value of a² + 1/a².
+यदि (a + 1/a + 3)² = 16, जहाँ a एक शून्येतर वास्तविक संख्या है, तो a² + 1/a² का मान ज्ञात कीजिए|
+a) 3 b) 47 c) 49 d) 7
+189. If A is the average of x and 1/x then find the average of x³ and 1/x³ = ?
+यदि x और 1/x का औसत A है तो x³ और 1/x³ का औसत ज्ञात कीजिये |
+a) 4A³ − 3A b) 8A³ − 6A c) 3A³ − 4A d) 4A³ − 2A
+190. If x = 3 + √8, then x² + 1/x² is equal to
+अगर x = 3 + √8 है तो x² + 1/x² पता करें|
+a) 38 b) 36 c) 34 d) 30
+191. If x = √3 + √2, then the value of x³ + 1/x³ is
+अगर x = √3 + √2 है तो x³ + 1/x³ पता करें|
+a) 10√2 b) 30√3 c) 18√3 d) 24√3
+192. If x = √3 − √2, then the value of x³ − x⁻³ is:
+यदि x = √3 − √2, तो x³ − x⁻³ का मान है:
+a) 22√3 b) −22√2 c) 22√2 d) −22√3
+193. If x = √((3−√5)/2) then find the value of x⁶ + 1/x⁶.
+यदि x = √((3−√5)/2) है तो x⁶ + 1/x⁶ का मान ज्ञात कीजिये |
+a) 198 b) 27 c) 36 d) 18
+===PAGE 17===
+194. If a − 1/(a−3) = 6, then (a − 3)³ − 1/(a−3)³ = ?
+अगर a − 1/(a−3) = 6 है तो (a − 3)³ − 1/(a−3)³ = ?
+a) 27 b) 18 c) 36 d) 25
+195. If x² + 1/(x²+1) = 6, then find the value of (x² + 1)² + 1/(x²+1)².
+यदि x² + 1/(x²+1) = 6 है, तो (x² + 1)² + 1/(x²+1)² का मान ज्ञात करें |
+a) 27 b) 23 c) 47 d) 51
+196. If a² + b² = 5ab, the value of a²/b² + b²/a² is
+अगर a² + b² = 5ab है तो a²/b² + b²/a² का मान:
+a) 32 b) 27 c) 23 d) -23
+197. If 2x + 2/x = 3, then the value of x³ + 1/x³ + 2 is
+अगर 2x + 2/x = 3 है तो x³ + 1/x³ + 2 का मान:
+a) −9/8 b) −25/8 c) 7/8 d) 11
+198. If 4a − 4/a + 3 = 0, then the value of a³ − 1/a³ + 3 = ?
+अगर 4a − 4/a + 3 = 0 है तो a³ − 1/a³ + 3 = ?
+a) 7/16 b) 3/16 c) 21/64 d) 21/16
+199. If x(3 − 2/x) = 3/x, then the value of x² + 1/x² is
+अगर x(3 − 2/x) = 3/x है तो x² + 1/x² का मान:
+a) 19/9 b) 22/9 c) 28/9 d) −14/9
+200. If x + 1/(4x) = 3/2 then 8x³ + 1/(8x³) = ?
+अगर x + 1/(4x) = 3/2 है तो 8x³ + 1/(8x³) = ?
+a) 18 b) 36 c) 24 d) 16
+201. If x + 1/(16x) = 3, then the value of 16x³ + 1/(256x³) is:
+यदि x + 1/(16x) = 3 है, तो 16x³ + 1/(256x³) का मान होगा:
+a) 423 b) 441 c) 432 d) 414
+202. If 2p + 1/p = 4, then the value of p³ + 1/(8p³) = ?
+अगर 2p + 1/p = 4 है तो p³ + 1/(8p³) = ?
+a) 4 b) 5 c) 8 d) 15
+203. If 4b² + 1/b² = 2, then the value of 8b³ + 1/b³ = ?
+अगर 4b² + 1/b² = 2 है तो 8b³ + 1/b³ = ?
+a) 0 b) 1 c) 2 d) -4
+204. If 3x + 1/(2x) = 6, then 8x³ + 1/(27x³) = ?
+अगर 3x + 1/(2x) = 6 है तो 8x³ + 1/(27x³) = ?
+a) 76 b) 56 c) 52 d) 72
+205. If x¹⁶ + 1/x¹⁶ = 2√10 then find the value of x⁴⁸ − 1/x⁴⁸.
+यदि x¹⁶ + 1/x¹⁶ = 2√10 है तो x⁴⁸ − 1/x⁴⁸ का मान ज्ञात कीजिये |
+a) 216 b) 198 c) 234 d) 110
+206. If (x²⁴+1)/x¹² = 7, then (x⁷²+1)/x³⁶ = ?
+यदि (x²⁴+1)/x¹² = 7 है, तो (x⁷²+1)/x³⁶ का मान है:
+a) 364 b) 322 c) 352 d) 358
+207. If t² − 4t + 1 = 0, then t³ + 1/t³ = ?
+अगर t² − 4t + 1 = 0 है तो t³ + 1/t³ = ?
+a) 44 b) 76 c) 52 d) 64
+208. If a² − 4a − 1 = 0, then a² + 1/a² + 3a − 3/a = ?
+अगर a² − 4a − 1 = 0 है तो a² + 1/a² + 3a − 3/a = ?
+a) 25 b) 30 c) 35 d) 40
+===PAGE 18===
+209. If x² − 3x + 1 = 0, then the value of 2(x⁸ + 1/x⁸) − 5(x² + 1/x²) is:
+यदि x² − 3x + 1 = 0 है, तो 2(x⁸ + 1/x⁸) − 5(x² + 1/x²) का मान ज्ञात करें|
+a) 3479 b) 4379 c) 4370 d) 4279
+210. If 8x² + 9x + 8 = 0, then the value of x³ + 1/x³ is:
+यदि 8x² + 9x + 8 = 0 है, तो x³ + 1/x³ का मान ज्ञात कीजिए |
+a) 199/212 b) 999/212 c) 199/512 d) 999/512
+211. If x² − √7x + 1 = 0, then what is the value of x⁵ + 1/x⁵ ?
+यदि x² − √7x + 1 = 0 है, तो x⁵ + 1/x⁵ का मान क्या होगा?
+a) 27√7 b) 21√7 c) 25√7 d) 19√7
+212. If x + 1/x = 5, then 2x/(3x² − 5x + 3) = ?
+अगर x + 1/x = 5 है तो 2x/(3x² − 5x + 3) = ?
+a) 5 b) 1/5 c) 3 d) 1/3
+213. If x + 1/x = 3, then the value of (x³ + 1/x)/(x² − x + 1) = ?
+अगर x + 1/x = 3 है तो (x³ + 1/x)/(x² − x + 1) = ?
+a) 3/2 b) 5/2 c) 7/2 d) 11/2
+214. If x + 1/x = 1, then (x² + 3x + 1)/(x² + 7x + 1) = ?
+अगर x + 1/x = 1 है तो (x² + 3x + 1)/(x² + 7x + 1) = ?
+a) 1/2 b) 3/7 c) 2 d) 3
+215. If x² + 1 = 3x, then the value of (x⁴ + x⁻²)/(x² + 5x + 1) is:
+यदि x² + 1 = 3x, तो (x⁴ + x⁻²)/(x² + 5x + 1) का मान है:
+a) 2 1/3 b) 2 1/4 c) 4 1/2 d) 3 1/2
+216. If x² − 6x + 1 = 0, then the value of (x⁴ + 1/x²) ÷ (x² + 1) is:
+यदि x² − 6x + 1 = 0 है, तो (x⁴ + 1/x²) ÷ (x² + 1) का मान है:
+a) 39 b) 33 c) 35 d) 36
+217. If x² − 3x − 1 = 0, then the value of (x² + 8x − 1)(x³ + x⁻¹)⁻¹ is:
+यदि x² − 3x − 1 = 0 तो (x² + 8x − 1)(x³ + x⁻¹)⁻¹ का मान है:
+a) 1 b) 11/9 c) 3 d) 8
+218. If 2x + 1/(3x) = 5, then 5x/(6x² + 20x + 1) = ?
+अगर 2x + 1/(3x) = 5 है तो 5x/(6x² + 20x + 1) = ?
+a) 1/4 b) 1/6 c) 1/5 d) 1/7
+219. If 2p/(p² − 2p + 1) = 1/4, p ≠ 0 then p + 1/p = ?
+अगर 2p/(p² − 2p + 1) = 1/4, p ≠ 0 है तो p + 1/p = ?
+a) 4 b) 5 c) 10 d) 12
+220. If x/(x² − 2x + 1) = 1/3, then x³ + 1/x³ = ?
+अगर x/(x² − 2x + 1) = 1/3 है तो x³ + 1/x³ = ?
+a) 140 b) 110 c) 81 d) 124
+221. If (x² − x + 1)/(x² + x + 1) = 2/3 then x + 1/x = ?
+अगर (x² − x + 1)/(x² + x + 1) = 2/3 है तो x + 1/x = ?
+a) 4 b) -5 c) 5 d) 8
+222. If 5x/(2x² + 5x + 1) = 1/3, then x + 1/(2x) = ?
+अगर 5x/(2x² + 5x + 1) = 1/3 है तो x + 1/(2x) = ?
+a) 15 b) 10 c) 20 d) 5
+===PAGE 19===
+223. If x = √5 + 2, then (2x² − 3x − 2)/(3x² − 4x − 3) = ?
+अगर x = √5 + 2 है तो (2x² − 3x − 2)/(3x² − 4x − 3) = ?
+a) 0.1785 b) 0.525 c) 0.625 d) 0.785
+224. If x + 1/x = 5, then (x⁴ + 3x³ + 5x² + 3x + 1)/(x⁴ + 1) = ?
+अगर x + 1/x = 5 है तो (x⁴ + 3x³ + 5x² + 3x + 1)/(x⁴ + 1) = ?
+a) 43/23 b) 47/21 c) 41/23 d) 45/21
+225. If x is real, and x⁴ − 5x² − 1 = 0, then the value of (x⁶ − 3x² + 3/x² − 1/x⁶ + 1) is:
+यदि x वास्तविक है और x⁴ − 5x² − 1 = 0 है, तो (x⁶ − 3x² + 3/x² − 1/x⁶ + 1) का मान है:
+a) 126 b) 110 c) 116 d) 96
+226. If x > 1 and x² + 1/x² = 83 then x³ − 1/x³ = ?
+अगर x > 1 और x² + 1/x² = 83 है तो x³ − 1/x³ = ?
+a) 764 b) 750 c) 756 d) 760
+227. If x⁴ + 1/x⁴ = 119, and x > 1, then the value of x³ + 1/x³ = ?
+अगर x⁴ + 1/x⁴ = 119, और x > 1 है तो x³ + 1/x³ = ?
+a) 36 b) 16√13 c) 18 d) 10√13
+228. If m⁴ + 1/m⁴ = 119, then m − 1/m = ?
+अगर m⁴ + 1/m⁴ = 119 है तो m − 1/m = ?
+a) ±3 b) 4 c) ±2 d) ±1
+229. If x⁴ + 1/x⁴ = 322, then what is the value of x³ − 1/x³ ?
+यदि x⁴ + 1/x⁴ = 322 है, तो x³ − 1/x³ का मान क्या है?
+a) 16 b) 96 c) 76 d) 46
+230. If x⁸ − 1442x⁴ + 1 = 0, then a possible value of x − 1/x is:
+यदि x⁸ − 1442x⁴ + 1 = 0, तो x − 1/x का संभावित मान है:
+a) 5 b) 8 c) 4 d) 6
+231. If x⁴ + 1/x⁴ = 3842, then the positive value of x + 1/x will be:
+यदि x⁴ + 1/x⁴ = 3842 है, तो x + 1/x का धनात्मक मान ज्ञात करें|
+a) 12 b) 8 c) 10 d) 6
+232. If x > 0 and x⁴ + 1/x⁴ = 2207, What is the value of (x⁵ + 1/x⁵)?
+यदि x > 0 और x⁴ + 1/x⁴ = 2207 है, तो (x⁵ + 1/x⁵) का मान क्या होगा?
+a) 15141 b) 15134 c) 15130 d) 15127
+233. If x⁴ + 1/x⁴ = 6887, then the positive value of x − 1/x is:
+यदि x⁴ + 1/x⁴ = 6887 है, तो x − 1/x का धनात्मक मान ज्ञात करें|
+a) 12 b) 9 c) 15 d) 8
+234. If x⁴ + 1/x⁴ = 14159, Then a Possible Value of x + 1/x is:
+यदि x⁴ + 1/x⁴ = 14159 है, तो x + 1/x का संभव मान क्या है?
+a) 81 b) 69 c) 11 d) 121
+235. If x⁴ + 1/x⁴ = 257/16 then find (8/13)(x³ + 1/x³), Where x > 0.
+यदि x⁴ + 1/x⁴ = 257/16 तो (8/13)(x³ + 1/x³) ज्ञात कीजिए, जब x > 0 है|
+a) 5 b) 4 c) 6 d) 8
+236. If (x⁸+1)/x⁴ = 14, then the value of (x¹²+1)/x⁶ is:
+यदि (x⁸+1)/x⁴ = 14 है, तो (x¹²+1)/x⁶ का मान क्या है?
+a) 16 b) 14 c) 52 d) 64
+===PAGE 20===
+237. If a⁴ + 1/a⁴ = 50, a > 0, then find the value of a³ + 1/a³
+यदि a⁴ + 1/a⁴ = 50, a > 0, तो a³ + 1/a³ का मान ज्ञात कीजिए|
+a) √(2(1 + √13)) + (−1 + 2√13) b) √(2(1 − √13)) − (−1 + 2√13) c) √(2(1 + √13))(−1 − 2√13) d) √(2(1 + √13))(−1 + 2√13)
+238. If a² + 1/(a−3)² − 6a = 9, then (a − 3) − 1/(a−3) = ?
+यदि a² + 1/(a−3)² − 6a = 9 है तो (a − 3) − 1/(a−3) का मान होगा :
+a) 4 b) 2√5 c) 3 d) An Imaginary no.
+239. If x² + x = 5, then find the value of (x + 3)³ + 1/(x+3)³.
+यदि x² + x = 5 है, तो (x + 3)³ + 1/(x+3)³ का मान ज्ञात कीजिये |
+a) 110 b) 140 c) 125 d) 120
+240. If x² + 4x − 4 = 0, then (x + 5)³ + 1/(x+5)³ = ?
+यदि x² + 4x − 4 = 0 है, तो (x + 5)³ + 1/(x+5)³ का मान होगा :
+a) 234 b) 198 c) 216 d) 110
+241. If x² − 12x + 33 = 0, then what is the value of (x − 4)² + [1/(x−4)²]?
+यदि x² − 12x + 33 = 0 है, तो (x − 4)² + [1/(x−4)²] का मान क्या है?
+a) 16 b) 14 c) 18 d) 20
+242. If x² + 2x = 4, then (x + 3)³ − 1/(x+3)³ = ?
+यदि x² + 2x = 4 है, तो (x + 3)³ − 1/(x+3)³ का मान होगा :
+a) 76 b) 64 c) 52 d) 36
+243. If x² − 16x + 59 = 0, then what is the value of (x − 6)² + 1/(x−6)² ?
+यदि x² − 16x + 59 = 0 है, तो (x − 6)² + 1/(x−6)² का मान क्या है?
+a) 14 b) 18 c) 16 d) 20
+244. If √x + 1/√x = 3, x > 0, then the value of x²(x² − 47) is:
+यदि √x + 1/√x = 3, x > 0, है, तो x²(x² − 47) का मान होगा :
+a) 0 b) 2 c) -1 d) -2
+245. If x⁴ + x⁻⁴ = 47, (x > 0) then the value of (2x − 3)² is:
+अगर x⁴ + x⁻⁴ = 47, (x > 0) तो (2x − 3)² का मान है:
+a) 2 b) 3 c) 5 d) 4
+246. If x⁴ + x⁻⁴ = 194, (x > 0) then the value of (2x − 4)² is:
+अगर x⁴ + x⁻⁴ = 194, (x > 0) तो (2x − 4)² का मान है:
+a) 15 b) 20 c) 12 d) 16
+247. If x² − 9x + 1 = 0 what is the value x⁸ − 6239x⁴ + 1?
+यदि x² − 9x + 1 = 0 है, तो x⁸ − 6239x⁴ + 1 का मान क्या होगा ?
+a) 2 b) 0 c) −1 d) 1
+===PAGE 21===
+248. If x² − 8x + 1 = 0, what is the value of x⁸ − 3842x⁴ + 1?
+यदि x² − 8x + 1 = 0 है, तो x⁸ − 3842x⁴ + 1 का मान ज्ञात कीजिए|
+a) 1 b) 0 c) 2 d) −1
+249. If (3(x²+1)−7x)/(3x) = 6, x ≠ 0, then the value of √x + 1/√x is:
+यदि (3(x²+1)−7x)/(3x) = 6, x ≠ 0 है, तो √x + 1/√x का मान क्या होगा?
+a) √(25/3) b) √(11/3) c) √(35/3) d) √(31/3)
+250. If x = 1 + √2, then find the value of √x + 1/√x.
+यदि x = 1 + √2, तो √x + 1/√x का मान ज्ञात कीजिए।
+a) 2.1014 b) 2.1973 c) 1.9876 d) 1.9996
+251. If x² − 4x + 1 = 0, then what is the value of x⁹ + x⁷ − 194x⁵ − 194x³?
+यदि x² − 4x + 1 = 0 है, तो x⁹ + x⁷ − 194x⁵ − 194x³ का मान क्या है?
+a) 4 b) -4 c) 1 d) -1
+252. If p + 1/p = 112 find (p − 112)¹⁵ + 1/p¹⁵.
+यदि p + 1/p = 112 है, तो (p − 112)¹⁵ + 1/p¹⁵ ज्ञात करो |
+a) 10 b) 0 c) 15 d) 1
+253. If x + 2/x = 1, then (x²+x+2)/(x²(1−x)) = ?
+अगर x + 2/x = 1 है तो (x²+x+2)/(x²(1−x)) = ?
+a) 1 b) -1 c) 2 d) -2
+254. If x² − 7x + 1 = 0, and 0 < x < 1, what is the value of x² − 1/x²?
+यदि x² − 7x + 1 = 0, और 0 < x < 1, है, तो x² − 1/x² का मान क्या होगा?
+a) 21√5 b) −21√5 c) 28√5 d) −28√5
+255. If (x² + 1/x²) = 7, and 0 < x < 1, find the value of x² − 1/x².
+यदि (x² + 1/x²) = 7 और 0 < x < 1 है, तो x² − 1/x² का मान ज्ञात करें|
+a) 3√5 b) 4√3 c) −4√3 d) −3√5
+256. If (x² + 1/x²) = 6, and 0 < x < 1, what is the value of x⁴ − 1/x⁴?
+यदि (x² + 1/x²) = 6 और 0 < x < 1, है, तो x⁴ − 1/x⁴ का मान क्या होगा?
+a) 24√2 b) −24√2 c) −12√10 d) 12√10
+257. If x + 1/x = 2, then x⁷ + 1/x⁵ = ?
+अगर x + 1/x = 2 है तो x⁷ + 1/x⁵ = ?
+a) 2⁵ b) 2¹² c) 2 d) 2⁷
+258. If x + 1/x = −2, then x¹⁷ + 1/x¹⁹ = ?
+अगर x + 1/x = −2 है तो x¹⁷ + 1/x¹⁹ = ?
+a) 1 b) 0 c) 2 d) -2
+259. If a + 1/a = −2 then the value of a¹⁰⁰⁰ + a⁻¹⁰⁰⁰ is
+यदि a + 1/a = −2 तो a¹⁰⁰⁰ + a⁻¹⁰⁰⁰ का मान निकालें
+a) 2 b) 0 c) 1 d) 1/2
+===PAGE 22===
+260. If a + 1/a + 2 = 0, then the value of a³⁷ − 1/a¹⁰⁰ is
+अगर a + 1/a + 2 = 0 है तो a³⁷ − 1/a¹⁰⁰ का मान
+a) 0 b) -2 c) 1 d) 2
+261. If a/b + b/a = 2, then the value of a − b = ?
+अगर a/b + b/a = 2 है तो a − b = ?
+a) 2 b) -1 c) 0 d) 1
+262. If x + 1/(1+x) = 1, then (x + 1)⁵ + 1/(x+1)⁵ = ?
+अगर x + 1/(1+x) = 1 है तो (x + 1)⁵ + 1/(x+1)⁵ = ?
+a) 1 b) 2 c) 4 d) 8
+263. If m + 1/(m−2) = 4, then m² + 9/m = ?
+अगर m + 1/(m−2) = 4 है तो m² + 9/m = ?
+a) 12 b) 9 c) 14 d) 10
+264. If x + 1/(x+3) = −5, then x² + 32/x² = ?
+यदि x + 1/(x+3) = −5 है, तो x² + 32/x² का मान बराबर है :
+a) 18 b) -18 c) 14 d) -14
+265. If r + 64/r = 16, then the value of r⁴ + 1/r³ is _______.
+यदि r + 64/r = 16 है, तो r⁴ + 1/r³ का मान _______ है।
+a) 4096 b) 4096 1/512 c) 512 d) 512 1/4096
+266. If x/2 + 18/x + 6 = 0, then (x + 7)²⁰²¹ + (x + 5)⁻²⁰²¹ = ?
+यदि x/2 + 18/x + 6 = 0 है, तो (x + 7)²⁰²¹ + (x + 5)⁻²⁰²¹ का मान बराबर है :
+a) 0 b) 1 c) 2 d) -1
+267. If x² + 1/x² = 2, x < 0, then x⁴ − x − 1 = ?
+यदि x² + 1/x² = 2, x < 0 है, तो x⁴ − x − 1 का मान बराबर है :
+a) -1 b) 1 c) 0 d) Can’t say
+268. If m⁴ + 1/m² + 2m = 0 then m² − 1/m⁴ = ?
+यदि m⁴ + 1/m² + 2m = 0 है, तो m² − 1/m⁴ का मान बराबर है :
+a) 1 b) 0 c) -1 d) Can’t say
+269. If a + b = 10 and √(a/b − 13) = −√(b/a − 11), then what is the value of 3ab + 4a² + 5b²?
+यदि a + b = 10 तथा √(a/b − 13) = −√(b/a − 11) है, तो 3ab + 4a² + 5b² का मान क्या है?
+a) 450 b) 300 c) 600 d) 750
+270. If x² + y² + 1/x² + 1/y² + 4 = 0, then x² + y² = ?
+अगर x² + y² + 1/x² + 1/y² + 4 = 0 है तो x² + y² = ?
+a) 2 b) 4 c) -2 d) -4
+271. If a⁴ + 1 = [a²/b²](4b² − b⁴ − 1), then what is the value of a⁴ + b⁴?
+यदि a⁴ + 1 = [a²/b²](4b² − b⁴ − 1) है, तो a⁴ + b⁴ का मान क्या है?
+a) 2 b) 16 c) 32 d) 64
+272. If ax + by − 2 = 0 and axby = 1, where a ≠ 0, b ≠ 0, then what is (a²x + b²y) equal to?
+यदि ax + by − 2 = 0 और axby = 1 है, जहां a ≠ 0, b ≠ 0 हैं, तो (a²x + b²y) किसके बराबर है ?
+a) a + b b) 2ab c) a³ + b³ d) a⁴ + b⁴
+273. (a + 1/a)² = 3, then a³ + 1/a³ = ?
+अगर (a + 1/a)² = 3 है तो a³ + 1/a³ = ?
+a) 2√3 b) 2 c) 3√3 d) 0
+===PAGE 23===
+274. If x is real, x + 1/x ≠ 0 and x³ + 1/x³ = 0, then the value of (x + 1/x)⁴ = ?
+x एक वास्तविक संख्या है; अगर x + 1/x ≠ 0 और x³ + 1/x³ = 0, तो (x + 1/x)⁴ = ?
+a) 4 b) 9 c) 16 d) 2
+275. If (x + 1/x)² = 3, then what is the value of x⁶ + x⁻⁶?
+यदि (x + 1/x)² = 3 है, तो x⁶ + x⁻⁶ का मान क्या है?
+a) 6 b) 2 c) −6 d) −2
+276. If x + 1/x = √3, then x¹⁸ + x¹² + x⁶ + 1 = ?
+अगर x + 1/x = √3 है तो x¹⁸ + x¹² + x⁶ + 1 = ?
+a) 0 b) 1 c) 2 d) 3
+277. If x² − √3x + 1 = 0, then x³⁶ + x²⁴ + x¹² − 2 = ?
+यदि x² − √3x + 1 = 0 है, तो x³⁶ + x²⁴ + x¹² − 2 का मान बराबर है:
+a) 1 b) 2 c) 3 d) 4
+278. If (a + 1/a)² = 3, then the value of a²⁰ + a¹⁴ + a⁸ + a² + 1 = ?
+अगर (a + 1/a)² = 3 है तो a²⁰ + a¹⁴ + a⁸ + a² + 1 = ?
+a) 0 b) 20 c) 1 d) -1
+279. If (x + 1/x)² = 3, then x⁹⁵ + x⁸⁹ + x⁵⁴ + x²⁴ + x⁶ + 1 = ?
+अगर (x + 1/x)² = 3 है तो x⁹⁵ + x⁸⁹ + x⁵⁴ + x²⁴ + x⁶ + 1 = ?
+a) 0 b) 1 c) 84 d) 206
+280. If x³ + 1/x³ = 0 then the value of x⁵⁰ + 1/x⁵⁰ is
+अगर x³ + 1/x³ = 0 है तो x⁵⁰ + 1/x⁵⁰ का मान बताओ|
+a) 1/√3 b) √3 c) 1 d) 0
+281. If x + 1/x + √3 = 0 then the value of x¹⁷ + 1/x¹⁷ is
+अगर x + 1/x + √3 = 0 है तो x¹⁷ + 1/x¹⁷ का मान बताओ|
+a) −√3 b) √3 c) 1 d) 1/√3
+282. If x + 1/x = √3, then x⁷⁵ + 1/x⁷⁵ = ?
+यदि x + 1/x = √3 है, तो x⁷⁵ + 1/x⁷⁵ का मान बराबर है:
+a) √3 b) −√3 c) 0 d) -1
+283. If x⁴ + 1/x⁴ = √3, then x¹²⁴ + x¹⁰⁰ + x⁹⁶ + x⁷² + x⁵² + 1/x⁵² = ?
+यदि x⁴ + 1/x⁴ = √3 है, तो x¹²⁴ + x¹⁰⁰ + x⁹⁶ + x⁷² + x⁵² + 1/x⁵² का मान बराबर है:
+a) 1 b) 0 c) √3 d) −√3
+284. If x/y + y/x = −1 (x, y ≠ 0), then find the value of x³ − y³.
+यदि x/y + y/x = −1 (x, y ≠ 0) है, तो x³ − y³ का मान ज्ञात करो|
+a) 1 b) -1 c) 0 d) 2
+285. If x/3 + 3/x = 1, find the value of x³
+यदि x/3 + 3/x = 1 हो तो x³ का मान ज्ञात करो |
+a) 1 b) −1 c) 27 d) −27
+286. If x/2 + 2/x + 1 = 0 then find the value of x³
+यदि x/2 + 2/x + 1 = 0 हो तो x³ का मान ज्ञात करो |
+a) 1 b) -1 c) 8 d) -8
+===PAGE 24===
+287. If x + 1/x = 1 then the value of x⁴⁹ + 1/x⁴⁹ is
+अगर x + 1/x = 1 है तो x⁴⁹ + 1/x⁴⁹ का मान बताओ|
+a) -1 b) √3 c) 1 d) 0
+288. If x + 1/x = 1 then find the value of x⁵² + 1/x⁵²
+यदि x + 1/x = 1 है तो x⁵² + 1/x⁵² का मान ज्ञात कीजिये |
+a) 0 b) -1 c) 1 d) 2
+289. If x + 1/x − 1 = 0 then the value of x²⁶ + 1/x²⁶ is
+अगर x + 1/x − 1 = 0 है तो x²⁶ + 1/x²⁶ का मान बताओ|
+a) −√3 b) -1 c) 1 d) 1/√3
+290. If x^(1/4) + 1/x^(1/4) = 1, then find the value of x⁵² + 1/x⁵²
+यदि x^(1/4) + 1/x^(1/4) = 1 हो तो x⁵² + 1/x⁵² का मान ज्ञात करो |
+a) 0 b) -1 c) 1 d) 2
+291. If x + 1/x = 1, Find x¹⁰³ + x¹⁰⁰ + x⁹⁰ + x⁸⁷ + x⁸¹ + x⁷² + x⁵⁴ + x⁴⁵ + x³ + 3
+यदि x + 1/x = 1 है, तो x¹⁰³ + x¹⁰⁰ + x⁹⁰ + x⁸⁷ + x⁸¹ + x⁷² + x⁵⁴ + x⁴⁵ + x³ + 3 का मान ज्ञात करो |
+a) 0 b) 1 c) 2 d) 3
+292. If (x − 3)² + (y − 5)² + (z − 4)² = 0 then the value of x²/9 + y²/25 + z²/16
+अगर (x − 3)² + (y − 5)² + (z − 4)² = 0 है तो x²/9 + y²/25 + z²/16:
+a) 12 b) 9 c) 3 d) 1
+293. If (a − 3)² + (b − 4)² + (c − 9)² = 0, then the value of √(a + b + c) is:
+अगर (a − 3)² + (b − 4)² + (c − 9)² = 0 है तो √(a + b + c) का मान:
+a) -5 b) 4 c) ±4 d) −4
+294. If (3a + 1)² + (b − 1)² + (2c − 3)² = 0, then the value of (3a + b + 2c) is equal to
+अगर (3a + 1)² + (b − 1)² + (2c − 3)² = 0 है तो (3a + b + 2c):
+a) 3 b) -1 c) 2 d) 5
+295. If (2a − 1)² + (4b − 3)² + (4c + 5)² = 0 then the value of (a³+b³+c³−3abc)/(a²+b²+c²) is
+अगर (2a − 1)² + (4b − 3)² + (4c + 5)² = 0 है तो (a³+b³+c³−3abc)/(a²+b²+c²):
+a) 27/8 b) 19/8 c) 0 d) 11/8
+296. If (x + y − z − 1)² + (z + x − y − 2)² + (z + y − x − 4)² = 0, then find x + y + z = ?
+यदि (x + y − z − 1)² + (z + x − y − 2)² + (z + y − x − 4)² = 0 है तो x + y + z का मान ज्ञात करो |
+a) 3 b) 7 c) 5 d) 4
+297. If the value of (a + b − 2)² + (b + c − 5)² + (c + a − 5)² = 0, then the value of √((b + c)ᵃ + (c + a)ᵇ − 1) is:
+यदि (a + b − 2)² + (b + c − 5)² + (c + a − 5)² = 0, तो √((b + c)ᵃ + (c + a)ᵇ − 1) का मान है:
+a) 2 b) 1 c) 3 d) 0
+298. If x² + y² − 4x − 4y + 8 = 0, then the value of x − y is
+अगर x² + y² − 4x − 4y + 8 = 0 है तो x − y पता करें|
+a) 4 b) -4 c) 0 d) 8
+===PAGE 25===
+299. If x² + y² + 2x + 1 = 0, then the value of x³¹ + y³⁵ is
+अगर x² + y² + 2x + 1 = 0 हैं तो x³¹ + y³⁵ पता करें|
+a) -1 b) 0 c) 1 d) 2
+300. If a² + b² = 4b + 6a − 13, then what is the value of a + b?
+यदि a² + b² = 4b + 6a − 13 है, तो a + b का मान क्या है?
+a) 3 b) 2 c) 5 d) 10
+301. If x² + y² + 6x + 5 = 4(x − y) then x − y is
+यदि x² + y² + 6x + 5 = 4(x − y) हो, तो x − y क्या होगा ?
+a) 1 b) −1 c) 3 d) -3
+302. If 2x² + y² + 6x − 2xy + 9 = 0, then the value of (4x³ − y³ + x²y²) is:
+यदि 2x² + y² + 6x − 2xy + 9 = 0 है, तो (4x³ − y³ + x²y²) का मान है:
+a) 9 b) 0 c) -9 d) -3
+303. If 5x² + 4xy + y² + 2x + 1 = 0 then find the value of x − y.
+यदि 5x² + 4xy + y² + 2x + 1 = 0 है, तो x − y का मान ज्ञात करो |
+a) −1 b) −3 c) 3 d) 1
+304. If x² + 8y² + 12y − 4xy + 9 = 0, then the value of (7x + 8y) is:
+यदि x² + 8y² + 12y − 4xy + 9 = 0 है, तो (7x + 8y) का मान ज्ञात करें|
+a) −33 b) 9 c) 33 d) −9
+305. a² + b² + c² = 2(a + 2b + 3c) − 14, then the value of 4a − 3b + 5c is
+a² + b² + c² = 2(a + 2b + 3c) − 14, तो 4a − 3b + 5c का मान:
+a) 12 b) 13 c) 15 d) None
+306. If a² + 4b² + 49c² + 18 = 2(2b + 28c − a), then (3a + 2b + 7c) is:
+अगर a² + 4b² + 49c² + 18 = 2(2b + 28c − a), तो (3a + 2b + 7c) = ?
+a) 0 b) 2 c) 1 d) 3
+307. If a² + b² + c² + 96 = 8(a + b − 2c), then √(ab − bc + ca) is equal to:
+यदि a² + b² + c² + 96 = 8(a + b − 2c) तो √(ab − bc + ca) निम्न में से किसके बराबर है?
+a) 6 b) 2√2 c) 4 d) 2√3
+308. If 9a² + 4b² + c² + 21 = 4(3a + b − 2c), then the value of (9a + 4b − c) is:
+यदि 9a² + 4b² + c² + 21 = 4(3a + b − 2c), तो (9a + 4b − c) का मान है:
+a) 16 b) 2 c) 6 d) 12
+309. If x² + 4y² + 3z² + 19/4 = 2√3(x + y + z), then the value of (x − 4y + 3z) is:
+यदि x² + 4y² + 3z² + 19/4 = 2√3(x + y + z) है, तो (x − 4y + 3z) का मान ज्ञात करें|
+a) √3/3 b) 2√3 c) √3 d) √3/2
+310. If 9a² + 16b² + c² + 25 = 24(a + b), then (3a + 4b + 5c) = ?
+यदि 9a² + 16b² + c² + 25 = 24(a + b) है, तो (3a + 4b + 5c) = ?
+a) 9 b) 6 c) 7 d) 10
+311. If a² + b² + 64c² + 16c + 3 = 2(a + b), then 4a⁷ + b⁷ + 8c² = ?
+यदि a² + b² + 64c² + 16c + 3 = 2(a + b) है, तो 4a⁷ + b⁷ + 8c² = ?
+a) 4 1/8 b) 4 7/8 c) 5 1/8 d) 3 7/8
+312. If a² + c² + 17 = 2(a − 8b − 2b²), then what is the value of (a³ + b³ + c³)?
+यदि a² + c² + 17 = 2(a − 8b − 2b²) है, तो (a³ + b³ + c³) का मान ज्ञात करें|
+a) −7 b) 9 c) 10 d) −4
+===PAGE 26===
+313. If x² + y² + 1/x² + 1/y² + 4 = 0, then x² + y² = ?
+अगर x² + y² + 1/x² + 1/y² + 4 = 0 है तो x² + y² = ?
+a) 2 b) 4 c) -2 d) -4
+314. If x² + y² + 1/x² + 1/y² = 0, then the value of x² + y² is:
+यदि x² + y² + 1/x² + 1/y² = 0 है, तो x² + y² का मान ज्ञात करें |
+a) 0 b) 4 c) 8 d) 16
+315. If a² + 4b² + 1/(4a²) + 1/b² = 5, then the value of a² + b² will be
+यदि a² + 4b² + 1/(4a²) + 1/b² = 5 है, तो a² + b² का मान होगा :
+a) 1 b) -1 c) 2 d) 0
+316. If a⁴ + 1 = [a²/b²](4b² − b⁴ − 1), then what is the value of a⁴ + b⁴?
+यदि a⁴ + 1 = [a²/b²](4b² − b⁴ − 1) है, तो a⁴ + b⁴ का मान क्या है?
+a) 2 b) 16 c) 32 d) 64
+317. If (x³ + 1/x³ − k)² + (x + 1/x − p)² = 0 where k and p are real number and x ≠ 0, then k/p is equal to:
+यदि (x³ + 1/x³ − k)² + (x + 1/x − p)² = 0 जहाँ k और p वास्तविक संख्याएँ हैं और x ≠ 0 है तो k/p का मान बराबर है :
+a) p² + 1 b) p² + 3 c) p² − 1 d) p² − 3
+318. (√(3+x) + √(3−x)) / (√(3+x) − √(3−x)) = 2 then x is equal to
+(√(3+x) + √(3−x)) / (√(3+x) − √(3−x)) = 2 है तो x पता करें|
+a) 5/12 b) 12/5 c) 5/7 d) 7/5
+319. (√(x+4) + √(x−4)) / (√(x+4) − √(x−4)) = 7/3 then (x+2)/(x−2) is equal to
+(√(x+4) + √(x−4)) / (√(x+4) − √(x−4)) = 7/3 है तो (x+2)/(x−2) किसके समान होगा?
+a) 17/11 b) 79/37 c) 11/17 d) 37/79
+320. If x/y = (a+2)/(a−2), then the value of (x²−y²)/(x²+y²) is
+अगर x/y = (a+2)/(a−2), तो (x²−y²)/(x²+y²) का मान:
+a) 8a/(a²+4) b) 4a/(a²+4) c) 2a/(a²+4) d) 4a/(a²+2)
+321. If x = (p+q)/(p−q) and y = (p−q)/(p+q), then (x−y)/(x+y) is:
+यदि x = (p+q)/(p−q) और y = (p−q)/(p+q) है, तो (x−y)/(x+y) है :
+a) (p²+q²)/(2pq) b) 2pq/(p²+q²) c) 2pq/(p²−q²) d) 4pq/(p²+q²)
+322. If A = (1+2x)/(1−2x) and B = (1−2x)/(1+2x), then the value of (A+B)/(A−B) is:
+यदि A = (1+2x)/(1−2x) और B = (1−2x)/(1+2x) हो, तो (A+B)/(A−B) का मान है :
+a) x + 1/(4x) b) x − 1/(4x) c) 1/(4x) − x d) x² + 1/(4x²)
+323. If x = √3/2, then the value of (√(1+x) + √(1−x)) / (√(1+x) − √(1−x)) is
+अगर x = √3/2 है तो (√(1+x) + √(1−x)) / (√(1+x) − √(1−x)) = ?
+a) −√3 b) -1 c) 1 d) √3
+324. If x = (a−b)/(a+b), y = (b−c)/(b+c), z = (c−a)/(c+a), then ((1+x)/(1−x)) · ((1+y)/(1−y)) · ((1+z)/(1−z)) = ?
+यदि x = (a−b)/(a+b), y = (b−c)/(b+c), z = (c−a)/(c+a) है, तो ((1+x)/(1−x)) · ((1+y)/(1−y)) · ((1+z)/(1−z)) का मान होगा :
+a) 1 b) 2 c) 3 d) 0
+===PAGE 27===
+325. If (x+1)/(x−1) = a/b and (1−y)/(1+y) = b/a, then the value of (x−y)/(1+xy) is
+अगर (x+1)/(x−1) = a/b और (1−y)/(1+y) = b/a है तो (x−y)/(1+xy) का मान:
+a) 2ab/(a²+b²) b) 4ab/(a²−b²) c) (a²−b²)/(2ab) d) 2ab/(a²−b²)
+326. If (2a + 3b)(2c − 3d) = (2a − 3b)(2c + 3d), then:
+यदि (2a + 3b)(2c − 3d) = (2a − 3b)(2c + 3d) है, तो:
+a) a/b = d/c b) a/b = c/d c) a/d = c/b d) b/a = c/b
+327. If (a + b + 2c + 3d)(a − b − 2c + 3d) = (a − b + 2c − 3d)(a + b − 2c − 3d), then 2bc is equal to
+यदि (a + b + 2c + 3d)(a − b − 2c + 3d) = (a − b + 2c − 3d)(a + b − 2c − 3d) है, तो 2bc बराबर है :
+a) 3ad b) 3/2 c) a²b² d) 3a/(2d)
+328. The value of (√0.6912 + √0.5292) / (√0.6912 − √0.5292) is
+(√0.6912 + √0.5292) / (√0.6912 − √0.5292) का मान है
+a) 1.5 b) 0.9 c) 15 d) 9
+329. (x³+3x)/(3x²+1) = 341/91 then value of x ?
+(x³+3x)/(3x²+1) = 341/91, तो x का मान होगा -
+a) 9 b) 11 c) 12 d) 13
+330. If ((1+px)/(1−px))√((1−qx)/(1+qx)) = 1, then what are the non-zero solutions of x ?
+यदि ((1+px)/(1−px))√((1−qx)/(1+qx)) = 1 है, तो x के गैर-शून्य हल क्या हैं?
+a) ±(1/p)√((2p−q)/q), 2p ≠ q b) ±(1/(pq))√(p−q), p ≠ q c) ±(p/q)√(p−q), p ≠ q d) ±(q/p)√(2p−q), 2p ≠ q
+331. If a = (√(x+2) + √(x−2)) / (√(x+2) − √(x−2)), then the value of a² − ax is
+अगर a = (√(x+2) + √(x−2)) / (√(x+2) − √(x−2)) है तो a² − ax का मान:
+a) 2 b) 1 c) 0 d) -1
+332. If x = 4ab/(a+b), a ≠ b, then the value of (x+2a)/(x−2a) + (x+2b)/(x−2b) is
+अगर x = 4ab/(a+b), a ≠ b, है तो (x+2a)/(x−2a) + (x+2b)/(x−2b):
+a) a b) b c) 2ab d) 2
+333. If x = 6pq/(p+q), then (x+3p)/(x−3p) + (x+3q)/(x−3q) = ?
+यदि x = 6pq/(p+q) है, तो (x+3p)/(x−3p) + (x+3q)/(x−3q) ज्ञात करो |
+a) 1 b) 2 c) 3 d) 4
+334. If x = 4√6/(√2+√3), then (x+2√2)/(x−2√2) + (x+2√3)/(x−2√3) = ?
+यदि x = 4√6/(√2+√3) है, तो (x+2√2)/(x−2√2) + (x+2√3)/(x−2√3) ज्ञात करो |
+a) 1 b) 2 c) 3 d) 4
+335. If x = 4√15/(√5+√3), then the value of (x+√20)/(x−√20) + (x+√12)/(x−√12) is
+अगर x = 4√15/(√5+√3) है तो (x+√20)/(x−√20) + (x+√12)/(x−√12) का मान:
+a) 1 b) 2 c) √3 d) √5
+336. If x = 2pq/(1+q²) then (√(p+x) + √(p−x)) / (√(p+x) − √(p−x)) = ?
+यदि x = 2pq/(1+q²) है, तो (√(p+x) + √(p−x)) / (√(p+x) − √(p−x)) बराबर है :
+a) q b) p − q c) 1/q d) both q and 1/q
+337. If a + b − c = 12 and a² + b² + c² = 110, then which among the following relations is true? (p) ab + bc + ca = 34 (q) ab + bc − ca = 17 (r) ab − bc + ca = 17 (s) ab − bc − ca = 17
+यदि a + b − c = 12 और a² + b² + c² = 110, तो निम्नलिखित में से कौन सा संबंध सत्य है?
+a) r b) q c) p d) s
+===PAGE 28===
+338. If 2x² + y² + 8z² − 2√2xy + 4√2yz − 8zx = (Ax + y + Bz)², then the value of (A² + B² − AB) is:
+यदि 2x² + y² + 8z² − 2√2xy + 4√2yz − 8zx = (Ax + y + Bz)², तो (A² + B² − AB) का मान है:
+a) 16 b) 14 c) 6 d) 18
+339. If x + y + z = 19, x² + y² + z² = 133 and xz = y², then the difference between z and x is:
+यदि x + y + z = 19, x² + y² + z² = 133 और xz = y² है, तो x और z के बीच अंतर है:
+a) 6 b) 5 c) 3 d) 4
+340. If x²(x + y + z) = 36, y²(x + y + z) = 81, z²(x + y + z) = 144, xy(x + y + z) = 54, yz(x + y + z) = 108, zx(x + y + z) = 72, then x = ?
+यदि x²(x + y + z) = 36, y²(x + y + z) = 81, z²(x + y + z) = 144, xy(x + y + z) = 54, yz(x + y + z) = 108, zx(x + y + z) = 72 है, तो x का मान ज्ञात करो |
+a) 6 b) 7 c) 2 d) 4
+341. If a + b + c = 2 and ab + bc + ca = −1, then (a + b)² + (b + c)² + (c + a)² = ?
+यदि a + b + c = 2 और ab + bc + ca = −1 है, तो (a + b)² + (b + c)² + (c + a)² ज्ञात करो |
+a) 5 b) 10 c) 6 d) 25
+342. If x = 2 + √3, y = 2 − √3 and z = 1, then what is the value of x/(yz) + y/(xz) + z/(xy) + 2[1/x + 1/y + 1/z] = ?
+यदि x = 2 + √3, y = 2 − √3 तथा z = 1 है, तो x/(yz) + y/(xz) + z/(xy) + 2[1/x + 1/y + 1/z] का मान क्या है?
+a) 25 b) 22 c) 17 d) 43
+343. a + b + c = 3, 1/a + 1/b + 1/c = 2, a² + b² + c² = 6, find abc = ?
+a + b + c = 3, 1/a + 1/b + 1/c = 2, a² + b² + c² = 6 है, abc ज्ञात करो |
+a) 4/3 b) 1/4 c) 3/4 d) Can’t say
+344. If p/a + q/b + r/c = 1 & a/p + b/q + c/r = 0, where p, q, r and a, b, c are non zero, then the value of p²/a² + q²/b² + r²/c² = ?
+अगर p/a + q/b + r/c = 1 & a/p + b/q + c/r = 0, जहाँ p, q, r और a, b, c गैर शून्य हैं, तो p²/a² + q²/b² + r²/c² = ?
+a) -1 b) 0 c) 1 d) 2
+345. If p/a + q/b + r/c = 1, a/p + b/q + c/r = 1, pqr = −1 and abc = 1 and p, q, r & a, b, c are non-zero, then find p²/a² + q²/b² + r²/c².
+यदि p/a + q/b + r/c = 1, a/p + b/q + c/r = 1, pqr = −1 और abc = 1 है, और p, q, r व a, b, c गैर शून्य संख्याएँ हैं, तो p²/a² + q²/b² + r²/c² ज्ञात करो |
+a) -1 b) 0 c) 3 d) 2
+===PAGE 29===
+346. If a − 1/a = b, b − 1/b = c and c − 1/c = a, then 1/(ab) + 1/(bc) + 1/(ca) = ?
+यदि a − 1/a = b, b − 1/b = c तथा c − 1/c = a है, तो 1/(ab) + 1/(bc) + 1/(ca) = ?
+a) -3 b) -6 c) -1 d) -9
+347. If a = 7, b = 5, c = 3, then the value of a² + b² + c² − ab − bc − ca is
+अगर a = 7, b = 5, c = 3 है तो a² + b² + c² − ab − bc − ca का मान:
+a) 12 b) -12 c) 0 d) 8
+348. If x = 2019, y = 2020, z = 2021 then the value of x² + y² + z² − xy − yz − zx = ?
+अगर x = 2019, y = 2020, z = 2021 है तो x² + y² + z² − xy − yz − zx = ?
+a) 3 b) 4 c) 6 d) 2
+349. If x = 997, y = 998, z = 999 then the value of x² + y² + z² − xy − yz − zx = ?
+अगर x = 997, y = 998, z = 999 है तो x² + y² + z² − xy − yz − zx = ?
+a) 0 b) 1 c) -1 d) 3
+350. If x + y + z = 22 and xy + yz + zx = 35, then what is the value of (x − y)² + (y − z)² + (z − x)²?
+यदि x + y + z = 22 तथा xy + yz + zx = 35 है, तो (x − y)² + (y − z)² + (z − x)² का मान क्या है?
+a) 379 b) 681 c) 758 d) 715
+351. If xy + yz + zx = 6 and x² + y² + z² = 13 then (1/2)(x + y + z)[(x − y)² + (y − z)² + (z − x)²] = ?
+अगर xy + yz + zx = 6 और x² + y² + z² = 13 है, तो (1/2)(x + y + z)[(x − y)² + (y − z)² + (z − x)²] = ?
+a) 35 b) 30 c) 25 d) 24
+352. If a = x + y, b = x − y, c = x + 2y then a² + b² + c² − ab − bc − ca = ?
+अगर a = x + y, b = x − y, c = x + 2y है तो a² + b² + c² − ab − bc − ca = ?
+a) 4y² b) 5y² c) 6y² d) 7y²
+353. If a² + b² + c² − ab − bc − ca = 0 then a : b : c is:
+अगर a² + b² + c² − ab − bc − ca = 0 है तो a : b : c है:
+a) 1 : 2 : 1 b) 2 : 1 : 1 c) 1 : 1 : 2 d) 1 : 1 : 1
+354. If x² + y² + z² = xy + yz + xz then the value of (3x⁴+7y⁴+5z⁴)/(5x²y²+7y²z²+3z²x²) is
+अगर x² + y² + z² = xy + yz + xz है तो (3x⁴+7y⁴+5z⁴)/(5x²y²+7y²z²+3z²x²) = ?
+a) 2 b) 1 c) 0 d) −1
+355. If x² + y² + z² = xy + yz + xz then the value of (3x⁴+7y⁴+5z⁴)/(x²y+y²z+z²x) is
+अगर x² + y² + z² = xy + yz + xz है तो (3x⁴+7y⁴+5z⁴)/(x²y+y²z+z²x) = ?
+a) 2 b) 5 c) 0 d) Can’t say
+356. For real a, b, c if a² + b² + c² = ab + bc + ca, the value of (a+c)/b is:
+वास्तविक संख्याएं a, b, c के लिए अगर a² + b² + c² = ab + bc + ca है तो (a+c)/b का मान:
+a) 2 b) 1 c) 0 d) 3
+357. If x ≠ 0, y ≠ 0, z ≠ 0 and 1/x² + 1/y² + 1/z² = 1/(xy) + 1/(yz) + 1/(zx) then the relation among x, y, z is
+अगर x ≠ 0, y ≠ 0, z ≠ 0 और 1/x² + 1/y² + 1/z² = 1/(xy) + 1/(yz) + 1/(zx) है तो x, y, z का क्या रिश्ता है?
+a) x + y + z = 0 b) x + y = z c) 1/x + 1/y + 1/z = 0 d) x = y = z
+===PAGE 30===
+358. If 3(a² + b² + c²) = (a + b + c)², then the relation between a, b and c is
+अगर 3(a² + b² + c²) = (a + b + c)² है तो a, b और c में क्या सम्बन्ध है?
+a) a ≠ b ≠ c b) a = b ≠ c c) a ≠ b = c d) a = b = c
+359. If x = 2, y = 1 and z = −3, then x³ + y³ + z³ − 3xyz is equal to
+अगर x = 2, y = 1 और z = −3, तो x³ + y³ + z³ − 3xyz किसके समान है?
+a) 6 b) 0 c) 2 d) 8
+360. If a = 2.361, b = 3.263 and c = 5.624, then the value of a³ + b³ − c³ + 3abc is
+अगर a = 2.361, b = 3.263 और c = 5.624 है, तो a³ + b³ − c³ + 3abc का मान:
+a) (a − b)(b − c)³ + (c − a)³ b) 3(a − b)(b − c)(c − a) c) 0 d) 1
+361. If a = 4.36, b = 2.39 and c = 1.97, then the value of a³ − b³ − c³ − 3abc is
+अगर a = 4.36, b = 2.39 और c = 1.97 है, तो a³ − b³ − c³ − 3abc का मान:
+a) 3.94 b) 2.39 c) 0 d) 1
+362. If a = 1.732, b = 3.217 and c = −4.949, then the value of a³ + b³ + c³ + 3abc is
+अगर a = 1.732, b = 3.217 और c = −4.949 है, तो a³ + b³ + c³ + 3abc का मान:
+a) 0 b) 6abc c) 3abc d) −6abc
+363. If a = 4.12, b = 1.73 and c = 5.85, then the value of a³ + b³ − c³ − 3abc is
+अगर a = 4.12, b = 1.73 और c = 5.85 है, तो a³ + b³ − c³ − 3abc का मान:
+a) 0 b) 6abc c) 3abc d) −6abc
+364. If x + y + z = 0, then x²/(yz) + y²/(zx) + z²/(xy) = ?
+अगर x + y + z = 0 है तो x²/(yz) + y²/(zx) + z²/(xy) = ?
+a) (xyz)³ b) x² + y² + z² c) 9 d) 3
+365. If x + y = z, then the expression x³ + y³ − z³ will be equal to
+अगर x + y = z है, तो x³ + y³ − z³ का मान:
+a) 0 b) 3xyz c) −3xyz d) z³
+366. If p, q and r be such that p + q = r and pqr = 30, then what is the value of p³ + q³ − r³
+यदि p, q और r ऐसा हो कि p + q = r और pqr = 30 हो, तो p³ + q³ − r³ का मान क्या है:
+a) 0 b) 90 c) -90 d) Cannot be determined
+367. If a^(1/3) + b^(1/3) + c^(1/3) = 0, then a relation among a, b, c is:
+अगर a^(1/3) + b^(1/3) + c^(1/3) = 0 है तो a, b, c में क्या सम्बन्ध है?
+a) a + b + c = 0 b) (a + b + c)³ = 27abc c) a + b + c = 3abc d) a³ + b³ + c³ = 0
+368. If a^(1/3) + b^(1/3) + c^(1/3) = 0, then (a + b + c)⁶ is equal to:
+यदि a^(1/3) + b^(1/3) + c^(1/3) = 0 है, तो (a + b + c)⁶ = ?
+a) 81abc b) 729a²b²c² c) 729abc d) 81a²b²c²
+369. If a³ − b³ − c³ = 0 then a⁹ − b⁹ − c⁹ − 3a³b³c³ is
+यदि a³ − b³ − c³ = 0 है, तो a⁹ − b⁹ − c⁹ − 3a³b³c³ है :
+a) 1 b) 2 c) 0 d) -1
+===PAGE 31===
+370. If x = a − b, y = b − c, z = c − a, then the numerical value of the algebraic expression x³ + y³ + z³ − 3xyz
+अगर x = a − b, y = b − c, z = c − a, है तो x³ + y³ + z³ − 3xyz का मान:
+a) a + b + c b) 0 c) 4(a + b + c) d) 3abc
+371. If x = a(b − c), y = b(c − a), z = c(a − b) then the value of (x/a)³ + (y/b)³ + (z/c)³ is:
+अगर x = a(b − c), y = b(c − a), z = c(a − b) है तो (x/a)³ + (y/b)³ + (z/c)³ का मान:
+a) xyz/(abc) b) 0 c) 3xyz/(abc) d) 2xyz/(abc)
+372. If x = (a + b − c), y = (b + c − a) & z = (c + a − b), then (x − a)³ + (y − b)³ + (z − c)³ = ?
+यदि x = (a + b − c), y = (b + c − a) और z = (c + a − b) है, तो (x − a)³ + (y − b)³ + (z − c)³ का मान ज्ञात करें |
+a) 3(a − b)(b − c)(c − a) b) 3xyz c) (x − a)(y − b)(z − c) d) 3abc
+373. If x = (b − c)(a − d), y = (c − a)(b − d), z = (a − b)(c − d), then the value of x³ + y³ + z³ is equal to:
+यदि x = (b − c)(a − d), y = (c − a)(b − d), z = (a − b)(c − d) है, तो x³ + y³ + z³ का मान बराबर है :
+a) xyz b) 2xyz c) 3xyz d) −3xyz
+374. (a + b − 2c)³ + (b + c − 2a)³ + (c + a − 2b)³ is equal to:
+(a + b − 2c)³ + (b + c − 2a)³ + (c + a − 2b)³ बराबर है :
+a) (a + b − 2c)(b + c − 2a)(c + a − 2b) b) 2(a + b − 2c)(b + c − 2a)(c + a − 2b) c) 3(a + b − 2c)(b + c − 2a)(c + a − 2b) d) −3(a + b − 2c)(b + c − 2a)(c + a − 2b)
+375. If x + y + z = 6, then the value of (x − 1)³ + (y − 2)³ + (z − 3)³ is
+अगर x + y + z = 6 है तो (x − 1)³ + (y − 2)³ + (z − 3)³ का मान:
+a) 3(x − 1)(y + 2)(z − 3) b) 3(x + 1)(y − 2)(z − 3) c) 3(x − 1)(y − 2)(z + 3) d) 3(x − 1)(y − 2)(z − 3)
