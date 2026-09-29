@@ -1,0 +1,441 @@
+===PAGE 8 CONT===
+eduquity-based pattern (ebp) Questions
+Q.154. A number 37 is divided into two parts such that 5 times one part and 11 times the other is together equal to 227. Find the value of 9 times the smaller number.
+(a) 60 (b) 61 (c) 62 (d) 63
+
+===PAGE 9===
+Q.155. The number of heads on the farm, as determined by the farmer, was 60. When he counted, he discovered there were 150 legs. If all that was present were pigeons or horses, and every horse on the property had four legs while every pigeon had two, how many horses were there on the property ?
+(a) 14 (b) 12 (c) 15 (d) 10
+
+Q.156. The length of a violin string varies inversely with respect to the frequency of its vibrations. The frequency of a 14-inch-long violin string is 450 cycles per second. Find the frequency of a 12-inch violin string.
+(a) 515 cycles per second (b) 525 cycles per second (c) 520 cycles per second (d) 510 cycles per second
+
+Q.157. b is the sum of two quantities, one of which varies inversely as the square of a², and the other of which varies directly as a. Identify the relationship between a and b if b = 49 when a = 3 or 5.
+(a) a = 3b (b) a = 3b² − 7/a (c) b = 8a + 225/a² (d) b = 2a
+
+Q.158. If p is directly proportional to q and is p = 7 when q = 6, then what is the value of p when q = 21 ?
+(a) 24.0 (b) 24.5 (c) 23.5 (d) 25.0
+
+Q.159. If P (P > 0) is the least possible number that must be subtracted from 7, 9, and 12 so that the resulting numbers are in continued proportion, then find the value of P² + 1.
+(a) 10 (b) 12 (c) 3 (d) 8
+
+Q.160. Which of the following can be the value of ‘k’ so that the number 217924k is divisible by 6?
+(a) 4 (b) 6 (c) 2 (d) 0
+
+Q.161. Without doing the actual division, find the remainder when 28735429 is divided by 9.
+(a) 4 (b) 2 (c) 8 (d) 9
+
+Q.162. If 7845K854 is divisible by 11, then what is the value of K?
+(a) 6 (b) 9 (c) 7 (d) 8
+
+Q.163. Which of the following is the largest 5-digit number divisible by 47 ?
+(a) 99999 (b) 98888 (c) 99969 (d) 10000
+
+Q.164. Akshay purchased pens and notebooks from a shop for a total sum of ₹180. From the following data, what is the value of 'X'? (Pens: Price 10, Quantity X; Notebooks: Price 20, Quantity 6)
+(a) 4 (b) 6 (c) 5 (d) 7
+
+Q.165. If (77^77 + 77) is divided by 78, then the remainder will be:
+(a) 76 (b) 77 (c) 78 (d) 1
+
+Q.166. Which digits should come in the place of * and #, respectively, if the 7-digit number 62684*# is divisible by both 8 and 5 ?
+(a) 2 and 0 (b) 4 and 0 (c) 5 and 0 (d) 0 and 5
+
+Q.167. Find the smallest number to be added to 999, so that 99 divides the sum exactly.
+(a) 99 (b) 0 (c) 90 (d) 9
+
+Q.168. In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.
+(a) 1056 (b) 1650 (c) 3240 (d) 1065
+
+Q.169. Which of the following numbers is divisible by both 2 and 5 ?
+(a) 63840 (b) 20792 (c) 37915 (d) 37254
+
+Q.170. Find the quotient, when the mean proportional of 7 1/5 and 245 is divided by an even prime number.
+(a) 49 (b) 42 (c) 21 (d) 36
+
+Q.171. Naman bought a few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due to this Naman could buy four more apples than what he had bought earlier. How many apples did he originally buy?
+(a) 48 (b) 44 (c) 36 (d) 40
+
+Q.172. Replace * by the smallest digit so that 723*56* is divisible by 6.
+(a) 4 (b) 3 (c) 2 (d) 1
+
+Q.173. In a garden, there are 6 daisy plants the first year. Each year, a gardener adds 3 new daisy plants. He has 26 jasmine plants the first year and loses 2 each year. When will the number of daisy plants equal to the number of jasmine plants after the first year?
+(a) 5 years (b) 4 years (c) 2 years (d) 6 years
+
+Q.174. Which of the following numbers is divisible by 2, 5, 10 and 11?
+(a) 203467 (b) 830942 (c) 589270 (d) 1234560
+
+Q.175. Find the smallest value that must be assigned to number ‘a’ in order for 91876a2 to be divisible by 8.
+(a) 3 (b) 0 (c) 1 (d) 2
+
+Q.176. If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?
+(a) 3 (b) 0 (c) 7 (d) 2
+
+Q.177. At a cafe, Rama bought drinks for her 7 friends at ₹240. Some of them wanted coffee, while others wanted black tea. A regular cup of coffee cost ₹40 and a regular cup of black tea cost ₹30. How many cups of black tea did she purchase?
+(a) 5 (b) 4 (c) 3 (d) 6
+
+Q.178. Find the remainder: (17^13 − 21) ÷ 18
+(a) 15 (b) 17 (c) 14 (d) 21
+
+Q.179. Find the least value of x for which 57x716 is divisible by 9.
+(a) 1 (b) 9 (c) 0 (d) 8
+
+Q.180. If P is a digit such that 6954P is divisible by 11, then P equals:
+(a) 2 (b) 8 (c) 6 (d) 7
+
+Q.181. When f(m) = m⁵ + 5m⁴ - 3m + 7 is divided by (m - 2), then the remainder is _______.
+(a) 7 (b) 5 (c) 0 (d) 113
+
+Q.182. A number r when divided by 8 leaves remainder 3. What will be the remainder when (r² + 6r + 7) is divided by 8?
+(a) 2 (b) 3 (c) 1 (d) 4
+
+Q.183. Find the remainder, if 19^200 is divided by 20.
+(a) 2 (b) -1 (c) 1 (d) 3
+
+Q.184. Which of the following fractions is the largest ? 2/3, 6/53, 79/90, 33/44
+(a) 2/3 (b) 33/44 (c) 6/53 (d) 79/90
+
+Q.185. If the 9-digit number 5x79856y6 is divisible by 36, then what is the negative value of √(2x + y) for the largest possible value of y, given x and y are natural numbers?
+(a) -7 (b) -2 (c) -4 (d) -5
+
+Q.186. Anna and Ben each have a collection of marbles. If Anna gives one marble to Ben, they will both have an equal number of marbles. Conversely, if Ben gives one marble to Anna, she will end up with three times the number of marbles that Ben has. What is the total number of marbles they both have?
+(a) 10 (b) 8 (c) 11 (d) 9
+
+Q.187. What number should be subtracted from x³ - 4x² - 8x + 11 to make the number divisible by (x + 2)?
+(a) 9 (b) 5 (c) 3 (d) 7
+
+Q.188. Each of Ravi and Kavita had some marbles. Kavita had 12 more marbles than Ravi had. If each of them had one more marble, then three times the number of marbles Kavita would then have had would have been equal to four times the number of marbles Ravi would then have had. How many marbles did Kavita actually have ?
+(a) 43 (b) 47 (c) 51 (d) 48
+
+===PAGE 10===
+Q.189. From the given numbers A, B, C and D, which number is NOT divisible by 11? A = 712712, B = 177210, C = 64614, D = 756148
+(a) C (b) D (c) B (d) A
+
+Q.190. Which of the following numbers is NOT divisible by 8 ?
+(a) 7344 (b) 5544 (c) 7497 (d) 4608
+
+Q.191. For what least value of n, 2^(2n) + 2n is completely divided by 6, where n is an integer?
+(a) 3 (b) 1 (c) 0 (d) 2
+
+Q.192. The least number which must be subtracted from 7278745 so as to obtain a sum divisible by 11 is:
+(a) 3 (b) 1 (c) 5 (d) 2
+
+Q.193. Ten chairs and six tables together cost ₹5,140; three chairs and two tables together cost ₹1,635. The cost of 1 chair and 1 table is:
+(a) ₹900 (b) ₹600 (c) ₹800 (d) ₹700
+
+Q.194. The number 4,29,714 is divisible by:
+(a) 3 and 5 (b) 6 and 5 (c) 4 and 6 (d) 3 and 6
+
+Q.195. Find the greatest value of ‘k’ in a 6-digit number 6745k2 such that the number is divisible by 3.
+(a) 8 (b) 6 (c) 9 (d) 7
+
+Q.196. On dividing a number by 55, we get 28 as the remainder. On dividing the same number by 11, what is the remainder?
+(a) 5 (b) 8 (c) 7 (d) 6
+
+Q.197. The ratio of two numbers is 2 : 5 and their difference is 210. The smaller number is _________.
+(a) 60 (b) 150 (c) 140 (d) 350
+
+Q.198. If 436P5 is divisible by 3, then the largest value of P is:
+(a) 12 (b) 6 (c) 8 (d) 9
+
+Q.199. Which composite number can divide the sum of the first 12 natural numbers?
+(a) 6 (b) 12 (c) 4 (d) 8
+
+Q.200. If m is even, then (8^m - 1) is divisible by :
+(a) 63 (b) 42 (c) 65 (d) 8
+
+Q.201. Which of the following numbers is divisible by 6?
+(a) 128530 (b) 12581 (c) 438750 (d) 62233
+
+Q.202. A number whose fifth part increased by 5 is equal to its third part decreased by 7. Find half of the number.
+(a) 45 (b) 150 (c) 80 (d) 60
+
+Q.203. The sum of two consecutive even numbers is 174. Find the smaller number.
+(a) 84 (b) 90 (c) 86 (d) 88
+
+Q.204. 7^15 + 7^16 + 7^17 is divisible by which of the following given numbers?
+(a) 3 (b) 5 (c) 2 (d) 7
+
+Q.205. Find the number when successively divided by 3, 5 and 7 leaves remainder 2, 1 and 3, respectively, and the last quotient is 3.
+(a) 367 (b) 365 (c) 362 (d) 360
+
+Q.206. How many numbers lie between 2000 and 2020 that are divisible by 8 ?
+(a) 4 (b) 3 (c) 2 (d) 5
+
+Q.207. On dividing a certain number by 304, we get 43 as the remainder. If the same number is divided by 16, what will be the remainder?
+(a) 8 (b) 11 (c) 15 (d) 12
+
+Q.208. The sum of the five consecutive even numbers is 2720. The sum of the third and fifth numbers is :
+(a) 1392 (b) 1192 (c) 1092 (d) 1292
+
+Q.209. What is the number of digits required for numbering a book with 428 pages ?
+(a) 1500 (b) 2000 (c) 988 (d) 1176
+
+Q.210. An 8 digit number is divisible by 99. If the digits are shuffled, then the number is always divisible by __________.
+(a) 9 (b) 11 (c) 6 (d) 5
+
+Q.211. When a number is divided by 512 it leaves a remainder 67. If the same number is divided by 32, then what will be the remainder?
+(a) 5 (b) 0 (c) 4 (d) 3
+
+Q.212. Find the remainder when 179 × 172 × 173 is divided by 17.
+(a) 2 (b) 9 (c) 3 (d) 6
+
+Q.213. A seven-digit number 489y5z6 is divisible by 72. Which of the options gives the highest possible product of y and z ?
+(a) 3 (b) 42 (c) 30 (d) 21
+
+Q.214. When the integer n is divided by 18, the quotient is x and the remainder is 6, When the integer n is divided by 25, the quotient is y and the remainder is 15. Which of the following is true?
+(a) 18x − 25y = 9 (b) 18x + 25y = 9 (c) 25y − 18x = 9 (d) 25y + 18x = 9
+
+Q.215. Which of the following numbers is divisible by 22 ?
+(a) 654320 (b) 893002 (c) 602351 (d) 645372
+
+Q.216. The number nearest to 7658 and exactly divisible by 45 is :
+(a) 7645 (b) 7660 (c) 7640 (d) 7650
+
+Q.217. The sum of two−digit number and the number obtained by interchanging the digit is 77. If the difference of digits is 1, then the number is:
+(a) 67 (b) 34 (c) 12 (d) 45
+
+Q.218. Write the smallest digit in the blank space of a number 7__7624, so that the number formed is divisible by 3.
+(a) 2 (b) 1 (c) 3 (d) 0
+
+Q.219. K being any odd number greater than 1, k^33 – k is always divisible by:
+(a) 5 (b) 13 (c) 24 (d) 15
+
+Q.220. How many numbers between 10 and 65 are divisible by 2, 3 and 4 ?
+(a) 5 (b) 7 (c) 9 (d) 3
+
+Q.221. A’s marks in Mathematics are directly proportional to practice time. In 6 hours of practice, A gets 70 marks. What should be the practice time (approximately) to get 90 Marks ?
+(a) 7.7 hours (b) 7 hours (c) 8.3 hours (d) 8 hours
+
+Q.222. A two - digit number is 12 more than five times the sum of its digits. The number formed by reversing the digits is 9 less than the original number. The number is:
+(a) 96 (b) 78 (c) 87 (d) 69
+
+Q.223. When the integer n is divided by 5, the remainder is 3. What is the remainder if 6n is divided by 5 ?
+(a) 0 (b) 2 (c) 3 (d) 1
+
+Q.224. Identify a single-digit number other than 1, which may exactly divide the number 17³ + 18³ − 16³ − 15³
+(a) 3 (b) 5 (c) 7 (d) 2
+
+Q.225. A natural number n divides 732 and leaves 12 as a remainder. How many values of n are possible?
+(a) 20 (b) 16 (c) 18 (d) 22
+
+Q.226. The age of a tree depends on the number of rings in the trunk. The value of a such tree is proportional to its age. If a tree with 40 rings and 50 years of age has a value of ₹50,000, then a tree with 30 rings is ________ years of age and its value is ₹_______.
+(a) 37.5, 57500 (b) 37.5, 37500 (c) 57.5, 37500 (d) 57.5, 57500
+
+===PAGE 11===
+Q.227. (8^6 + 1) when divided by 7, would leave a remainder of:
+(a) 1 (b) 4 (c) 2 (d) 6
+
+Q.228. The sum of the digits of a two-digit number is 9. If the digits are reversed, then the number is increased by 27. Find the number.
+(a) 63 (b) 36 (c) 54 (d) 45
+
+Q.229. A number is divisible by 11 if and only if the difference of the sum of the digits in the even and odd positions in the number is:
+(a) 0 or multiple of 11 (b) 11 (c) 0 (d) 1
+
+Q.230. When 2^256 is divided by 17, the remainder would be:
+(a) 2 (b) 0 (c) 1 (d) 5
+
+Q.231. The sum of two numbers is 76. Three times the larger number is 46 more than four times the smaller one. Find the two numbers.
+(a) 44 and 32 (b) 50 and 26 (c) 40 and 36 (d) 35 and 41
+
+Q.232. If the number 6p5157q is divisible by 88, then p × q = ______ where p and q are single digit numbers.
+(a) 12 (b) 18 (c) 20 (d) 15
+
+Q.233. On dividing a certain number by 459, we get 19 as remainder. What will be the remainder, when the same number is divided by 17 ?
+(a) 11 (b) 1 (c) 13 (d) 2
+
+Q.234. The sum of the digits of a two−digit number is 9. The number obtained by interchanging its digits exceeds the given number by 45, then the original number is :
+(a) 18 (b) 36 (c) 27 (d) 54
+
+Q.235. Divide 25 into two parts such that 6 times of the larger part added to 4 times of the smaller part is equal to 130. Find the larger part.
+(a) 13 (b) 20 (c) 15 (d) 14
+
+Q.236. The number 611611611611 is: (A) divisible by both 6 and 11, (B) neither divisible by 6 nor by 11, (C) divisible by 6 only, (D) divisible by 11 only
+(a) (B) (b) (D) (c) (A) (d) (C)
+
+Q.237. Arrange the following ratios in ascending order: 3 : 4, 3 : 5, 2 : 11, 7 : 2
+(a) 3 : 5 < 2 : 11 < 3 : 4 < 7 : 2
+(b) 7 : 2 < 3 : 4 < 3 : 5 < 2 : 11
+(c) 2 : 11 < 3 : 5 < 3 : 4 < 7 : 2
+(d) 3 : 4 < 3 : 5 < 2 : 11 < 7 : 2
+
+Q.238. 18 students of a class took part in a quiz. If the number of girls is 8 more than the number of boys, find the product of the number of boys and girls.
+(a) 56 (b) 36 (c) 63 (d) 65
+
+Q.239. Which of the following numbers is divisible by 11?
+(a) 908781 (b) 969331 (c) 701611 (d) 611571
+
+Q.240. The number 10000 is exactly divisible by which of the following numbers ?
+(a) 18 (b) 17 (c) 25 (d) 14
+
+Q.241. If the number 3727x4 is completely divisible by 8, then the smallest integer in place of x will be:
+(a) 6 (b) 8 (c) 2 (d) 0
+
+Q.242. Which of the following is a condition of divisibility of a number by six?
+(a) Sum of digits is divisible by 6
+(b) Last digit is 3 or 6
+(c) Sum of digits is divisible by 3 and last digit is even
+(d) Sum of digits is divisible by 3 and first digit is even
+
+Q.243. The largest 4 - digit number that is exactly divisible by 88 is:
+(a) 9848 (b) 9988 (c) 8888 (d) 9768
+
+Q.244. Find the least value digit which is assigned to x so that the number 1972x471 is divisible by 9.
+(a) 3 (b) 5 (c) 4 (d) 2
+
+Q.245. If a number is divisible by both 11 and 13, then it must be :
+(a) divisible by (11 × 13) (b) divisible by 42 (c) divisible by (11 + 13) (d) divisible by (13 - 11)
+
+Q.246. If a 9-digit number 937X728Y6 is divisible by 72, then one of the possible values of X + Y is :
+(a) 12 (b) 8 (c) 9 (d) 5
+
+Q.247. A number when divided by a divisor leaves a remainder of 24. When twice the original number is divided by the same divisor, the remainder is 13. What is the value of the divisor ?
+(a) 35 (b) 37 (c) 25 (d) 30
+
+Q.248. If (5)^55 is divisible by 4, then the remainder is :
+(a) 5 (b) 1 (c) 3 (d) 2
+
+Q.249. How many numbers less than 1,000 are multiples of both 7 and 11 ?
+(a) 13 (b) 11 (c) 12 (d) 10
+
+Q.250. Which of the following numbers is divisible by 4: (i) 67920598 (ii) 618703592 (iii) 618703594 (iv) 67920590
+(a) (i) (b) (iii) (c) (iv) (d) (ii)
+
+Q.251. In a division sum, the divisor is 13 times the quotient and 6 times the remainder. If the remainder is 39, then the dividend is:
+(a) 4,800 (b) 4,576 (c) 4,251 (d) 4,240
+
+Q.252. Which of the following numbers is divisible by 36 ?
+(a) 1542 (b) 96272 (c) 55512 (d) 8840
+
+Q.253. The number 1254216 is divisible by which of the following numbers?
+(a) 8 (b) 11 (c) 5 (d) 16
+
+Q.254. Find the sum of 3 + 3² + 3³ + .... + 3⁸.
+(a) 9840 (b) 6561 (c) 6560 (d) 3280
+
+Q.255. The number 2918245 is divisible by which of the following numbers?
+(a) 3 (b) 9 (c) 11 (d) 12
+
+Q.256. 6^25 + 6^26 + 6^27 + 6^28 is divisible by :
+(a) 254 (b) 259 (c) 256 (d) 255
+
+Q.257. If a car covers 90 km using 4 litres of petrol, how much distance (in km) will it cover using 32 litres of petrol?
+(a) 720 (b) 710 (c) 680 (d) 650
+
+Q.258. In a division sum, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 12, then what is the dividend?
+(a) 368 (b) 372 (c) 386 (d) 352
+
+Q.259. Which of the following numbers will completely divide 4^12 + 4^13 + 4^14 + 4^15 ?
+(a) 17 (b) 11 (c) 3 (d) 7
+
+Q.260. Without actual division, find the remainder when 379843 is divided by 3.
+(a) 4 (b) 1 (c) 3 (d) 2
+
+Q.261. If the six-digit number 15x1y2 is divisible by 44, then the minimum value of (x + y) is equal to:
+(a) 5 (b) 6 (c) 8 (d) 7
+
+Q.262. If a 9-digit number 389x6378y is divisible by 72, then the value of 6x + 7y is:
+(a) 64 (b) 32 (c) 16 (d) 28
+
+Q.263. Which of the following numbers is divisible by 9?
+(a) 553986 (b) 350846 (c) 941201 (d) 132490
+
+===PAGE 12===
+Q.264. The five-digit number 725yz is divisible by 15. What is the maximum possible value of the product of y and z ?
+(a) 45 (b) 30 (c) 35 (d) 40
+
+Q.265. If the 6 digit number 7002 * 4 is completely divisible by 8, then the smallest integer in place of * will be:
+(a) 0 (b) 2 (c) 4 (d) 6
+
+Q.266. If 72 * 72 is divisible by 9, the missing * digit will be:
+(a) 5 or 8 (b) 0 or 9 (c) 2 or 4 (d) 3 or 6
+
+Q.267. The number 7918378 is divisible by:
+(a) 13 (b) 9 (c) 11 (d) 4
+
+Q.268. What least number must be subtracted from 2001 to get a number exactly divisible by 17 ?
+(a) 12 (b) 13 (c) 11 (d) 14
+
+Q.269. If * is a digit such that 7235 * is divisible by 11, then the value of * is:
+(a) 9 (b) 6 (c) 5 (d) 8
+
+Q.270. The average of 25 integers is zero. What is the maximum possible number of positive integers?
+(a) 12 (b) 20 (c) 13 (d) 24
+
+Q.271. Find the largest number which should replace P in the 7- digit number 87893P4 to make the number divisible by 4.
+(a) 8 (b) 9 (c) 2 (d) 0
+
+Q.272. Find the smallest non-zero value of k so that 7-digit number 48397k5 is divisible by 9.
+(a) 2 (b) 5 (c) 4 (d) 9
+
+Q.273. What is the least number that must be added to the greatest 6-digit number so that the sum will be exactly divisible by 294 ?
+(a) 234 (b) 194 (c) 269 (d) 189
+
+Q.274. Which of the following sets is such that all its elements are divisors of the number 2520 ?
+(a) 12, 49, 18 (b) 8, 9, 7 (c) 16, 15, 14 (d) 21, 10, 25
+
+Q.275. What will be the greatest number 32a78b, which is divisible by 3 but NOT divisible by 9 ? (Where a and b are single digit numbers).
+(a) 324781 (b) 329787 (c) 326787 (d) 329784
+
+Q.276. The sum of the cubes of two given numbers is 10234, while the sum of the two given numbers is 34. What is the positive difference between the cubes of the two given numbers ?
+(a) 3484 (b) 3488 (c) 3356 (d) 8602
+
+Q.277. The six-digit number N = 4a6b9c is divisible by 99, then the maximum sum of the digits of N is:
+(a) 18 (b) 36 (c) 45 (d) 27
+
+Q.278. What will be the remainder when (265)^4081 + 9 is divided by 266 ?
+(a) 8 (b) 6 (c) 1 (d) 9
+
+Q.279. A and B have some toffees. If A gives one toffee to B, then they have an equal number of toffees. If B gives one toffee to A, then the toffees with A are double with B. The total number of toffees with A and B are _______.
+(a) 12 (b) 10 (c) 14 (d) 15
+
+Q.280. Find the smallest number that can be subtracted from 148109326 so that it becomes divisible by 8.
+(a) 4 (b) 8 (c) 6 (d) 10
+
+Q.281. The largest 5-digit number exactly divisible by 88 is:
+(a) 99990 (b) 99984 (c) 99978 (d) 99968
+
+Q.282. The average of squares of five consecutive odd natural numbers is 233. What is the average of the largest number and the smallest number?
+(a) 11 (b) 17 (c) 13 (d) 15
+
+Q.283. When (2^24 - 1) is divided by 7, the remainder is:
+(a) 2 (b) 0 (c) 4 (d) 1
+
+Q.284. When a positive integer n is divided by 12, the remainder is 5. What will be the remainder if 8n² + 7 is divided by 12 ?
+(a) 2 (b) 5 (c) 3 (d) 4
+
+Q.285. The remainder when 75 × 73 × 78 × 76 is divided by 34 is:
+(a) 18 (b) 12 (c) 22 (d) 15
+
+Q.286. What is the least number of soldiers that can be drawn up in troops of 10, 12, 15, 18 and 20 soldiers, and also in form of a perfect square ?
+(a) 180 (b) 625 (c) 900 (d) 400
+
+===ANSWERS===
+1.(b) 2.(c) 3.(b) 4.(a) 5.(c) 6.(b) 7.(b) 8.(b) 9.(c) 10.(c)
+11.(d) 12.(a) 13.(d) 14.(b) 15.(c) 16.(a) 17.(d) 18.(a) 19.(d) 20.(c)
+21.(d) 22.(b) 23.(a) 24.(d) 25.(a) 26.(d) 27.(d) 28.(d) 29.(d) 30.(a)
+31.(d) 32.(a) 33.(b) 34.(d) 35.(b) 36.(c) 37.(d) 38.(b) 39.(c) 40.(b)
+41.(a) 42.(a) 43.(c) 44.(b) 45.(b) 46.(d) 47.(a) 48.(c) 49.(c) 50.(a)
+51.(b) 52.(a) 53.(d) 54.(c) 55.(d) 56.(d) 57.(b) 58.(d) 59.(c) 60.(d)
+61.(b) 62.(c) 63.(a) 64.(a) 65.(c) 66.(d) 67.(a) 68.(a) 69.(b) 70.(c)
+71.(a) 72.(d) 73.(d) 74.(b) 75.(b) 76.(a) 77.(b) 78.(c) 79.(b) 80.(b)
+81.(c) 82.(c) 83.(c) 84.(a) 85.(d) 86.(b) 87.(d) 88.(b) 89.(b) 90.(a)
+91.(b) 92.(d) 93.(d) 94.(c) 95.(b) 96.(c) 97.(a) 98.(c) 99.(b) 100.(c)
+101.(b) 102.(a) 103.(d) 104.(d) 105.(d) 106.(b) 107.(c) 108.(a) 109.(a) 110.(a)
+111.(c) 112.(a) 113.(d) 114.(a) 115.(a) 116.(b) 117.(c) 118.(c) 119.(d) 120.(d)
+121.(a) 122.(b) 123.(a) 124.(d) 125.(b) 126.(a) 127.(a) 128.(b) 129.(a) 130.(d)
+131.(b) 132.(d) 133.(b) 134.(a) 135.(a) 136.(d) 137.(b) 138.(c) 139.(b) 140.(d)
+141.(d) 142.(a) 143.(d) 144.(b) 145.(a) 146.(c) 147.(a) 148.(b) 149.(a) 150.(d)
+151.(c) 152.(a) 153.(d) 154.(d) 155.(c) 156.(b) 157.(c) 158.(b) 159.(a) 160.(c)
+161.(a) 162.(b) 163.(c) 164.(b) 165.(a) 166.(b) 167.(c) 168.(a) 169.(a) 170.(c)
+171.(c) 172.(c) 173.(b) 174.(c) 175.(a) 176.(b) 177.(b) 178.(c) 179.(a) 180.(a)
+181.(d) 182.(a) 183.(c) 184.(d) 185.(d) 186.(b) 187.(c) 188.(b) 189.(b) 190.(c)
+191.(b) 192.(b) 193.(d) 194.(d) 195.(c) 196.(d) 197.(c) 198.(d) 199.(a) 200.(a)
+201.(c) 202.(a) 203.(c) 204.(a) 205.(b) 206.(c) 207.(b) 208.(c) 209.(d) 210.(a)
+211.(d) 212.(c) 213.(b) 214.(a) 215.(b) 216.(d) 217.(b) 218.(b) 219.(c) 220.(a)
+221.(a) 222.(c) 223.(c) 224.(d) 225.(a) 226.(b) 227.(c) 228.(b) 229.(a) 230.(c)
+231.(b) 232.(b) 233.(d) 234.(c) 235.(c) 236.(b) 237.(c) 238.(d) 239.(b) 240.(c)
+241.(d) 242.(c) 243.(d) 244.(b) 245.(a) 246.(a) 247.(a) 248.(b) 249.(c) 250.(d)
+251.(c) 252.(c) 253.(a) 254.(a) 255.(c) 256.(b) 257.(a) 258.(b) 259.(a) 260.(b)
+261.(d) 262.(a) 263.(a) 264.(d) 265.(b) 266.(b) 267.(a) 268.(a) 269.(d) 270.(d)
+271.(a) 272.(d) 273.(d) 274.(b) 275.(d) 276.(a) 277.(d) 278.(a) 279.(a) 280.(c)
+281.(d) 282.(d) 283.(b) 284.(c) 285.(b) 286.(c)

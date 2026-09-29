@@ -1,0 +1,611 @@
+===PAGE 3===
+Variety Questions
+Q.1. Find the value of x in given equation: (√(5 + x) + √(5 - x)) / (√(5 + x) - √(5 - x)) = 7
+SSC CGL 20/09/2025 (Shift 1)
+(a) 12/5 (b) 7/5 (c) 6/5 (d) 8/5
+
+Q.2. A gardener organizes trees into rows to create a square formation but discovers that 16 trees are not included. If the total number of trees is 4112 , then what is the number of trees in each row?
+SSC CGL 17/09/2025 (Shift 3)
+(a) 42 (b) 54 (c) 64 (d) 65
+
+Q.3. The difference between the two numbers is 1370. On dividing the larger by the smaller, the quotient is 7, and the remainder is 14. Find the smaller number.
+Graduate Level 28/07/2025 (Shift - 3)
+(a) 240 (b) 226 (c) 285 (d) 295
+
+Q.4. Converting the decimal number 187 to the binary number system we get:
+Higher Secondary 29/07/2025 (Shift - 2)
+(a) 10111011 (b) 10111010 (c) 11011101 (d) 11011110
+
+Q.5. Which set of numbers includes all the other sets ?
+Higher Secondary 28/07/2025 (Shift - 2)
+(a) Integers (b) Rational numbers (c) Real numbers (d) Natural numbers
+
+Q.6. How many non-square natural numbers lie between 30² and 31²?
+Matriculation Level 29/08/2025 (Shift - 3)
+(a) 59 (b) 60 (c) 61 (d) 62
+
+Q.7. What will be the number of zeros at the end of the square of the following numbers ? (i) 90 (ii) 600. Choose the correct option:
+Matriculation Level 02/08/2025 (Shift - 1)
+(a) 1 zero in (i), 3 zeros in (ii)
+(b) 2 zeros in (i), 4 zeros in (ii)
+(c) 2 zeros in (i), 2 zeros in (ii)
+(d) 1 zero in both (i) and (ii)
+
+Q.8. If x = 5/3 is a rational number and y = √5, an irrational number, then x + y is:
+Matriculation Level 02/08/2025 (Shift - 1)
+(a) Rational (b) Irrational (c) Integer (d) Whole Number
+
+Q.9. The five - digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z) ?
+(a) 15 (b) 18 (c) 16 (d) 17
+
+Q.10. In a room, there are some chairs and some people. If on each chair, only one person is seated, then there is no chair for exactly one person. If on each chair, two persons sit, then there is one vacant chair. What is the number of chairs in the room?
+(a) 7 (b) 4 (c) 3 (d) 6
+
+Q.11. Cindy bought 15 apples and 12 oranges and paid a sum of ₹447 for the purchase. Which of the statements given below is inconsistent with the information given in the previous statement, leading to no possible prices of the two fruits?
+(a) Purchased 25 apples and 20 oranges and paid a sum of ₹745
+(b) Purchased 10 apples and 13 oranges and paid a sum of ₹353
+(c) Purchased 12 apples and 8 oranges and paid a sum of ₹340
+(d) Purchased 35 apples and 28 oranges and paid a sum of ₹1,029
+
+Q.12. Aman has certain number of notes of denomination ₹20 and ₹10 which amount to ₹390. If the numbers of notes of each kind are interchanged, then the new amount is ₹90 less than before. Find the number of notes of ₹20 denomination.
+(a) 16 (b) 12 (c) 15 (d) 14
+
+Q.13. 2 biscuits and 1 chocolate cost ₹69. 2 chocolates and 3 cups of coffee cost ₹127. 3 biscuits, 4 chocolates and 2 cups of coffee cost ₹229. Find the total cost (in ₹) of 5 biscuits, 5 chocolates and 5 cups of coffee.
+(a) 304 (b) 375 (c) 345 (d) 355
+
+Q.14. 8 apples and 10 oranges weigh 5 kg. 12 apples and 20 oranges weigh 9 kg. What is the weight (in kg, rounded off to the nearest integer) of 15 apples and 24 oranges ?
+(a) 16 (b) 11 (c) 13 (d) 10
+
+Q.15. In an election, voters have the option to vote for one of three candidates. They also have the option to select 'None Of The Above' (NOTA) to reject all the candidates. All three candidates get 6 times the NOTA votes. The winner gets twice the votes of the second runner-up. The first runner-up gets 900 more votes than NOTA and defeats the second runner-up by 150 votes. Find the total number of votes cast.
+(a) 15177 (b) 11577 (c) 11025 (d) 17715
+
+Q.16. How many factors of 14,400 are divisible by 18 but not by 36 ?
+(a) 3 (b) 5 (c) 4 (d) 2
+
+Q.17. Raju has ₹11,000 and starts saving ₹5,000 each week towards buying a new laptop. At the same time, Ramesh has ₹60,000 and begins spending ₹2,000 per week on supplies for his art class. Will there be a week when they have the same amount of money?
+(a) Yes, after 5 weeks (b) No, they will never have the same amount (c) Yes, after 7 weeks (d) Yes, after 6 weeks
+
+Q.18. If 3c2933k is divisible by both 5 and 11, where c and k are single digit natural numbers, then c + k = ______.
+(a) 6 (b) 8 (c) 5 (d) 7
+
+===PAGE 4===
+Q.19. If two numbers are each divided by the same divisor, then the remainders are 6 and 7, respectively. If the sum of the two numbers be divided by the same divisor, then the remainder is 5. The divisor is:
+(a) 6 (b) 4 (c) 13 (d) 8
+
+Q.20. Find the lowest positive value of (c – b) such that the 7-digit number 1738b9c is divisible by 12.
+(a) 4 (b) 7 (c) 1 (d) 2
+
+Q.21. Successive division of a number by 2, 3, 5 and 7 gives remainders 1, 4, 0 and 5, respectively. What will be the sum of the remainders if the same number is divided by 7, 5, 3 and 2 successively ?
+(a) 17 (b) 8 (c) 10 (d) 9
+
+Q.22. Ram gives a six-digit number 468312 to Shyam to check the divisibility. Shyam tells Ram that the number is divisible by 57. Shyam asks Ram, “If we rearrange the digits of this number in descending order, then by which number will it be always divisible ?”
+(a) 2 (b) 3 (c) 19 (d) 17
+
+Q.23. A 4-digit number '34PQ' divisible by 3, 5 and 7. Find the value of P + Q .
+(a) 11 (b) 12 (c) 10 (d) 13
+
+Q.24. A six-digit number is divisible by 33. If 21 is added to the number, then the new number which formed is also divisible by:
+(a) 5 (b) 4 (c) 2 (d) 3
+
+Q.25. A six-digit number 11p9q4 is divisible by 24. Then the greatest possible value for pq is:
+(a) 56 (b) 68 (c) 42 (d) 32
+
+Q.26. The remainder of the term 9 + 9² + .... + 9^(2n + 1) when divided by 6 is:
+(a) 4 (b) 3 (c) 1 (d) 2
+
+Q.27. Two numbers, when divided by a certain divisor, leave the remainder 57. When sum of the two numbers is divided by the same divisor, the remainder is 49. The divisor is:
+(a) 56 (b) 57 (c) 49 (d) 65
+
+Q.28. In a division sum, the divisor is 11 times the quotient and 5 times the remainder. If the remainder is 44, then the dividend is:
+(a) 8888 (b) 4448 (c) 8444 (d) 4444
+
+Q.29. What is the least value of x + y, if 10 digit number 780x533y24 is divisible by 88 ?
+(a) 4 (b) 3 (c) 1 (d) 2
+
+Q.30. Suhas mistakenly took as dividend a number which was 10% less than the original dividend. He also mistakenly took as divisor a number which was 20% less than the original divisor. If the correct quotient of the original question of division was 24 and the remainder was 0, then what quotient did Suhas obtain, assuming there was no error in his calculations?
+(a) 27 (b) 21.6 (c) 26.4 (d) 30
+
+Q.31. During a division, Pranjal mistakenly took as the dividend a number that was 10% more than the original dividend. He also mistakenly took as the divisor a number that was 25% more than the original divisor. If the correct quotient of the original division problem was 25 and the remainder was 0, what was the quotient that Pranjal obtained, assuming his calculations had no error ?
+(a) 21.75 (b) 21.25 (c) 28.75 (d) 22
+
+Q.32. The six-digit number 7x1yyx is a multiple of 33 for non-zero digits x and y. Which of the following could be a possible value of (x + y) ?
+(a) 5 (b) 4 (c) 2 (d) 3
+
+Q.33. A girl wants to plant trees in her garden in rows in such a way that the number of trees in each row to be the same. There are 10 rows and the number of trees in each row is 12, what is the number of trees in each row, if there are 5 more rows ?
+(a) 10 (b) 8 (c) 6 (d) 12
+
+Q.34. What is the total number of factors of the number 720 except 1 and the number itself?
+(a) 29 (b) 27 (c) 32 (d) 28
+
+Q.35. Which of the following is the smallest among (14)^(1/3), (12)^(1/2), (16)^(1/6) & (25)^(1/12) ?
+(a) (14)^(1/3) (b) (25)^(1/12) (c) (16)^(1/6) (d) (12)^(1/2)
+
+Q.36. How many terms of the series - 9, - 6, - 3, ……….must be taken so that the sum of all the terms is 45 ?
+(a) 11 (b) 8 (c) 10 (d) 9
+
+Q.37. Which of the following statements is correct ?
+I. The Value of 100² - 99² + 98² - 97² + 96² - 95² + 94² - 93² + ...... + 22² - 21² is 4840.
+II. The value of (K² + 1/K²)(K - 1/K)(K⁴ + 1/K⁴)(K + 1/K)(K⁴ - 1/K⁴) is K^16 - 1/K^16.
+(a) Neither I nor II (b) Both I and II (c) Only II (d) Only I
+
+Q.38. If the seven-digit number 52A6B7C is divisible by 33, and A, B, C are primes, then the maximum value of 2A + 3B + C is:
+(a) 32 (b) 23 (c) 27 (d) 34
+
+Q.39. In a test (+ 5) marks are given for every correct answer and (−2) marks are given for every incorrect answer. Jay answered all the questions and scored (−12) marks, though he got 4 correct answers. How many of his answers were INCORRECT ?
+(a) 8 (b) 32 (c) 16 (d) 20
+
+Q.40. The number 150328 is divisible by 23. If the digits are rearranged in descending order and five times of 13 is subtracted from the new number thus formed, then the resultant number will be divisible by:
+(a) 3 (b) 5 (c) 11 (d) 2
+
+Q.41. What is the sum of all the common terms between the given series S1 and S2 ?
+S1 = 2, 9, 16, ……., 632; S2 = 7, 11, 15, ……., 743
+(a) 6974 (b) 6750 (c) 7140 (d) 6860
+
+Q.42. Let p, q, r and s be positive natural numbers having three exact factors including 1 and the number itself. If q > p and both are two-digit numbers, and r > s and both are one-digit numbers, then the value of the expression (p - q - 1)/(r - s) is:
+(a) - s - 1 (b) s - 1 (c) 1 - s (d) s + 1
+
+Q.43. Three fractions x, y and z are such that x > y > z. When the smallest of them is divided by the greatest, the result is 9/16, which exceeds y by 0.0625. If x + y + z = 2 3/12, then what is the value of x + z ?
+(a) 5/4 (b) 1/4 (c) 7/4 (d) 3/4
+
+Q.44. Find the number of prime factors in the product (30)⁵ × (24)⁵.
+(a) 45 (b) 35 (c) 10 (d) 30
+
+Q.45. Let ab, a ≠ b, is a 2-digit prime number such that ba is also a prime number. The sum of all such number is:
+(a) 374 (b) 418 (c) 407 (d) 396
+
+Q.46. Given that 2^20 + 1 is completely divisible by a whole number. Which of the following is completely divisible by the same number ?
+(a) 2^15 + 1 (b) 5 × 2^30 (c) 2^90 + 1 (d) 2^60 + 1
+
+===PAGE 5===
+Q.47. Which of the following numbers will completely divide 7^81 + 7^82 + 7^83 ?
+(a) 399 (b) 389 (c) 387 (d) 397
+
+Q.48. When a positive integer is divided by d, the remainder is 15. When ten times of the same number is divided by d, the remainder is 6. The least possible value of d is:
+(a) 9 (b) 12 (c) 16 (d) 18
+
+Q.49. When 200 is divided by a positive integer x, the remainder is 8. How many values of x are there?
+(a) 7 (b) 5 (c) 8 (d) 6
+
+Q.50. How many natural numbers less than 1000 are divisible by 5 or 7 but NOT by 35 ?
+(a) 285 (b) 313 (c) 341 (d) 243
+
+Q.51. If the six digit number 479xyz is exactly divisible by 7, 11 and 13 , then {( y + z ) ÷ x} is equal to :
+(a) 11/9 (b) 4 (c) 13/7 (d) 7/13
+
+Q.52. Which among the following is the smallest ?
+(a) √401 - √399 (b) √101 - √99 (c) √301 - √299 (d) √201 - √199
+
+Q.53. Two positive numbers differ by 2001. When the larger number is divided by the smaller number, the quotient is 9 and the remainder is 41. The sum of the digits of the larger number is :
+(a) 15 (b) 11 (c) 10 (d) 14
+
+Q.54. When a two - digit number is multiplied by the sum of its digits, the product is 424. When the number obtained by interchanging its digits is multiplied by the sum of the digits, the result is 280. The sum of the digits of the given number is :
+(a) 6 (b) 9 (c) 8 (d) 7
+
+Q.55. Let x = (633)^24 − (277)^38 + (266)^54. What is the unit digit of x ?
+(a) 7 (b) 6 (c) 4 (d) 8
+
+Q.56. The sum of the digits of a two-digit number is 1/7 of the number. The unit digit is 4 less than the tens digit. If the number obtained on reversing its digit is divided by 7, the remainder will be :
+(a) 4 (b) 5 (c) 1 (d) 6
+
+Q.57. A gardener planted 1936 saplings in a garden such that there were as many rows of saplings as the columns. The number of rows planted is :
+(a) 46 (b) 44 (c) 48 (d) 42
+
+Q.58. What is the difference between the largest and smallest numbers of the four digits created using numbers 2, 9, 6, 5 ? (Each number can be used only once)
+(a) 6993 (b) 7056 (c) 6606 (d) 7083
+
+Q.59. The square root of which of the following is a rational number ?
+(a) 1250.49 (b) 6250.49 (c) 1354.24 (d) 5768.28
+
+Q.60. The value of 22.4 + 11.567 - 33.59 is:
+(a) 0.32 (b) 0.412 (c) 0.31 (d) 0.412
+
+Examination wise Questions
+SSC CGL 2025 Tier - 1
+Q.61. Arrange the fractions 6/11, 5/8, 4/7 and 3/5 in ascending order.
+SSC CGL 12/09/2025 (Shift 1)
+(a) 3/5, 4/7, 5/8, 6/11 (b) 6/11, 4/7, 3/5, 5/8 (c) 6/11, 3/5, 4/7, 5/8 (d) 6/11, 4/7, 5/8, 3/5
+
+Q.62. Let x = √3 + √5 and y = √8 + √3. Which is greater ?
+SSC CGL 12/09/2025 (Shift 2)
+(a) x = y (b) x > y (c) x < y (d) Cannot be determined
+
+Q.63. Suppose x = √2 + √3, y = √6 + 1, and z = 3√2 + 1; then which of the following is true ?
+SSC CGL 13/09/2025 (Shift 1)
+(a) x < y < z (b) z < y < x (c) y < x < z (d) x < z < y
+
+Q.64. If 1/(4 - √15) - 1/(√15 - √14) + 1/(√14 - √13) - 1/(√13 - √12) + 1/(√12 - √11) - 1/(√11 - √10) + 1/(√10 - 3) = x, then find the value of (x + 1) = ?
+SSC CGL 13/09/2025 (Shift 2)
+(a) 8 (b) 7 (c) 2 (d) 0
+
+Q.65. If a = √5 - √3, and b = √3 - √2, then which of the following is true?
+SSC CGL 14/09/2025 (Shift 3)
+(a) a = b (b) a < b (c) a > b (d) Cannot be determined
+
+Q.66. Which of the following is equal to 14 ?
+SSC CGL 15/09/2025 (Shift 2)
+(a) (√11 + √5)² - 2√55 (b) (√5 + √5)² (c) (√2 + √3)² + 2√6 (d) (√8 + √6)² - 2√48
+
+Q.67. Solve system: y = 4x + 2 and y = − 2x + 8
+SSC CGL 15/09/2025 (Shift 2)
+(a) (1, 6) (b) (2, 5) (c) (3, 7) (d) (0, 1)
+
+Q.68. Express 0.232323... as a fraction.
+SSC CGL 15/09/2025 (Shift 2)
+(a) 23/99 (b) 23/90 (c) 23/999 (d) 23/900
+
+Q.69. Multiply 0.48 by 0.7 and express the result as a decimal.
+SSC CGL 17/09/2025 (Shift 3)
+(a) 0.386 (b) 0.336 (c) 0.236 (d) 0.254
+
+Q.70. Identify the incorrect relationship(s) from the list below:
+(i) √5 + √6 = √7 + √4
+(ii) √5 + √6 < √7 + √4
+(iii) √5 + √6 > √7 + √4
+SSC CGL 18/09/2025 (Shift 2)
+(a) (ii) (b) (i) (c) (i) and (ii) (d) (ii) and (iii)
+
+Q.71. Which of the following is correct?
+(i) √11 + √3 > √12 + √2
+(ii) √11 + √3 < √12 + √2
+(iii) √11 + √3 = √12 + √2
+SSC CGL 19/09/2025 (Shift 1)
+(a) (i) (b) (ii) (c) (iii) (d) (i), (ii) and (iii)
+
+Q.72. Which of the following is the least 6-digit number, which is not a perfect square ?
+SSC CGL 19/09/2025 (Shift 2)
+(a) 100489 (b) 100000 (c) 101124 (d) 100788
+
+Q.73. If you subtract the square of a number from 2796 and then multiply the result by 13, you get 35711. What is that number ?
+SSC CGL 19/09/2025 (Shift 3)
+(a) ±8 (b) ±6 (c) ±9 (d) ±7
+
+Q.74. Choose the correct relation:
+(i) √9 < 3.1
+(ii) √15 < √17
+(iii) √8 < √11
+SSC CGL 19/09/2025 (Shift 3)
+(a) (i) only (b) (i), (ii) and (iii) (c) (ii) and (iii) (d) (i) and (ii)
+
+Q.75. What type of number is obtained when a rational number is added to an irrational number ?
+SSC CGL 20/09/2025 (Shift 1)
+(a) Always Rational (b) Always Irrational (c) Always Integer (d) Sometimes Rational, Sometimes Irrational
+
+===PAGE 6===
+Q.76. Find the solution to the system: y = 7x - 4 and y = -2x + 14.
+SSC CGL 20/09/2025 (Shift 1)
+(a) (2, 10) (b) (17, 2) (c) (1.5, 3.5) (d) (1.5, -4.5)
+
+Q.77. Which of these is both an Integer and a Whole number?
+SSC CGL 20/09/2025 (Shift 2)
+(a) - 6 (b) 1 (c) 4.5 (d) 3/2
+
+Q.78. Find the value of x in the given equation: (√(8 + x) + √(8 - x)) / (√(8 + x) - √(8 - x)) = 5
+SSC CGL 20/09/2025 (Shift 3)
+(a) 46/13 (b) 36/13 (c) 40/13 (d) 66/17
+
+Q.79. Which of the following numbers is an integer but not a natural number ?
+SSC CGL 20/09/2025 (Shift 3)
+(a) 2 (b) 0 (c) 7 (d) 9
+
+Q.80. Which of the following is a perfect square and an Integer ?
+SSC CGL 21/09/2025 (Shift 1)
+(a) Square root of 7 (b) Square root of 16 (c) 4.3 (d) 5.4
+
+Q.81. What is the smallest number that must be added to 5600 to make it a perfect square ?
+SSC CGL 21/09/2025 (Shift 1)
+(a) 23 (b) 24 (c) 25 (d) 26
+
+Q.82. Which of the following numbers belongs to the set of Integers but NOT to the set of Whole Numbers?
+SSC CGL 21/09/2025 (Shift 2)
+(a) 0 (b) 1/2 (c) -5 (d) +5
+
+Q.83. Which of these is a number that is real but NOT rational?
+SSC CGL 21/09/2025 (Shift 3)
+(a) 3/5 (b) 7 (c) Square root of 5 (d) -3
+
+Q.84. A water tub can hold 12.5 liters of water. How many such water tubs are needed to fill a 1 cubic meter tank ?
+SSC CGL 22/09/2025 (Shift 1)
+(a) 80 (b) 70 (c) 65 (d) 90
+
+Q.85. The decimal 0.785 is best classified as:
+SSC CGL 22/09/2025 (Shift 2)
+(a) Whole Number (b) Irrational Number (c) Integer (d) Rational Number
+
+Q.86. Which of the following numbers is both a Rational Number and a Terminating Decimal ?
+SSC CGL 22/09/2025 (Shift 3)
+(a) 2/3 (b) 7/5 (c) √5 (d) π
+
+Q.87. A recipe requires 0.85 liters of milk for 15 servings. How many servings can be made with 4.25 liters of milk ?
+SSC CGL 22/09/2025 (Shift 3)
+(a) 78 (b) 70 (c) 72 (d) 75
+
+Q.88. A number is such that if you square it and then subtract 5 times the number, the result is 150. What is the number ?
+SSC CGL 22/09/2025 (Shift 3)
+(a) 10 (b) 15 (c) 20 (d) 25
+
+Q.89. The set of integers includes which of the following?
+SSC CGL 23/09/2025 (Shift 1)
+(a) Only Positive Numbers (b) Both Positive and Negative Numbers (c) Only Whole Numbers (d) Only Natural Numbers
+
+Q.90. Which of these numbers is neither Rational nor Integer ?
+SSC CGL 23/09/2025 (Shift 3)
+(a) √3 (b) -5 (c) 0 (d) 4.5
+
+Q.91. Which of the following statements is CORRECT about Whole Numbers?
+SSC CGL 24/09/2025 (Shift 2)
+(a) Whole numbers are the same as natural numbers.
+(b) Whole numbers include all positive integers and zero.
+(c) Whole numbers include both positive and negative integers.
+(d) Whole numbers include all fractions and decimals.
+
+Q.92. Which set includes numbers like -7, 4, and 0 ?
+SSC CGL 25/09/2025 (Shift 1)
+(a) Natural Numbers (b) Whole Numbers (c) Irrational Numbers (d) Integers
+
+Q.93. Which set does contain non zero positive numbers ?
+SSC CGL 25/09/2025 (Shift 3)
+(a) Integers (b) Real Numbers (c) Rational Numbers (d) Natural Numbers
+
+Q.94. A number is increased by 100, and the result becomes a perfect square. The original number lies between two consecutive square numbers, 729 and 784. Find the original number.
+SSC CGL 14/10/2025 (Shift 2)
+(a) 700 (b) 732 (c) 741 (d) 745
+
+Q.95. Which of the following numbers is an integer but not a natural number ?
+SSC CGL 14/10/2025 (Shift 3)
+(a) 3 (b) 0 (c) 6 (d) 9
+
+SSC Selection Post (Phase - XIII)
+Q.96. Which number set includes all rational and irrational numbers?
+Matriculation Level 24/07/2025 (Shift - 1)
+(a) Natural numbers (b) Whole numbers (c) Real numbers (d) Integer numbers
+
+Q.97. What is 147/22 as a mixed number ?
+Matriculation Level 24/07/2025 (Shift - 1)
+(a) 6(15/22) (b) 5(17/22) (c) 6(17/22) (d) 7(15/22)
+
+Q.98. How many natural numbers are there between 13² and 15² ?
+Matriculation Level 24/07/2025 (Shift - 1)
+(a) 30 (b) 45 (c) 55 (d) 50
+
+Q.99. Simplify the following expression and identify its nature: (7√5 × √20) / √4
+Matriculation Level 25/07/2025 (Shift - 1)
+(a) 14√5, irrational number (b) 35, rational number (c) 10√2, irrational number (d) 28√5, irrational number
+
+Q.100. Irrational numbers are a subset of:
+Matriculation Level 25/07/2025 (Shift - 1)
+(a) Integers (b) Whole numbers (c) Real numbers (d) Natural numbers
+
+Q.101. The square root of 196 is:
+Matriculation Level 25/07/2025 (Shift - 1)
+(a) 12 (b) 14 (c) 13 (d) 15
+
+Q.102. Which of the following is true?
+Matriculation Level 26/07/2025 (Shift - 1)
+(a) All natural numbers are integers. (b) All irrational numbers are rational. (c) All real numbers are integers. (d) No integer is rational.
+
+Q.103. What is the square of 73?
+Matriculation Level 26/07/2025 (Shift - 1)
+(a) 5229 (b) 5529 (c) 5429 (d) 5329
+
+Q.104. √6 + √10 is classified as:
+Matriculation Level 28/07/2025 (Shift - 1)
+(a) Whole Number (b) Integer (c) Rational (d) Irrational
+
+===PAGE 7===
+Q.105. Fill in the blank: A number that cannot be expressed as a fraction is called ____.
+Matriculation Level 28/07/2025 (Shift - 1)
+(a) Whole (b) Integer (c) Rational (d) Irrational
+
+Q.106. 4.75 as a mixed number is:
+Matriculation Level 28/07/2025 (Shift - 1)
+(a) 4(1/2) (b) 4(3/4) (c) 4(2/5) (d) 4(1/3)
+
+Q.107. What is the unit digit (ones place) of the square of 67?
+Matriculation Level 28/07/2025 (Shift - 1)
+(a) 4 (b) 7 (c) 9 (d) 3
+
+Q.108. Which of the following statements is true?
+Matriculation Level 29/07/2025 (Shift - 1)
+(a) All integers are real. (b) All real numbers are whole. (c) All whole numbers are irrational. (d) No integers are rational.
+
+Q.109. The relationship between natural numbers and whole numbers can be expressed as:
+Matriculation Level 29/07/2025 (Shift - 1)
+(a) All natural numbers are whole numbers
+(b) All whole numbers are natural numbers
+(c) Natural numbers and whole numbers are the same set
+(d) Natural numbers and whole numbers have no elements in common
+
+Q.110. Which of the following numbers is a perfect square?
+Matriculation Level 29/07/2025 (Shift - 1)
+(a) 1849 (b) 2056 (c) 3991 (d) 2507
+
+Q.111. Which of the following is not an integer ?
+Matriculation Level 30/07/2025 (Shift - 1)
+(a) (2³ − 2)/2 (b) √121 (c) 3/√3 (d) (7² − 1)/2
+
+Q.112. Which of the following pairs of number sets represent exactly the same collection of numbers ?
+Matriculation Level 30/07/2025 (Shift - 1)
+(a) Even natural numbers and positive multiples of 2
+(b) Whole numbers and negative integers
+(c) Prime numbers and composite numbers
+(d) Rational numbers and integers
+
+Q.113. What is the sum of 2 3/7 + 5 4/9 written as a mixed number in simplest form?
+Matriculation Level 30/07/2025 (Shift - 1)
+(a) 4 5/21 (b) 5 2/7 (c) 6 1/9 (d) 7 55/63
+
+Q.114. A wire measures 18(2/5) meters in length. It is divided into smaller pieces, each 1.6 meters long. How many complete pieces can be obtained, and what length of wire will be left unused ?
+Matriculation Level 30/07/2025 (Shift - 1)
+(a) 11 pieces, 0.8 m left (b) 15 pieces, 1.5 m left (c) 11 pieces, 0.75 m left (d) 13 pieces, 0.25 m left
+
+Q.115. Find the square root of 73441
+Matriculation Level 30/07/2025 (Shift - 1)
+(a) 271 (b) 272 (c) 265 (d) 268
+
+Q.116. What type of number is the sum of √5 and (3 - √5)?
+Matriculation Level 31/07/2025 (Shift - 1)
+(a) an irrational number (b) a rational number (c) neither rational nor irrational (d) cannot be determined
+
+Q.117. Which number is added in addition to the natural numbers to make the set of whole numbers larger than the natural numbers?
+Matriculation Level 01/08/2025 (Shift - 1)
+(a) 1 (b) - 1 (c) 0 (d) 1/2
+
+Q.118. What types of numbers can each point to the right of 0 on the number line represent ?
+Matriculation Level 01/08/2025 (Shift - 2)
+(a) Only natural numbers (b) Only positive integers (c) Positive real numbers (d) Only rational numbers
+
+Q.119. If we look at the set of Integers and the set of Irrational Numbers, what elements are found in common in both the sets?
+Matriculation Level 01/08/2025 (Shift - 3)
+(a) Only integers (b) Only irrational (c) real numbers (d) No number
+
+Q.120. How many two-digit numbers satisfy this property? The last digit (unit's digit) of the square of the two-digit number is 9.
+Matriculation Level 01/08/2025 (Shift - 3)
+(a) 12 (b) 14 (c) 15 (d) 18
+
+Q.121. If a number is irrational, it cannot be:
+Matriculation Level 02/08/2025 (Shift - 1)
+(a) rational (b) real (c) positive (d) negative
+
+Q.122. Which is the number group that includes all rational and irrational numbers?
+Matriculation Level 29/08/2025 (Shift - 3)
+(a) integer (b) real numbers (c) Natural numbers (d) whole numbers
+
+Q.123. Which of the following squares will end with the digit 4 ?
+Matriculation Level 29/08/2025 (Shift - 3)
+(a) 18² (b) 27² (c) 23² (d) 31²
+
+Q.124. Which of the following is a perfect square of an even number ?
+Higher Secondary 24/07/2025 (Shift - 2)
+(a) 625 (b) 225 (c) 289 (d) 256
+
+Q.125. Two numbers 89032 and 84179 are divided by a certain three-digit number and leave the same remainder. What is the sum of the digits of the divisor ?
+Higher Secondary 24/07/2025 (Shift - 2)
+(a) 5 (b) 4 (c) 6 (d) 7
+
+Q.126. Which of the following sets is a proper subset of the set of whole numbers ?
+Higher Secondary 24/07/2025 (Shift - 2)
+(a) Natural numbers (b) Integers (c) Rational numbers (d) Real numbers
+
+Q.127. Match the sets in Column I with their correct descriptions in Column II:
+Column I: A. Natural numbers (N), B. Integers (Z), C. Even numbers (E), D. Real numbers (R)
+Column II: 1. Only positive counting numbers, 2. All positive, negative numbers and zero, 3. The set of numbers divisible by 2, 4. The collection of all rational and irrational numbers
+Higher Secondary 24/07/2025 (Shift - 2)
+(a) A-1, B-2, C-3, D-4 (b) A-3, B-1, C-4, D-2 (c) A-4, B-3, C-1, D-2 (d) A-2, B-4, C-3, D-1
+
+Q.128. If x = √7 and y = 5 − √7, then which of the following is true ?
+Higher Secondary 25/07/2025 (Shift - 2)
+(a) x + y is irrational (b) x + y is rational (c) x − y is rational (d) x − y is integer
+
+Q.129. Consider the following two statements, labeled Assertion (A) and Reason (R). Evaluate them and choose the appropriate answer from the given options.
+Assertion (A): Every positive integer can be expressed uniquely as a product of powers of prime numbers.
+Reason (R): In the prime factorization of any integer, the prime numbers used and their respective powers are unique.
+Higher Secondary 25/07/2025 (Shift - 2)
+(a) Both A and R are true, and R is the correct explanation of A.
+(b) Both A and R are true, but R is not the correct explanation of A.
+(c) A is true, but R is false.
+(d) A is false, but R is true.
+
+===PAGE 8===
+Q.130. Which of the following numbers cannot be the square of a natural number?
+Higher Secondary 25/07/2025 (Shift - 2)
+(a) 35344 (b) 4225 (c) 1156 (d) 2118
+
+Q.131. What is the smallest positive integer such that its product with 180 is a perfect square ?
+Higher Secondary 25/07/2025 (Shift - 2)
+(a) 7 (b) 5 (c) 4 (d) 10
+
+Q.132. A student claims that the sum of two irrational numbers is always irrational. Which of the following pair of numbers disproves this claim ?
+Higher Secondary 26/07/2025 (Shift - 2)
+(a) √3 + √3 (b) √5 + √3 (c) π + √3 (d) √5 + (- √5)
+
+Q.133. Which of the following numbers is an integer but not natural ?
+Higher Secondary 26/07/2025 (Shift - 2)
+(a) 8 (b) –3 (c) 5 (d) 12
+
+Q.134. A positive number exceeds its square root by 210 . Find the number given that it is also a multiple of 15.
+Higher Secondary 28/07/2025 (Shift - 2)
+(a) 225 (b) 256 (c) 400 (d) 625
+
+Q.135. Given below are two statements marked as Assertion (A) and Reason (R). Read and mark the correct options:
+Assertion (A): The sum of any two even natural numbers is always even.
+Reason (R): If a number can be written as 2k, then it is even, and the sum of two even numbers can be written as 2(k₁ + k₂), which is even.
+Higher Secondary 28/07/2025 (Shift - 2)
+(a) Both A and R are true, and R is the correct explanation of A
+(b) Both A and R are true, but R is not the correct explanation of A
+(c) A is true, but R is false
+(d) A is false, but R is true
+
+Q.136. Which of the following relationship between the sets of integers(z), rational numbers(x), and real numbers(y) holds good?
+Higher Secondary 29/07/2025 (Shift - 2)
+(a) x ⊆ z ⊆ y (b) y ⊆ x ⊆ z (c) z ⊆ y ⊆ x (d) z ⊆ x ⊆ y
+
+Q.137. If a pipe of length √392 m is cut into 14 equal parts, what is the length of each part, and is it rational or irrational?
+Higher Secondary 30/07/2025 (Shift - 2)
+(a) Each part is 4 m irrational (b) Each part is √2 m irrational (c) Each part is 7 m rational (d) Each part is 11 m irrational
+
+Q.138. If p is a natural number, then p(p + 1)(p + 2)(p + 3) + 1 is always:
+Higher Secondary 30/07/2025 (Shift - 2)
+(a) A perfect cube (b) Not a perfect square (c) A perfect square (d) An odd number
+
+Q.139. The binary number 100010 in the decimal number system is equal to:
+Higher Secondary 30/07/2025 (Shift - 2)
+(a) 33 (b) 34 (c) 35 (d) 36
+
+Q.140. Which of the following is not a like surd?
+Higher Secondary 31/07/2025 (Shift - 2)
+(a) -2√15 (b) -3√7 (c) 5√37 (d) √25
+
+Q.141. The number of natural numbers between √80 and √800 is:
+Higher Secondary 31/07/2025 (Shift - 2)
+(a) 10 (b) 35 (c) 25 (d) 20
+
+Q.142. The number of digits in the square root of a perfect square containing 4n digits is:
+Higher Secondary 31/07/2025 (Shift - 2)
+(a) 2n (b) 2n - 1 (c) 2n + 1 (d) 4n
+
+Q.143. When the binary value 10110101 is added to 11001010, the resulting sum in decimal form is:
+Higher Secondary 31/07/2025 (Shift - 2)
+(a) 330 (b) 331 (c) 332 (d) 383
+
+Q.144. Consider the number √(- 49). Which of the following statements is true about the above number ?
+Higher Secondary 31/07/2025 (Shift - 2)
+(a) It represents a real number and is also an integer.
+(b) It does not belong to the set of real numbers but belongs to the set of complex numbers.
+(c) It is a real number though it is not an integer.
+(d) It is neither a real number nor a complex number.
+
+Q.145. Which of the following square roots is rational ?
+Higher Secondary 02/08/2025 (Shift - 2)
+(a) √144 (b) √125 (c) √51 (d) √200
+
+Q.146. Arrange the following numbers in ascending order: √2, ∛4, ∜7
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) ∜7 < √2 < ∛4 (b) ∜7 < ∛4 < √2 (c) ∛4 < √2 < ∜7 (d) ∛4 < ∜7 < √2
+
+Q.147. Which of the following numbers is a perfect square and a multiple of 5?
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) 225 (b) 250 (c) 215 (d) 125
+
+Q.148. Which of the following numbers is an integer?
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) 7.28318 (b) -15 (c) 5/3 (d) √15
+
+Q.149. The binary number 1111111 divided by 11 gives_____ in the decimal system.
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) 42.33 (b) 42.8 (c) 44.33 (d) 42.5
+
+Q.150. The unit digit of 11^203 is:
+Graduate Level 25/07/2025 (Shift - 3)
+(a) 5 (b) 2 (c) 0 (d) 1
+
+Q.151. What type of number is obtained when two irrational numbers are added ?
+Graduate Level 26/07/2025 (Shift - 3)
+(a) Always Rational (b) Always Irrational (c) Sometimes Rational, Sometimes Irrational (d) Always Integer
+
+Q.152. What is the sum of all three-digit numbers divisible by 8 ?
+Graduate Level 31/07/2025 (Shift - 3)
+(a) 61376 (b) 62707 (c) 62006 (d) 62407
+
+Q.153. Which is the most significant 4-digit number exactly divisible by 77 ?
+Graduate Level 02/08/2025 (Shift - 3)
+(a) 9999 (b) 9977 (c) 9960 (d) 9933

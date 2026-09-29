@@ -1,0 +1,3901 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-29",
+  "topicId": "hcf-lcm",
+  "topicName": "HCF and LCM",
+  "category": "Quantitative Aptitude",
+  "sourcePdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+  "isSample": false,
+  "questions": [
+    {
+      "id": "hcf-lcm-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the sum of all two-digit numbers divisible by both 3 and 5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "300"
+        },
+        {
+          "id": "B",
+          "text": "315"
+        },
+        {
+          "id": "C",
+          "text": "330"
+        },
+        {
+          "id": "D",
+          "text": "360"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM of (3 and 5) = 15. Two-digit multiples of 15: 15 to 90 (AP with a = 15, d = 15, n = 6). Sum = (n/2)(a + l) = (6/2)(15 + 90) = 315.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "24/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2b40fae9",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let a = 2^3 · 3^2 · 7 and b = 2^2 · 3 · 5^2. Which of the following is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "L.C.M(a, b) = 2^3 · 3^2 · 5^2 · 7"
+        },
+        {
+          "id": "B",
+          "text": "G.C.D(a, b) = 2^3 · 3^2"
+        },
+        {
+          "id": "C",
+          "text": "L.C.M(a, b) × G.C.D(a, b) = a + b"
+        },
+        {
+          "id": "D",
+          "text": "L.C.M(a, b) = G.C.D(a, b)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "L.C.M (a, b) = 2^3 · 3^2 · 5^2 · 7.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a7cd4771",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of x² - 8x + 15 and x² - 5x + 6 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x + 5) (x + 2) (x + 3)"
+        },
+        {
+          "id": "B",
+          "text": "(x - 5) (x - 2) (x - 3)"
+        },
+        {
+          "id": "C",
+          "text": "(x + 5) (x - 2) (x - 3)"
+        },
+        {
+          "id": "D",
+          "text": "(x - 2) (x - 3)^2 (x - 5)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "x² - 8x + 15 = (x - 5)(x - 3). x² - 5x + 6 = (x - 3)(x - 2). LCM = (x - 5)(x - 2)(x - 3).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4fad5a93",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0004",
+      "globalNumber": 4,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The greatest possible length that can be used to measure exactly the lengths of 3 m 15 cm, 5 m, and 6 m 85 cm is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 cm"
+        },
+        {
+          "id": "B",
+          "text": "7 cm"
+        },
+        {
+          "id": "C",
+          "text": "9 cm"
+        },
+        {
+          "id": "D",
+          "text": "5 cm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "3 m 15 cm = 315 cm, 5 m = 500 cm, 6 m 85 cm = 685 cm. HCF(315, 500, 685) = 5 cm.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 4
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-724659e8",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0005",
+      "globalNumber": 5,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the HCF of (x^6 + 1) and (x^4 - 1)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1 + x^2)"
+        },
+        {
+          "id": "B",
+          "text": "(1 + x)"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "(1 - x^2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "x^6 + 1 = (x^2 + 1)(x^4 - x^2 + 1). x^4 - 1 = (x^2 + 1)(x^2 - 1). HCF = (1 + x^2).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 5
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b6b4cb5d",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0006",
+      "globalNumber": 6,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of two prime numbers x and y (x > y) is 533. The value of 4y - x is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "23"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM of two prime numbers x, y is x × y = 533. 533 = 13 × 41. Since x > y, x = 41, y = 13. Value of 4y - x = 4(13) - 41 = 52 - 41 = 11.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 6
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ffba28ca",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0007",
+      "globalNumber": 7,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the HCF of the polynomials (x³ - 8), (x³ - 6x² + 12x - 8) and (x³ - 4x² + 4x)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x - 1)"
+        },
+        {
+          "id": "B",
+          "text": "(x - 2)"
+        },
+        {
+          "id": "C",
+          "text": "(x - 8)"
+        },
+        {
+          "id": "D",
+          "text": "(x - 4)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "(x³ - 8) = (x - 2)(x² + 2x + 4). (x³ - 6x² + 12x - 8) = (x - 2)³. (x³ - 4x² + 4x) = x(x - 2)². HCF = (x - 2).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 7
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-5899381e",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0008",
+      "globalNumber": 8,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Radha, Pratima and Reena begin to jog around a circular path and they complete their revolutions in 50 seconds, 75 seconds and 100 seconds, respectively. After how much time (in minutes) will they meet together at the starting point for the first time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Required time = LCM(50, 75, 100) = 300 seconds = 300/60 = 5 minutes.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 8
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8926a540",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0009",
+      "globalNumber": 9,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Sanjay wants to exactly measure the lengths 7000 mm, 3850 mm and 12950 mm using a single measuring tape. What will be the greatest possible length (in cm) of the measuring tape?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "45"
+        },
+        {
+          "id": "C",
+          "text": "35"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF of 7000 mm, 3850 mm, 12950 mm. HCF(7000, 3850, 12950) = 350 mm = 35 cm.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 9
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9024f727",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0010",
+      "globalNumber": 10,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Two tankers contain 850 litres and 680 litres of oil. Find the maximum capacity of a container which can measure the oil of both tankers when used, an exact number of times.",
+      "options": [
+        {
+          "id": "A",
+          "text": "425 litres"
+        },
+        {
+          "id": "B",
+          "text": "680 litres"
+        },
+        {
+          "id": "C",
+          "text": "340 litres"
+        },
+        {
+          "id": "D",
+          "text": "170 litres"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Maximum capacity = HCF(850, 680) = 170 litres.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 10
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8b4fd450",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0011",
+      "globalNumber": 11,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the greatest two digit number which on dividing 219, 365, 511 leaves the remainders 3, 5, 7, respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "63"
+        },
+        {
+          "id": "B",
+          "text": "82"
+        },
+        {
+          "id": "C",
+          "text": "53"
+        },
+        {
+          "id": "D",
+          "text": "72"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(219 - 3) = 216, (365 - 5) = 360, (511 - 7) = 504. HCF(216, 360, 504) = 72.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 11
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a3368b0a",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0012",
+      "globalNumber": 12,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Five bells commence tolling together and toll at intervals of 5, 10, 15, 20 and 25 seconds respectively. In 1 hour 20 minutes, how many times do they toll together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "14"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM(5, 10, 15, 20, 25) = 300 seconds. 1 hour 20 minutes = 80 minutes = 80 × 60 = 4800 seconds. Number of times = (4800 / 300) + 1 = 16 + 1 = 17 times.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 12
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ee1544bb",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0013",
+      "globalNumber": 13,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "There is a circular path around a sports field. Rahul takes 15 minutes to drive one round of the field, while Anil takes 18 minutes for the same. Suppose they both start from the same point and at the same time, and go in the same direction. After how many minutes will they meet again at the starting point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "80"
+        },
+        {
+          "id": "D",
+          "text": "90"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Meeting time = LCM(15, 18) = 90 minutes.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 13
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4842b0b2",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0014",
+      "globalNumber": 14,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let x = 224 and, y = 322. If the highest common factor of 23x and a × y is divisible by x and y, then what can be the possible value of a ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "x = 224 = 2^5 × 7. y = 322 = 2 × 7 × 23. 23x = 23 × 2^5 × 7. a × y = a × 2 × 7 × 23. For HCF to be divisible by x (2^5 × 7) and y (2 × 7 × 23), a must contribute factor 2^4 = 16.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 14
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ca17aebf",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0015",
+      "globalNumber": 15,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The highest common factor of 108, 72 and 5a is a. What can be the least common multiple of 108, 72 and a ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "432"
+        },
+        {
+          "id": "B",
+          "text": "324"
+        },
+        {
+          "id": "C",
+          "text": "108"
+        },
+        {
+          "id": "D",
+          "text": "216"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HCF of 108, 72, 5a is a. HCF(108, 72) = 36. Since HCF is a, a = 36. LCM(108, 72, 36) = 216.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 15
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d8534da2",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0016",
+      "globalNumber": 16,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the greatest positive integer that divides 554, 714 and 213 leaving the remainder 43, 57 and 67, respectively?",
+      "options": [
+        {
+          "id": "A",
+          "text": "95"
+        },
+        {
+          "id": "B",
+          "text": "71"
+        },
+        {
+          "id": "C",
+          "text": "83"
+        },
+        {
+          "id": "D",
+          "text": "73"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "554 - 43 = 511, 714 - 57 = 657, 213 - 67 = 146. HCF(511, 657, 146): 657 - 511 = 146 = 2 × 73. HCF = 73.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 16
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ad11c168",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0017",
+      "globalNumber": 17,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the HCF of (4^315 – 1) and (4^25 – 1).",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "(4^25 – 1)"
+        },
+        {
+          "id": "C",
+          "text": "1024"
+        },
+        {
+          "id": "D",
+          "text": "1023"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HCF of (a^m - 1) and (a^n - 1) is a^HCF(m, n) - 1. HCF(315, 25) = 5. So HCF = 4^5 - 1 = 1024 - 1 = 1023.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 17
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-097efa04",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0018",
+      "globalNumber": 18,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "120 apples, 240 oranges and 150 pears are packed in cartons in such a way that each carton has the same number of fruits, each carton contains only one type of fruit and fruit is left unpacked. What is the smallest possible number of cartons needed for the purpose ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "17"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF(120, 240, 150) = 30. Cartons = 120/30 + 240/30 + 150/30 = 4 + 8 + 5 = 17.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 18
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9bc60af7",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0019",
+      "globalNumber": 19,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The traffic lights at 3 different road crossings change after every 48 sec, 72 sec and 108 sec, respectively. If they all change simentionusly at 8 : 20 a.m., then at what will they next change again simultaneously?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 : 27 : 12 a.m."
+        },
+        {
+          "id": "B",
+          "text": "8 : 33 : 32 a.m."
+        },
+        {
+          "id": "C",
+          "text": "8 : 12 : 18 a.m."
+        },
+        {
+          "id": "D",
+          "text": "8 : 40 : 14 a.m."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(48, 72, 108) = 432 seconds = 7 minutes 12 seconds. Time = 8:20 a.m. + 7 min 12 sec = 8:27:12 a.m.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 19
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-42b1a061",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0020",
+      "globalNumber": 20,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "A and B are two prime numbers such that A > B and their LCM is 209. The value of A² - B is ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "350"
+        },
+        {
+          "id": "B",
+          "text": "372"
+        },
+        {
+          "id": "C",
+          "text": "361"
+        },
+        {
+          "id": "D",
+          "text": "339"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A × B = 209. Primes whose product is 209 are 19 and 11. Since A > B, A = 19, B = 11. A² - B = 19² - 11 = 361 - 11 = 350.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 20
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8ce2dbc8",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0021",
+      "globalNumber": 21,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "13, a, b, c are four distinct numbers and the HCF of each pair of numbers (13, a) : (13, b) : (13, c) is 13, where a, b, c are each less than 60 and a < b < c. What is the value of (a + c)/b ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.5"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "4.5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Since HCF(13, a) = HCF(13, b) = HCF(13, c) = 13 with numbers < 60 and a < b < c, the multiples of 13 under 60 are 26, 39, 52. So a = 26, b = 39, c = 52. (a + c)/b = (26 + 52)/39 = 78/39 = 2.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 21
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-55e0dc01",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0022",
+      "globalNumber": 22,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The sum of two numbers is 1215 and their HCF is 81. If the numbers lie between 500 and 700, then the sum of reciprocals of the numbers is",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/1512"
+        },
+        {
+          "id": "B",
+          "text": "5/378"
+        },
+        {
+          "id": "C",
+          "text": "5/702"
+        },
+        {
+          "id": "D",
+          "text": "5/1188"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Let numbers be 81x and 81y. 81(x + y) = 1215 => x + y = 15. Since numbers lie between 500 and 700, x = 8 and y = 7 (81×8=648, 81×7=567). Sum of reciprocals = 1/648 + 1/567 = (7 + 8)/(81 × 56) = 15 / (81 × 56) = 5 / 1512.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 22
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-cafc0b74",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0023",
+      "globalNumber": 23,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If r is the remainder when each of 6454, 7306 and 8797 is divided by the greatest number d (d > 1), then (d - r) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "126"
+        },
+        {
+          "id": "B",
+          "text": "64"
+        },
+        {
+          "id": "C",
+          "text": "137"
+        },
+        {
+          "id": "D",
+          "text": "149\n\n===PAGE 3==="
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "7306 - 6454 = 852, 8797 - 7306 = 1491. HCF(852, 1491) = 213. So d = 213. Remainder r when 6454 is divided by 213: 6454 = 30 × 213 + 64 => r = 64. d - r = 213 - 64 = 149.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 23
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4a069bdf",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0024",
+      "globalNumber": 24,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "In finding the HCF of two numbers by division method, the quotients are 1, 8 and 2 respectively, and the last divisor is 105, what is the sum of the numbers ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3570"
+        },
+        {
+          "id": "B",
+          "text": "3885"
+        },
+        {
+          "id": "C",
+          "text": "3780"
+        },
+        {
+          "id": "D",
+          "text": "3675"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Reverse division: Last divisor = 105, quotient = 2 => number = 105 × 2 = 210. Next number = 210 × 8 + 105 = 1785. Next number = 1785 × 1 + 210 = 1995. The two numbers are 1785 and 1995. Sum = 1785 + 1995 = 3780.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 24
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4e263f0b",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0025",
+      "globalNumber": 25,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "When the smallest number x is divided by 5, 6, 8, 9 and 12, it gives remainder 1 in each case. But x is divisible by 13. What will be the remainder when x will be divided by 31?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(5, 6, 8, 9, 12) = 360. Number x = 360k + 1. For x to be divisible by 13: 360k + 1 = 13(27k) + (9k + 1). For k = 10, 9(10) + 1 = 91 (divisible by 13). x = 360(10) + 1 = 3601. When 3601 is divided by 31: 3601 = 31 × 116 + 5 => Remainder = 5.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 25
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-bb20c87a",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0026",
+      "globalNumber": 26,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The Highest Common Factor and Lowest Common Multiple of two numbers p and q are A and B respectively. If A + B = p + q, then the value of A³ + B³ is :",
+      "options": [
+        {
+          "id": "A",
+          "text": "p³"
+        },
+        {
+          "id": "B",
+          "text": "q³"
+        },
+        {
+          "id": "C",
+          "text": "p³ + q³"
+        },
+        {
+          "id": "D",
+          "text": "p³ - q³"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF = A, LCM = B. A × B = pq. Given A + B = p + q. A³ + B³ = (A + B)³ - 3AB(A + B) = (p + q)³ - 3pq(p + q) = p³ + q³.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 26
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a5a2fe9c",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0027",
+      "globalNumber": 27,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the largest number that divides 460, 491 and 553 and leaves the remainder 26 in each case ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27"
+        },
+        {
+          "id": "B",
+          "text": "35"
+        },
+        {
+          "id": "C",
+          "text": "33"
+        },
+        {
+          "id": "D",
+          "text": "31"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "460 - 26 = 434, 491 - 26 = 465, 553 - 26 = 527. HCF(434, 465, 527) = 31.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 27
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-494ef56d",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0028",
+      "globalNumber": 28,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "A is the smallest three-digit number which when divided by 3, 4 and 5 gives remainder 1, 2 and 3 respectively. What is the sum of the digits of A ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "3 - 1 = 2, 4 - 2 = 2, 5 - 3 = 2. LCM(3, 4, 5) = 60. Number form = 60k - 2. For smallest 3-digit number, k = 2: A = 60(2) - 2 = 118. Sum of digits = 1 + 1 + 8 = 10.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 28
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-dfedbeba",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0029",
+      "globalNumber": 29,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The product of two numbers is 6760 and their HCF is 13. How many such pairs of numbers can be formed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Let numbers be 13x and 13y. 13x × 13y = 6760 => 169xy = 6760 => xy = 40. Co-prime pairs (x, y) = (1, 40) and (5, 8). There are 2 such pairs.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 29
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6dc2e6dd",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0030",
+      "globalNumber": 30,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "An oil merchant has 3 varieties of oil of volumes 432, 594 and 702 respectively. The number of cans of equal size that would be required to fill the oil separately is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "13, 15, 17"
+        },
+        {
+          "id": "B",
+          "text": "8, 11, 13"
+        },
+        {
+          "id": "C",
+          "text": "8, 13, 15"
+        },
+        {
+          "id": "D",
+          "text": "6, 9, 11"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF(432, 594, 702) = 54. Cans: 432/54 = 8, 594/54 = 11, 702/54 = 13.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 30
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ea013fd5",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0031",
+      "globalNumber": 31,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following statements is true ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "LCM of two natural numbers is divisible by their HCF."
+        },
+        {
+          "id": "B",
+          "text": "HCF + LCM of two numbers = Product of the two numbers."
+        },
+        {
+          "id": "C",
+          "text": "Two prime numbers are co-prime numbers if their LCM is 1."
+        },
+        {
+          "id": "D",
+          "text": "HCF of two numbers is the smallest common divisor of both numbers."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM of two natural numbers is always divisible by their HCF.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 31
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-fe730e8f",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0032",
+      "globalNumber": 32,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "How many numbers between 400 and 700 are divisible by 5, 6 and 7 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(5, 6, 7) = 210. Multiples of 210 between 400 and 700 are 420 and 630. There are 2 numbers.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 32
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6e54591d",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0033",
+      "globalNumber": 33,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If r is the remainder when each of 4749, 5601 and 7092 is divided by the greatest possible number d (＞1), then the value of (d + r) will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "276"
+        },
+        {
+          "id": "B",
+          "text": "271"
+        },
+        {
+          "id": "C",
+          "text": "298"
+        },
+        {
+          "id": "D",
+          "text": "282"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "5601 - 4749 = 852, 7092 - 5601 = 1491. Difference = 1491 - 852 = 639 = 3 × 213. Divisor d = 213. Remainder r: 4749 = 22 × 213 + 63 => r = 63. d + r = 213 + 63 = 276.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 33
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b6899048",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0034",
+      "globalNumber": 34,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let x be the least 4-digit number which when divided by 2, 3, 4, 5, 6 and 7 leaves a remainder of 1 in each case. If x lies between 2800 and 3000, then what is the sum of digits of x ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(2, 3, 4, 5, 6, 7) = 420. Multiples of 420 between 2800 and 3000: 420 × 7 = 2940. x = 2940 + 1 = 2941. Sum of digits = 2 + 9 + 4 + 1 = 16.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 34
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9e56e946",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0035",
+      "globalNumber": 35,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let x be the least number which when divided by 15, 18, 20 and 27, the remainder in each case is 10 and x is a multiple of 31. What least number should be added to x to make it a perfect square ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "39"
+        },
+        {
+          "id": "B",
+          "text": "37"
+        },
+        {
+          "id": "C",
+          "text": "43"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(15, 18, 20, 27) = 540. x = 540k + 10. For x to be a multiple of 31: 540k + 10 = 31(17k) + (13k + 10). For k = 4, 13(4) + 10 = 62 (divisible by 31). x = 540(4) + 10 = 2170. Next perfect square > 2170 is 47² = 2209. Number to add = 2209 - 2170 = 39.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 35
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6de9c058",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0036",
+      "globalNumber": 36,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "When 12, 16, 18, 20 and 25 divide the least number x, the remainder in each case is 4 but x is divisible by 7. What is the digit at the thousands’ place in x ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(12, 16, 18, 20, 25) = 3600. x = 3600k + 4. For x to be divisible by 7: 3600k + 4 = 7(514k) + (2k + 4). For k = 5, 2(5) + 4 = 14 (divisible by 7). x = 3600(5) + 4 = 18004. Digit at thousands' place is 8.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 36
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7bdae8e1",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0037",
+      "globalNumber": 37,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "When 6892, 7105 and 7531 are divided by the greatest number x, then the remainder in each case is y. What is the value of (x - y) ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "123"
+        },
+        {
+          "id": "B",
+          "text": "137"
+        },
+        {
+          "id": "C",
+          "text": "147"
+        },
+        {
+          "id": "D",
+          "text": "113"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "7105 - 6892 = 213, 7531 - 7105 = 426 = 2 × 213. Greatest number x = 213. Remainder y: 6892 = 32 × 213 + 76 => y = 76. x - y = 213 - 76 = 137.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 37
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-548f1573",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0038",
+      "globalNumber": 38,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let x be the greatest number which when divides 6475, 4984 and 4132, the remainder in each case is the same. What is the sum of digits of x ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6\n\nExamination wise Questions\nSSC CGL 2025 Tier - 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "6475 - 4984 = 1491, 4984 - 4132 = 852. HCF(1491, 852) = 213. Sum of digits of x = 2 + 1 + 3 = 6.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 38
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4be4ac98",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0039",
+      "globalNumber": 39,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the least square number that is divisible by 6, 9, and 15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1800"
+        },
+        {
+          "id": "B",
+          "text": "900"
+        },
+        {
+          "id": "C",
+          "text": "400"
+        },
+        {
+          "id": "D",
+          "text": "1600"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(6, 9, 15) = 90 = 2 × 3² × 5. To make it a square, multiply by 2 × 5 = 10 => 90 × 10 = 900.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "26/09/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 39
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0d929714",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0040",
+      "globalNumber": 40,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the least square number that is exactly divisible by 3, 5, 12, and 15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3600"
+        },
+        {
+          "id": "B",
+          "text": "2304"
+        },
+        {
+          "id": "C",
+          "text": "3364"
+        },
+        {
+          "id": "D",
+          "text": "4489\n\nSSC Selection Post (XIII)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(3, 5, 12, 15) = 60 = 2² × 3 × 5. To make it a square, multiply by 3 × 5 = 15 => 60 × 60 = 3600.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "14/10/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 40
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9c3cc2ac",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0041",
+      "globalNumber": 41,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Raman and Rakesh start jogging in a park at the same time and from the same point. Raman takes 10 minutes to complete one round, and Rakesh takes 15 minutes. After how many minutes will they meet again at the starting point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30 minute"
+        },
+        {
+          "id": "B",
+          "text": "40 minute"
+        },
+        {
+          "id": "C",
+          "text": "60 minute"
+        },
+        {
+          "id": "D",
+          "text": "80 minute"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Meeting time = LCM(10, 15) = 30 minutes.",
+      "exam": {
+        "name": "SSC Selection Post (Higher Secondary)",
+        "year": 2025,
+        "shift": "Shift 2",
+        "date": "29/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 41
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ca7908f1",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0042",
+      "globalNumber": 42,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the least number which leaves remainder 4 when divided by 6, 9, and 10.",
+      "options": [
+        {
+          "id": "A",
+          "text": "90"
+        },
+        {
+          "id": "B",
+          "text": "94"
+        },
+        {
+          "id": "C",
+          "text": "85"
+        },
+        {
+          "id": "D",
+          "text": "75"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(6, 9, 10) = 90. Required number = 90 + 4 = 94.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 3",
+        "date": "29/07/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 42
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6e9e00fc",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0043",
+      "globalNumber": 43,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the smallest number that, when divided by 3, 4, 5, 6, and 8 leaves the remainder 4?",
+      "options": [
+        {
+          "id": "A",
+          "text": "124"
+        },
+        {
+          "id": "B",
+          "text": "120"
+        },
+        {
+          "id": "C",
+          "text": "128"
+        },
+        {
+          "id": "D",
+          "text": "240\n\neduquity-based pattern (ebp) Questions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(3, 4, 5, 6, 8) = 120. Required number = 120 + 4 = 124.",
+      "exam": {
+        "name": "SSC Selection Post (Graduate Level)",
+        "year": 2025,
+        "shift": "Shift 1",
+        "date": "29/08/2025"
+      },
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 43
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-fcc6b1f4",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0044",
+      "globalNumber": 44,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "A milk vendor has 75 litres of cow milk, 45 litres of toned milk and 30 litres of full cream milk. These should be placed in different trays such that each tray contains the same quantity of milk and two kinds of milk should not be mixed in a tray. What is the least number of trays required to place all the milk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF(75, 45, 30) = 15 litres per tray. Trays = 75/15 + 45/15 + 30/15 = 5 + 3 + 2 = 10 trays.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 44
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0476d145",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0045",
+      "globalNumber": 45,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Three numbers are in the ratio 5 : 7 : 9, and their LCM is 1260. What is the difference between the largest and the smallest number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Numbers are 5x, 7x, 9x. LCM = (5 × 7 × 9)x = 315x = 1260 => x = 4. Difference = 9x - 5x = 4x = 4(4) = 16.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 45
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c948f3fe",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0046",
+      "globalNumber": 46,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Three red lights on the same road start blinking at the same time and blink repeatedly after every 4, 6 and 8 minutes, respectively. How many times will they blink together in an interval of 3 hours, excluding blinking together at the starting moment ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(4, 6, 8) = 24 minutes. 3 hours = 180 minutes. Times blinking together = 180 / 24 = 7.5 => 7 times.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 46
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-85568ce8",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0047",
+      "globalNumber": 47,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "As part of the partial work from home process, Amita went to office every 2nd day, Amrita went to office every 3rd day, and Tosita went to office every 6th day, respectively. All three went to office on 31 October 2021. On how many days did all three attend office on the same date during the remaining two months of the year ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(2, 3, 6) = 6 days. Remaining two months (Nov + Dec) = 30 + 31 = 61 days. Number of times = 61 / 6 = 10 times.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 47
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-585c5fea",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0048",
+      "globalNumber": 48,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the least number which when divided by 20, 25, 35 and 40 leaves remainders 14, 19, 29 and 34, respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1284"
+        },
+        {
+          "id": "B",
+          "text": "1294"
+        },
+        {
+          "id": "C",
+          "text": "1384"
+        },
+        {
+          "id": "D",
+          "text": "1394"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "20 - 14 = 6, 25 - 19 = 6, 35 - 29 = 6, 40 - 34 = 6. LCM(20, 25, 35, 40) = 1400. Required number = 1400 - 6 = 1394.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 48
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-71fc294b",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0049",
+      "globalNumber": 49,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If two positive integers x and y are written as x = a²b³ and y = a³b; and a and b are prime numbers, then HCF (x, y) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ab²"
+        },
+        {
+          "id": "B",
+          "text": "a²b²"
+        },
+        {
+          "id": "C",
+          "text": "ab"
+        },
+        {
+          "id": "D",
+          "text": "a²b"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "x = a²b³, y = a³b. HCF(x, y) = a^(min(2,3)) b^(min(3,1)) = a²b.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 49
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-9f736795",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0050",
+      "globalNumber": 50,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "x, y and z are divisible by 2, 3 and 4, respectively. What is the highest common factor (HCF) of 6x, 4y and 3z ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At least 36"
+        },
+        {
+          "id": "B",
+          "text": "At least 12"
+        },
+        {
+          "id": "C",
+          "text": "At least 18"
+        },
+        {
+          "id": "D",
+          "text": "At least 16"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "x = 2k => 6x = 12k. y = 3m => 4y = 12m. z = 4n => 3z = 12n. Each is a multiple of 12. HCF is at least 12.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 50
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8823e281",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0051",
+      "globalNumber": 51,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the HCF of: 3³ × 11², 2⁴ × 3² × 5³ × 11³ and 3 × 5 × 7 × 11.",
+      "options": [
+        {
+          "id": "A",
+          "text": "385"
+        },
+        {
+          "id": "B",
+          "text": "1815"
+        },
+        {
+          "id": "C",
+          "text": "33"
+        },
+        {
+          "id": "D",
+          "text": "165\n\n===PAGE 4==="
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF = 3^1 × 11^1 = 33.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 51
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-89f82699",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0052",
+      "globalNumber": 52,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Two numbers are in the ratio of 7 : 9 and their LCM is 630. Find the numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "56, 72"
+        },
+        {
+          "id": "B",
+          "text": "77, 99"
+        },
+        {
+          "id": "C",
+          "text": "70, 90"
+        },
+        {
+          "id": "D",
+          "text": "63, 81"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Numbers are 7x and 9x. LCM = 63x = 630 => x = 10. Numbers are 70 and 90.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 52
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-85ccddab",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0053",
+      "globalNumber": 53,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If the HCF of 156 and 96 is expressible in the form of 156 × 12 + 96A, then the value of A is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-19.735"
+        },
+        {
+          "id": "B",
+          "text": "19.735"
+        },
+        {
+          "id": "C",
+          "text": "-19.375"
+        },
+        {
+          "id": "D",
+          "text": "19.375"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF(156, 96) = 12. 156 × 12 + 96A = 12 => 1872 + 96A = 12 => 96A = -1860 => A = -19.375.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 53
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-28b1f827",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0054",
+      "globalNumber": 54,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The HCF of 1.75, 5.6 and 7 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.35"
+        },
+        {
+          "id": "B",
+          "text": "3.5"
+        },
+        {
+          "id": "C",
+          "text": "0.07"
+        },
+        {
+          "id": "D",
+          "text": "0.7"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Numbers: 175/100, 560/100, 700/100. HCF = HCF(175, 560, 700)/LCM(100, 100, 100) = 35/100 = 0.35.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 54
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d71063fa",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0055",
+      "globalNumber": 55,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of x³ - 27, x² - x - 6, x + 2 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x - 3) (x + 2) (x² - 3x + 9)"
+        },
+        {
+          "id": "B",
+          "text": "(x + 3) (x + 2) (x² - 3x + 9)"
+        },
+        {
+          "id": "C",
+          "text": "(x - 3) (x + 2) (x² + 3x - 9)"
+        },
+        {
+          "id": "D",
+          "text": "(x - 3) (x + 2) (x² + 3x + 9)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "x³ - 27 = (x - 3)(x² + 3x + 9). x² - x - 6 = (x - 3)(x + 2). x + 2 = (x + 2). LCM = (x - 3)(x + 2)(x² + 3x + 9).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 55
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-71601e41",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0056",
+      "globalNumber": 56,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The product of LCM and HCF of two numbers is 24. If the difference between the two numbers is 2, then find the numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 and 3"
+        },
+        {
+          "id": "B",
+          "text": "6 and 4"
+        },
+        {
+          "id": "C",
+          "text": "2 and 4"
+        },
+        {
+          "id": "D",
+          "text": "8 and 6"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Product = 24, difference = 2. Numbers are 6 and 4 (since 6 × 4 = 24 and 6 - 4 = 2).",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 56
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a2c40eb4",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0057",
+      "globalNumber": 57,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of 1/6, 4/15, 5/9, 7/27, 8/3 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "92 1/3"
+        },
+        {
+          "id": "B",
+          "text": "93 2/3"
+        },
+        {
+          "id": "C",
+          "text": "93 1/3"
+        },
+        {
+          "id": "D",
+          "text": "92 2/3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM of numerators (1, 4, 5, 7, 8) = 280. HCF of denominators (6, 15, 9, 27, 3) = 3. LCM = 280/3 = 93 1/3.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 57
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-d52da332",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0058",
+      "globalNumber": 58,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The largest number of four digits that is exactly divisible by 17 and 36 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8568"
+        },
+        {
+          "id": "B",
+          "text": "9180"
+        },
+        {
+          "id": "C",
+          "text": "9792"
+        },
+        {
+          "id": "D",
+          "text": "7956"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(17, 36) = 612. Largest 4-digit number = 9999. 9999 / 612 gives remainder 207. 9999 - 207 = 9792.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 58
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-85b86f27",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0059",
+      "globalNumber": 59,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Two numbers are in the ratio 3 : 4. The product of their HCF and LCM is 2700. The sum of the numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45"
+        },
+        {
+          "id": "B",
+          "text": "105"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Let numbers be 3x and 4x. HCF × LCM = Product = 12x² = 2700 => x² = 225 => x = 15. Sum = 3(15) + 4(15) = 105.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 59
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4c187e81",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0060",
+      "globalNumber": 60,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the greatest number which when divides 261, 853 and 1221, leaves a remainder of 5 in each case.",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "19"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "261 - 5 = 256, 853 - 5 = 848, 1221 - 5 = 1216. HCF(256, 848, 1216) = 16.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 60
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2e004116",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0061",
+      "globalNumber": 61,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the LCM of 3/2, 81/16 and 9/8.",
+      "options": [
+        {
+          "id": "A",
+          "text": "111/2"
+        },
+        {
+          "id": "B",
+          "text": "91/2"
+        },
+        {
+          "id": "C",
+          "text": "81/2"
+        },
+        {
+          "id": "D",
+          "text": "101/2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM of numerators (3, 81, 9) = 81. HCF of denominators (2, 16, 8) = 2. LCM = 81/2.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 61
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f7a3297c",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0062",
+      "globalNumber": 62,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the greatest possible length (in metres) that can be used to exactly measure the lengths 6 m, 5 m 25 cm and 12 m 50 cm.",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.35 m"
+        },
+        {
+          "id": "B",
+          "text": "0.90 m"
+        },
+        {
+          "id": "C",
+          "text": "0.75 m"
+        },
+        {
+          "id": "D",
+          "text": "0.25 m"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "6 m = 600 cm, 5 m 25 cm = 525 cm, 12 m 50 cm = 1250 cm. HCF(600, 525, 1250) = 25 cm = 0.25 m.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 62
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-29ef6aef",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0063",
+      "globalNumber": 63,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The least number which should be added to 1351 so that the sum is exactly divisible by 2, 4, 6 and 8 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "13"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM(2, 4, 6, 8) = 24. 1351 / 24 gives remainder 7. Number to add = 24 - 7 = 17.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 63
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2a63077a",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0064",
+      "globalNumber": 64,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Let the HCF of m and n be 'a' and let n = ab, LCM of m and n is given by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "ab"
+        },
+        {
+          "id": "B",
+          "text": "am"
+        },
+        {
+          "id": "C",
+          "text": "bm"
+        },
+        {
+          "id": "D",
+          "text": "mn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF(m, n) = a, n = ab. LCM × HCF = m × n => LCM × a = m × (ab) => LCM = mb.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 64
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c2c915da",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0065",
+      "globalNumber": 65,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM and HCF of two numbers are 1105 and 5. If the LCM is 17 times the first number, then find the two numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "55 and 85"
+        },
+        {
+          "id": "B",
+          "text": "65 and 75"
+        },
+        {
+          "id": "C",
+          "text": "60 and 80"
+        },
+        {
+          "id": "D",
+          "text": "65 and 85"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM = 1105, HCF = 5. LCM = 17 × first number => first number = 1105 / 17 = 65. Second number = (1105 × 5) / 65 = 85. Numbers are 65 and 85.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 65
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2357b721",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0066",
+      "globalNumber": 66,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If the HCF of 45 and 55 is expressible in the form of 55 × 5 + 45m, then what is the value of m ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "–6"
+        },
+        {
+          "id": "C",
+          "text": "–5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF(45, 55) = 5. 55 × 5 + 45m = 5 => 275 + 45m = 5 => 45m = -270 => m = -6.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 66
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f9c8f941",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0067",
+      "globalNumber": 67,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the least number which when divided by 4, 9, 12 and 15, leaves the remainder 3 in each case.",
+      "options": [
+        {
+          "id": "A",
+          "text": "193"
+        },
+        {
+          "id": "B",
+          "text": "183"
+        },
+        {
+          "id": "C",
+          "text": "360"
+        },
+        {
+          "id": "D",
+          "text": "180"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(4, 9, 12, 15) = 180. Required number = 180 + 3 = 183.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 67
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7c7fdd8c",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0068",
+      "globalNumber": 68,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Determine the LCM of two numbers if their HCF is 12 and their ratio is 13 : 15.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2450"
+        },
+        {
+          "id": "B",
+          "text": "1780"
+        },
+        {
+          "id": "C",
+          "text": "1890"
+        },
+        {
+          "id": "D",
+          "text": "2340"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ratio = 13 : 15, HCF = 12. Numbers are 13 × 12 = 156 and 15 × 12 = 180. LCM = 12 × 13 × 15 = 2340.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 68
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0dff6585",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0069",
+      "globalNumber": 69,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which of the following numbers leaves the remainder equal to the highest common factor of 6, 8 and 9, when divided by 6, 8 and 9 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "506"
+        },
+        {
+          "id": "B",
+          "text": "575"
+        },
+        {
+          "id": "C",
+          "text": "291"
+        },
+        {
+          "id": "D",
+          "text": "433"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HCF(6, 8, 9) = 1. LCM(6, 8, 9) = 72. Number form = 72k + 1. For k = 6, 72(6) + 1 = 433.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 69
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-8f2cb398",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0070",
+      "globalNumber": 70,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the least number which is exactly divisible by 20, 28, 34, 60 and 75.",
+      "options": [
+        {
+          "id": "A",
+          "text": "34500"
+        },
+        {
+          "id": "B",
+          "text": "35900"
+        },
+        {
+          "id": "C",
+          "text": "35700"
+        },
+        {
+          "id": "D",
+          "text": "36220"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(20, 28, 34, 60, 75) = 35700.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 70
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f69d6718",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0071",
+      "globalNumber": 71,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Which is the largest number that divides each of 1036, 1813 and 3885 without leaving any remainder ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "259"
+        },
+        {
+          "id": "B",
+          "text": "111"
+        },
+        {
+          "id": "C",
+          "text": "333"
+        },
+        {
+          "id": "D",
+          "text": "37"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HCF(1036, 1813, 3885) = 259.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 71
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-63f034c0",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0072",
+      "globalNumber": 72,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the LCM of 0.15, 0.18 and 0.45 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.6"
+        },
+        {
+          "id": "B",
+          "text": "0.9"
+        },
+        {
+          "id": "C",
+          "text": "0.81"
+        },
+        {
+          "id": "D",
+          "text": "0.09"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "0.15 = 15/100, 0.18 = 18/100, 0.45 = 45/100. LCM = LCM(15, 18, 45)/100 = 90/100 = 0.9.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 72
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-24338aae",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0073",
+      "globalNumber": 73,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will be the least number which when doubled will be exactly divisible by 12, 14, 16 and 18 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "636"
+        },
+        {
+          "id": "B",
+          "text": "226"
+        },
+        {
+          "id": "C",
+          "text": "428"
+        },
+        {
+          "id": "D",
+          "text": "504"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM(12, 14, 16, 18) = 1008. Number doubled = 1008 => Number = 1008 / 2 = 504.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 73
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-df0bb919",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0074",
+      "globalNumber": 74,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of two numbers is five times their HCF. If the product of the two numbers is 20480, then find their HCF and LCM, respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "64 and 320"
+        },
+        {
+          "id": "B",
+          "text": "56 and 280"
+        },
+        {
+          "id": "C",
+          "text": "48 and 240"
+        },
+        {
+          "id": "D",
+          "text": "46 and 230"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM = 5 × HCF. Product = HCF × LCM = 5 × HCF² = 20480 => HCF² = 4096 => HCF = 64. LCM = 5 × 64 = 320.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 74
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f180e016",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0075",
+      "globalNumber": 75,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If the sum of two numbers is 60 and their HCF and LCM are 5 and 60, respectively, then the sum of the reciprocals of the numbers will be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/4"
+        },
+        {
+          "id": "B",
+          "text": "1/5"
+        },
+        {
+          "id": "C",
+          "text": "1/11"
+        },
+        {
+          "id": "D",
+          "text": "1/6"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "a + b = 60, ab = HCF × LCM = 5 × 60 = 300. Sum of reciprocals = (a + b)/ab = 60/300 = 1/5.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 75
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-71964d30",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0076",
+      "globalNumber": 76,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The least number of five digits which is exactly divisible by 9, 12, 15, 25 and 27 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10250"
+        },
+        {
+          "id": "B",
+          "text": "10800"
+        },
+        {
+          "id": "C",
+          "text": "10600"
+        },
+        {
+          "id": "D",
+          "text": "10700"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(9, 12, 15, 25, 27) = 2700. Smallest 5-digit multiple of 2700 = 2700 × 4 = 10800.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 76
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-55973e0f",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0077",
+      "globalNumber": 77,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the largest number that divides 627, 15630 and 3128 and leaves remainders of 2, 5 and 3, respectively?",
+      "options": [
+        {
+          "id": "A",
+          "text": "775"
+        },
+        {
+          "id": "B",
+          "text": "650"
+        },
+        {
+          "id": "C",
+          "text": "625"
+        },
+        {
+          "id": "D",
+          "text": "1225"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "627 - 2 = 625, 15630 - 5 = 15625, 3128 - 3 = 3125. HCF(625, 15625, 3125) = 625.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 77
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-a9742575",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0078",
+      "globalNumber": 78,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The HCF of three numbers is 57. If they are in the ratio of 4 : 5 : 6, then find the numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "228, 285, 342"
+        },
+        {
+          "id": "B",
+          "text": "236, 295, 354"
+        },
+        {
+          "id": "C",
+          "text": "240, 300, 360"
+        },
+        {
+          "id": "D",
+          "text": "232, 290, 348"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ratio = 4 : 5 : 6, HCF = 57. Numbers = 4 × 57 = 228, 5 × 57 = 285, 6 × 57 = 342.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 78
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-96707de3",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0079",
+      "globalNumber": 79,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Three numbers are in the ratio 3 : 5 : 7. If their LCM is 2625, find their HCF.",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "125"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Let numbers be 3x, 5x, 7x. LCM = 105x = 2625 => x = 25. HCF = 25.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 79
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7564ee69",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0080",
+      "globalNumber": 80,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The largest three-digit number which gives the same remainder 2 when divided by 3, 5 and 9 is ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "980"
+        },
+        {
+          "id": "B",
+          "text": "992"
+        },
+        {
+          "id": "C",
+          "text": "995"
+        },
+        {
+          "id": "D",
+          "text": "990"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(3, 5, 9) = 45. Largest 3-digit number = 999. 999 / 45 = 22 remainder 9. 999 - 9 + 2 = 992.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 80
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-21d04fec",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0081",
+      "globalNumber": 81,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The HCF of two numbers is 12. Which of the following can never be their LCM ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "74"
+        },
+        {
+          "id": "C",
+          "text": "48"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF must divide LCM. 74 is not divisible by 12, so 74 can never be the LCM.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 81
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f292a56e",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0082",
+      "globalNumber": 82,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "111"
+        },
+        {
+          "id": "B",
+          "text": "74"
+        },
+        {
+          "id": "C",
+          "text": "185"
+        },
+        {
+          "id": "D",
+          "text": "37"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Product = 4107, HCF = 37. Product of co-prime ratios xy = 4107 / (37²) = 3. Pairs = (1, 3). Greater number = 37 × 3 = 111.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 82
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-572b9d5e",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0083",
+      "globalNumber": 83,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The LCM of the two numbers is 1440 and their HCF is 32. If the first number is 288, then find the second number.",
+      "options": [
+        {
+          "id": "A",
+          "text": "150"
+        },
+        {
+          "id": "B",
+          "text": "145"
+        },
+        {
+          "id": "C",
+          "text": "180"
+        },
+        {
+          "id": "D",
+          "text": "160"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "1st × 2nd = LCM × HCF => 288 × 2nd = 1440 × 32 => 2nd = 160.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 83
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-46867fff",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0084",
+      "globalNumber": 84,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the greatest three-digit number which when divided by 4, 8 and 9, leaves no remainder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "924"
+        },
+        {
+          "id": "B",
+          "text": "963"
+        },
+        {
+          "id": "C",
+          "text": "932"
+        },
+        {
+          "id": "D",
+          "text": "936"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM(4, 8, 9) = 72. 999 / 72 gives remainder 63. 999 - 63 = 936.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 84
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-df75919f",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0085",
+      "globalNumber": 85,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the smallest three digit number which when added to 5 is exactly divisible by 12, 14 and 18.",
+      "options": [
+        {
+          "id": "A",
+          "text": "240"
+        },
+        {
+          "id": "B",
+          "text": "225"
+        },
+        {
+          "id": "C",
+          "text": "245"
+        },
+        {
+          "id": "D",
+          "text": "247"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "LCM(12, 14, 18) = 252. Smallest 3-digit number added to 5 = 252 => Number = 252 - 5 = 247.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 85
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-e43632ad",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0086",
+      "globalNumber": 86,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The ratio of two numbers is 3 : 4. If the sum of these two numbers is 70, then what is their LCM ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120"
+        },
+        {
+          "id": "B",
+          "text": "96"
+        },
+        {
+          "id": "C",
+          "text": "108"
+        },
+        {
+          "id": "D",
+          "text": "84"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Numbers = 3x, 4x. 3x + 4x = 70 => 7x = 70 => x = 10. Numbers are 30 and 40. LCM(30, 40) = 120.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 86
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4dfad628",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0087",
+      "globalNumber": 87,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Find the least number divisible by 2, 3, 5, 6, 9 and 18, which is a perfect square.",
+      "options": [
+        {
+          "id": "A",
+          "text": "900"
+        },
+        {
+          "id": "B",
+          "text": "400"
+        },
+        {
+          "id": "C",
+          "text": "144"
+        },
+        {
+          "id": "D",
+          "text": "3600"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(2, 3, 5, 6, 9, 18) = 90 = 2 × 3² × 5. To make it a square, multiply by 2 × 5 = 10 => 90 × 10 = 900.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 87
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6aed8f84",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0088",
+      "globalNumber": 88,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The smallest six-digit number which is divisible by 12, 16, 24, 28 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "100128"
+        },
+        {
+          "id": "B",
+          "text": "100190"
+        },
+        {
+          "id": "C",
+          "text": "100180"
+        },
+        {
+          "id": "D",
+          "text": "100160"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "LCM(12, 16, 24, 28) = 336. Smallest 6-digit number = 100000. 100000 / 336 gives remainder 208. 100000 + (336 - 208) = 100128.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 88
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f1e1b247",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0089",
+      "globalNumber": 89,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The HCF of two numbers is one-twentieth of their LCM. If one of the numbers is 96 and the difference of the LCM and the HCF is 456, then what is the other number ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "48"
+        },
+        {
+          "id": "B",
+          "text": "120"
+        },
+        {
+          "id": "C",
+          "text": "144"
+        },
+        {
+          "id": "D",
+          "text": "72"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Let LCM = 20u, HCF = 1u. Difference = 19u = 456 => u = 24. LCM = 480, HCF = 24. Product = 480 × 24 = 96 × other => other = 120.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 89
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-92ebdf94",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0090",
+      "globalNumber": 90,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the HCF of two prime numbers X and Y ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "Y"
+        },
+        {
+          "id": "D",
+          "text": "X\n\n===PAGE 5==="
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The HCF of any two distinct prime numbers is always 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 90
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-1054360d",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0091",
+      "globalNumber": 91,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is that least number that should be added to 478 so that the number obtained becomes exactly divisible by 5, 6 and 12 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "62"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(5, 6, 12) = 60. 478 / 60 gives remainder 58. Number to add = 60 - 58 = 2.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 91
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-4130b7f3",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0092",
+      "globalNumber": 92,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The product of two co-prime numbers is 483. Find the Least Common Multiple of both numbers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "483"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "23"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "For co-prime numbers, HCF = 1. LCM × HCF = Product => LCM = Product = 483.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 92
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-09dee963",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0093",
+      "globalNumber": 93,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is that least perfect square which is exactly divisible by each of 14, 84 and 28 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7056"
+        },
+        {
+          "id": "B",
+          "text": "3528"
+        },
+        {
+          "id": "C",
+          "text": "1764"
+        },
+        {
+          "id": "D",
+          "text": "441"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "14 = 2 × 7, 84 = 2² × 3 × 7, 28 = 2² × 7. LCM = 2² × 3 × 7 = 84. Perfect square multiple = 2² × 3² × 7² = 1764.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 93
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-fdfabc30",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0094",
+      "globalNumber": 94,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The greatest number which when divides 456 and 553 leaves the remainder as 6 and 3 respectively is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "456 - 6 = 450, 553 - 3 = 550. HCF(450, 550) = 50.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 94
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-c76082b3",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0095",
+      "globalNumber": 95,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The least number which when divided by 14, 18 and 36 and leaves 1 as remainder in each case is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "250"
+        },
+        {
+          "id": "B",
+          "text": "252"
+        },
+        {
+          "id": "C",
+          "text": "253"
+        },
+        {
+          "id": "D",
+          "text": "251"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(14, 18, 36) = 252. Required number = 252 + 1 = 253.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 95
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2679af70",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0096",
+      "globalNumber": 96,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What will be the ratio of the Least Common Multiple and Highest Common Factor of 12, 24 and 36 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 1"
+        },
+        {
+          "id": "B",
+          "text": "4 : 1"
+        },
+        {
+          "id": "C",
+          "text": "6 : 1"
+        },
+        {
+          "id": "D",
+          "text": "2 : 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(12, 24, 36) = 72. HCF(12, 24, 36) = 12. Ratio = 72 : 12 = 6 : 1.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 96
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-0e7c032d",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0097",
+      "globalNumber": 97,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the least number of students in a class such that they can make rows of 10, 15 and 20 and also the total number of students is a perfect square?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6400"
+        },
+        {
+          "id": "B",
+          "text": "1600"
+        },
+        {
+          "id": "C",
+          "text": "900"
+        },
+        {
+          "id": "D",
+          "text": "1800"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "LCM(10, 15, 20) = 60 = 2² × 3 × 5. Smallest square multiple = 60 × (3 × 5) = 900.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 97
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-7d046f43",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0098",
+      "globalNumber": 98,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the HCF of 513 and 1017 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "513 = 9 × 57, 1017 = 9 × 113. HCF = 9.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 98
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-b798c677",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0099",
+      "globalNumber": 99,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The Least Common Multiple of three different numbers is 40. Which of the following cannot be their Highest Common Factor ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF must be a factor of LCM (40). 25 is not a factor of 40, so 25 cannot be the HCF.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 99
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2c9ddcc2",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0100",
+      "globalNumber": 100,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "What is the smallest perfect square which is divisible by both 8 and 12 ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "144"
+        },
+        {
+          "id": "C",
+          "text": "121"
+        },
+        {
+          "id": "D",
+          "text": "196"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "LCM(8, 12) = 24 = 2³ × 3. To make a square, multiply by 2 × 3 = 6 => 24 × 6 = 144.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 100
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-ada2276b",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0101",
+      "globalNumber": 101,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "The product of the two numbers is 1500 and their HCF is 10. The number of such possible pairs is/are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Let numbers be 10x and 10y. 10x × 10y = 1500 => xy = 15. Co-prime pairs: (1, 15) and (3, 5). Total 2 pairs.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 101
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-2fc3e343",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0102",
+      "globalNumber": 102,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "If the highest common factor (HCF) of x and y is 15, then the HCF of 36x² - 81y² and 81x² - 9y² is divisible by",
+      "options": [
+        {
+          "id": "A",
+          "text": "135"
+        },
+        {
+          "id": "B",
+          "text": "120"
+        },
+        {
+          "id": "C",
+          "text": "180"
+        },
+        {
+          "id": "D",
+          "text": "90"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Let x = 15a, y = 15b. 36x² - 81y² = 9(2x - 3y)(2x + 3y) = 9 × 15 × (factor). 81x² - 9y² = 9(3x - y)(3x + y) = 9 × 15 × (factor). HCF has factor 9 × 15 = 135.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 102
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-3057cb99",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0103",
+      "globalNumber": 103,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Calculate the HCF of 12/5, 14/15 & 16/17",
+      "options": [
+        {
+          "id": "A",
+          "text": "4/255"
+        },
+        {
+          "id": "B",
+          "text": "3/255"
+        },
+        {
+          "id": "C",
+          "text": "2/255"
+        },
+        {
+          "id": "D",
+          "text": "1/255"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCF(12/5, 14/15, 16/17) = HCF(12, 14, 16)/LCM(5, 15, 17) = 2 / 255.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 103
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-f31e6d6b",
+      "isSample": false
+    },
+    {
+      "id": "hcf-lcm-0104",
+      "globalNumber": 104,
+      "topic": {
+        "id": "hcf-lcm",
+        "name": "HCF and LCM"
+      },
+      "category": "Quantitative Aptitude",
+      "question": "Choose the correct statement from the following.",
+      "options": [
+        {
+          "id": "A",
+          "text": "HCF is the least common multiple of the given numbers."
+        },
+        {
+          "id": "B",
+          "text": "HCF of two or more numbers is the highest number which perfectly divides all the given numbers."
+        },
+        {
+          "id": "C",
+          "text": "HCF is also called the least common divisor."
+        },
+        {
+          "id": "D",
+          "text": "In prime factorisation method of HCF, the multiples of all the given numbers are listed."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCF of two or more numbers is the highest number which perfectly divides all the given numbers.",
+      "source": {
+        "pdf": "Pinnacle_SSC_Maths_HCF_LCM.pdf",
+        "originalQuestionNumber": 104
+      },
+      "verificationStatus": "verified",
+      "contentHash": "qh-6e3ed408",
+      "isSample": false
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+===PAGE 1===
+Pinnacle Day: 6th - 7th HCF and LCM
+HCF and LCM
+LCM (Least common multiple) of two or more given numbers is the least number that is exactly divisible by each of them.
+HCF (Highest common factor) of two or more numbers is the greatest number that divides each of them exactly. HCF is also known as the ‘Highest common Divisor’ (HCD) and the Greatest Common Measure (GCM).
+The concept of multiples and factors
+→ If X , Y , and Z are three natural numbers and X × Y = Z , then
+(i). X and Y are called the factors of Z.
+(ii). Z is said to be divisible by X and Y.
+(iii). Z is said to be a multiple of X and Y.
+Example: The set of positive Integers which are factors of 18 is (1, 2, 3, 6, 9, 18).
+Basic Concepts of H.C.F. and LCM
+Method of finding H.C.F.
+To find the HCF of the given numbers
+1. Break the given numbers into their prime factors.
+2. The HCF will be the product of all the prime factors common to all the numbers.
+Let us learn the process of finding HCF with the help of some solved examples.
+Example:- Find the HCF of 96, 36 and 18 ?
+Solution:-
+96 = 2 × 3 × 2 × 2 × 2 × 2
+36 = 2 × 3 × 2 × 3
+18 = 2 × 3 × 3
+Therefore, the HCF of 96, 36 and 18 is the product of the highest number of common factors in the given numbers i.e., 2 × 3 = 6. In other words, 6 is the largest possible integer, which can divide 96, 36 and 18 without leaving any remainder.
+Example:- Find the H.C.F. of 42 and 70 ?
+Solution:- 42 = 3 × 2 × 7; 70 = 5 × 2 × 7
+Hence, H.C.F. of 42 and 70 = 2 × 7 = 14.
+HCF by Division Method
+Example:- HCF of 24, 48, 72, and 100.
+Solution:- To start the division method select the smallest two numbers.
+HCF of 24 and 48 = 24
+HCF of 24, 48 and 72 = 24
+HCF of 24, 48, 72, and 100 = 4.
+Example:- HCF of 1785, 1995, 3381.
+Solution:- HCF of 1785 and 1995 = 105; HCF of 1785, 1995 and 3381 = 21
+NOTE :-
+(i). HCF of two prime numbers is always 1.
+(ii). HCF of co-prime numbers is always 1.
+Method of finding L.C.M
+The Least Common Multiple of two or more numbers is the smallest number which is exactly divisible by all of them.
+In other words, it is the product of the highest powers of all the prime factors of the given numbers.
+To find the LCM of given numbers:
+1. Break the given numbers into their prime factors.
+2. The LCM will be the product of the highest power of all the factors that occur in the given numbers.
+Let us take some solved examples.
+Example:- Find the LCM of 96, 36 and 18.
+Solution: 96 = 2^5 × 3^1; 36 = 2^2 × 3^2; 18 = 2^1 × 3^2
+Therefore, LCM of 96, 36 and 18 is 2^5 × 3^2 = 32 × 9 = 288.
+Example:- Find the LCM of 42 and 70
+Solution:- 42 = 3 × 2 × 7; 70 = 5 × 2 × 7; Hence, LCM is 2 × 3 × 5 × 7 = 210.
+Example:- LCM of 6, 12, 8 ? Solution:- LCM = 2 × 2 × 3 × 2 = 24
+HCF of 6, 12, 18 = 6
+Important Concepts:-
+(1). LCM × HCF = 1st number × 2nd number
+(2). HCF of some numbers is always a factor of LCM of the numbers.
+(3). LCM of Fraction = LCM of numerator / HCF of denominator
+(4). HCF of Fraction = HCF of numerator / LCM of denominator
+Example: LCM and HCF of 1/2, 2/3, 3/4
+LCM = LCM(1,2,3)/HCF(2,3,4) = 6/1 = 6; HCF = HCF(1,2,3)/LCM(2,3,4) = 1/12.
+(5) Co-Prime numbers: If the HCF of two numbers is 1 then they are called co-prime numbers.
+(6) LCM / HCF = Product of co-prime factors F1 and F2.
+
+===PAGE 2===
+(7) Example: N1 = Hx, N2 = Hy where x,y are co-prime, HCF = H.
+(8) Difference between N1 and N2 = H(x - y). HCF is always either the difference of two numbers or factors of difference of two numbers.
+(9) When the second divisor is a factor of the first divisor, then the second remainder is obtained by dividing the first remainder by the second divisor.
+
+Variety Questions
+Q.1. What is the sum of all two-digit numbers divisible by both 3 and 5?
+Graduate Level 24/07/2025 (Shift - 3)
+(a) 300 (b) 315 (c) 330 (d) 360
+
+Q.2. Let a = 2^3 · 3^2 · 7 and b = 2^2 · 3 · 5^2. Which of the following is true?
+Higher Secondary 29/07/2025 (Shift - 2)
+(a) L.C.M(a, b) = 2^3 · 3^2 · 5^2 · 7
+(b) G.C.D(a, b) = 2^3 · 3^2
+(c) L.C.M(a, b) × G.C.D(a, b) = a + b
+(d) L.C.M(a, b) = G.C.D(a, b)
+
+Q.3. The LCM of x² - 8x + 15 and x² - 5x + 6 is:
+(a) (x + 5) (x + 2) (x + 3)
+(b) (x - 5) (x - 2) (x - 3)
+(c) (x + 5) (x - 2) (x - 3)
+(d) (x - 2) (x - 3)^2 (x - 5)
+
+Q.4. The greatest possible length that can be used to measure exactly the lengths of 3 m 15 cm, 5 m, and 6 m 85 cm is:
+(a) 11 cm (b) 7 cm (c) 9 cm (d) 5 cm
+
+Q.5. What is the HCF of (x^6 + 1) and (x^4 - 1)?
+(a) (1 + x^2) (b) (1 + x) (c) 1 (d) (1 - x^2)
+
+Q.6. The LCM of two prime numbers x and y (x > y) is 533. The value of 4y - x is:
+(a) 11 (b) 21 (c) 18 (d) 23
+
+Q.7. What is the HCF of the polynomials (x³ - 8), (x³ - 6x² + 12x - 8) and (x³ - 4x² + 4x)?
+(a) (x - 1) (b) (x - 2) (c) (x - 8) (d) (x - 4)
+
+Q.8. Radha, Pratima and Reena begin to jog around a circular path and they complete their revolutions in 50 seconds, 75 seconds and 100 seconds, respectively. After how much time (in minutes) will they meet together at the starting point for the first time?
+(a) 6 (b) 5 (c) 4 (d) 3
+
+Q.9. Sanjay wants to exactly measure the lengths 7000 mm, 3850 mm and 12950 mm using a single measuring tape. What will be the greatest possible length (in cm) of the measuring tape?
+(a) 40 (b) 45 (c) 35 (d) 30
+
+Q.10. Two tankers contain 850 litres and 680 litres of oil. Find the maximum capacity of a container which can measure the oil of both tankers when used, an exact number of times.
+(a) 425 litres (b) 680 litres (c) 340 litres (d) 170 litres
+
+Q.11. Find the greatest two digit number which on dividing 219, 365, 511 leaves the remainders 3, 5, 7, respectively.
+(a) 63 (b) 82 (c) 53 (d) 72
+
+Q.12. Five bells commence tolling together and toll at intervals of 5, 10, 15, 20 and 25 seconds respectively. In 1 hour 20 minutes, how many times do they toll together?
+(a) 20 (b) 15 (c) 14 (d) 17
+
+Q.13. There is a circular path around a sports field. Rahul takes 15 minutes to drive one round of the field, while Anil takes 18 minutes for the same. Suppose they both start from the same point and at the same time, and go in the same direction. After how many minutes will they meet again at the starting point?
+(a) 120 (b) 100 (c) 80 (d) 90
+
+Q.14. Let x = 224 and, y = 322. If the highest common factor of 23x and a × y is divisible by x and y, then what can be the possible value of a ?
+(a) 16 (b) 8 (c) 12 (d) 4
+
+Q.15. The highest common factor of 108, 72 and 5a is a. What can be the least common multiple of 108, 72 and a ?
+(a) 432 (b) 324 (c) 108 (d) 216
+
+Q.16. What is the greatest positive integer that divides 554, 714 and 213 leaving the remainder 43, 57 and 67, respectively?
+(a) 95 (b) 71 (c) 83 (d) 73
+
+Q.17. Find the HCF of (4^315 – 1) and (4^25 – 1).
+(a) 1 (b) (4^25 – 1) (c) 1024 (d) 1023
+
+Q.18. 120 apples, 240 oranges and 150 pears are packed in cartons in such a way that each carton has the same number of fruits, each carton contains only one type of fruit and fruit is left unpacked. What is the smallest possible number of cartons needed for the purpose ?
+(a) 50 (b) 40 (c) 17 (d) 30
+
+Q.19. The traffic lights at 3 different road crossings change after every 48 sec, 72 sec and 108 sec, respectively. If they all change simentionusly at 8 : 20 a.m., then at what will they next change again simultaneously?
+(a) 8 : 27 : 12 a.m. (b) 8 : 33 : 32 a.m. (c) 8 : 12 : 18 a.m. (d) 8 : 40 : 14 a.m.
+
+Q.20. A and B are two prime numbers such that A > B and their LCM is 209. The value of A² - B is ?
+(a) 350 (b) 372 (c) 361 (d) 339
+
+Q.21. 13, a, b, c are four distinct numbers and the HCF of each pair of numbers (13, a) : (13, b) : (13, c) is 13, where a, b, c are each less than 60 and a < b < c. What is the value of (a + c)/b ?
+(a) 3.5 (b) 2 (c) 5 (d) 4.5
+
+Q.22. The sum of two numbers is 1215 and their HCF is 81. If the numbers lie between 500 and 700, then the sum of reciprocals of the numbers is
+(a) 5/1512 (b) 5/378 (c) 5/702 (d) 5/1188
+
+Q.23. If r is the remainder when each of 6454, 7306 and 8797 is divided by the greatest number d (d > 1), then (d - r) is:
+(a) 126 (b) 64 (c) 137 (d) 149
+
+===PAGE 3===
+Q.24. In finding the HCF of two numbers by division method, the quotients are 1, 8 and 2 respectively, and the last divisor is 105, what is the sum of the numbers ?
+(a) 3570 (b) 3885 (c) 3780 (d) 3675
+
+Q.25. When the smallest number x is divided by 5, 6, 8, 9 and 12, it gives remainder 1 in each case. But x is divisible by 13. What will be the remainder when x will be divided by 31?
+(a) 1 (b) 5 (c) 3 (d) 0
+
+Q.26. The Highest Common Factor and Lowest Common Multiple of two numbers p and q are A and B respectively. If A + B = p + q, then the value of A³ + B³ is :
+(a) p³ (b) q³ (c) p³ + q³ (d) p³ - q³
+
+Q.27. What is the largest number that divides 460, 491 and 553 and leaves the remainder 26 in each case ?
+(a) 27 (b) 35 (c) 33 (d) 31
+
+Q.28. A is the smallest three-digit number which when divided by 3, 4 and 5 gives remainder 1, 2 and 3 respectively. What is the sum of the digits of A ?
+(a) 11 (b) 10 (c) 6 (d) 8
+
+Q.29. The product of two numbers is 6760 and their HCF is 13. How many such pairs of numbers can be formed?
+(a) 2 (b) 3 (c) 1 (d) 4
+
+Q.30. An oil merchant has 3 varieties of oil of volumes 432, 594 and 702 respectively. The number of cans of equal size that would be required to fill the oil separately is:
+(a) 13, 15, 17 (b) 8, 11, 13 (c) 8, 13, 15 (d) 6, 9, 11
+
+Q.31. Which of the following statements is true ?
+(a) LCM of two natural numbers is divisible by their HCF.
+(b) HCF + LCM of two numbers = Product of the two numbers.
+(c) Two prime numbers are co-prime numbers if their LCM is 1.
+(d) HCF of two numbers is the smallest common divisor of both numbers.
+
+Q.32. How many numbers between 400 and 700 are divisible by 5, 6 and 7 ?
+(a) 2 (b) 5 (c) 10 (d) 20
+
+Q.33. If r is the remainder when each of 4749, 5601 and 7092 is divided by the greatest possible number d (＞1), then the value of (d + r) will be:
+(a) 276 (b) 271 (c) 298 (d) 282
+
+Q.34. Let x be the least 4-digit number which when divided by 2, 3, 4, 5, 6 and 7 leaves a remainder of 1 in each case. If x lies between 2800 and 3000, then what is the sum of digits of x ?
+(a) 15 (b) 16 (c) 12 (d) 13
+
+Q.35. Let x be the least number which when divided by 15, 18, 20 and 27, the remainder in each case is 10 and x is a multiple of 31. What least number should be added to x to make it a perfect square ?
+(a) 39 (b) 37 (c) 43 (d) 36
+
+Q.36. When 12, 16, 18, 20 and 25 divide the least number x, the remainder in each case is 4 but x is divisible by 7. What is the digit at the thousands’ place in x ?
+(a) 5 (b) 8 (c) 4 (d) 3
+
+Q.37. When 6892, 7105 and 7531 are divided by the greatest number x, then the remainder in each case is y. What is the value of (x - y) ?
+(a) 123 (b) 137 (c) 147 (d) 113
+
+Q.38. Let x be the greatest number which when divides 6475, 4984 and 4132, the remainder in each case is the same. What is the sum of digits of x ?
+(a) 4 (b) 7 (c) 5 (d) 6
+
+Examination wise Questions
+SSC CGL 2025 Tier - 1
+Q.39. What is the least square number that is divisible by 6, 9, and 15?
+SSC CGL 26/09/2025 (Shift 1)
+(a) 1800 (b) 900 (c) 400 (d) 1600
+
+Q.40. What is the least square number that is exactly divisible by 3, 5, 12, and 15?
+SSC CGL 14/10/2025 (Shift 2)
+(a) 3600 (b) 2304 (c) 3364 (d) 4489
+
+SSC Selection Post (XIII)
+Q.41. Raman and Rakesh start jogging in a park at the same time and from the same point. Raman takes 10 minutes to complete one round, and Rakesh takes 15 minutes. After how many minutes will they meet again at the starting point?
+Higher Secondary 29/08/2025 (Shift - 2)
+(a) 30 minute (b) 40 minute (c) 60 minute (d) 80 minute
+
+Q.42. Find the least number which leaves remainder 4 when divided by 6, 9, and 10.
+Graduate Level 29/07/2025 (Shift - 3)
+(a) 90 (b) 94 (c) 85 (d) 75
+
+Q.43. What is the smallest number that, when divided by 3, 4, 5, 6, and 8 leaves the remainder 4?
+Graduate Level 29/08/2025 (Shift - 1)
+(a) 124 (b) 120 (c) 128 (d) 240
+
+eduquity-based pattern (ebp) Questions
+Q.44. A milk vendor has 75 litres of cow milk, 45 litres of toned milk and 30 litres of full cream milk. These should be placed in different trays such that each tray contains the same quantity of milk and two kinds of milk should not be mixed in a tray. What is the least number of trays required to place all the milk?
+(a) 15 (b) 25 (c) 10 (d) 20
+
+Q.45. Three numbers are in the ratio 5 : 7 : 9, and their LCM is 1260. What is the difference between the largest and the smallest number?
+(a) 24 (b) 20 (c) 16 (d) 32
+
+Q.46. Three red lights on the same road start blinking at the same time and blink repeatedly after every 4, 6 and 8 minutes, respectively. How many times will they blink together in an interval of 3 hours, excluding blinking together at the starting moment ?
+(a) 5 (b) 7 (c) 6 (d) 4
+
+Q.47. As part of the partial work from home process, Amita went to office every 2nd day, Amrita went to office every 3rd day, and Tosita went to office every 6th day, respectively. All three went to office on 31 October 2021. On how many days did all three attend office on the same date during the remaining two months of the year ?
+(a) 9 (b) 10 (c) 11 (d) 12
+
+Q.48. Find the least number which when divided by 20, 25, 35 and 40 leaves remainders 14, 19, 29 and 34, respectively.
+(a) 1284 (b) 1294 (c) 1384 (d) 1394
+
+Q.49. If two positive integers x and y are written as x = a²b³ and y = a³b; and a and b are prime numbers, then HCF (x, y) is:
+(a) ab² (b) a²b² (c) ab (d) a²b
+
+Q.50. x, y and z are divisible by 2, 3 and 4, respectively. What is the highest common factor (HCF) of 6x, 4y and 3z ?
+(a) At least 36 (b) At least 12 (c) At least 18 (d) At least 16
+
+Q.51. Find the HCF of: 3³ × 11², 2⁴ × 3² × 5³ × 11³ and 3 × 5 × 7 × 11.
+(a) 385 (b) 1815 (c) 33 (d) 165
+
+===PAGE 4===
+Q.52. Two numbers are in the ratio of 7 : 9 and their LCM is 630. Find the numbers.
+(a) 56, 72 (b) 77, 99 (c) 70, 90 (d) 63, 81
+
+Q.53. If the HCF of 156 and 96 is expressible in the form of 156 × 12 + 96A, then the value of A is:
+(a) -19.735 (b) 19.735 (c) -19.375 (d) 19.375
+
+Q.54. The HCF of 1.75, 5.6 and 7 is:
+(a) 0.35 (b) 3.5 (c) 0.07 (d) 0.7
+
+Q.55. The LCM of x³ - 27, x² - x - 6, x + 2 is:
+(a) (x - 3) (x + 2) (x² - 3x + 9)
+(b) (x + 3) (x + 2) (x² - 3x + 9)
+(c) (x - 3) (x + 2) (x² + 3x - 9)
+(d) (x - 3) (x + 2) (x² + 3x + 9)
+
+Q.56. The product of LCM and HCF of two numbers is 24. If the difference between the two numbers is 2, then find the numbers.
+(a) 5 and 3 (b) 6 and 4 (c) 2 and 4 (d) 8 and 6
+
+Q.57. The LCM of 1/6, 4/15, 5/9, 7/27, 8/3 is:
+(a) 92 1/3 (b) 93 2/3 (c) 93 1/3 (d) 92 2/3
+
+Q.58. The largest number of four digits that is exactly divisible by 17 and 36 is:
+(a) 8568 (b) 9180 (c) 9792 (d) 7956
+
+Q.59. Two numbers are in the ratio 3 : 4. The product of their HCF and LCM is 2700. The sum of the numbers is:
+(a) 45 (b) 105 (c) 60 (d) 15
+
+Q.60. Find the greatest number which when divides 261, 853 and 1221, leaves a remainder of 5 in each case.
+(a) 18 (b) 17 (c) 16 (d) 19
+
+Q.61. Find the LCM of 3/2, 81/16 and 9/8.
+(a) 111/2 (b) 91/2 (c) 81/2 (d) 101/2
+
+Q.62. Find the greatest possible length (in metres) that can be used to exactly measure the lengths 6 m, 5 m 25 cm and 12 m 50 cm.
+(a) 0.35 m (b) 0.90 m (c) 0.75 m (d) 0.25 m
+
+Q.63. The least number which should be added to 1351 so that the sum is exactly divisible by 2, 4, 6 and 8 is:
+(a) 13 (b) 11 (c) 15 (d) 17
+
+Q.64. Let the HCF of m and n be 'a' and let n = ab, LCM of m and n is given by:
+(a) ab (b) am (c) bm (d) mn
+
+Q.65. The LCM and HCF of two numbers are 1105 and 5. If the LCM is 17 times the first number, then find the two numbers.
+(a) 55 and 85 (b) 65 and 75 (c) 60 and 80 (d) 65 and 85
+
+Q.66. If the HCF of 45 and 55 is expressible in the form of 55 × 5 + 45m, then what is the value of m ?
+(a) 5 (b) –6 (c) –5 (d) 6
+
+Q.67. Find the least number which when divided by 4, 9, 12 and 15, leaves the remainder 3 in each case.
+(a) 193 (b) 183 (c) 360 (d) 180
+
+Q.68. Determine the LCM of two numbers if their HCF is 12 and their ratio is 13 : 15.
+(a) 2450 (b) 1780 (c) 1890 (d) 2340
+
+Q.69. Which of the following numbers leaves the remainder equal to the highest common factor of 6, 8 and 9, when divided by 6, 8 and 9 ?
+(a) 506 (b) 575 (c) 291 (d) 433
+
+Q.70. Find the least number which is exactly divisible by 20, 28, 34, 60 and 75.
+(a) 34500 (b) 35900 (c) 35700 (d) 36220
+
+Q.71. Which is the largest number that divides each of 1036, 1813 and 3885 without leaving any remainder ?
+(a) 259 (b) 111 (c) 333 (d) 37
+
+Q.72. What is the LCM of 0.15, 0.18 and 0.45 ?
+(a) 0.6 (b) 0.9 (c) 0.81 (d) 0.09
+
+Q.73. What will be the least number which when doubled will be exactly divisible by 12, 14, 16 and 18 ?
+(a) 636 (b) 226 (c) 428 (d) 504
+
+Q.74. The LCM of two numbers is five times their HCF. If the product of the two numbers is 20480, then find their HCF and LCM, respectively.
+(a) 64 and 320 (b) 56 and 280 (c) 48 and 240 (d) 46 and 230
+
+Q.75. If the sum of two numbers is 60 and their HCF and LCM are 5 and 60, respectively, then the sum of the reciprocals of the numbers will be:
+(a) 1/4 (b) 1/5 (c) 1/11 (d) 1/6
+
+Q.76. The least number of five digits which is exactly divisible by 9, 12, 15, 25 and 27 is:
+(a) 10250 (b) 10800 (c) 10600 (d) 10700
+
+Q.77. What is the largest number that divides 627, 15630 and 3128 and leaves remainders of 2, 5 and 3, respectively?
+(a) 775 (b) 650 (c) 625 (d) 1225
+
+Q.78. The HCF of three numbers is 57. If they are in the ratio of 4 : 5 : 6, then find the numbers.
+(a) 228, 285, 342 (b) 236, 295, 354 (c) 240, 300, 360 (d) 232, 290, 348
+
+Q.79. Three numbers are in the ratio 3 : 5 : 7. If their LCM is 2625, find their HCF.
+(a) 100 (b) 125 (c) 50 (d) 25
+
+Q.80. The largest three-digit number which gives the same remainder 2 when divided by 3, 5 and 9 is ________.
+(a) 980 (b) 992 (c) 995 (d) 990
+
+Q.81. The HCF of two numbers is 12. Which of the following can never be their LCM ?
+(a) 24 (b) 74 (c) 48 (d) 60
+
+Q.82. The product of two numbers is 4107. If the HCF of these numbers is 37, then the greater number is:
+(a) 111 (b) 74 (c) 185 (d) 37
+
+Q.83. The LCM of the two numbers is 1440 and their HCF is 32. If the first number is 288, then find the second number.
+(a) 150 (b) 145 (c) 180 (d) 160
+
+Q.84. What is the greatest three-digit number which when divided by 4, 8 and 9, leaves no remainder?
+(a) 924 (b) 963 (c) 932 (d) 936
+
+Q.85. Find the smallest three digit number which when added to 5 is exactly divisible by 12, 14 and 18.
+(a) 240 (b) 225 (c) 245 (d) 247
+
+Q.86. The ratio of two numbers is 3 : 4. If the sum of these two numbers is 70, then what is their LCM ?
+(a) 120 (b) 96 (c) 108 (d) 84
+
+Q.87. Find the least number divisible by 2, 3, 5, 6, 9 and 18, which is a perfect square.
+(a) 900 (b) 400 (c) 144 (d) 3600
+
+Q.88. The smallest six-digit number which is divisible by 12, 16, 24, 28 is:
+(a) 100128 (b) 100190 (c) 100180 (d) 100160
+
+Q.89. The HCF of two numbers is one-twentieth of their LCM. If one of the numbers is 96 and the difference of the LCM and the HCF is 456, then what is the other number ?
+(a) 48 (b) 120 (c) 144 (d) 72
+
+Q.90. What is the HCF of two prime numbers X and Y ?
+(a) 1 (b) 2 (c) Y (d) X
+
+===PAGE 5===
+Q.91. What is that least number that should be added to 478 so that the number obtained becomes exactly divisible by 5, 6 and 12 ?
+(a) 62 (b) 12 (c) 2 (d) 52
+
+Q.92. The product of two co-prime numbers is 483. Find the Least Common Multiple of both numbers.
+(a) 483 (b) 21 (c) 1 (d) 23
+
+Q.93. What is that least perfect square which is exactly divisible by each of 14, 84 and 28 ?
+(a) 7056 (b) 3528 (c) 1764 (d) 441
+
+Q.94. The greatest number which when divides 456 and 553 leaves the remainder as 6 and 3 respectively is:
+(a) 5 (b) 50 (c) 10 (d) 30
+
+Q.95. The least number which when divided by 14, 18 and 36 and leaves 1 as remainder in each case is:
+(a) 250 (b) 252 (c) 253 (d) 251
+
+Q.96. What will be the ratio of the Least Common Multiple and Highest Common Factor of 12, 24 and 36 ?
+(a) 3 : 1 (b) 4 : 1 (c) 6 : 1 (d) 2 : 1
+
+Q.97. What is the least number of students in a class such that they can make rows of 10, 15 and 20 and also the total number of students is a perfect square?
+(a) 6400 (b) 1600 (c) 900 (d) 1800
+
+Q.98. What is the HCF of 513 and 1017 ?
+(a) 15 (b) 8 (c) 9 (d) 13
+
+Q.99. The Least Common Multiple of three different numbers is 40. Which of the following cannot be their Highest Common Factor ?
+(a) 20 (b) 25 (c) 5 (d) 10
+
+Q.100. What is the smallest perfect square which is divisible by both 8 and 12 ?
+(a) 100 (b) 144 (c) 121 (d) 196
+
+Q.101. The product of the two numbers is 1500 and their HCF is 10. The number of such possible pairs is/are:
+(a) 1 (b) 3 (c) 4 (d) 2
+
+Q.102. If the highest common factor (HCF) of x and y is 15, then the HCF of 36x² - 81y² and 81x² - 9y² is divisible by
+(a) 135 (b) 120 (c) 180 (d) 90
+
+Q.103. Calculate the HCF of 12/5, 14/15 & 16/17
+(a) 4/255 (b) 3/255 (c) 2/255 (d) 1/255
+
+Q.104. Choose the correct statement from the following.
+(a) HCF is the least common multiple of the given numbers.
+(b) HCF of two or more numbers is the highest number which perfectly divides all the given numbers.
+(c) HCF is also called the least common divisor.
+(d) In prime factorisation method of HCF, the multiples of all the given numbers are listed.
+
+===ANSWERS===
+1.(b) 2.(a) 3.(b) 4.(d) 5.(a) 6.(a) 7.(b) 8.(b) 9.(c) 10.(d)
+11.(d) 12.(d) 13.(d) 14.(a) 15.(d) 16.(d) 17.(d) 18.(c) 19.(a) 20.(a)
+21.(b) 22.(a) 23.(d) 24.(c) 25.(b) 26.(c) 27.(d) 28.(b) 29.(a) 30.(b)
+31.(a) 32.(a) 33.(a) 34.(b) 35.(a) 36.(b) 37.(b) 38.(d) 39.(b) 40.(a)
+41.(a) 42.(b) 43.(a) 44.(c) 45.(c) 46.(b) 47.(b) 48.(d) 49.(d) 50.(b)
+51.(c) 52.(c) 53.(c) 54.(a) 55.(d) 56.(b) 57.(c) 58.(c) 59.(b) 60.(c)
+61.(c) 62.(d) 63.(d) 64.(c) 65.(d) 66.(b) 67.(b) 68.(d) 69.(d) 70.(c)
+71.(a) 72.(b) 73.(d) 74.(a) 75.(b) 76.(b) 77.(c) 78.(a) 79.(d) 80.(b)
+81.(b) 82.(a) 83.(d) 84.(d) 85.(d) 86.(a) 87.(a) 88.(a) 89.(b) 90.(a)
+91.(c) 92.(a) 93.(c) 94.(b) 95.(c) 96.(c) 97.(c) 98.(c) 99.(b) 100.(b)
+101.(d) 102.(a) 103.(c) 104.(b)
+
+===SOLUTIONS===
+Sol.1.(b) LCM of (3 and 5) = 15. Two-digit multiples of 15: 15 to 90 (AP with a = 15, d = 15, n = 6). Sum = (n/2)(a + l) = (6/2)(15 + 90) = 315.
+Sol.2.(a) L.C.M (a, b) = 2^3 · 3^2 · 5^2 · 7.
+Sol.3.(b) x² - 8x + 15 = (x - 5)(x - 3). x² - 5x + 6 = (x - 3)(x - 2). LCM = (x - 5)(x - 2)(x - 3).
+Sol.4.(d) 3 m 15 cm = 315 cm, 5 m = 500 cm, 6 m 85 cm = 685 cm. HCF(315, 500, 685) = 5 cm.
+Sol.5.(a) x^6 + 1 = (x^2 + 1)(x^4 - x^2 + 1). x^4 - 1 = (x^2 + 1)(x^2 - 1). HCF = (1 + x^2).
+Sol.6.(a) LCM of two prime numbers x, y is x × y = 533. 533 = 13 × 41. Since x > y, x = 41, y = 13. Value of 4y - x = 4(13) - 41 = 52 - 41 = 11.
+Sol.7.(b) (x³ - 8) = (x - 2)(x² + 2x + 4). (x³ - 6x² + 12x - 8) = (x - 2)³. (x³ - 4x² + 4x) = x(x - 2)². HCF = (x - 2).
+Sol.8.(b) Required time = LCM(50, 75, 100) = 300 seconds = 300/60 = 5 minutes.
+Sol.9.(c) HCF of 7000 mm, 3850 mm, 12950 mm. HCF(7000, 3850, 12950) = 350 mm = 35 cm.
+Sol.10.(d) Maximum capacity = HCF(850, 680) = 170 litres.
+Sol.11.(d) (219 - 3) = 216, (365 - 5) = 360, (511 - 7) = 504. HCF(216, 360, 504) = 72.
+Sol.12.(d) LCM(5, 10, 15, 20, 25) = 300 seconds. 1 hour 20 minutes = 80 minutes = 80 × 60 = 4800 seconds. Number of times = (4800 / 300) + 1 = 16 + 1 = 17 times.
+Sol.13.(d) Meeting time = LCM(15, 18) = 90 minutes.
+Sol.14.(a) x = 224 = 2^5 × 7. y = 322 = 2 × 7 × 23. 23x = 23 × 2^5 × 7. a × y = a × 2 × 7 × 23. For HCF to be divisible by x (2^5 × 7) and y (2 × 7 × 23), a must contribute factor 2^4 = 16.
+Sol.15.(d) HCF of 108, 72, 5a is a. HCF(108, 72) = 36. Since HCF is a, a = 36. LCM(108, 72, 36) = 216.
+Sol.16.(d) 554 - 43 = 511, 714 - 57 = 657, 213 - 67 = 146. HCF(511, 657, 146): 657 - 511 = 146 = 2 × 73. HCF = 73.
+Sol.17.(d) HCF of (a^m - 1) and (a^n - 1) is a^HCF(m, n) - 1. HCF(315, 25) = 5. So HCF = 4^5 - 1 = 1024 - 1 = 1023.
+Sol.18.(c) HCF(120, 240, 150) = 30. Cartons = 120/30 + 240/30 + 150/30 = 4 + 8 + 5 = 17.
+Sol.19.(a) LCM(48, 72, 108) = 432 seconds = 7 minutes 12 seconds. Time = 8:20 a.m. + 7 min 12 sec = 8:27:12 a.m.
+Sol.20.(a) A × B = 209. Primes whose product is 209 are 19 and 11. Since A > B, A = 19, B = 11. A² - B = 19² - 11 = 361 - 11 = 350.
+Sol.21.(b) Since HCF(13, a) = HCF(13, b) = HCF(13, c) = 13 with numbers < 60 and a < b < c, the multiples of 13 under 60 are 26, 39, 52. So a = 26, b = 39, c = 52. (a + c)/b = (26 + 52)/39 = 78/39 = 2.
+Sol.22.(a) Let numbers be 81x and 81y. 81(x + y) = 1215 => x + y = 15. Since numbers lie between 500 and 700, x = 8 and y = 7 (81×8=648, 81×7=567). Sum of reciprocals = 1/648 + 1/567 = (7 + 8)/(81 × 56) = 15 / (81 × 56) = 5 / 1512.
+Sol.23.(d) 7306 - 6454 = 852, 8797 - 7306 = 1491. HCF(852, 1491) = 213. So d = 213. Remainder r when 6454 is divided by 213: 6454 = 30 × 213 + 64 => r = 64. d - r = 213 - 64 = 149.
+Sol.24.(c) Reverse division: Last divisor = 105, quotient = 2 => number = 105 × 2 = 210. Next number = 210 × 8 + 105 = 1785. Next number = 1785 × 1 + 210 = 1995. The two numbers are 1785 and 1995. Sum = 1785 + 1995 = 3780.
+Sol.25.(b) LCM(5, 6, 8, 9, 12) = 360. Number x = 360k + 1. For x to be divisible by 13: 360k + 1 = 13(27k) + (9k + 1). For k = 10, 9(10) + 1 = 91 (divisible by 13). x = 360(10) + 1 = 3601. When 3601 is divided by 31: 3601 = 31 × 116 + 5 => Remainder = 5.
+Sol.26.(c) HCF = A, LCM = B. A × B = pq. Given A + B = p + q. A³ + B³ = (A + B)³ - 3AB(A + B) = (p + q)³ - 3pq(p + q) = p³ + q³.
+Sol.27.(d) 460 - 26 = 434, 491 - 26 = 465, 553 - 26 = 527. HCF(434, 465, 527) = 31.
+Sol.28.(b) 3 - 1 = 2, 4 - 2 = 2, 5 - 3 = 2. LCM(3, 4, 5) = 60. Number form = 60k - 2. For smallest 3-digit number, k = 2: A = 60(2) - 2 = 118. Sum of digits = 1 + 1 + 8 = 10.
+Sol.29.(a) Let numbers be 13x and 13y. 13x × 13y = 6760 => 169xy = 6760 => xy = 40. Co-prime pairs (x, y) = (1, 40) and (5, 8). There are 2 such pairs.
+Sol.30.(b) HCF(432, 594, 702) = 54. Cans: 432/54 = 8, 594/54 = 11, 702/54 = 13.
+Sol.31.(a) LCM of two natural numbers is always divisible by their HCF.
+Sol.32.(a) LCM(5, 6, 7) = 210. Multiples of 210 between 400 and 700 are 420 and 630. There are 2 numbers.
+Sol.33.(a) 5601 - 4749 = 852, 7092 - 5601 = 1491. Difference = 1491 - 852 = 639 = 3 × 213. Divisor d = 213. Remainder r: 4749 = 22 × 213 + 63 => r = 63. d + r = 213 + 63 = 276.
+Sol.34.(b) LCM(2, 3, 4, 5, 6, 7) = 420. Multiples of 420 between 2800 and 3000: 420 × 7 = 2940. x = 2940 + 1 = 2941. Sum of digits = 2 + 9 + 4 + 1 = 16.
+Sol.35.(a) LCM(15, 18, 20, 27) = 540. x = 540k + 10. For x to be a multiple of 31: 540k + 10 = 31(17k) + (13k + 10). For k = 4, 13(4) + 10 = 62 (divisible by 31). x = 540(4) + 10 = 2170. Next perfect square > 2170 is 47² = 2209. Number to add = 2209 - 2170 = 39.
+Sol.36.(b) LCM(12, 16, 18, 20, 25) = 3600. x = 3600k + 4. For x to be divisible by 7: 3600k + 4 = 7(514k) + (2k + 4). For k = 5, 2(5) + 4 = 14 (divisible by 7). x = 3600(5) + 4 = 18004. Digit at thousands' place is 8.
+Sol.37.(b) 7105 - 6892 = 213, 7531 - 7105 = 426 = 2 × 213. Greatest number x = 213. Remainder y: 6892 = 32 × 213 + 76 => y = 76. x - y = 213 - 76 = 137.
+Sol.38.(d) 6475 - 4984 = 1491, 4984 - 4132 = 852. HCF(1491, 852) = 213. Sum of digits of x = 2 + 1 + 3 = 6.
+Sol.39.(b) LCM(6, 9, 15) = 90 = 2 × 3² × 5. To make it a square, multiply by 2 × 5 = 10 => 90 × 10 = 900.
+Sol.40.(a) LCM(3, 5, 12, 15) = 60 = 2² × 3 × 5. To make it a square, multiply by 3 × 5 = 15 => 60 × 60 = 3600.
+Sol.41.(a) Meeting time = LCM(10, 15) = 30 minutes.
+Sol.42.(b) LCM(6, 9, 10) = 90. Required number = 90 + 4 = 94.
+Sol.43.(a) LCM(3, 4, 5, 6, 8) = 120. Required number = 120 + 4 = 124.
+Sol.44.(c) HCF(75, 45, 30) = 15 litres per tray. Trays = 75/15 + 45/15 + 30/15 = 5 + 3 + 2 = 10 trays.
+Sol.45.(c) Numbers are 5x, 7x, 9x. LCM = (5 × 7 × 9)x = 315x = 1260 => x = 4. Difference = 9x - 5x = 4x = 4(4) = 16.
+Sol.46.(b) LCM(4, 6, 8) = 24 minutes. 3 hours = 180 minutes. Times blinking together = 180 / 24 = 7.5 => 7 times.
+Sol.47.(b) LCM(2, 3, 6) = 6 days. Remaining two months (Nov + Dec) = 30 + 31 = 61 days. Number of times = 61 / 6 = 10 times.
+Sol.48.(d) 20 - 14 = 6, 25 - 19 = 6, 35 - 29 = 6, 40 - 34 = 6. LCM(20, 25, 35, 40) = 1400. Required number = 1400 - 6 = 1394.
+Sol.49.(d) x = a²b³, y = a³b. HCF(x, y) = a^(min(2,3)) b^(min(3,1)) = a²b.
+Sol.50.(b) x = 2k => 6x = 12k. y = 3m => 4y = 12m. z = 4n => 3z = 12n. Each is a multiple of 12. HCF is at least 12.
+Sol.51.(c) HCF = 3^1 × 11^1 = 33.
+Sol.52.(c) Numbers are 7x and 9x. LCM = 63x = 630 => x = 10. Numbers are 70 and 90.
+Sol.53.(c) HCF(156, 96) = 12. 156 × 12 + 96A = 12 => 1872 + 96A = 12 => 96A = -1860 => A = -19.375.
+Sol.54.(a) Numbers: 175/100, 560/100, 700/100. HCF = HCF(175, 560, 700)/LCM(100, 100, 100) = 35/100 = 0.35.
+Sol.55.(d) x³ - 27 = (x - 3)(x² + 3x + 9). x² - x - 6 = (x - 3)(x + 2). x + 2 = (x + 2). LCM = (x - 3)(x + 2)(x² + 3x + 9).
+Sol.56.(b) Product = 24, difference = 2. Numbers are 6 and 4 (since 6 × 4 = 24 and 6 - 4 = 2).
+Sol.57.(c) LCM of numerators (1, 4, 5, 7, 8) = 280. HCF of denominators (6, 15, 9, 27, 3) = 3. LCM = 280/3 = 93 1/3.
+Sol.58.(c) LCM(17, 36) = 612. Largest 4-digit number = 9999. 9999 / 612 gives remainder 207. 9999 - 207 = 9792.
+Sol.59.(b) Let numbers be 3x and 4x. HCF × LCM = Product = 12x² = 2700 => x² = 225 => x = 15. Sum = 3(15) + 4(15) = 105.
+Sol.60.(c) 261 - 5 = 256, 853 - 5 = 848, 1221 - 5 = 1216. HCF(256, 848, 1216) = 16.
+Sol.61.(c) LCM of numerators (3, 81, 9) = 81. HCF of denominators (2, 16, 8) = 2. LCM = 81/2.
+Sol.62.(d) 6 m = 600 cm, 5 m 25 cm = 525 cm, 12 m 50 cm = 1250 cm. HCF(600, 525, 1250) = 25 cm = 0.25 m.
+Sol.63.(d) LCM(2, 4, 6, 8) = 24. 1351 / 24 gives remainder 7. Number to add = 24 - 7 = 17.
+Sol.64.(c) HCF(m, n) = a, n = ab. LCM × HCF = m × n => LCM × a = m × (ab) => LCM = mb.
+Sol.65.(d) LCM = 1105, HCF = 5. LCM = 17 × first number => first number = 1105 / 17 = 65. Second number = (1105 × 5) / 65 = 85. Numbers are 65 and 85.
+Sol.66.(b) HCF(45, 55) = 5. 55 × 5 + 45m = 5 => 275 + 45m = 5 => 45m = -270 => m = -6.
+Sol.67.(b) LCM(4, 9, 12, 15) = 180. Required number = 180 + 3 = 183.
+Sol.68.(d) Ratio = 13 : 15, HCF = 12. Numbers are 13 × 12 = 156 and 15 × 12 = 180. LCM = 12 × 13 × 15 = 2340.
+Sol.69.(d) HCF(6, 8, 9) = 1. LCM(6, 8, 9) = 72. Number form = 72k + 1. For k = 6, 72(6) + 1 = 433.
+Sol.70.(c) LCM(20, 28, 34, 60, 75) = 35700.
+Sol.71.(a) HCF(1036, 1813, 3885) = 259.
+Sol.72.(b) 0.15 = 15/100, 0.18 = 18/100, 0.45 = 45/100. LCM = LCM(15, 18, 45)/100 = 90/100 = 0.9.
+Sol.73.(d) LCM(12, 14, 16, 18) = 1008. Number doubled = 1008 => Number = 1008 / 2 = 504.
+Sol.74.(a) LCM = 5 × HCF. Product = HCF × LCM = 5 × HCF² = 20480 => HCF² = 4096 => HCF = 64. LCM = 5 × 64 = 320.
+Sol.75.(b) a + b = 60, ab = HCF × LCM = 5 × 60 = 300. Sum of reciprocals = (a + b)/ab = 60/300 = 1/5.
+Sol.76.(b) LCM(9, 12, 15, 25, 27) = 2700. Smallest 5-digit multiple of 2700 = 2700 × 4 = 10800.
+Sol.77.(c) 627 - 2 = 625, 15630 - 5 = 15625, 3128 - 3 = 3125. HCF(625, 15625, 3125) = 625.
+Sol.78.(a) Ratio = 4 : 5 : 6, HCF = 57. Numbers = 4 × 57 = 228, 5 × 57 = 285, 6 × 57 = 342.
+Sol.79.(d) Let numbers be 3x, 5x, 7x. LCM = 105x = 2625 => x = 25. HCF = 25.
+Sol.80.(b) LCM(3, 5, 9) = 45. Largest 3-digit number = 999. 999 / 45 = 22 remainder 9. 999 - 9 + 2 = 992.
+Sol.81.(b) HCF must divide LCM. 74 is not divisible by 12, so 74 can never be the LCM.
+Sol.82.(a) Product = 4107, HCF = 37. Product of co-prime ratios xy = 4107 / (37²) = 3. Pairs = (1, 3). Greater number = 37 × 3 = 111.
+Sol.83.(d) 1st × 2nd = LCM × HCF => 288 × 2nd = 1440 × 32 => 2nd = 160.
+Sol.84.(d) LCM(4, 8, 9) = 72. 999 / 72 gives remainder 63. 999 - 63 = 936.
+Sol.85.(d) LCM(12, 14, 18) = 252. Smallest 3-digit number added to 5 = 252 => Number = 252 - 5 = 247.
+Sol.86.(a) Numbers = 3x, 4x. 3x + 4x = 70 => 7x = 70 => x = 10. Numbers are 30 and 40. LCM(30, 40) = 120.
+Sol.87.(a) LCM(2, 3, 5, 6, 9, 18) = 90 = 2 × 3² × 5. To make it a square, multiply by 2 × 5 = 10 => 90 × 10 = 900.
+Sol.88.(a) LCM(12, 16, 24, 28) = 336. Smallest 6-digit number = 100000. 100000 / 336 gives remainder 208. 100000 + (336 - 208) = 100128.
+Sol.89.(b) Let LCM = 20u, HCF = 1u. Difference = 19u = 456 => u = 24. LCM = 480, HCF = 24. Product = 480 × 24 = 96 × other => other = 120.
+Sol.90.(a) The HCF of any two distinct prime numbers is always 1.
+Sol.91.(c) LCM(5, 6, 12) = 60. 478 / 60 gives remainder 58. Number to add = 60 - 58 = 2.
+Sol.92.(a) For co-prime numbers, HCF = 1. LCM × HCF = Product => LCM = Product = 483.
+Sol.93.(c) 14 = 2 × 7, 84 = 2² × 3 × 7, 28 = 2² × 7. LCM = 2² × 3 × 7 = 84. Perfect square multiple = 2² × 3² × 7² = 1764.
+Sol.94.(b) 456 - 6 = 450, 553 - 3 = 550. HCF(450, 550) = 50.
+Sol.95.(c) LCM(14, 18, 36) = 252. Required number = 252 + 1 = 253.
+Sol.96.(c) LCM(12, 24, 36) = 72. HCF(12, 24, 36) = 12. Ratio = 72 : 12 = 6 : 1.
+Sol.97.(c) LCM(10, 15, 20) = 60 = 2² × 3 × 5. Smallest square multiple = 60 × (3 × 5) = 900.
+Sol.98.(c) 513 = 9 × 57, 1017 = 9 × 113. HCF = 9.
+Sol.99.(b) HCF must be a factor of LCM (40). 25 is not a factor of 40, so 25 cannot be the HCF.
+Sol.100.(b) LCM(8, 12) = 24 = 2³ × 3. To make a square, multiply by 2 × 3 = 6 => 24 × 6 = 144.
+Sol.101.(d) Let numbers be 10x and 10y. 10x × 10y = 1500 => xy = 15. Co-prime pairs: (1, 15) and (3, 5). Total 2 pairs.
+Sol.102.(a) Let x = 15a, y = 15b. 36x² - 81y² = 9(2x - 3y)(2x + 3y) = 9 × 15 × (factor). 81x² - 9y² = 9(3x - y)(3x + y) = 9 × 15 × (factor). HCF has factor 9 × 15 = 135.
+Sol.103.(c) HCF(12/5, 14/15, 16/17) = HCF(12, 14, 16)/LCM(5, 15, 17) = 2 / 255.
+Sol.104.(b) HCF of two or more numbers is the highest number which perfectly divides all the given numbers.
