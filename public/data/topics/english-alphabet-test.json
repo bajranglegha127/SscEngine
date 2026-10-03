@@ -1,0 +1,5636 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-10-03",
+  "topicId": "english-alphabet-test",
+  "topicName": "English Alphabet Test",
+  "category": "Reasoning",
+  "sourcePdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+  "isSample": false,
+  "questions": [
+    {
+      "id": "alphabet-test-0001",
+      "globalNumber": 1,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Design 2. Test 3. Conceptualize 4. Develop 5. Implement",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों की व्यवस्था को तार्किक और सार्थक क्रम में दर्शाता है।\n1. डिज़ाइन (Design) 2. परीक्षण (Test) 3. संकल्पना (Conceptualize) 4. विकास (Develop) 5. कार्यान्वयन (Implement)",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 1, 4, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 1, 5, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "1, 4, 5, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 2, 4, 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Conceptualize (3): First step to generate an idea -> Design (1): Create detailed blueprints -> Develop (4): Actual development -> Test (2): Testing to identify and fix issues -> Implement (5): Launch for actual use. Sequence: 3, 1, 4, 2, 5.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "18 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 1
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-6a82734a"
+    },
+    {
+      "id": "alphabet-test-0002",
+      "globalNumber": 2,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed using the first, third, sixth, and seventh letters of the word RECOGNIZE (when counted from left to right) using all the letters but each letter only once in each word?",
+      "questionHindi": "शब्द RECOGNIZE के पहले, तीसरे, छठे और सातवें अक्षरों (बाएँ से दाएँ गिने जाने पर) का उपयोग करके अंग्रेजी के कितने अर्थपूर्ण शब्द बनाए जा सकते हैं यदि प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया जाए?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One / एक"
+        },
+        {
+          "id": "B",
+          "text": "Two / दो"
+        },
+        {
+          "id": "C",
+          "text": "None / कोई नहीं"
+        },
+        {
+          "id": "D",
+          "text": "Three / तीन"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Letters obtained from RECOGNIZE: 1st=R, 3rd=C, 6th=N, 7th=I. Using letters {R, C, N, I}, no meaningful English word can be formed.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "18 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 2
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9e9f6237"
+    },
+    {
+      "id": "alphabet-test-0003",
+      "globalNumber": 3,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Delivery 2. Finished Paper 3. Dry 4. Pulp 5. Press",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों के तार्किक और सार्थक क्रम में व्यवस्थापन को दर्शाता है।\n1. Delivery / डिलिवरी 2. Finished Paper / तैयार कागज 3. Dry / सूखा 4. Pulp / गूदा 5. Press / प्रेस",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 2, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 5, 4, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 2, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 3, 2, 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pulp (4) -> Press (5) -> Dry (3) -> Finished Paper (2) -> Delivery (1). Sequence: 4, 5, 3, 2, 1.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "18 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 3
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9d469599"
+    },
+    {
+      "id": "alphabet-test-0004",
+      "globalNumber": 4,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many six-lettered meaningful words can be formed using all these letters but each letter only once in the word: R F I G E D",
+      "questionHindi": "इन सभी अक्षरों का उपयोग करके कितने छह अक्षरों वाले सार्थक शब्द बनाए जा सकते हैं लेकिन प्रत्येक अक्षर शब्द में केवल एक बार होता है: R F I G E D",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two / दो"
+        },
+        {
+          "id": "B",
+          "text": "Four / चार"
+        },
+        {
+          "id": "C",
+          "text": "One / एक"
+        },
+        {
+          "id": "D",
+          "text": "Three / तीन"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Only one meaningful six-letter English word can be formed: FRIDGE.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "20 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 4
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-ed86bca2"
+    },
+    {
+      "id": "alphabet-test-0005",
+      "globalNumber": 5,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Plant 2. Pollination 3. Seed 4. Seedling 5. Fruit",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों के व्यवस्थापन को तार्किक और सार्थक क्रम में दर्शाता हो।\n1. Plant / पौधा 2. Pollination / परागण 3. Seed / बीज 4. Seedling / अंकुर 5. Fruit / फल",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 1, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 1, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 2, 5, 3"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 1, 5, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Seed (3) -> Seedling (4) -> Plant (1) -> Pollination (2) -> Fruit (5). Sequence: 3, 4, 1, 2, 5.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "20 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 5
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-5162cef8"
+    },
+    {
+      "id": "alphabet-test-0006",
+      "globalNumber": 6,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Set goals 2. Budget 3. Review 4. Invest 5. Assess",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए, जो निम्नलिखित शब्दों की व्यवस्था को तार्किक और सार्थक क्रम में दर्शाता है।\n1. लक्ष्य निर्धारित करना (Set goals) 2. बजट (Budget) 3. समीक्षा (Review) 4. निवेश (Invest) 5. आकलन (Assess)",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 5, 2, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 4, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 1, 2, 3, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 1, 2, 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Set goals (1) -> Assess (5) -> Budget (2) -> Invest (4) -> Review (3). Sequence: 1, 5, 2, 4, 3.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2025,
+        "shift": "20 Jan 2025"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 6
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-fa992670"
+    },
+    {
+      "id": "alphabet-test-0007",
+      "globalNumber": 7,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Literacy 2- Literature 3- Litany 4- Listen 5- Lithograph",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की अंग्रेजी शब्दकोश में उनके क्रम में सही व्यवस्था को इंगित करता है।\n1- Literacy 2- Literature 3- Litany 4- Listen 5- Lithograph",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 1, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 1, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 4, 3, 2, 5"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 3, 5, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Listen (4) -> Litany (3) -> Literacy (1) -> Literature (2) -> Lithograph (5). Correct sequence: 4, 3, 1, 2, 5.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 7
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9a4995ea"
+    },
+    {
+      "id": "alphabet-test-0008",
+      "globalNumber": 8,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. PARALLEL 2. PARADISE 3. PARAGRAPH 4. PARALLELISM 5. PARASITE",
+      "questionHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित करें:\n1. PARALLEL 2. PARADISE 3. PARAGRAPH 4. PARALLELISM 5. PARASITE",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 1, 4, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 4, 3, 5"
+        },
+        {
+          "id": "C",
+          "text": "2, 3, 4, 5, 1"
+        },
+        {
+          "id": "D",
+          "text": "2, 3, 1, 4, 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Alphabetical order: PARADISE (2) -> PARAGRAPH (3) -> PARALLEL (1) -> PARALLELISM (4) -> PARASITE (5). Correct sequence: 2, 3, 1, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "29 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 1,
+        "originalQuestionNumber": 8
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9027aa37"
+    },
+    {
+      "id": "alphabet-test-0009",
+      "globalNumber": 9,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful four-letter English words can be formed using the second, third, fifth and seventh letters of the word TOURIST (when counted from left to right) using each letter only once in each word.",
+      "questionHindi": "शब्द TOURIST के दूसरे, तीसरे, पांचवें और सातवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग करते हुए कितने सार्थक चार-अक्षरीय अंग्रेजी शब्द बनाए जा सकते हैं।",
+      "options": [
+        {
+          "id": "A",
+          "text": "None / कोई नहीं"
+        },
+        {
+          "id": "B",
+          "text": "Two / दो"
+        },
+        {
+          "id": "C",
+          "text": "One / एक"
+        },
+        {
+          "id": "D",
+          "text": "More than two / दो से अधिक"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Letters from TOURIST: 2nd=O, 3rd=U, 5th=I, 7th=T -> {O, U, I, T}. No meaningful 4-letter English word can be formed.",
+      "exam": {
+        "name": "SSC CHSL Tier II",
+        "year": 2024,
+        "shift": "10 Jan 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 9
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-21651d7f"
+    },
+    {
+      "id": "alphabet-test-0010",
+      "globalNumber": 10,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful four-letter English words can be formed using the first, fourth, fifth and sixth letters of the word SAVOUR (when counted from left to right) using each letter only once in each word.",
+      "questionHindi": "शब्द SAVOUR के पहले, चौथे, पांचवें और छठे अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग करते हुए कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं।",
+      "options": [
+        {
+          "id": "A",
+          "text": "One / एक"
+        },
+        {
+          "id": "B",
+          "text": "More than two / दो से अधिक"
+        },
+        {
+          "id": "C",
+          "text": "Two / दो"
+        },
+        {
+          "id": "D",
+          "text": "None / कोई नहीं"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Letters from SAVOUR: 1st=S, 4th=O, 5th=U, 6th=R -> {S, O, U, R}. Two meaningful words can be formed: SOUR and OURS.",
+      "exam": {
+        "name": "SSC CHSL Tier II",
+        "year": 2024,
+        "shift": "10 Jan 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 10
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-82b553bb"
+    },
+    {
+      "id": "alphabet-test-0011",
+      "globalNumber": 11,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Elate 2- Election 3- Elbow 4- Elastic 5- Electoral",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की उसी क्रम में सही व्यवस्था दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1- Elate 2- Election 3- Elbow 4- Elastic 5- Electoral",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 3, 4, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 2, 1, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 4, 5, 2, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 3, 2, 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Elastic (4) -> Elate (1) -> Elbow (3) -> Election (2) -> Electoral (5). Correct sequence: 4, 1, 3, 2, 5.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 11
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-89ed8a1d"
+    },
+    {
+      "id": "alphabet-test-0012",
+      "globalNumber": 12,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. MYSTERY 2. MYSTICAL 3. MYTHOLOGY 4. MYSTERIOUS 5. MYTHICAL",
+      "questionHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित कीजिए:\n1. MYSTERY 2. MYSTICAL 3. MYTHOLOGY 4. MYSTERIOUS 5. MYTHICAL",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 2, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "4, 2, 5, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 5, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 2, 3, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: MYSTERIOUS (4) -> MYSTERY (1) -> MYSTICAL (2) -> MYTHICAL (5) -> MYTHOLOGY (3). Correct sequence: 4, 1, 2, 5, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "29 Feb 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 12
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-de5beba6"
+    },
+    {
+      "id": "alphabet-test-0013",
+      "globalNumber": 13,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Lid 2. Lick 3. Lien 4. Lie 5. Lieu",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Lid 2. Lick 3. Lien 4. Lie 5. Lieu",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 1, 3, 5"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 4, 3, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 4, 3, 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Lick (2) -> Lid (1) -> Lie (4) -> Lien (3) -> Lieu (5). Correct sequence: 2, 1, 4, 3, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "29 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 13
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-3e5e5a43"
+    },
+    {
+      "id": "alphabet-test-0014",
+      "globalNumber": 14,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Liberal 2. Libra 3. Library 4. Libel 5. Liability",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Liberal 2. Libra 3. Library 4. Libel 5. Liability",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 5, 2, 1, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 1, 2, 3"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 1, 2, 3"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 1, 3, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Liability (5) -> Libel (4) -> Liberal (1) -> Libra (2) -> Library (3). Correct sequence: 5, 4, 1, 2, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "29 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 14
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f98200ab"
+    },
+    {
+      "id": "alphabet-test-0015",
+      "globalNumber": 15,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at third position?\n1. Small 2. Smart 3. Smack 4. Smash 5. Smatter",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द तीसरे स्थान पर आएगा?\n1. Small 2. Smart 3. Smack 4. Smash 5. Smatter",
+      "options": [
+        {
+          "id": "A",
+          "text": "Small"
+        },
+        {
+          "id": "B",
+          "text": "Smack"
+        },
+        {
+          "id": "C",
+          "text": "Smash"
+        },
+        {
+          "id": "D",
+          "text": "Smart"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Smack -> Small -> Smart -> Smash -> Smatter. The word at the third position is Smart.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "20 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 15
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-160d3af8"
+    },
+    {
+      "id": "alphabet-test-0016",
+      "globalNumber": 16,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Let 2. Lethargy 3. Letter 4. Lethal 5. Lest",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए जिसमें वे शब्दकोश में आते हैं।\n1. Let 2. Lethargy 3. Letter 4. Lethal 5. Lest",
+      "options": [
+        {
+          "id": "A",
+          "text": "15324"
+        },
+        {
+          "id": "B",
+          "text": "51423"
+        },
+        {
+          "id": "C",
+          "text": "15234"
+        },
+        {
+          "id": "D",
+          "text": "51243"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Lest (5) -> Let (1) -> Lethal (4) -> Lethargy (2) -> Letter (3). Sequence: 5, 1, 4, 2, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "20 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 16
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-70e15835"
+    },
+    {
+      "id": "alphabet-test-0017",
+      "globalNumber": 17,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Dear 2. Dean 3. Deal 4. Dead 5. Death",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Dear 2. Dean 3. Deal 4. Dead 5. Death",
+      "options": [
+        {
+          "id": "A",
+          "text": "13254"
+        },
+        {
+          "id": "B",
+          "text": "43251"
+        },
+        {
+          "id": "C",
+          "text": "43215"
+        },
+        {
+          "id": "D",
+          "text": "13245"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Dead (4) -> Deal (3) -> Dean (2) -> Dear (1) -> Death (5). Sequence: 4, 3, 2, 1, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "20 Feb 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 2,
+        "originalQuestionNumber": 17
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-070732a4"
+    },
+    {
+      "id": "alphabet-test-0018",
+      "globalNumber": 18,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Ferocious 2. Fervor 3. Fiction 4. Faith 5. Feign 6. Ferment",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के सही उस क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Ferocious 2. Fervor 3. Fiction 4. Faith 5. Feign 6. Ferment",
+      "options": [
+        {
+          "id": "A",
+          "text": "6, 5, 2, 1, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "6, 4, 5, 3, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "4, 6, 5, 2, 1, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 6, 1, 2, 3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Faith (4) -> Feign (5) -> Ferment (6) -> Ferocious (1) -> Fervor (2) -> Fiction (3). Correct sequence: 4, 5, 6, 1, 2, 3.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 18
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-89b387dc"
+    },
+    {
+      "id": "alphabet-test-0019",
+      "globalNumber": 19,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Temperament 2. Tenure 3. Tenant 4. Tender 5. Temptation 6. Temperature",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही उस क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Temperament 2. Tenure 3. Tenant 4. Tender 5. Temptation 6. Temperature",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 6, 5, 2, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 6, 5, 3, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "1, 6, 5, 3, 4, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 6, 5, 2, 3, 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Temperament (1) -> Temperature (6) -> Temptation (5) -> Tenant (3) -> Tender (4) -> Tenure (2). Sequence: 1, 6, 5, 3, 4, 2.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 19
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d839777f"
+    },
+    {
+      "id": "alphabet-test-0020",
+      "globalNumber": 20,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Dermatology 2. Derogation 3. Derivative 4. Derailed 5. Dermestid 6. Deregulation",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Dermatology 2. Derogation 3. Derivative 4. Derailed 5. Dermestid 6. Deregulation",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 2, 1, 5, 6"
+        },
+        {
+          "id": "B",
+          "text": "4, 6, 3, 2, 1, 5"
+        },
+        {
+          "id": "C",
+          "text": "4, 6, 3, 1, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 6, 1, 5, 3, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Derailed (4) -> Deregulation (6) -> Derivative (3) -> Dermatology (1) -> Dermestid (5) -> Derogation (2). Sequence: 4, 6, 3, 1, 5, 2.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 20
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-2cebe157"
+    },
+    {
+      "id": "alphabet-test-0021",
+      "globalNumber": 21,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Consistence 2. Conscience 3. Conflagration 4. Consequence 5. Considerable 6. Consignment",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Consistence 2. Conscience 3. Conflagration 4. Consequence 5. Considerable 6. Consignment",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 2, 5, 6, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 2, 3, 5, 1, 6"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 2, 5, 6, 1"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 4, 5, 6, 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Conflagration (3) -> Conscience (2) -> Consequence (4) -> Considerable (5) -> Consignment (6) -> Consistence (1). Sequence: 3, 2, 4, 5, 6, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "27 June 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 21
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-4d3029c3"
+    },
+    {
+      "id": "alphabet-test-0022",
+      "globalNumber": 22,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word comes at the 'Fourth' position?\n1. Wheel 2. Wheat 3. Whale 4. Whet 5. When",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द 'चौथे' स्थान पर आएगा?\n1. Wheel 2. Wheat 3. Whale 4. Whet 5. When",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wheat"
+        },
+        {
+          "id": "B",
+          "text": "When"
+        },
+        {
+          "id": "C",
+          "text": "Whet"
+        },
+        {
+          "id": "D",
+          "text": "Wheel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Whale (3) -> Wheat (2) -> Wheel (1) -> When (5) -> Whet (4). The fourth word is When.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "20 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 22
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-dbd966c3"
+    },
+    {
+      "id": "alphabet-test-0023",
+      "globalNumber": 23,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Kibble 2- Kennel 3- Kettle 4- Kicker 5- Kernel",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की अंग्रेजी शब्दकोश में उनके क्रम में सही व्यवस्था को इंगित करता है।\n1- Kibble 2- Kennel 3- Kettle 4- Kicker 5- Kernel",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "2, 5, 3, 1, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 3, 2, 1, 4"
+        },
+        {
+          "id": "D",
+          "text": "2, 3, 5, 4, 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Kennel (2) -> Kernel (5) -> Kettle (3) -> Kibble (1) -> Kicker (4). Sequence: 2, 5, 3, 1, 4.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "28 June 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 23
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-ee95dc1f"
+    },
+    {
+      "id": "alphabet-test-0024",
+      "globalNumber": 24,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Infant 2. Indolent 3. Inert 4. Infamous 5. Inefficient 6. Ineffable",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Infant 2. Indolent 3. Inert 4. Infamous 5. Inefficient 6. Ineffable",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 6, 5, 3, 4, 1"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 3, 2, 1, 6"
+        },
+        {
+          "id": "C",
+          "text": "5, 3, 4, 6, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "2, 5, 6, 1, 4, 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Indolent (2) -> Ineffable (6) -> Inefficient (5) -> Inert (3) -> Infamous (4) -> Infant (1). Sequence: 2, 6, 5, 3, 4, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "28 June 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 3,
+        "originalQuestionNumber": 24
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-530bb8c0"
+    },
+    {
+      "id": "alphabet-test-0025",
+      "globalNumber": 25,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Incest 2- Inception 3- Incense 4- Incapacity 5- Incentive",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों की सही व्यवस्था को उसी क्रम में दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1- Incest 2- Inception 3- Incense 4- Incapacity 5- Incentive",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 3, 2, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 5, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 3, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 3, 2, 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Incapacity (4) -> Incense (3) -> Incentive (5) -> Inception (2) -> Incest (1). Sequence: 4, 3, 5, 2, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "28 June 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 25
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-710094f0"
+    },
+    {
+      "id": "alphabet-test-0026",
+      "globalNumber": 26,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Dinnerware 2. Dingiest 3. Dinosaurs 4. Dinucleotide 5. Dinkier 6. Dingling",
+      "questionHindi": "उस विकल्प का चयन कीजिए जो दिए गए शब्दों के सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Dinnerware 2. Dingiest 3. Dinosaurs 4. Dinucleotide 5. Dinkier 6. Dingling",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 6, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "2, 6, 3, 5, 1, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 6, 3, 1, 4"
+        },
+        {
+          "id": "D",
+          "text": "2, 6, 5, 1, 3, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Dingiest (2) -> Dingling (6) -> Dinkier (5) -> Dinnerware (1) -> Dinosaurs (3) -> Dinucleotide (4). Sequence: 2, 6, 5, 1, 3, 4.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "28 June 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 26
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-cce32812"
+    },
+    {
+      "id": "alphabet-test-0027",
+      "globalNumber": 27,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed with the letters CKIK, using each letter only once in each word?",
+      "questionHindi": "प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करते हुए, CKIK अक्षरों से कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Only 1 meaningful word can be formed with letters CKIK: KICK.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2024,
+        "shift": "01 July 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 27
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-faaf3fa5"
+    },
+    {
+      "id": "alphabet-test-0028",
+      "globalNumber": 28,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. MISSION 2. MISSED 3. MISSING 4. MIST 5. MIGHT",
+      "questionHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. MISSION 2. MISSED 3. MISSING 4. MIST 5. MIGHT",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 3, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 3, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "5, 1, 3, 4, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alphabetical order: MIGHT (5) -> MISSED (2) -> MISSING (3) -> MISSION (1) -> MIST (4). Sequence: 5, 2, 3, 1, 4.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "21 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 28
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-fb051e0d"
+    },
+    {
+      "id": "alphabet-test-0029",
+      "globalNumber": 29,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the following words in alphabetical order:\n1. CONFUSION 2. CONFIDENCE 3. CONFIRM 4. CONFLICT 5. CONDUCTOR",
+      "questionHindi": "निम्नलिखित शब्दों को वर्णानुक्रम में व्यवस्थित कीजिए:\n1. CONFUSION 2. CONFIDENCE 3. CONFIRM 4. CONFLICT 5. CONDUCTOR",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 4, 1"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 1, 3, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 3, 1, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 2, 4, 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alphabetical order: CONDUCTOR (5) -> CONFIDENCE (2) -> CONFIRM (3) -> CONFLICT (4) -> CONFUSION (1). Sequence: 5, 2, 3, 4, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "22 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 29
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9b9e729f"
+    },
+    {
+      "id": "alphabet-test-0030",
+      "globalNumber": 30,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Line 2. Linament 3. Linger 4. Linear 5. Linguist",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Line 2. Linament 3. Linger 4. Linear 5. Linguist",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 4, 3, 5"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 3, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 4, 3, 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Linament (2) -> Line (1) -> Linear (4) -> Linger (3) -> Linguist (5). Sequence: 2, 1, 4, 3, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "21 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 30
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-39b1fdb1"
+    },
+    {
+      "id": "alphabet-test-0031",
+      "globalNumber": 31,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at 'Fifth' position?\n1. Whip 2. While 3. White 4. Whisk 5. Whiff",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन सा शब्द 'पांचवें' स्थान पर आएगा?\n1. Whip 2. While 3. White 4. Whisk 5. Whiff",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whisk"
+        },
+        {
+          "id": "B",
+          "text": "Whip"
+        },
+        {
+          "id": "C",
+          "text": "While"
+        },
+        {
+          "id": "D",
+          "text": "White"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Whiff (5) -> While (2) -> Whip (1) -> Whisk (4) -> White (3). Word at the fifth position is White.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "21 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 31
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1c36abcd"
+    },
+    {
+      "id": "alphabet-test-0032",
+      "globalNumber": 32,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Debate 2. Debark 3. Debar 4. Debauch 5. Debenture",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Debate 2. Debark 3. Debar 4. Debauch 5. Debenture",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,2,3,5,4"
+        },
+        {
+          "id": "B",
+          "text": "3,2,1,5,4"
+        },
+        {
+          "id": "C",
+          "text": "1,2,3,4,5"
+        },
+        {
+          "id": "D",
+          "text": "3,2,1,4,5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Debar (3) -> Debark (2) -> Debate (1) -> Debauch (4) -> Debenture (5). Sequence: 3, 2, 1, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "22 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 32
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1a0ce7c2"
+    },
+    {
+      "id": "alphabet-test-0033",
+      "globalNumber": 33,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at third position?\n1. Recent 2. Receive 3. Recant 4. Recess 5. Recall",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन सा शब्द तीसरे स्थान पर आएगा?\n1. Recent 2. Receive 3. Recant 4. Recess 5. Recall",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recess"
+        },
+        {
+          "id": "B",
+          "text": "Receive"
+        },
+        {
+          "id": "C",
+          "text": "Recent"
+        },
+        {
+          "id": "D",
+          "text": "Recant"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Recall (5) -> Recant (3) -> Receive (2) -> Recent (1) -> Recess (4). Word at the third position is Receive.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "22 Feb 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 4,
+        "originalQuestionNumber": 33
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-fb67f788"
+    },
+    {
+      "id": "alphabet-test-0034",
+      "globalNumber": 34,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Example 2. Examine 3. Examination 4. Exact 5. Exactly",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश में आने वाले क्रम में व्यवस्थित करें।\n1. Example 2. Examine 3. Examination 4. Exact 5. Exactly",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,5,4,3,2"
+        },
+        {
+          "id": "B",
+          "text": "4,5,3,1,2"
+        },
+        {
+          "id": "C",
+          "text": "4,5,3,2,1"
+        },
+        {
+          "id": "D",
+          "text": "5,1,4,3,2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Exact (4) -> Exactly (5) -> Examination (3) -> Examine (2) -> Example (1). Sequence: 4, 5, 3, 2, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "22 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 34
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-ed6147c5"
+    },
+    {
+      "id": "alphabet-test-0035",
+      "globalNumber": 35,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Clamber 2. Clam 3. Claim 4. Clag 5. Clad",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Clamber 2. Clam 3. Claim 4. Clag 5. Clad",
+      "options": [
+        {
+          "id": "A",
+          "text": "1,2,3,4,5"
+        },
+        {
+          "id": "B",
+          "text": "5,4,3,2,1"
+        },
+        {
+          "id": "C",
+          "text": "1,2,3,5,4"
+        },
+        {
+          "id": "D",
+          "text": "5,4,3,1,2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Clad (5) -> Clag (4) -> Claim (3) -> Clam (2) -> Clamber (1). Sequence: 5, 4, 3, 2, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "22 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 35
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-71a5fe80"
+    },
+    {
+      "id": "alphabet-test-0036",
+      "globalNumber": 36,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Lens 2. Lenient 3. Length 4. Lend 5. Lent",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश में आने वाले क्रम में व्यवस्थित करें।\n1. Lens 2. Lenient 3. Length 4. Lend 5. Lent",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 2, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 5, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 2, 1, 5"
+        },
+        {
+          "id": "D",
+          "text": "4, 3, 2, 5, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Lend (4) -> Length (3) -> Lenient (2) -> Lens (1) -> Lent (5). Sequence: 4, 3, 2, 1, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "24 Feb 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 36
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-290156b9"
+    },
+    {
+      "id": "alphabet-test-0037",
+      "globalNumber": 37,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. Cook 2. Book 3. Took 4. Look 5. Shook",
+      "questionHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. Cook 2. Book 3. Took 4. Look 5. Shook",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 1, 4, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 5, 4, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "2, 3, 1, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 4, 5, 3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Alphabetical order: Book (2) -> Cook (1) -> Look (4) -> Shook (5) -> Took (3). Sequence: 2, 1, 4, 5, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "24 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 37
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-37d4883d"
+    },
+    {
+      "id": "alphabet-test-0038",
+      "globalNumber": 38,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. Tender 2. Thankful 3. Tactful 4. Tablespoon 5. Tasty",
+      "questionHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. Tender 2. Thankful 3. Tactful 4. Tablespoon 5. Tasty",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 5, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 5, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 5, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 2, 1, 3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alphabetical order: Tablespoon (4) -> Tactful (3) -> Tasty (5) -> Tender (1) -> Thankful (2). Sequence: 4, 3, 5, 1, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "24 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 38
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b82d1312"
+    },
+    {
+      "id": "alphabet-test-0039",
+      "globalNumber": 39,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. PINK 2. PING 3. PICK 4. PULL 5. PUSH",
+      "questionHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित करें:\n1. PINK 2. PING 3. PICK 4. PULL 5. PUSH",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 2, 1, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 1, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 2, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 4, 2, 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alphabetical order: PICK (3) -> PING (2) -> PINK (1) -> PULL (4) -> PUSH (5). Sequence: 3, 2, 1, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "26 Feb 2024 - Shift 1"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 39
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b9ef00ba"
+    },
+    {
+      "id": "alphabet-test-0040",
+      "globalNumber": 40,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at 'Third' position?\n1. Sloven 2. Slow 3. Slough 4. Slobber 5. Slouch",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Sloven 2. Slow 3. Slough 4. Slobber 5. Slouch",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slow"
+        },
+        {
+          "id": "B",
+          "text": "Slough"
+        },
+        {
+          "id": "C",
+          "text": "Slouch"
+        },
+        {
+          "id": "D",
+          "text": "Sloven"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Slobber (4) -> Slouch (5) -> Slough (3) -> Sloven (1) -> Slow (2). Word at third position is Slough.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "26 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Easy",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 40
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-62faa9b8"
+    },
+    {
+      "id": "alphabet-test-0041",
+      "globalNumber": 41,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Consume 2. Consumer 3. Consult 4. Contact 5. Contain",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Consume 2. Consumer 3. Consult 4. Contact 5. Contain",
+      "options": [
+        {
+          "id": "A",
+          "text": "3,1,2,5,4"
+        },
+        {
+          "id": "B",
+          "text": "3,1,2,4,5"
+        },
+        {
+          "id": "C",
+          "text": "1,2,4,5,3"
+        },
+        {
+          "id": "D",
+          "text": "1,2,3,5,4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Consult (3) -> Consume (1) -> Consumer (2) -> Contact (4) -> Contain (5). Sequence: 3, 1, 2, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "26 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 41
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1b33bd5c"
+    },
+    {
+      "id": "alphabet-test-0042",
+      "globalNumber": 42,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Purposively 2. Pursuit 3. Purgatory 4. Purify 5. Purports 6. Purchased",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Purposively 2. Pursuit 3. Purgatory 4. Purify 5. Purports 6. Purchased",
+      "options": [
+        {
+          "id": "A",
+          "text": "6, 3, 1, 5, 4, 2"
+        },
+        {
+          "id": "B",
+          "text": "6, 3, 4, 5, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 3, 1, 6, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 6, 3, 1, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Purchased (6) -> Purgatory (3) -> Purify (4) -> Purports (5) -> Purposively (1) -> Pursuit (2). Sequence: 6, 3, 4, 5, 1, 2.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "29 June 2024 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 5,
+        "originalQuestionNumber": 42
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-5ab043cd"
+    },
+    {
+      "id": "alphabet-test-0043",
+      "globalNumber": 43,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Winterish 2. Wingspread 3. Windblast 4. Wintertide 5. Windscreen 6. Winkling",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Winterish 2. Wingspread 3. Windblast 4. Wintertide 5. Windscreen 6. Winkling",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 2, 6, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 4, 2, 6, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 5, 2, 4, 6, 1"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 2, 4, 1, 6"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Windblast (3) -> Windscreen (5) -> Wingspread (2) -> Winkling (6) -> Winterish (1) -> Wintertide (4). Sequence: 3, 5, 2, 6, 1, 4.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "29 June 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 43
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-87accb18"
+    },
+    {
+      "id": "alphabet-test-0044",
+      "globalNumber": 44,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Circle 2- Cinema 3- Circus 4- Circumference 5- Cipher",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों को अंग्रेजी शब्दकोष में उनके क्रम के अनुसार सही व्यवस्था दर्शाता है।\n1- Circle 2- Cinema 3- Circus 4- Circumference 5- Cipher",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 5, 1, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 5, 4, 3"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 4, 1, 3"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 3, 1, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Cinema (2) -> Cipher (5) -> Circle (1) -> Circumference (4) -> Circus (3). Sequence: 2, 5, 1, 4, 3.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "29 June 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 44
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-112b15b0"
+    },
+    {
+      "id": "alphabet-test-0045",
+      "globalNumber": 45,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Breathable 2. Brevetting 3. Breakfast 4. Breviaries 5. Breacher 6. Breakthrough",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Breathable 2. Brevetting 3. Breakfast 4. Breviaries 5. Breacher 6. Breakthrough",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 6, 3, 1, 4, 2"
+        },
+        {
+          "id": "B",
+          "text": "6, 5, 3, 1, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "6, 3, 5, 1, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "5, 3, 6, 1, 2, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Breacher (5) -> Breakfast (3) -> Breakthrough (6) -> Breathable (1) -> Brevetting (2) -> Breviaries (4). Sequence: 5, 3, 6, 1, 2, 4.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "28 June 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 45
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f640404c"
+    },
+    {
+      "id": "alphabet-test-0046",
+      "globalNumber": 46,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Junction 2- Jupiter 3- Jungle 4- Jump 5- Juncture",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की उसी क्रम में सही व्यवस्था दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1- Junction 2- Jupiter 3- Jungle 4- Jump 5- Juncture",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 5, 4, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 5, 4, 3"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 3, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 5, 3, 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Jump (4) -> Junction (1) -> Juncture (5) -> Jungle (3) -> Jupiter (2). Sequence: 4, 1, 5, 3, 2.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "29 June 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 46
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b5c77ec4"
+    },
+    {
+      "id": "alphabet-test-0047",
+      "globalNumber": 47,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Larkiness 2. Larcenist 3. Larceners 4. Lariated 5. Laryngal 6. Largely",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Larkiness 2. Larcenist 3. Larceners 4. Lariated 5. Laryngal 6. Largely",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 2, 1, 4, 6, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 2, 1, 6, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "3, 2, 4, 1, 6, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 6, 4, 1, 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Larceners (3) -> Larcenist (2) -> Largely (6) -> Lariated (4) -> Larkiness (1) -> Laryngal (5). Sequence: 3, 2, 6, 4, 1, 5.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2024,
+        "shift": "29 June 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 47
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1932a631"
+    },
+    {
+      "id": "alphabet-test-0048",
+      "globalNumber": 48,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come in the 'Third' position?\n1. Principal 2. Prince 3. Principle 4. Princess 5. Princely",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Principal 2. Prince 3. Principle 4. Princess 5. Princely",
+      "options": [
+        {
+          "id": "A",
+          "text": "Principal"
+        },
+        {
+          "id": "B",
+          "text": "Princely"
+        },
+        {
+          "id": "C",
+          "text": "Principle"
+        },
+        {
+          "id": "D",
+          "text": "Princess"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Prince -> Princely -> Princess -> Principal -> Principle. Third position word is Princess.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "27 Feb 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 48
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d8e4f362"
+    },
+    {
+      "id": "alphabet-test-0049",
+      "globalNumber": 49,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at 'Third' position?\n1. Shrink 2. Shrug 3. Shriek 4. Shrimp 5. Shred",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद, कौन सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Shrink 2. Shrug 3. Shriek 4. Shrimp 5. Shred",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shrink"
+        },
+        {
+          "id": "B",
+          "text": "Shrug"
+        },
+        {
+          "id": "C",
+          "text": "Shrimp"
+        },
+        {
+          "id": "D",
+          "text": "Shriek"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Shred (5) -> Shriek (3) -> Shrimp (4) -> Shrink (1) -> Shrug (2). Word at third position is Shrimp.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "27 Feb 2024 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 6,
+        "originalQuestionNumber": 49
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-33dfe9fa"
+    },
+    {
+      "id": "alphabet-test-0050",
+      "globalNumber": 50,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. LOST 2. LIST 3. LIKE 4. LONG 5. LATE",
+      "questionHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. LOST 2. LIST 3. LIKE 4. LONG 5. LATE",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 1, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 1, 2, 3, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 3, 2, 4, 1"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 1, 2, 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Alphabetical order: LATE (5) -> LIKE (3) -> LIST (2) -> LONG (4) -> LOST (1). Sequence: 5, 3, 2, 4, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "30 March 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 50
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-7ce32e1f"
+    },
+    {
+      "id": "alphabet-test-0051",
+      "globalNumber": 51,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Light 2. Like 3. Lift 4. Life 5. Lignite",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Light 2. Like 3. Lift 4. Life 5. Lignite",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 1, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 3, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 3, 4, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 3, 1, 5, 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Life (4) -> Lift (3) -> Light (1) -> Lignite (5) -> Like (2). Sequence: 4, 3, 1, 5, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "24 Feb 2024 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 51
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-4ac9ea00"
+    },
+    {
+      "id": "alphabet-test-0052",
+      "globalNumber": 52,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in alphabetical order:\n1. CARROT 2. CUCUMBER 3. CELERY 4. CABBAGE 5. CAULIFLOWER",
+      "questionHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. CARROT 2. CUCUMBER 3. CELERY 4. CABBAGE 5. CAULIFLOWER",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 5, 3, 2"
+        },
+        {
+          "id": "B",
+          "text": "4, 1, 5, 2, 3"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 3, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 1, 3, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alphabetical order: CABBAGE (4) -> CARROT (1) -> CAULIFLOWER (5) -> CELERY (3) -> CUCUMBER (2). Sequence: 4, 1, 5, 3, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "06 March 2024 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 52
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-69eff0e9"
+    },
+    {
+      "id": "alphabet-test-0053",
+      "globalNumber": 53,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Consign 2. Consider 3. Consist 4. Consonant 5. Consolation",
+      "questionHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Consign 2. Consider 3. Consist 4. Consonant 5. Consolation",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 4, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 3, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 4, 3, 5"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 3, 5, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Consider (2) -> Consign (1) -> Consist (3) -> Consolation (5) -> Consonant (4). Sequence: 2, 1, 3, 5, 4.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2024,
+        "shift": "06 March 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 53
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-81cba22f"
+    },
+    {
+      "id": "alphabet-test-0054",
+      "globalNumber": 54,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary?\n1. Immigrate 2. Immediate 3. Immerse 4. Immense 5. Immature",
+      "questionHindi": "निम्नलिखित में से कौन-सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं?\n1. Immigrate 2. Immediate 3. Immerse 4. Immense 5. Immature",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 4, 2, 3, 1"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 4, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 4, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "5, 3, 4, 2, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Immature (5) -> Immediate (2) -> Immense (4) -> Immerse (3) -> Immigrate (1). Sequence: 5, 2, 4, 3, 1.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "10 Dec 2024 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 54
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f0eb1cb8"
+    },
+    {
+      "id": "alphabet-test-0055",
+      "globalNumber": 55,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the following words in a logical and meaningful order.\n1. The United Kingdom 2. World 3. Buckingham Palace 4. London 5. Europe",
+      "questionHindi": "उस विकल्प का चयन कीजिये जो निम्नलिखित शब्दों को तार्किक एवं अर्थपूर्ण क्रम-विन्यास में दर्शाता है।\n1. The United Kingdom / यूनाइटेड किंगडम 2. World / विश्व 3. Buckingham Palace / बकिंघम पैलेस 4. London / लंदन 5. Europe / यूरोप",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 1, 5, 2"
+        },
+        {
+          "id": "B",
+          "text": "1, 3, 5, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 5, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 1, 2, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Arranging from smallest to largest geographical entity: Buckingham Palace (3) -> London (4) -> The United Kingdom (1) -> Europe (5) -> World (2). Sequence: 3, 4, 1, 5, 2.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "10 Dec 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 55
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-aa55f8d6"
+    },
+    {
+      "id": "alphabet-test-0056",
+      "globalNumber": 56,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the following words in a logical and meaningful order.\n1- Square 2- Hexagon 3- Heptagon 4- Triangle 5- Pentagon",
+      "questionHindi": "उस विकल्प का चयन कीजिये जो निम्नलिखित शब्दों को तार्किक एवं अर्थपूर्ण क्रम-विन्यास में दर्शाता है।\n1- Square / वर्ग 2- Hexagon / षट्भुज 3- Heptagon / सप्तभुज 4- Triangle / त्रिभुज 5- Pentagon / पंचभुज",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 5, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 5, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 2, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 3, 4, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Logical order by increasing number of sides: Triangle (4 sides=3) -> Square (1 side=4) -> Pentagon (5 sides=5) -> Hexagon (2 sides=6) -> Heptagon (3 sides=7). Sequence: 4, 1, 5, 2, 3.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "10 Dec 2024 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 56
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9643da1e"
+    },
+    {
+      "id": "alphabet-test-0057",
+      "globalNumber": 57,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed with the letters 'EGMA' using each letter exactly only once in each word?",
+      "questionHindi": "EGMA' अक्षरों से, प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करके कितने अर्थपूर्ण अंग्रेजी शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Three meaningful English words can be formed using letters {E, G, M, A}: GAME, MAGE, MEGA.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "10 Dec 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 57
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-c716f90f"
+    },
+    {
+      "id": "alphabet-test-0058",
+      "globalNumber": 58,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary?\n1. Measurement 2. Methodology 3. Merchandise 4. Meaningless 5. Memorabilia",
+      "questionHindi": "निम्नलिखित में से कौन-सा विकल्प दिए गए शब्दों के उस सही क्रम का निरूपण करता है, जिस क्रम वे अंग्रेजी शब्दकोष में दिखाई देते हैं?\n1. Measurement 2. Methodology 3. Merchandise 4. Meaningless 5. Memorabilia",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 1, 3, 4"
+        },
+        {
+          "id": "B",
+          "text": "2, 3, 4, 5, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 4, 1, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 5, 3, 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Meaningless (4) -> Measurement (1) -> Memorabilia (5) -> Merchandise (3) -> Methodology (2). Sequence: 4, 1, 5, 3, 2.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "10 Dec 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 7,
+        "originalQuestionNumber": 58
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-0f44bd66"
+    },
+    {
+      "id": "alphabet-test-0059",
+      "globalNumber": 59,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that indicates the correct arrangement of the following words in a logical and meaningful order.\n1- Paragraph 2- Letter 3- Word 4- Book 5- Page",
+      "questionHindi": "उस विकल्प का चयन कीजिये जो निम्न शब्दों को तार्किक एवं अर्थपूर्ण क्रम-विन्यास में दर्शाता है।\n1- Paragraph / पैराग्राफ 2- Letter / अक्षर 3- Word / शब्द 4- Book / पुस्तक 5- Page / पेज",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 3, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 2, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "2, 3, 1, 5, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Letter (2) -> Word (3) -> Paragraph (1) -> Page (5) -> Book (4). Sequence: 2, 3, 1, 5, 4.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2024,
+        "shift": "11 Dec 2024 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 59
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b4880d73"
+    },
+    {
+      "id": "alphabet-test-0060",
+      "globalNumber": 60,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Straight 2. Strict 3. Stamp 4. Sticker 5. Streaming",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Straight 2. Strict 3. Stamp 4. Sticker 5. Streaming",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 4, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "4, 5, 2, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 1, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "4, 3, 1, 5, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Stamp (3) -> Sticker (4) -> Straight (1) -> Streaming (5) -> Strict (2). Sequence: 3, 4, 1, 5, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "24 Jan 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 60
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-dfec6fe9"
+    },
+    {
+      "id": "alphabet-test-0061",
+      "globalNumber": 61,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Mountain 2. Mould 3. Monster 4. Mouth 5. Moving",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में प्रदर्शित होंगे?\n1. Mountain 2. Mould 3. Monster 4. Mouth 5. Moving",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 1, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 2, 1, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "4, 3, 2, 1, 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Monster (3) -> Mould (2) -> Mountain (1) -> Mouth (4) -> Moving (5). Sequence: 3, 2, 1, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "16 Jan 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 61
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-642a52ab"
+    },
+    {
+      "id": "alphabet-test-0062",
+      "globalNumber": 62,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary?\n1. Jalopy 2. Jabber 3. Jackpot 4. Jackdaw 5. Jackal",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए, जो दिए गए शब्दों की व्यवस्था को उसी क्रम में दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Jalopy 2. Jabber 3. Jackpot 4. Jackdaw 5. Jackal",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 5, 4, 3, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 5, 2, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 2, 4, 5, 1"
+        },
+        {
+          "id": "D",
+          "text": "2, 4, 3, 1, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Jabber (2) -> Jackal (5) -> Jackdaw (4) -> Jackpot (3) -> Jalopy (1). Sequence: 2, 5, 4, 3, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "03 Oct 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 62
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9fc8a329"
+    },
+    {
+      "id": "alphabet-test-0063",
+      "globalNumber": 63,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Glory 2. Glossary 3. Globe 4. Gloss 5. Glow 6. Gloomy",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए, जो दिए गए शब्दों की व्यवस्था को उसी क्रम में दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Glory 2. Glossary 3. Globe 4. Gloss 5. Glow 6. Gloomy",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 1, 6, 4, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 6, 1, 2, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "3, 6, 1, 4, 2, 5"
+        },
+        {
+          "id": "D",
+          "text": "6, 3, 1, 4, 2, 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Globe (3) -> Gloomy (6) -> Glory (1) -> Gloss (4) -> Glossary (2) -> Glow (5). Sequence: 3, 6, 1, 4, 2, 5.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "03 Oct 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 63
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f1d25751"
+    },
+    {
+      "id": "alphabet-test-0064",
+      "globalNumber": 64,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Lambast 2. Lighten 3. Legacy 4. Languish 5. Laughter 6. Lightly",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Lambast 2. Lighten 3. Legacy 4. Languish 5. Laughter 6. Lightly",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 5, 3, 2, 6"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 5, 2, 3, 6"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 4, 2, 3, 6"
+        },
+        {
+          "id": "D",
+          "text": "1, 5, 4, 3, 6, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Lambast (1) -> Languish (4) -> Laughter (5) -> Legacy (3) -> Lighten (2) -> Lightly (6). Sequence: 1, 4, 5, 3, 2, 6.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "17 July 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 64
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-3952f23d"
+    },
+    {
+      "id": "alphabet-test-0065",
+      "globalNumber": 65,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary?\n1. Highway 2. History 3. Hired 4. Hierarchy 5. Hibiscus",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Highway 2. History 3. Hired 4. Hierarchy 5. Hibiscus",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 4, 3, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 3, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 1, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 2, 1, 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Hibiscus (5) -> Hierarchy (4) -> Highway (1) -> Hired (3) -> History (2). Sequence: 5, 4, 1, 3, 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "17 July 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 8,
+        "originalQuestionNumber": 65
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b3e49cda"
+    },
+    {
+      "id": "alphabet-test-0066",
+      "globalNumber": 66,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary?\n1. Greed 2. Green 3. Grown 4. Grip 5. Granite",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Greed 2. Green 3. Grown 4. Grip 5. Granite",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 1, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 1, 2, 3"
+        },
+        {
+          "id": "C",
+          "text": "5, 1, 2, 4, 3"
+        },
+        {
+          "id": "D",
+          "text": "5, 1, 4, 3, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Granite (5) -> Greed (1) -> Green (2) -> Grip (4) -> Grown (3). Sequence: 5, 1, 2, 4, 3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "17 July 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 66
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-4b3c2197"
+    },
+    {
+      "id": "alphabet-test-0067",
+      "globalNumber": 67,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Decline 2. Decouple 3. Decrease 4. Decorate 5. Decorum 6. Decode",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Decline 2. Decouple 3. Decrease 4. Decorate 5. Decorum 6. Decode",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 6, 4, 5, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 6, 2, 5, 3"
+        },
+        {
+          "id": "C",
+          "text": "1, 6, 4, 2, 5, 3"
+        },
+        {
+          "id": "D",
+          "text": "1, 6, 5, 4, 2, 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Decline (1) -> Decode (6) -> Decorate (4) -> Decorum (5) -> Decouple (2) -> Decrease (3). Sequence: 1, 6, 4, 5, 2, 3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "18 July 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 67
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-c25df8ac"
+    },
+    {
+      "id": "alphabet-test-0068",
+      "globalNumber": 68,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Believe 2. Breathe 3. Bereave 4. Blight 5. Brave 6. Banter",
+      "questionHindi": "उस विकल्प का चयन कीजिए जो दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Believe 2. Breathe 3. Bereave 4. Blight 5. Brave 6. Banter",
+      "options": [
+        {
+          "id": "A",
+          "text": "6, 1, 3, 4, 5, 2"
+        },
+        {
+          "id": "B",
+          "text": "6, 3, 1, 4, 5, 2"
+        },
+        {
+          "id": "C",
+          "text": "6, 1, 4, 3, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "6, 4, 1, 5, 3, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Banter (6) -> Believe (1) -> Bereave (3) -> Blight (4) -> Brave (5) -> Breathe (2). Sequence: 6, 1, 3, 4, 5, 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "18 July 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 68
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-4a2dc022"
+    },
+    {
+      "id": "alphabet-test-0069",
+      "globalNumber": 69,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Tertiary 2. Terrace 3. Terrain 4. Termite 5. Territory 6. Terminate",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के सही अनुक्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Tertiary 2. Terrace 3. Terrain 4. Termite 5. Territory 6. Terminate",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 6, 3, 2, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 6, 2, 3, 1, 5"
+        },
+        {
+          "id": "C",
+          "text": "6, 4, 2, 3, 5, 1"
+        },
+        {
+          "id": "D",
+          "text": "6, 4, 3, 2, 5, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Terminate (6) -> Termite (4) -> Terrace (2) -> Terrain (3) -> Territory (5) -> Tertiary (1). Sequence: 6, 4, 2, 3, 5, 1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "14 July 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 69
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-2322f27d"
+    },
+    {
+      "id": "alphabet-test-0070",
+      "globalNumber": 70,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Strident 2. Student 3. Shirking 4. Stuffy 5. Spider 6. Spawn",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Strident 2. Student 3. Shirking 4. Stuffy 5. Spider 6. Spawn",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 6, 5, 1, 2, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 6, 1, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 6, 5, 1, 4, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 6, 1, 4, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Shirking (3) -> Spawn (6) -> Spider (5) -> Strident (1) -> Student (2) -> Stuffy (4). Sequence: 3, 6, 5, 1, 2, 4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "14 July 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 70
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d65ee5df"
+    },
+    {
+      "id": "alphabet-test-0071",
+      "globalNumber": 71,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Salesman 2. Salvage 3. Salinity 4. Salary 5. Salmon 6. Salivate",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही अनुक्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Salesman 2. Salvage 3. Salinity 4. Salary 5. Salmon 6. Salivate",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 1, 6, 5, 2"
+        },
+        {
+          "id": "B",
+          "text": "4, 1, 3, 6, 5, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 6, 3, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 4, 3, 6, 2, 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Salary (4) -> Salesman (1) -> Salinity (3) -> Salivate (6) -> Salmon (5) -> Salvage (2). Sequence: 4, 1, 3, 6, 5, 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "17 July 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 9,
+        "originalQuestionNumber": 71
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-12307a0c"
+    },
+    {
+      "id": "alphabet-test-0072",
+      "globalNumber": 72,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Refinery 2. Reflect 3. Reference 4. Refugee 5. Refillable 6. Reformist",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Refinery 2. Reflect 3. Reference 4. Refugee 5. Refillable 6. Reformist",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 1, 2, 6, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 1, 3, 2, 4, 6"
+        },
+        {
+          "id": "C",
+          "text": "5, 1, 3, 2, 6, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 1, 5, 2, 6, 4"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Reference (3) -> Refillable (5) -> Refinery (1) -> Reflect (2) -> Reformist (6) -> Refugee (4). Sequence: 3, 5, 1, 2, 6, 4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "17 July 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 72
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-5dfb1dd1"
+    },
+    {
+      "id": "alphabet-test-0073",
+      "globalNumber": 73,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 6, 5, 2, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 6, 2, 1, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 5, 6, 2, 4, 1"
+        },
+        {
+          "id": "D",
+          "text": "3, 6, 5, 2, 4, 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Warcraft (3) -> Wardenship (6) -> Wardrobe (5) -> Warehouse (2) -> Warranty (4) -> Warriors (1). Sequence: 3, 6, 5, 2, 4, 1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2023,
+        "shift": "14 July 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 73
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-581ce2a8"
+    },
+    {
+      "id": "alphabet-test-0074",
+      "globalNumber": 74,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Universe 2. Unicorn 3. Understood 4. Unhappy 5. Uniform",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Universe 2. Unicorn 3. Understood 4. Unhappy 5. Uniform",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 2, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 5, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "3, 2, 1, 5, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 1, 4, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Understood (3) -> Unhappy (4) -> Unicorn (2) -> Uniform (5) -> Universe (1). Sequence: 3, 4, 2, 5, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "06 Feb 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 74
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-af4a9d71"
+    },
+    {
+      "id": "alphabet-test-0075",
+      "globalNumber": 75,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. FAWN 2. FAVOUR 3. FATHER 4. FATIGUE 5. FAT 6. FATE",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. FAWN 2. FAVOUR 3. FATHER 4. FATIGUE 5. FAT 6. FATE",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 3, 6, 4, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "2, 6, 3, 4, 5, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 6, 3, 4, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "6, 4, 3, 2, 1, 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: FAT (5) -> FATE (6) -> FATHER (3) -> FATIGUE (4) -> FAVOUR (2) -> FAWN (1). Sequence: 5, 6, 3, 4, 2, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "01 Feb 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 75
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-50c21668"
+    },
+    {
+      "id": "alphabet-test-0076",
+      "globalNumber": 76,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Book 2. Bowl 3. Board 4. Boundary 5. Botanical",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Book 2. Bowl 3. Board 4. Boundary 5. Botanical",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 1, 4, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 1, 5, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "3, 5, 1, 4, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 5, 1, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Board (3) -> Book (1) -> Botanical (5) -> Boundary (4) -> Bowl (2). Sequence: 3, 1, 5, 4, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "23 Jan 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 76
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-efe9ec3c"
+    },
+    {
+      "id": "alphabet-test-0077",
+      "globalNumber": 77,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Vehicle 2. Verify 3. Vegan 4. Venom 5. Vein",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Vehicle 2. Verify 3. Vegan 4. Venom 5. Vein",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 2, 1, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 1, 5, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 2, 1, 3, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 4, 1, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Vegan (3) -> Vehicle (1) -> Vein (5) -> Venom (4) -> Verify (2). Sequence: 3, 1, 5, 4, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "17 Jan 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 77
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-34065d6f"
+    },
+    {
+      "id": "alphabet-test-0078",
+      "globalNumber": 78,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Pillow 2. Pile 3. Pint 4. Picked 5. Pickle",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Pillow 2. Pile 3. Pint 4. Picked 5. Pickle",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 4, 2, 1, 3"
+        },
+        {
+          "id": "B",
+          "text": "4, 5, 2, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "2, 3, 4, 1, 5"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 3, 5, 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Picked (4) -> Pickle (5) -> Pile (2) -> Pillow (1) -> Pint (3). Sequence: 4, 5, 2, 1, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "12 Jan 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 10,
+        "originalQuestionNumber": 78
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-6ca6b920"
+    },
+    {
+      "id": "alphabet-test-0079",
+      "globalNumber": 79,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Dream 2. Drown 3. Drone 4. Dropped 5. Drama",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Dream 2. Drown 3. Drone 4. Dropped 5. Drama",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 3, 1, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 3, 1, 2"
+        },
+        {
+          "id": "D",
+          "text": "5, 1, 3, 4, 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Drama (5) -> Dream (1) -> Drone (3) -> Dropped (4) -> Drown (2). Sequence: 5, 1, 3, 4, 2.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "16 Jan 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 79
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-356751cc"
+    },
+    {
+      "id": "alphabet-test-0080",
+      "globalNumber": 80,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Track 2. Trace 3. Trade 4. Treasure 5. Triangle",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Track 2. Trace 3. Trade 4. Treasure 5. Triangle",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 2, 1, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 3, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "2, 3, 1, 5, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 1, 2, 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Trace (2) -> Track (1) -> Trade (3) -> Treasure (4) -> Triangle (5). Sequence: 2, 1, 3, 4, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "17 Jan 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 80
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-ff1f265b"
+    },
+    {
+      "id": "alphabet-test-0081",
+      "globalNumber": 81,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Jumping 2. Juice 3. Jumble 4. Jupiter 5. Junior",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Jumping 2. Juice 3. Jumble 4. Jupiter 5. Junior",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 4, 1, 5"
+        },
+        {
+          "id": "B",
+          "text": "2, 3, 1, 5, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 2, 1, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 1, 5, 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Juice (2) -> Jumble (3) -> Jumping (1) -> Junior (5) -> Jupiter (4). Sequence: 2, 3, 1, 5, 4.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "16 Jan 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 81
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-cc7810cb"
+    },
+    {
+      "id": "alphabet-test-0082",
+      "globalNumber": 82,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Tasty 2. Tackle 3. Tamarind 4. Tadpole 5. Tagline",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Tasty 2. Tackle 3. Tamarind 4. Tadpole 5. Tagline",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 2, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 3, 2, 1, 5"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 5, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "2, 4, 3, 5, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Tackle (2) -> Tadpole (4) -> Tagline (5) -> Tamarind (3) -> Tasty (1). Sequence: 2, 4, 5, 3, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "13 Jan 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 82
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1a00f8b8"
+    },
+    {
+      "id": "alphabet-test-0083",
+      "globalNumber": 83,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Chair 2. Chain 3. Charm 4. Charge 5. Charcoal",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Chair 2. Chain 3. Charm 4. Charge 5. Charcoal",
+      "options": [
+        {
+          "id": "A",
+          "text": "2,1,5,4,3"
+        },
+        {
+          "id": "B",
+          "text": "1,2,3,4,5"
+        },
+        {
+          "id": "C",
+          "text": "2,4,1,3,5"
+        },
+        {
+          "id": "D",
+          "text": "2,3,1,4,5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Chain (2) -> Chair (1) -> Charcoal (5) -> Charge (4) -> Charm (3). Sequence: 2, 1, 5, 4, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "11 Jan 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 83
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-c64f2db6"
+    },
+    {
+      "id": "alphabet-test-0084",
+      "globalNumber": 84,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Peanut 2. Peasant 3. Peacock 4. Peach 5. Pencil",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Peanut 2. Peasant 3. Peacock 4. Peach 5. Pencil",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 5, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 5, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 1, 2, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 1, 2, 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Peach (4) -> Peacock (3) -> Peanut (1) -> Peasant (2) -> Pencil (5). Sequence: 4, 3, 1, 2, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "12 Jan 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 84
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b49235cf"
+    },
+    {
+      "id": "alphabet-test-0085",
+      "globalNumber": 85,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Kind 2. Kite 3. Knit 4. King 5. Kindle",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के सही क्रम को दर्शाता है जिस प्रकार वे अंग्रेजी शब्दकोश में दिखाई देते है?\n1. Kind 2. Kite 3. Knit 4. King 5. Kindle",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 5, 4, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 2, 5, 3"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 2, 4, 3"
+        },
+        {
+          "id": "D",
+          "text": "1, 4, 5, 2, 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Kind (1) -> Kindle (5) -> King (4) -> Kite (2) -> Knit (3). Sequence: 1, 5, 4, 2, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "11 Jan 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 85
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-8e0d251d"
+    },
+    {
+      "id": "alphabet-test-0086",
+      "globalNumber": 86,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Inside 2. Inertia 3. Instruction 4. Insight 5. Individual",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Inside 2. Inertia 3. Instruction 4. Insight 5. Individual",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 3, 1, 2, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 1, 4, 3"
+        },
+        {
+          "id": "C",
+          "text": "5, 1, 2, 3, 4"
+        },
+        {
+          "id": "D",
+          "text": "5, 1, 3, 4, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Individual (5) -> Inertia (2) -> Inside (1) -> Insight (4) -> Instruction (3). Sequence: 5, 2, 1, 4, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "10 Jan 2023 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 11,
+        "originalQuestionNumber": 86
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-0db18927"
+    },
+    {
+      "id": "alphabet-test-0087",
+      "globalNumber": 87,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Manner 2. Manage 3. Masculine 4. Magic 5. Matter",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के सही अनुक्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. Manner 2. Manage 3. Masculine 4. Magic 5. Matter",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 4, 3, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 3, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "4, 2, 1, 3, 5"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 2, 5, 3"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Magic (4) -> Manage (2) -> Manner (1) -> Masculine (3) -> Matter (5). Sequence: 4, 2, 1, 3, 5.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "10 Jan 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 87
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-a9382d15"
+    },
+    {
+      "id": "alphabet-test-0088",
+      "globalNumber": 88,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in the English dictionary?\n1. Lonely 2. Longitude 3. Lovely 4. Lounge 5. Locker",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के सही क्रम को दर्शाता है जिस प्रकार वे अंग्रेजी शब्दकोश में दिखाई देते हैं?\n1. Lonely 2. Longitude 3. Lovely 4. Lounge 5. Locker",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 1, 2, 3, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 1, 3, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 1, 2, 4, 3"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 3, 1, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Locker (5) -> Lonely (1) -> Longitude (2) -> Lounge (4) -> Lovely (3). Sequence: 5, 1, 2, 4, 3.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "10 Jan 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 88
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-8f07279f"
+    },
+    {
+      "id": "alphabet-test-0089",
+      "globalNumber": 89,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Which option represents the correct order of the given words as they would appear in an English dictionary?\n1. FLOWER 2. FLETCHER 3. FLORIST 4. FILTER 5. FLEUR",
+      "questionHindi": "कौन सा विकल्प दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे?\n1. FLOWER 2. FLETCHER 3. FLORIST 4. FILTER 5. FLEUR",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 3, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 2, 5, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 5, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 2, 3, 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: FILTER (4) -> FLETCHER (2) -> FLEUR (5) -> FLORIST (3) -> FLOWER (1). Sequence: 4, 2, 5, 3, 1.",
+      "exam": {
+        "name": "SSC GD Constable",
+        "year": 2023,
+        "shift": "17 Jan 2023 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 89
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-9b0b9c93"
+    },
+    {
+      "id": "alphabet-test-0090",
+      "globalNumber": 90,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Brochure 2. Brine 3. Bright 4. Brief 5. Brocade",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Brochure 2. Brine 3. Bright 4. Brief 5. Brocade",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 2, 3, 5, 4"
+        },
+        {
+          "id": "C",
+          "text": "4, 3, 2, 5, 1"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 5, 4, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Brief (4) -> Bright (3) -> Brine (2) -> Brocade (5) -> Brochure (1). Sequence: 4, 3, 2, 5, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "05 Oct 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 90
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f9446a1b"
+    },
+    {
+      "id": "alphabet-test-0091",
+      "globalNumber": 91,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Warehouse 2. Warden 3. Warship 4. Wardrobe 5. Warrant 6. Warfare",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Warehouse 2. Warden 3. Warship 4. Wardrobe 5. Warrant 6. Warfare",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 2, 1, 6, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 1, 6, 5, 3"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 6, 5, 1, 3"
+        },
+        {
+          "id": "D",
+          "text": "2, 4, 1, 5, 6, 3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Warden (2) -> Wardrobe (4) -> Warehouse (1) -> Warfare (6) -> Warrant (5) -> Warship (3). Sequence: 2, 4, 1, 6, 5, 3.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2023,
+        "shift": "05 Oct 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 91
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d7459dd0"
+    },
+    {
+      "id": "alphabet-test-0092",
+      "globalNumber": 92,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed using B, E, O and R using each letter only once in each word?",
+      "questionHindi": "प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करते हुए B, E, O और R का प्रयोग करके कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One / एक"
+        },
+        {
+          "id": "B",
+          "text": "Two / दो"
+        },
+        {
+          "id": "C",
+          "text": "Zero / शून्य"
+        },
+        {
+          "id": "D",
+          "text": "Three / तीन"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using letters B, E, O, R, two meaningful English words can be formed: BORE and ROBE.",
+      "exam": {
+        "name": "SSC CHSL Tier II",
+        "year": 2023,
+        "shift": "02 Nov 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 92
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-90020792"
+    },
+    {
+      "id": "alphabet-test-0093",
+      "globalNumber": 93,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed using second, third, sixth and seventh letters of the word 'CRACKER' (when counted from left to right) using each letter only once in each word?",
+      "questionHindi": "शब्द 'CRACKER' के दूसरे, तीसरे, छठे और सातवें अक्षरों का प्रयोग करके (बाएँ से दाएँ गणना करने पर) कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं, जिनमें प्रत्येक अक्षर का प्रत्येक शब्द में केवल एक बार प्रयोग किया गया हो?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two / दो"
+        },
+        {
+          "id": "B",
+          "text": "One / एक"
+        },
+        {
+          "id": "C",
+          "text": "Three / तीन"
+        },
+        {
+          "id": "D",
+          "text": "Zero / शून्य"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Letters from CRACKER: 2nd=R, 3rd=A, 6th=E, 7th=R -> {R, A, E, R}. Two meaningful words can be formed: RARE and REAR.",
+      "exam": {
+        "name": "SSC CHSL Tier II",
+        "year": 2023,
+        "shift": "02 Nov 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 12,
+        "originalQuestionNumber": 93
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-5e63bec7"
+    },
+    {
+      "id": "alphabet-test-0094",
+      "globalNumber": 94,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful four-letter English words can be formed using T, U, K and S using each letter only once in each word?",
+      "questionHindi": "प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करते हुए T, U, K और S का उपयोग करके कितने सार्थक चार-अक्षरीय अंग्रेजी शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "More than two / दो से अधिक"
+        },
+        {
+          "id": "B",
+          "text": "One / एक"
+        },
+        {
+          "id": "C",
+          "text": "None / कोई नहीं"
+        },
+        {
+          "id": "D",
+          "text": "Two / दो"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Using letters K, S, T, U, only one meaningful four-letter word can be formed: TUSK.",
+      "exam": {
+        "name": "SSC CHSL Tier II",
+        "year": 2023,
+        "shift": "02 Nov 2023 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 94
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-605155ee"
+    },
+    {
+      "id": "alphabet-test-0095",
+      "globalNumber": 95,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Word 2. Paragraph 3. Sentence 4. Letter",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों की तार्किक और सार्थक क्रम में व्यवस्था को दर्शाता है।\n1. Word / शब्द 2. Paragraph / पैराग्राफ 3. Sentence / वाक्य 4. Letter / अक्षर",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "1, 3, 4, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 4, 3, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Letter (4) -> Word (1) -> Sentence (3) -> Paragraph (2). Sequence: 4, 1, 3, 2.",
+      "exam": {
+        "name": "SSC Stenographer",
+        "year": 2023,
+        "shift": "13 Oct 2023 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 95
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-48299c5a"
+    },
+    {
+      "id": "alphabet-test-0096",
+      "globalNumber": 96,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.\n1. Shirt piece 2. Thread 3. Fabric 4. Shirt 5. Cotton",
+      "questionHindi": "दिए गए शब्दों को तार्किक और सार्थक क्रम में व्यवस्थित करने वाले सही विकल्प का चयन कीजिए।\n1. Shirt piece / शर्ट का टुकड़ा 2. Thread / धागा 3. Fabric / कपड़ा 4. Shirt / शर्ट 5. Cotton / कपास",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 3, 1, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 1, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "5, 3, 1, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 1, 2, 4, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cotton (5) -> Thread (2) -> Fabric (3) -> Shirt piece (1) -> Shirt (4). Sequence: 5, 2, 3, 1, 4.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2023,
+        "shift": "26 Oct 2023"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 96
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-3984c174"
+    },
+    {
+      "id": "alphabet-test-0097",
+      "globalNumber": 97,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "How many meaningful English words can be formed with the second, fourth, fifth, and sixth letters of the word HOCKEY (when counted from left to right) using each letter only once in each word?",
+      "questionHindi": "शब्द HOCKEY के दूसरे, चौथे, पांचवें और छठे अक्षरों (बाएं से दाएं गिनने पर) से प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करते हुए कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Three / तीन"
+        },
+        {
+          "id": "B",
+          "text": "Two / दो"
+        },
+        {
+          "id": "C",
+          "text": "Zero / शून्य"
+        },
+        {
+          "id": "D",
+          "text": "One / एक"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Letters from HOCKEY: 2nd=O, 4th=K, 5th=E, 6th=Y. Letters: {O, K, E, Y}. Only 1 word is possible: YOKE.",
+      "exam": {
+        "name": "SSC CGL Tier II",
+        "year": 2023,
+        "shift": "26 Oct 2023"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 97
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-c3fd1d5d"
+    },
+    {
+      "id": "alphabet-test-0098",
+      "globalNumber": 98,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Proper 2. Pronoun 3. Proof 4. Prophecy 5. Propel",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों को अंग्रेजी शब्दकोश के अनुसार सही क्रम में दर्शाता है।\n1. Proper 2. Pronoun 3. Proof 4. Prophecy 5. Propel",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 1, 5, 4"
+        },
+        {
+          "id": "B",
+          "text": "2, 3, 5, 1, 4"
+        },
+        {
+          "id": "C",
+          "text": "2, 1, 5, 3, 4"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 3, 5, 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Pronoun (2) -> Proof (3) -> Propel (5) -> Proper (1) -> Prophecy (4). Sequence: 2, 3, 5, 1, 4.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "03 June 2022 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 98
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-4e5ae9de"
+    },
+    {
+      "id": "alphabet-test-0099",
+      "globalNumber": 99,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Prophet 2. Prudent 3. Producer 4. Quest 5. Puberty 6. Profound",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के अंग्रेजी शब्दकोश के अनुसार सही क्रम को दर्शाता है।\n1. Prophet 2. Prudent 3. Producer 4. Quest 5. Puberty 6. Profound",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 6, 1, 2, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 6, 2, 1, 5, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 6, 5, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 6, 1, 2, 5, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Producer (3) -> Profound (6) -> Prophet (1) -> Prudent (2) -> Puberty (5) -> Quest (4). Sequence: 3, 6, 1, 2, 5, 4.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "02 June 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 99
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-51761e0d"
+    },
+    {
+      "id": "alphabet-test-0100",
+      "globalNumber": 100,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Catalyst 2. Carrot 3. Calcium 4. Calculate 5. Calendar",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के अंग्रेजी शब्दकोश के अनुसार सही क्रम को दर्शाता है।\n1. Catalyst 2. Carrot 3. Calcium 4. Calculate 5. Calendar",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 3, 5, 2, 1"
+        },
+        {
+          "id": "B",
+          "text": "4, 5, 3, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 5, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "3, 2, 1, 4, 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Calcium (3) -> Calculate (4) -> Calendar (5) -> Carrot (2) -> Catalyst (1). Sequence: 3, 4, 5, 2, 1.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "02 June 2022 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 100
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-dbd918f7"
+    },
+    {
+      "id": "alphabet-test-0101",
+      "globalNumber": 101,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Facsimile 2. Frightful 3. Favourable 4. Fructification 5. Fanatical",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के अंग्रेजी शब्दकोश के अनुसार सही क्रम को दर्शाता है।\n1. Facsimile 2. Frightful 3. Favourable 4. Fructification 5. Fanatical",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 2, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 3, 4, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 3, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "1, 3, 4, 5, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Facsimile (1) -> Fanatical (5) -> Favourable (3) -> Frightful (2) -> Fructification (4). Sequence: 1, 5, 3, 2, 4.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "02 June 2022 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 13,
+        "originalQuestionNumber": 101
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-a8b26951"
+    },
+    {
+      "id": "alphabet-test-0102",
+      "globalNumber": 102,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Necessary 2. Networks 3. Negotiate 4. Needlework 5. Neigh",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के अंग्रेजी शब्दकोश के अनुसार सही क्रम को दर्शाता है।\n1. Necessary 2. Networks 3. Negotiate 4. Needlework 5. Neigh",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 1, 3, 5, 2"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 3, 5, 2"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 1, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 1, 5, 4, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Necessary (1) -> Needlework (4) -> Negotiate (3) -> Neigh (5) -> Networks (2). Sequence: 1, 4, 3, 5, 2.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "02 June 2022 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 102
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-30bc958a"
+    },
+    {
+      "id": "alphabet-test-0103",
+      "globalNumber": 103,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Expensive 2- Expedition 3- Experience 4- Expel 5- Expenditure",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम का प्रतिनिधित्व करता है जैसे वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1- Expensive 2- Expedition 3- Experience 4- Expel 5- Expenditure",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 5, 1, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 5, 3, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 2, 1, 4, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 2, 5, 1, 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Expedition (2) -> Expel (4) -> Expenditure (5) -> Expensive (1) -> Experience (3). Sequence: 2, 4, 5, 1, 3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "03 Dec 2022 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 103
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-84c0da93"
+    },
+    {
+      "id": "alphabet-test-0104",
+      "globalNumber": 104,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Miscellaneous 2- Miscalculate 3- Mischance 4- Miscall 5- Miscasting",
+      "questionHindi": "उस विकल्प का चयन कीजिये जो दिए गए शब्दों के सही क्रम का प्रतिनिधित्व करता है जिस प्रकार वे अंग्रेजी शब्दकोश में उपस्थित होते हैं।\n1- Miscellaneous 2- Miscalculate 3- Mischance 4- Miscall 5- Miscasting",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 1, 5, 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 5, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "4, 2, 5, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 2, 5, 1, 3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Miscalculate (2) -> Miscall (4) -> Miscasting (5) -> Miscellaneous (1) -> Mischance (3). Sequence: 2, 4, 5, 1, 3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "06 Dec 2022 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 104
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-b44610b3"
+    },
+    {
+      "id": "alphabet-test-0105",
+      "globalNumber": 105,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Pardoner 2- Parenthetical 3- Parental 4- Pardon 5- Parenthesis",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम का प्रतिनिधित्व करता है जैसे वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1- Pardoner 2- Parenthetical 3- Parental 4- Pardon 5- Parenthesis",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 3, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "4, 1, 3, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "4, 1, 3, 5, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 4, 3, 5, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Pardon (4) -> Pardoner (1) -> Parental (3) -> Parenthesis (5) -> Parenthetical (2). Sequence: 4, 1, 3, 5, 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "03 Dec 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 105
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-0d62a568"
+    },
+    {
+      "id": "alphabet-test-0106",
+      "globalNumber": 106,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at the 'Third' position?\n1. Oblivion 2. Oblique 3. Oblige 4. Oblate 5. Oblong",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर, कौन-सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Oblivion 2. Oblique 3. Oblige 4. Oblate 5. Oblong",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oblate"
+        },
+        {
+          "id": "B",
+          "text": "Oblique"
+        },
+        {
+          "id": "C",
+          "text": "Oblige"
+        },
+        {
+          "id": "D",
+          "text": "Oblivion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Oblate (4) -> Oblige (3) -> Oblique (2) -> Oblivion (1) -> Oblong (5). Third position is Oblique.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "06 Dec 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 106
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-874a4c83"
+    },
+    {
+      "id": "alphabet-test-0107",
+      "globalNumber": 107,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come at the 'Third' position?\n1. Chocolate 2. Chocoholic 3. Chocolaty 4. Chocolatier 5. Chock",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर, कौन-सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Chocolate 2. Chocoholic 3. Chocolaty 4. Chocolatier 5. Chock",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chocolate"
+        },
+        {
+          "id": "B",
+          "text": "Chock"
+        },
+        {
+          "id": "C",
+          "text": "Chocolatier"
+        },
+        {
+          "id": "D",
+          "text": "Chocoholic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Chock (5) -> Chocoholic (2) -> Chocolate (1) -> Chocolatier (4) -> Chocolaty (3). Third position is Chocolate.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "06 Dec 2022 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 107
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-359f080c"
+    },
+    {
+      "id": "alphabet-test-0108",
+      "globalNumber": 108,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Humility 2. Humbug 3. Humanoid 4. Humidity 5. Humoresque 6. Humanity 7. Humectants",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम का प्रतिनिधित्व करता है जैसे वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Humility 2. Humbug 3. Humanoid 4. Humidity 5. Humoresque 6. Humanity 7. Humectants",
+      "options": [
+        {
+          "id": "A",
+          "text": "6, 3, 2, 7, 4, 1, 5"
+        },
+        {
+          "id": "B",
+          "text": "6, 3, 2, 7, 1, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "6, 3, 7, 2, 1, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "6, 3, 7, 2, 4, 1, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Humanity (6) -> Humanoid (3) -> Humbug (2) -> Humectants (7) -> Humidity (4) -> Humility (1) -> Humoresque (5). Sequence: 6, 3, 2, 7, 4, 1, 5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "05 Dec 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 14,
+        "originalQuestionNumber": 108
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-fed905e2"
+    },
+    {
+      "id": "alphabet-test-0109",
+      "globalNumber": 109,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Accusable 2- Acerbity 3- Accursed 4- Acetify 5- Accuser",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम का प्रतिनिधित्व करता है जैसे वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1- Accusable 2- Acerbity 3- Accursed 4- Acetify 5- Accuser",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 1, 5, 4, 2"
+        },
+        {
+          "id": "B",
+          "text": "1, 3, 5, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 1, 5, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "1, 3, 5, 4, 2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Accursed (3) -> Accusable (1) -> Accuser (5) -> Acerbity (2) -> Acetify (4). Sequence: 3, 1, 5, 2, 4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "05 Dec 2022 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 109
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-be0d2421"
+    },
+    {
+      "id": "alphabet-test-0110",
+      "globalNumber": 110,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Sennet 2- Sennight 3- Sennit 4- Seniority 5- Senna",
+      "questionHindi": "निम्नलिखित शब्दों को अंग्रेजी शब्दकोश के क्रम में व्यवस्थित करने पर शब्दों के सही क्रम को दर्शाने वाले विकल्प को चुनें।\n1- Sennet 2- Sennight 3- Sennit 4- Seniority 5- Senna",
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 5, 1, 2, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 4, 2, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 2, 1, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 1, 3, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Seniority (4) -> Senna (5) -> Sennet (1) -> Sennight (2) -> Sennit (3). Sequence: 4, 5, 1, 2, 3.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "05 Dec 2022 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 110
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-ccf59201"
+    },
+    {
+      "id": "alphabet-test-0111",
+      "globalNumber": 111,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "After arranging the given words according to dictionary order, which word will come in the 'Third' position?\n1. Sickle 2. Sickly 3. Sick 4. Sicken 5. Sickness",
+      "questionHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन-सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Sickle 2. Sickly 3. Sick 4. Sicken 5. Sickness",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sick"
+        },
+        {
+          "id": "B",
+          "text": "Sickle"
+        },
+        {
+          "id": "C",
+          "text": "Sicken"
+        },
+        {
+          "id": "D",
+          "text": "Sickly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Sick (3) -> Sicken (4) -> Sickle (1) -> Sickly (2) -> Sickness (5). Third position is Sickle.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "02 Dec 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 111
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-cb0cfcda"
+    },
+    {
+      "id": "alphabet-test-0112",
+      "globalNumber": 112,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1- Kinglet 2- Kingship 3- Kingdom 4- Kinsfolk 5- Kingly",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों को अंग्रेजी शब्दकोश में क्रम में दर्शाता है।\n1- Kinglet 2- Kingship 3- Kingdom 4- Kinsfolk 5- Kingly",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 3, 2, 5, 4"
+        },
+        {
+          "id": "B",
+          "text": "3, 1, 2, 5, 4"
+        },
+        {
+          "id": "C",
+          "text": "1, 3, 5, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 1, 5, 2, 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dictionary order: Kingdom (3) -> Kinglet (1) -> Kingly (5) -> Kingship (2) -> Kinsfolk (4). Sequence: 3, 1, 5, 2, 4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "02 Dec 2022 - Shift 4"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 112
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-94b8708b"
+    },
+    {
+      "id": "alphabet-test-0113",
+      "globalNumber": 113,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Solar System 2. Earth 3. India 4. Asia 5. Milky way",
+      "questionHindi": "सही विकल्प का चयन करें जो निम्नलिखित शब्दों की व्यवस्था को तार्किक और सार्थक क्रम में इंगित करता है।\n1. Solar System / सौर मंडल 2. Earth / पृथ्वी 3. India / भारत 4. Asia / एशिया 5. Milky way / मिल्की वे",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 1, 2, 4, 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "5, 4, 3, 2, 1"
+        },
+        {
+          "id": "D",
+          "text": "2, 1, 3, 4, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Milky way (5) -> Solar System (1) -> Earth (2) -> Asia (4) -> India (3). Sequence: 5, 1, 2, 4, 3.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2022,
+        "shift": "30 May 2022 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 113
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-f7a1d504"
+    },
+    {
+      "id": "alphabet-test-0114",
+      "globalNumber": 114,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.\n1. Treatment 2. Recovery 3. Virus 4. Symptoms 5. Infection",
+      "questionHindi": "उस सही विकल्प का चयन कीजिये जो दिए गए शब्दों को तार्किक और अर्थपूर्ण क्रम में व्यवस्थित करता है।\n1. Treatment / उपचार 2. Recovery / रिकवरी 3. Virus / वायरस 4. Symptoms / लक्षण 5. Infection / संक्रमण",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 5, 4, 2, 1"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 4, 1, 2"
+        },
+        {
+          "id": "C",
+          "text": "2, 5, 1, 4, 5"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 3, 1, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Virus (3) -> Infection (5) -> Symptoms (4) -> Treatment (1) -> Recovery (2). Sequence: 3, 5, 4, 1, 2.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2022,
+        "shift": "13 April 2022 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 114
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d088e1b3"
+    },
+    {
+      "id": "alphabet-test-0115",
+      "globalNumber": 115,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Hygienic 2. Hydroplane 3. Hydroelectric 4. Hydroxide 5. Hydrology",
+      "questionHindi": "सही विकल्प का चयन करें जो दिए गए शब्दों की व्यवस्था को उसी क्रम में इंगित करता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Hygienic 2. Hydroplane 3. Hydroelectric 4. Hydroxide 5. Hydrology",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 2, 4, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 5, 1, 2, 4"
+        },
+        {
+          "id": "D",
+          "text": "3, 5, 1, 4, 2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Hydroelectric (3) -> Hydrology (5) -> Hydroplane (2) -> Hydroxide (4) -> Hygienic (1). Sequence: 3, 5, 2, 4, 1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2021,
+        "shift": "17 Aug 2021 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 115
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-a1f63b4f"
+    },
+    {
+      "id": "alphabet-test-0116",
+      "globalNumber": 116,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Ecology 2. Enormous 3. Electric 4. Exterior 5. Ecliptic",
+      "questionHindi": "सही विकल्प का चयन कीजिये जो दिए गए शब्दों की व्यवस्था को उसी क्रम में इंगित करता है जिस प्रकार वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Ecology 2. Enormous 3. Electric 4. Exterior 5. Ecliptic",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 1, 2, 3, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 1, 3, 2, 4"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 4, 3, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 5, 2, 3, 4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Ecliptic (5) -> Ecology (1) -> Electric (3) -> Enormous (2) -> Exterior (4). Sequence: 5, 1, 3, 2, 4.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2021,
+        "shift": "17 Aug 2021 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 15,
+        "originalQuestionNumber": 116
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-1226fd6b"
+    },
+    {
+      "id": "alphabet-test-0117",
+      "globalNumber": 117,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Success 2. Surreal 3. Succumb 4. Suction 5. Surrogate 6. Surprise",
+      "questionHindi": "सही विकल्प का चयन करें जो दिए गए शब्दों की व्यवस्था को उसी क्रम में इंगित करता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Success 2. Surreal 3. Succumb 4. Suction 5. Surrogate 6. Surprise",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 3, 4, 6, 2, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 3, 6, 2, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 3, 6, 4, 2, 5"
+        },
+        {
+          "id": "D",
+          "text": "1, 3, 4, 6, 5, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Success (1) -> Succumb (3) -> Suction (4) -> Surprise (6) -> Surreal (2) -> Surrogate (5). Sequence: 1, 3, 4, 6, 2, 5.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2021,
+        "shift": "16 Aug 2021 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 117
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-7cdc29c8"
+    },
+    {
+      "id": "alphabet-test-0118",
+      "globalNumber": 118,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Recreation 2. Recede 3. Recorder 4. Recliner 5. Reconcile 6. Recognition",
+      "questionHindi": "सही विकल्प का चयन करें जो दिए गए शब्दों की व्यवस्था को उसी क्रम में इंगित करता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Recreation 2. Recede 3. Recorder 4. Recliner 5. Reconcile 6. Recognition",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 5, 6, 3, 1"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 5, 6, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 6, 5, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 2, 6, 5, 3, 1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dictionary order: Recede (2) -> Recliner (4) -> Recognition (6) -> Reconcile (5) -> Recorder (3) -> Recreation (1). Sequence: 2, 4, 6, 5, 3, 1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2021,
+        "shift": "18 Aug 2021 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 118
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-d2862fc4"
+    },
+    {
+      "id": "alphabet-test-0119",
+      "globalNumber": 119,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.\n1. Introduce 2. Internship 3. Interaction 4. Interjection 5. Intervene 6. Interruption",
+      "questionHindi": "सही विकल्प का चयन कीजिये जो दिए गए शब्दों की व्यवस्था को उसी क्रम में इंगित करता है जिस प्रकार वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Introduce 2. Internship 3. Interaction 4. Interjection 5. Intervene 6. Interruption",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 2, 4, 6, 5, 1"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 2, 6, 5, 1"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 2, 6, 1, 5"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 2, 5, 6, 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Interaction (3) -> Interjection (4) -> Internship (2) -> Interruption (6) -> Intervene (5) -> Introduce (1). Sequence: 3, 4, 2, 6, 5, 1.",
+      "exam": {
+        "name": "SSC CGL",
+        "year": 2021,
+        "shift": "17 Aug 2021 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 119
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-827c46f9"
+    },
+    {
+      "id": "alphabet-test-0120",
+      "globalNumber": 120,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.\n1. Armlet 2. Belt 3. Ascot 4. Socks 5. Turban",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो दिए गए शब्दों को तार्किक और अर्थपूर्ण क्रम में व्यवस्थित करता है।\n1. Armlet / बाजूबन्द 2. Belt / बेल्ट 3. Ascot / एस्कॉर्ट 4. Socks / मोज़े 5. Turban / पगड़ी",
+      "options": [
+        {
+          "id": "A",
+          "text": "5-3-1-2-4"
+        },
+        {
+          "id": "B",
+          "text": "1-2-5-3-4"
+        },
+        {
+          "id": "C",
+          "text": "3-2-1-5-4"
+        },
+        {
+          "id": "D",
+          "text": "3-5-1-4-2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Arranging top-to-bottom on the human body: Turban (5, head) -> Ascot (3, neck) -> Armlet (1, arm) -> Belt (2, waist) -> Socks (4, feet). Sequence: 5-3-1-2-4.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2021,
+        "shift": "12 April 2021 - Shift 3"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 120
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-374b8f0d"
+    },
+    {
+      "id": "alphabet-test-0121",
+      "globalNumber": 121,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.\n1. Journey 2. Return 3. Destination 4. Reservation 5. Guided tour",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो दिए गए शब्दों को तार्किक और अर्थपूर्ण क्रम में व्यवस्थित करता है।\n1. Journey / यात्रा 2. Return / वापसी 3. Destination / गंतव्य 4. Reservation / आरक्षण 5. Guided tour / निर्देशित पर्यटन",
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 1, 5, 2"
+        },
+        {
+          "id": "B",
+          "text": "3, 5, 4, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 3, 1, 2"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 2, 1, 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Logical sequence of travel: Destination (3) -> Reservation (4) -> Journey (1) -> Guided tour (5) -> Return (2). Sequence: 3, 4, 1, 5, 2.",
+      "exam": {
+        "name": "SSC CHSL",
+        "year": 2021,
+        "shift": "12 April 2021 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 121
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-84deab16"
+    },
+    {
+      "id": "alphabet-test-0122",
+      "globalNumber": 122,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Kilogram 2. Gram 3. Quintal 4. Decigram 5. Milligram",
+      "questionHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों को तार्किक और सार्थक क्रम में व्यवस्थित करता है।\n1. Kilogram / किलोग्राम 2. Gram / ग्राम 3. Quintal / क्विंटल 4. Decigram / डेसीग्राम 5. Milligram / मिलीग्राम",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 4, 2, 1, 3"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 4, 1, 3"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 2, 3, 1"
+        },
+        {
+          "id": "D",
+          "text": "4, 5, 2, 1, 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Progression of weight units from smallest to largest: Milligram (5) -> Decigram (4) -> Gram (2) -> Kilogram (1) -> Quintal (3). Sequence: 5, 4, 2, 1, 3.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2020,
+        "shift": "24 Nov 2020 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 122
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-78ff45b5"
+    },
+    {
+      "id": "alphabet-test-0123",
+      "globalNumber": 123,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Pristine 2. Precious 3. Pressure 4. Presume 5. Precaution",
+      "questionHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में होंगे।\n1. Pristine 2. Precious 3. Pressure 4. Presume 5. Precaution",
+      "options": [
+        {
+          "id": "A",
+          "text": "5, 2, 4, 3, 1"
+        },
+        {
+          "id": "B",
+          "text": "5, 2, 3, 4, 1"
+        },
+        {
+          "id": "C",
+          "text": "5, 3, 2, 4, 1"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 3, 4, 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dictionary order: Precaution (5) -> Precious (2) -> Pressure (3) -> Presume (4) -> Pristine (1). Sequence: 5, 2, 3, 4, 1.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2020,
+        "shift": "24 Nov 2020 - Shift 1"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 16,
+        "originalQuestionNumber": 123
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-cc59a7ed"
+    },
+    {
+      "id": "alphabet-test-0124",
+      "globalNumber": 124,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Lexicon 2. Lacuna 3. Lacerate 4. Lactation 5. Locust",
+      "questionHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1. Lexicon 2. Lacuna 3. Lacerate 4. Lactation 5. Locust",
+      "options": [
+        {
+          "id": "A",
+          "text": "3,4,2,1,5"
+        },
+        {
+          "id": "B",
+          "text": "3,2,4,1,5"
+        },
+        {
+          "id": "C",
+          "text": "3,4,2,5,1"
+        },
+        {
+          "id": "D",
+          "text": "4,3,2,1,5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dictionary order: Lacerate (3) -> Lactation (4) -> Lacuna (2) -> Lexicon (1) -> Locust (5). Sequence: 3, 4, 2, 1, 5.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2020,
+        "shift": "24 Nov 2020 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 17,
+        "originalQuestionNumber": 124
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-a2433757"
+    },
+    {
+      "id": "alphabet-test-0125",
+      "globalNumber": 125,
+      "topic": {
+        "id": "english-alphabet-test",
+        "name": "English Alphabet Test"
+      },
+      "category": "Reasoning",
+      "question": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order:\n1. Knee 2. Navel 3. Eyebrows 4. Waist 5. Chin",
+      "questionHindi": "निम्नलिखित शब्दों को तार्किक और सार्थक क्रम में व्यवस्थित करने वाले सही विकल्प का चयन कीजिए:\n1. Knee / घुटना 2. Navel / नाभि 3. Eyebrows / भौंहें 4. Waist / कमर 5. Chin / ठोड़ी",
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 4, 2, 3, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 4, 2, 5, 3"
+        },
+        {
+          "id": "C",
+          "text": "2, 4, 1, 5, 3"
+        },
+        {
+          "id": "D",
+          "text": "4, 1, 2, 5, 3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Arranging parts of the human body moving bottom to top: Knee (1) -> Waist (4) -> Navel (2) -> Chin (5) -> Eyebrows (3). Sequence: 1, 4, 2, 5, 3.",
+      "exam": {
+        "name": "SSC CPO",
+        "year": 2020,
+        "shift": "24 Nov 2020 - Shift 2"
+      },
+      "difficulty": "Moderate",
+      "source": {
+        "pdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+        "page": 17,
+        "originalQuestionNumber": 125
+      },
+      "verificationStatus": "verified",
+      "isSample": false,
+      "contentHash": "qh-fe70cf03"
+    }
+  ]
+}

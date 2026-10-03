@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "lastUpdated": "2026-09-29",
+  "lastUpdated": "2026-10-03",
   "topics": [
     {
       "id": "algebra",
@@ -89,6 +89,17 @@
       "sourcePdf": "Sample_coding-decoding.pdf",
       "isSample": true,
       "lastUpdated": "2026-09-29"
+    },
+    {
+      "id": "english-alphabet-test",
+      "name": "English Alphabet Test",
+      "category": "Reasoning",
+      "file": "topics/english-alphabet-test.json",
+      "questionCount": 125,
+      "description": "Complete 125-question bilingual English Alphabet Test chapter from Careerwill Reasoning (Piyush Varshney Sir) with official Answer Key & step-by-step solutions.",
+      "sourcePdf": "Careerwill_Reasoning_English_Alphabet_Test.pdf",
+      "isSample": false,
+      "lastUpdated": "2026-10-03"
     },
     {
       "id": "error-detection",

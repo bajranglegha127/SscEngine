@@ -1,0 +1,362 @@
+[
+  {
+    "num": 1,
+    "q": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Design 2. Test 3. Conceptualize 4. Develop 5. Implement",
+    "qHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों की व्यवस्था को तार्किक और सार्थक क्रम में दर्शाता है।\n1. डिज़ाइन (Design) 2. परीक्षण (Test) 3. संकल्पना (Conceptualize) 4. विकास (Develop) 5. कार्यान्वयन (Implement)",
+    "options": ["3, 1, 4, 2, 5", "3, 1, 5, 4, 2", "1, 4, 5, 3, 2", "3, 5, 2, 4, 1"],
+    "ans": "A",
+    "sol": "Conceptualize (3): First step to generate an idea -> Design (1): Create detailed blueprints -> Develop (4): Actual development -> Test (2): Testing to identify and fix issues -> Implement (5): Launch for actual use. Sequence: 3, 1, 4, 2, 5.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "18 Jan 2025", "page": 1
+  },
+  {
+    "num": 2,
+    "q": "How many meaningful English words can be formed using the first, third, sixth, and seventh letters of the word RECOGNIZE (when counted from left to right) using all the letters but each letter only once in each word?",
+    "qHindi": "शब्द RECOGNIZE के पहले, तीसरे, छठे और सातवें अक्षरों (बाएँ से दाएँ गिने जाने पर) का उपयोग करके अंग्रेजी के कितने अर्थपूर्ण शब्द बनाए जा सकते हैं यदि प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया जाए?",
+    "options": ["One / एक", "Two / दो", "None / कोई नहीं", "Three / तीन"],
+    "ans": "C",
+    "sol": "Letters obtained from RECOGNIZE: 1st=R, 3rd=C, 6th=N, 7th=I. Using letters {R, C, N, I}, no meaningful English word can be formed.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "18 Jan 2025", "page": 1
+  },
+  {
+    "num": 3,
+    "q": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Delivery 2. Finished Paper 3. Dry 4. Pulp 5. Press",
+    "qHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों के तार्किक और सार्थक क्रम में व्यवस्थापन को दर्शाता है।\n1. Delivery / डिलिवरी 2. Finished Paper / तैयार कागज 3. Dry / सूखा 4. Pulp / गूदा 5. Press / प्रेस",
+    "options": ["4, 1, 2, 5, 3", "2, 5, 4, 3, 1", "5, 4, 2, 3, 1", "4, 5, 3, 2, 1"],
+    "ans": "D",
+    "sol": "Pulp (4) -> Press (5) -> Dry (3) -> Finished Paper (2) -> Delivery (1). Sequence: 4, 5, 3, 2, 1.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "18 Jan 2025", "page": 1
+  },
+  {
+    "num": 4,
+    "q": "How many six-lettered meaningful words can be formed using all these letters but each letter only once in the word: R F I G E D",
+    "qHindi": "इन सभी अक्षरों का उपयोग करके कितने छह अक्षरों वाले सार्थक शब्द बनाए जा सकते हैं लेकिन प्रत्येक अक्षर शब्द में केवल एक बार होता है: R F I G E D",
+    "options": ["Two / दो", "Four / चार", "One / एक", "Three / तीन"],
+    "ans": "C",
+    "sol": "Only one meaningful six-letter English word can be formed: FRIDGE.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "20 Jan 2025", "page": 1
+  },
+  {
+    "num": 5,
+    "q": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Plant 2. Pollination 3. Seed 4. Seedling 5. Fruit",
+    "qHindi": "उस सही विकल्प का चयन कीजिए जो निम्नलिखित शब्दों के व्यवस्थापन को तार्किक और सार्थक क्रम में दर्शाता हो।\n1. Plant / पौधा 2. Pollination / परागण 3. Seed / बीज 4. Seedling / अंकुर 5. Fruit / फल",
+    "options": ["4, 3, 1, 2, 5", "3, 4, 1, 2, 5", "4, 1, 2, 5, 3", "3, 4, 1, 5, 2"],
+    "ans": "B",
+    "sol": "Seed (3) -> Seedling (4) -> Plant (1) -> Pollination (2) -> Fruit (5). Sequence: 3, 4, 1, 2, 5.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "20 Jan 2025", "page": 1
+  },
+  {
+    "num": 6,
+    "q": "Select the correct option that indicates the arrangement of the following words in a logical and meaningful order.\n1. Set goals 2. Budget 3. Review 4. Invest 5. Assess",
+    "qHindi": "उस सही विकल्प का चयन कीजिए, जो निम्नलिखित शब्दों की व्यवस्था को तार्किक और सार्थक क्रम में दर्शाता है।\n1. लक्ष्य निर्धारित करना (Set goals) 2. बजट (Budget) 3. समीक्षा (Review) 4. निवेश (Invest) 5. आकलन (Assess)",
+    "options": ["1, 5, 2, 4, 3", "5, 2, 4, 3, 1", "5, 1, 2, 3, 4", "3, 5, 1, 2, 4"],
+    "ans": "A",
+    "sol": "Set goals (1) -> Assess (5) -> Budget (2) -> Invest (4) -> Review (3). Sequence: 1, 5, 2, 4, 3.",
+    "exam": "SSC CGL Tier II", "year": 2025, "shift": "20 Jan 2025", "page": 1
+  },
+  {
+    "num": 7,
+    "q": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Literacy 2- Literature 3- Litany 4- Listen 5- Lithograph",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की अंग्रेजी शब्दकोश में उनके क्रम में सही व्यवस्था को इंगित करता है।\n1- Literacy 2- Literature 3- Litany 4- Listen 5- Lithograph",
+    "options": ["4, 3, 1, 2, 5", "3, 4, 1, 2, 5", "1, 4, 3, 2, 5", "4, 1, 3, 5, 2"],
+    "ans": "A",
+    "sol": "Dictionary order: Listen (4) -> Litany (3) -> Literacy (1) -> Literature (2) -> Lithograph (5). Correct sequence: 4, 3, 1, 2, 5.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 1", "page": 1
+  },
+  {
+    "num": 8,
+    "q": "Arrange the given words in alphabetical order:\n1. PARALLEL 2. PARADISE 3. PARAGRAPH 4. PARALLELISM 5. PARASITE",
+    "qHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित करें:\n1. PARALLEL 2. PARADISE 3. PARAGRAPH 4. PARALLELISM 5. PARASITE",
+    "options": ["3, 1, 4, 2, 5", "2, 1, 4, 3, 5", "2, 3, 4, 5, 1", "2, 3, 1, 4, 5"],
+    "ans": "D",
+    "sol": "Alphabetical order: PARADISE (2) -> PARAGRAPH (3) -> PARALLEL (1) -> PARALLELISM (4) -> PARASITE (5). Correct sequence: 2, 3, 1, 4, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "29 Feb 2024 - Shift 4", "page": 1
+  },
+  {
+    "num": 9,
+    "q": "How many meaningful four-letter English words can be formed using the second, third, fifth and seventh letters of the word TOURIST (when counted from left to right) using each letter only once in each word.",
+    "qHindi": "शब्द TOURIST के दूसरे, तीसरे, पांचवें और सातवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग करते हुए कितने सार्थक चार-अक्षरीय अंग्रेजी शब्द बनाए जा सकते हैं।",
+    "options": ["None / कोई नहीं", "Two / दो", "One / एक", "More than two / दो से अधिक"],
+    "ans": "A",
+    "sol": "Letters from TOURIST: 2nd=O, 3rd=U, 5th=I, 7th=T -> {O, U, I, T}. No meaningful 4-letter English word can be formed.",
+    "exam": "SSC CHSL Tier II", "year": 2024, "shift": "10 Jan 2024 - Shift 1", "page": 2
+  },
+  {
+    "num": 10,
+    "q": "How many meaningful four-letter English words can be formed using the first, fourth, fifth and sixth letters of the word SAVOUR (when counted from left to right) using each letter only once in each word.",
+    "qHindi": "शब्द SAVOUR के पहले, चौथे, पांचवें और छठे अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग करते हुए कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं।",
+    "options": ["One / एक", "More than two / दो से अधिक", "Two / दो", "None / कोई नहीं"],
+    "ans": "C",
+    "sol": "Letters from SAVOUR: 1st=S, 4th=O, 5th=U, 6th=R -> {S, O, U, R}. Two meaningful words can be formed: SOUR and OURS.",
+    "exam": "SSC CHSL Tier II", "year": 2024, "shift": "10 Jan 2024 - Shift 1", "page": 2
+  },
+  {
+    "num": 11,
+    "q": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Elate 2- Election 3- Elbow 4- Elastic 5- Electoral",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की उसी क्रम में सही व्यवस्था दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1- Elate 2- Election 3- Elbow 4- Elastic 5- Electoral",
+    "options": ["1, 3, 4, 2, 5", "4, 3, 2, 1, 5", "1, 4, 5, 2, 3", "4, 1, 3, 2, 5"],
+    "ans": "D",
+    "sol": "Dictionary order: Elastic (4) -> Elate (1) -> Elbow (3) -> Election (2) -> Electoral (5). Correct sequence: 4, 1, 3, 2, 5.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 2", "page": 2
+  },
+  {
+    "num": 12,
+    "q": "Arrange the given words in alphabetical order:\n1. MYSTERY 2. MYSTICAL 3. MYTHOLOGY 4. MYSTERIOUS 5. MYTHICAL",
+    "qHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित कीजिए:\n1. MYSTERY 2. MYSTICAL 3. MYTHOLOGY 4. MYSTERIOUS 5. MYTHICAL",
+    "options": ["4, 1, 2, 5, 3", "4, 2, 5, 3, 1", "4, 1, 5, 3, 2", "4, 1, 2, 3, 5"],
+    "ans": "A",
+    "sol": "Dictionary order: MYSTERIOUS (4) -> MYSTERY (1) -> MYSTICAL (2) -> MYTHICAL (5) -> MYTHOLOGY (3). Correct sequence: 4, 1, 2, 5, 3.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "29 Feb 2024 - Shift 1", "page": 2
+  },
+  {
+    "num": 13,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Lid 2. Lick 3. Lien 4. Lie 5. Lieu",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Lid 2. Lick 3. Lien 4. Lie 5. Lieu",
+    "options": ["2, 4, 1, 3, 5", "2, 1, 4, 3, 5", "1, 2, 3, 4, 5", "1, 2, 4, 3, 5"],
+    "ans": "B",
+    "sol": "Dictionary order: Lick (2) -> Lid (1) -> Lie (4) -> Lien (3) -> Lieu (5). Correct sequence: 2, 1, 4, 3, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "29 Feb 2024 - Shift 2", "page": 2
+  },
+  {
+    "num": 14,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Liberal 2. Libra 3. Library 4. Libel 5. Liability",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Liberal 2. Libra 3. Library 4. Libel 5. Liability",
+    "options": ["4, 5, 2, 1, 3", "5, 4, 1, 2, 3", "4, 5, 1, 2, 3", "5, 4, 1, 3, 2"],
+    "ans": "B",
+    "sol": "Dictionary order: Liability (5) -> Libel (4) -> Liberal (1) -> Libra (2) -> Library (3). Correct sequence: 5, 4, 1, 2, 3.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "29 Feb 2024 - Shift 3", "page": 2
+  },
+  {
+    "num": 15,
+    "q": "After arranging the given words according to dictionary order, which word will come at third position?\n1. Small 2. Smart 3. Smack 4. Smash 5. Smatter",
+    "qHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द तीसरे स्थान पर आएगा?\n1. Small 2. Smart 3. Smack 4. Smash 5. Smatter",
+    "options": ["Small", "Smack", "Smash", "Smart"],
+    "ans": "D",
+    "sol": "Dictionary order: Smack -> Small -> Smart -> Smash -> Smatter. The word at the third position is Smart.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "20 Feb 2024 - Shift 4", "page": 2
+  },
+  {
+    "num": 16,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Let 2. Lethargy 3. Letter 4. Lethal 5. Lest",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए जिसमें वे शब्दकोश में आते हैं।\n1. Let 2. Lethargy 3. Letter 4. Lethal 5. Lest",
+    "options": ["15324", "51423", "15234", "51243"],
+    "ans": "B",
+    "sol": "Dictionary order: Lest (5) -> Let (1) -> Lethal (4) -> Lethargy (2) -> Letter (3). Sequence: 5, 1, 4, 2, 3.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "20 Feb 2024 - Shift 2", "page": 2
+  },
+  {
+    "num": 17,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Dear 2. Dean 3. Deal 4. Dead 5. Death",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए, जिसमें वे शब्दकोश में आते हैं।\n1. Dear 2. Dean 3. Deal 4. Dead 5. Death",
+    "options": ["13254", "43251", "43215", "13245"],
+    "ans": "C",
+    "sol": "Dictionary order: Dead (4) -> Deal (3) -> Dean (2) -> Dear (1) -> Death (5). Sequence: 4, 3, 2, 1, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "20 Feb 2024 - Shift 1", "page": 2
+  },
+  {
+    "num": 18,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Ferocious 2. Fervor 3. Fiction 4. Faith 5. Feign 6. Ferment",
+    "qHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के सही उस क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Ferocious 2. Fervor 3. Fiction 4. Faith 5. Feign 6. Ferment",
+    "options": ["6, 5, 2, 1, 4, 3", "6, 4, 5, 3, 2, 1", "4, 6, 5, 2, 1, 3", "4, 5, 6, 1, 2, 3"],
+    "ans": "D",
+    "sol": "Dictionary order: Faith (4) -> Feign (5) -> Ferment (6) -> Ferocious (1) -> Fervor (2) -> Fiction (3). Correct sequence: 4, 5, 6, 1, 2, 3.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 2", "page": 3
+  },
+  {
+    "num": 19,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Temperament 2. Tenure 3. Tenant 4. Tender 5. Temptation 6. Temperature",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही उस क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Temperament 2. Tenure 3. Tenant 4. Tender 5. Temptation 6. Temperature",
+    "options": ["1, 6, 5, 2, 4, 3", "1, 6, 5, 3, 2, 4", "1, 6, 5, 3, 4, 2", "1, 6, 5, 2, 3, 4"],
+    "ans": "C",
+    "sol": "Dictionary order: Temperament (1) -> Temperature (6) -> Temptation (5) -> Tenant (3) -> Tender (4) -> Tenure (2). Sequence: 1, 6, 5, 3, 4, 2.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 3", "page": 3
+  },
+  {
+    "num": 20,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Dermatology 2. Derogation 3. Derivative 4. Derailed 5. Dermestid 6. Deregulation",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Dermatology 2. Derogation 3. Derivative 4. Derailed 5. Dermestid 6. Deregulation",
+    "options": ["4, 3, 2, 1, 5, 6", "4, 6, 3, 2, 1, 5", "4, 6, 3, 1, 5, 2", "4, 6, 1, 5, 3, 2"],
+    "ans": "C",
+    "sol": "Dictionary order: Derailed (4) -> Deregulation (6) -> Derivative (3) -> Dermatology (1) -> Dermestid (5) -> Derogation (2). Sequence: 4, 6, 3, 1, 5, 2.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 3", "page": 3
+  },
+  {
+    "num": 21,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Consistence 2. Conscience 3. Conflagration 4. Consequence 5. Considerable 6. Consignment",
+    "qHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Consistence 2. Conscience 3. Conflagration 4. Consequence 5. Considerable 6. Consignment",
+    "options": ["4, 3, 2, 5, 6, 1", "4, 2, 3, 5, 1, 6", "3, 4, 2, 5, 6, 1", "3, 2, 4, 5, 6, 1"],
+    "ans": "D",
+    "sol": "Dictionary order: Conflagration (3) -> Conscience (2) -> Consequence (4) -> Considerable (5) -> Consignment (6) -> Consistence (1). Sequence: 3, 2, 4, 5, 6, 1.",
+    "exam": "SSC CPO", "year": 2024, "shift": "27 June 2024 - Shift 1", "page": 3
+  },
+  {
+    "num": 22,
+    "q": "After arranging the given words according to dictionary order, which word comes at the 'Fourth' position?\n1. Wheel 2. Wheat 3. Whale 4. Whet 5. When",
+    "qHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द 'चौथे' स्थान पर आएगा?\n1. Wheel 2. Wheat 3. Whale 4. Whet 5. When",
+    "options": ["Wheat", "When", "Whet", "Wheel"],
+    "ans": "B",
+    "sol": "Dictionary order: Whale (3) -> Wheat (2) -> Wheel (1) -> When (5) -> Whet (4). The fourth word is When.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "20 Feb 2024 - Shift 3", "page": 3
+  },
+  {
+    "num": 23,
+    "q": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Kibble 2- Kennel 3- Kettle 4- Kicker 5- Kernel",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों की अंग्रेजी शब्दकोश में उनके क्रम में सही व्यवस्था को इंगित करता है।\n1- Kibble 2- Kennel 3- Kettle 4- Kicker 5- Kernel",
+    "options": ["5, 2, 3, 1, 4", "2, 5, 3, 1, 4", "5, 3, 2, 1, 4", "2, 3, 5, 4, 1"],
+    "ans": "B",
+    "sol": "Dictionary order: Kennel (2) -> Kernel (5) -> Kettle (3) -> Kibble (1) -> Kicker (4). Sequence: 2, 5, 3, 1, 4.",
+    "exam": "SSC CPO", "year": 2024, "shift": "28 June 2024 - Shift 1", "page": 3
+  },
+  {
+    "num": 24,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Infant 2. Indolent 3. Inert 4. Infamous 5. Inefficient 6. Ineffable",
+    "qHindi": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोष में दिखाई देंगे।\n1. Infant 2. Indolent 3. Inert 4. Infamous 5. Inefficient 6. Ineffable",
+    "options": ["2, 6, 5, 3, 4, 1", "5, 4, 3, 2, 1, 6", "5, 3, 4, 6, 2, 1", "2, 5, 6, 1, 4, 3"],
+    "ans": "A",
+    "sol": "Dictionary order: Indolent (2) -> Ineffable (6) -> Inefficient (5) -> Inert (3) -> Infamous (4) -> Infant (1). Sequence: 2, 6, 5, 3, 4, 1.",
+    "exam": "SSC CPO", "year": 2024, "shift": "28 June 2024 - Shift 1", "page": 3
+  },
+  {
+    "num": 25,
+    "q": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary.\n1- Incest 2- Inception 3- Incense 4- Incapacity 5- Incentive",
+    "qHindi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों की सही व्यवस्था को उसी क्रम में दर्शाता है जिस क्रम में वे अंग्रेजी शब्दकोश में दिखाई देते हैं।\n1- Incest 2- Inception 3- Incense 4- Incapacity 5- Incentive",
+    "options": ["5, 3, 2, 1, 4", "4, 3, 5, 2, 1", "5, 4, 3, 2, 1", "4, 5, 3, 2, 1"],
+    "ans": "B",
+    "sol": "Dictionary order: Incapacity (4) -> Incense (3) -> Incentive (5) -> Inception (2) -> Incest (1). Sequence: 4, 3, 5, 2, 1.",
+    "exam": "SSC CPO", "year": 2024, "shift": "28 June 2024 - Shift 2", "page": 4
+  },
+  {
+    "num": 26,
+    "q": "Select the option that represents the correct order of the given words as they would appear in an English dictionary.\n1. Dinnerware 2. Dingiest 3. Dinosaurs 4. Dinucleotide 5. Dinkier 6. Dingling",
+    "qHindi": "उस विकल्प का चयन कीजिए जो दिए गए शब्दों के सही क्रम को दर्शाता है जिसमें वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Dinnerware 2. Dingiest 3. Dinosaurs 4. Dinucleotide 5. Dinkier 6. Dingling",
+    "options": ["5, 2, 3, 6, 1, 4", "2, 6, 3, 5, 1, 4", "5, 2, 6, 3, 1, 4", "2, 6, 5, 1, 3, 4"],
+    "ans": "D",
+    "sol": "Dictionary order: Dingiest (2) -> Dingling (6) -> Dinkier (5) -> Dinnerware (1) -> Dinosaurs (3) -> Dinucleotide (4). Sequence: 2, 6, 5, 1, 3, 4.",
+    "exam": "SSC CPO", "year": 2024, "shift": "28 June 2024 - Shift 2", "page": 4
+  },
+  {
+    "num": 27,
+    "q": "How many meaningful English words can be formed with the letters CKIK, using each letter only once in each word?",
+    "qHindi": "प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार प्रयोग करते हुए, CKIK अक्षरों से कितने सार्थक अंग्रेजी शब्द बनाए जा सकते हैं?",
+    "options": ["1", "4", "2", "3"],
+    "ans": "A",
+    "sol": "Only 1 meaningful word can be formed with letters CKIK: KICK.",
+    "exam": "SSC CHSL", "year": 2024, "shift": "01 July 2024 - Shift 3", "page": 4
+  },
+  {
+    "num": 28,
+    "q": "Arrange the given words in alphabetical order:\n1. MISSION 2. MISSED 3. MISSING 4. MIST 5. MIGHT",
+    "qHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. MISSION 2. MISSED 3. MISSING 4. MIST 5. MIGHT",
+    "options": ["5, 2, 3, 1, 4", "5, 4, 3, 1, 2", "5, 4, 3, 2, 1", "5, 1, 3, 4, 2"],
+    "ans": "A",
+    "sol": "Alphabetical order: MIGHT (5) -> MISSED (2) -> MISSING (3) -> MISSION (1) -> MIST (4). Sequence: 5, 2, 3, 1, 4.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "21 Feb 2024 - Shift 4", "page": 4
+  },
+  {
+    "num": 29,
+    "q": "Arrange the following words in alphabetical order:\n1. CONFUSION 2. CONFIDENCE 3. CONFIRM 4. CONFLICT 5. CONDUCTOR",
+    "qHindi": "निम्नलिखित शब्दों को वर्णानुक्रम में व्यवस्थित कीजिए:\n1. CONFUSION 2. CONFIDENCE 3. CONFIRM 4. CONFLICT 5. CONDUCTOR",
+    "options": ["5, 2, 3, 4, 1", "5, 2, 1, 3, 4", "5, 2, 3, 1, 4", "3, 5, 2, 4, 1"],
+    "ans": "A",
+    "sol": "Alphabetical order: CONDUCTOR (5) -> CONFIDENCE (2) -> CONFIRM (3) -> CONFLICT (4) -> CONFUSION (1). Sequence: 5, 2, 3, 4, 1.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "22 Feb 2024 - Shift 4", "page": 4
+  },
+  {
+    "num": 30,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Line 2. Linament 3. Linger 4. Linear 5. Linguist",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Line 2. Linament 3. Linger 4. Linear 5. Linguist",
+    "options": ["1, 2, 4, 3, 5", "2, 1, 3, 4, 5", "1, 2, 3, 4, 5", "2, 1, 4, 3, 5"],
+    "ans": "D",
+    "sol": "Dictionary order: Linament (2) -> Line (1) -> Linear (4) -> Linger (3) -> Linguist (5). Sequence: 2, 1, 4, 3, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "21 Feb 2024 - Shift 2", "page": 4
+  },
+  {
+    "num": 31,
+    "q": "After arranging the given words according to dictionary order, which word will come at 'Fifth' position?\n1. Whip 2. While 3. White 4. Whisk 5. Whiff",
+    "qHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन सा शब्द 'पांचवें' स्थान पर आएगा?\n1. Whip 2. While 3. White 4. Whisk 5. Whiff",
+    "options": ["Whisk", "Whip", "While", "White"],
+    "ans": "D",
+    "sol": "Dictionary order: Whiff (5) -> While (2) -> Whip (1) -> Whisk (4) -> White (3). Word at the fifth position is White.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "21 Feb 2024 - Shift 3", "page": 4
+  },
+  {
+    "num": 32,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Debate 2. Debark 3. Debar 4. Debauch 5. Debenture",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Debate 2. Debark 3. Debar 4. Debauch 5. Debenture",
+    "options": ["1,2,3,5,4", "3,2,1,5,4", "1,2,3,4,5", "3,2,1,4,5"],
+    "ans": "D",
+    "sol": "Dictionary order: Debar (3) -> Debark (2) -> Debate (1) -> Debauch (4) -> Debenture (5). Sequence: 3, 2, 1, 4, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "22 Feb 2024 - Shift 2", "page": 4
+  },
+  {
+    "num": 33,
+    "q": "After arranging the given words according to dictionary order, which word will come at third position?\n1. Recent 2. Receive 3. Recant 4. Recess 5. Recall",
+    "qHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने पर कौन सा शब्द तीसरे स्थान पर आएगा?\n1. Recent 2. Receive 3. Recant 4. Recess 5. Recall",
+    "options": ["Recess", "Receive", "Recent", "Recant"],
+    "ans": "B",
+    "sol": "Dictionary order: Recall (5) -> Recant (3) -> Receive (2) -> Recent (1) -> Recess (4). Word at the third position is Receive.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "22 Feb 2024 - Shift 1", "page": 4
+  },
+  {
+    "num": 34,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Example 2. Examine 3. Examination 4. Exact 5. Exactly",
+    "qHindi": "दिए गए शब्दों को शब्दकोश में आने वाले क्रम में व्यवस्थित करें।\n1. Example 2. Examine 3. Examination 4. Exact 5. Exactly",
+    "options": ["1,5,4,3,2", "4,5,3,1,2", "4,5,3,2,1", "5,1,4,3,2"],
+    "ans": "C",
+    "sol": "Dictionary order: Exact (4) -> Exactly (5) -> Examination (3) -> Examine (2) -> Example (1). Sequence: 4, 5, 3, 2, 1.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "22 Feb 2024 - Shift 3", "page": 5
+  },
+  {
+    "num": 35,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Clamber 2. Clam 3. Claim 4. Clag 5. Clad",
+    "qHindi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।\n1. Clamber 2. Clam 3. Claim 4. Clag 5. Clad",
+    "options": ["1,2,3,4,5", "5,4,3,2,1", "1,2,3,5,4", "5,4,3,1,2"],
+    "ans": "B",
+    "sol": "Dictionary order: Clad (5) -> Clag (4) -> Claim (3) -> Clam (2) -> Clamber (1). Sequence: 5, 4, 3, 2, 1.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "22 Feb 2024 - Shift 3", "page": 5
+  },
+  {
+    "num": 36,
+    "q": "Arrange the given words in the sequence in which they occur in the dictionary.\n1. Lens 2. Lenient 3. Length 4. Lend 5. Lent",
+    "qHindi": "दिए गए शब्दों को शब्दकोश में आने वाले क्रम में व्यवस्थित करें।\n1. Lens 2. Lenient 3. Length 4. Lend 5. Lent",
+    "options": ["3, 4, 2, 5, 1", "3, 4, 5, 2, 1", "4, 3, 2, 1, 5", "4, 3, 2, 5, 1"],
+    "ans": "C",
+    "sol": "Dictionary order: Lend (4) -> Length (3) -> Lenient (2) -> Lens (1) -> Lent (5). Sequence: 4, 3, 2, 1, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "24 Feb 2024 - Shift 1", "page": 5
+  },
+  {
+    "num": 37,
+    "q": "Arrange the given words in alphabetical order:\n1. Cook 2. Book 3. Took 4. Look 5. Shook",
+    "qHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. Cook 2. Book 3. Took 4. Look 5. Shook",
+    "options": ["5, 1, 4, 2, 3", "2, 5, 4, 1, 3", "2, 3, 1, 4, 5", "2, 1, 4, 5, 3"],
+    "ans": "D",
+    "sol": "Alphabetical order: Book (2) -> Cook (1) -> Look (4) -> Shook (5) -> Took (3). Sequence: 2, 1, 4, 5, 3.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "24 Feb 2024 - Shift 4", "page": 5
+  },
+  {
+    "num": 38,
+    "q": "Arrange the given words in alphabetical order:\n1. Tender 2. Thankful 3. Tactful 4. Tablespoon 5. Tasty",
+    "qHindi": "दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें:\n1. Tender 2. Thankful 3. Tactful 4. Tablespoon 5. Tasty",
+    "options": ["4, 1, 5, 2, 3", "4, 3, 5, 1, 2", "4, 3, 5, 2, 1", "4, 5, 2, 1, 3"],
+    "ans": "B",
+    "sol": "Alphabetical order: Tablespoon (4) -> Tactful (3) -> Tasty (5) -> Tender (1) -> Thankful (2). Sequence: 4, 3, 5, 1, 2.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "24 Feb 2024 - Shift 3", "page": 5
+  },
+  {
+    "num": 39,
+    "q": "Arrange the given words in alphabetical order:\n1. PINK 2. PING 3. PICK 4. PULL 5. PUSH",
+    "qHindi": "दिए गए शब्दों को वर्णमाला क्रम में व्यवस्थित करें:\n1. PINK 2. PING 3. PICK 4. PULL 5. PUSH",
+    "options": ["3, 2, 1, 4, 5", "3, 4, 1, 2, 5", "3, 1, 2, 4, 5", "3, 5, 4, 2, 1"],
+    "ans": "A",
+    "sol": "Alphabetical order: PICK (3) -> PING (2) -> PINK (1) -> PULL (4) -> PUSH (5). Sequence: 3, 2, 1, 4, 5.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "26 Feb 2024 - Shift 1", "page": 5
+  },
+  {
+    "num": 40,
+    "q": "After arranging the given words according to dictionary order, which word will come at 'Third' position?\n1. Sloven 2. Slow 3. Slough 4. Slobber 5. Slouch",
+    "qHindi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद कौन सा शब्द 'तीसरे' स्थान पर आएगा?\n1. Sloven 2. Slow 3. Slough 4. Slobber 5. Slouch",
+    "options": ["Slow", "Slough", "Slouch", "Sloven"],
+    "ans": "B",
+    "sol": "Dictionary order: Slobber (4) -> Slouch (5) -> Slough (3) -> Sloven (1) -> Slow (2). Word at third position is Slough.",
+    "exam": "SSC GD Constable", "year": 2024, "shift": "26 Feb 2024 - Shift 3", "page": 5
+  }
+]
